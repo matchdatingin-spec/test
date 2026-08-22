@@ -29,7 +29,7 @@ Every script follows the same 5-part structure:
 
 ---
 
-## The six blocks
+## The seven blocks
 
 | Days | Block | Focus |
 |---|---|---|
