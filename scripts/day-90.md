@@ -10,7 +10,7 @@
 - Show the **case notes** on screen — the model letter is meaningless without them
 - Build the letter **paragraph by paragraph** beside the notes
 - **Colour-code** which case notes were selected and which were deliberately omitted
-- Show the **five OET criteria** as a reference table
+- Show the **six OET criteria** as a reference table
 - Note on screen: *"Nursing example shown — same structure applies to all professions"*
 
 ---
@@ -57,9 +57,11 @@ Today: the structure, the register, and how to decide what to cut. Let's go. �
 
 *(Emphasise.)* ⭐ You are writing to **one specific reader** for **one specific purpose**. ✅ Everything is judged against that. ⭐
 
-### 📊 The five criteria
+### 📊 The six criteria
 
 *(Show the table — candidates need to see this.)*
+
+*(Explain.)* OET Writing is scored on **six** separate criteria. ✅ Most candidates have never seen them, which is why they lose marks without knowing why. ⭐
 
 | Criterion | What it measures |
 |---|---|
