@@ -14,7 +14,7 @@ Your friend calls at 9 PM. He asks if you've eaten. You want to say **ഞാൻ 
 
 And you say:
 
-> ❌ *"I didn't eat yet."*
+> ⚠️ *"I didn't eat yet."*
 > ❌ *"I not yet eaten."*
 > ❌ *"Still I didn't eat."*
 
@@ -99,7 +99,7 @@ Let's see the Malayalam order:
 - ഭക്ഷണം → food
 - കഴിച്ചിട്ടില്ല → have not eaten *(verb LAST, negative inside)*
 
-Your brain produces: ❌ *"I yet food not eaten."* Or the cleaner-but-still-wrong: ❌ *"I didn't eat yet."*
+Your brain produces: ❌ *"I yet food not eaten."* Or the cleaner-but-not-ideal: ⚠️ *"I didn't eat yet."*
 
 Now build it the English way:
 
@@ -115,8 +115,10 @@ Now build it the English way:
 **Point 1 — why "haven't eaten," not "didn't eat"?**
 Because *yet* means "up to **now**." It connects the past to the present. And the tense that connects past to present is **have/has + third form**.
 
-- ❌ *I didn't eat yet.* → *didn't* is a closed, finished box. It doesn't reach "now."
+- ⚠️ *I didn't eat yet.* → *didn't* is a closed, finished box, so it doesn't reach "now" as clearly
 - ✅ *I haven't eaten yet.* → reaches all the way to now ✅
+
+*(Honest note, so nobody confuses you.)* ⭐ You **will** hear *"I didn't eat yet"* from Americans — it's accepted in American English. ✅ But **"I haven't eaten yet"** is the form that's correct **everywhere**, including in exams. So make that your habit. ⭐
 
 **Point 2 — the alternative with *still*:**
 
@@ -151,8 +153,8 @@ Build it:
 
 - ✅ *I have **already** eaten.* → between helper and verb ✅ **best**
 - ✅ *I have eaten **already**.* → at the end ✅ also correct, adds emphasis
-- ❌ *Already I have eaten.* → wrong position *(this is the Malayalam order!)*
-- ❌ *I already have eaten.* → wrong, before the helper
+- ⚠️ *Already I have eaten.* → avoid this — it's the Malayalam order, and it sounds odd in neutral English
+- ⚠️ *I already have eaten.* → possible with heavy stress on *have*, but not your default
 
 *(Simple memory.)* **Already loves to sandwich itself between the two verbs.** *have* — **already** — *eaten*.
 

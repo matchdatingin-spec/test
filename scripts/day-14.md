@@ -193,9 +193,11 @@ Build it:
 
 Malayalis love the word **also**, because **-ഉം = also**. But we put it in Malayalam position:
 
-- ❌ *I also want* → ✅ **I want it too.** / **I also want it.** *(both okay, but position matters!)*
+- ⚠️ *I also want* → ✅ **I want it too.** / **I also want it.** *(the fix is the missing "it" — "also" itself is fine here!)*
 - ❌ *Me also* → ✅ **Me too.**
-- ❌ *He also came* → ✅ **He came too.** / **He also came.** ✅
+- ⚠️ *He also came* → ✅ **He came too.** / **He also came.** ✅ *(both correct — "also" sits before the verb)*
+
+*(To be clear.)* ⭐ **"Also" before the verb is correct English.** ✅ The genuine error is ❌ *"Me also"* — that one should be **"Me too."** ⭐
 
 *(Explain the position rule.)*
 - **also** goes **before the main verb**: *I **also** like it.* ✅

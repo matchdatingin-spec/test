@@ -85,7 +85,7 @@ Three English phrases, one Malayalam ending. Today we split them. Let's go. 🚀
 
 ### 3️⃣ EXPECTED TO = someone requires it of you 👔
 
-> **"Expected to" = there's pressure from an authority.** ✅
+> **"Expected to" = someone or something is counting on it happening.** ✅ *(Often a rule or a boss — sometimes just a prediction: "Rain is expected to arrive tonight.")*
 
 - ✅ *Employees are **expected to** arrive by 9.* → company requirement ✅
 - ✅ *You're **expected to** attend the meeting.* → not optional ✅
@@ -172,9 +172,11 @@ Build it:
 
 *(Emphasise the implication!)* ✅ You've now told your listener **two** things:
 1. The plan was 3 o'clock ✅
-2. It **didn't** start at 3 ✅ *(without saying so!)*
+2. It probably **didn't** start at 3 ✅ *(without saying so!)*
 
 *(Point out.)* That's elegant. English packs a complaint into a neutral-sounding sentence. ✅
+
+*(Tiny precision note.)* ⭐ It's a strong **hint**, not a guarantee — you can also say ✅ *"It was supposed to start at 3, and it did."* ✅ But on its own, listeners will assume something went wrong. ⭐
 
 *(Practise the past form — very useful for complaints and excuses!)*
 1. *He was supposed to call me yesterday.* ✅ *(he didn't)*
@@ -263,7 +265,9 @@ Build it:
 | He supposed to call | **He was supposed to call** ✅ |
 | You expected to attend | **You're expected to attend** ✅ |
 
-*(Emphasise.)* These phrases **always** need am/is/are/was/were ✅ They're **not** verbs by themselves — they're descriptions. ✅
+*(Emphasise.)* In **this** pattern — *supposed to, meant to, expected to* — you **always** need am/is/are/was/were ✅ These are **descriptions**, not stand-alone verbs. ✅
+
+*(Small note.)* ⭐ The words *mean* and *expect* **are** ordinary verbs elsewhere: ✅ *I **meant** to call you.* · *I **expect** to finish today.* ✅ It's the *-ed to* pattern that needs *be*. ⭐
 
 *(The forms.)*
 | Time | Form |
@@ -286,7 +290,7 @@ Build it:
 
 *(An important nuance.)*
 
-*(Explain.)* **"not supposed to"** means **it's against the rules** ✅
+*(Explain.)* **"not supposed to"** usually means **it's against the rules** ✅ *(and sometimes just "that's not how it's meant to work": ✅ "This button isn't supposed to do that.")*
 
 - ✅ *You're **not supposed to** park here.* → it's prohibited 🚫
 - ✅ *We're **not supposed to** use phones in the meeting.* ✅

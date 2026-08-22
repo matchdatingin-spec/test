@@ -2,7 +2,7 @@
 
 **Target length:** 16–18 minutes
 **Level:** All levels *(revision)*
-**One-line promise:** 25 real sentences from real learners — corrected, explained, and tagged to the day where the rule was taught.
+**One-line promise:** 25 typical learner sentences — corrected, explained, and tagged to the day where the rule was taught.
 
 **📌 Format note:** Opens the **makeover block** (Days 91–96). Section 3 becomes the 25 corrections grouped by error type. Section 4 becomes the pattern analysis — which error types dominate and what that means.
 

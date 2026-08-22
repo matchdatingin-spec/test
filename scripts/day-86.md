@@ -129,7 +129,7 @@ Now the same job, written properly:
 | **What percentage** changed? | errors down 40% ✅ |
 | **How often**? | monthly reports, weekly reconciliation ✅ |
 
-*(Emphasise.)* ⭐ **Approximate is fine.** ✅ *"Around 150,"* *"about ₹2 crore"* ✅ Nobody audits a resume bullet. ✅
+*(Emphasise.)* ⭐ **Honest approximations are fine.** ✅ *"Around 150,"* *"about ₹2 crore"* ✅ — as long as you can **explain how you got there** if an interviewer asks. ⚠️ Never invent a number: résumé claims do get probed in interviews and reference checks. ✅
 
 ---
 

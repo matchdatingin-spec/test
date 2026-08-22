@@ -81,14 +81,14 @@ Today: what passive actually **does**, when it's right, when it's wrong. Let's g
 |---|---|---|
 | *I sent the email.* | Yes — it was **me** ✅ | **active** ✅ |
 | *My bike was stolen.* | No — I don't know who! 🤷 | **passive** ✅ |
-| *English is spoken in Canada.* | No — by everyone ✅ | **passive** ✅ |
+| *English is spoken in Canada.* | No — people in general 🤷 | **passive** ✅ |
 | *The road is being repaired.* | No — workers, obviously ✅ | **passive** ✅ |
 | *Gandhi was born in 1869.* | No — the fact matters ✅ | **passive** ✅ |
 
 *(Emphasise.)* **Passive is not about politeness. It's about focus.** ✅
 
 *(Slogan.)*
-> **Passive hides the doer. Use it only when the doer genuinely doesn't matter.** ✅
+> **Passive pushes the doer into the background. Reach for it when the doer is unknown, obvious, or simply not your focus.** ✅
 > **ആര് ചെയ്തു എന്നത് പ്രധാനമാണോ? → active. അല്ലെങ്കിൽ → passive.** ✅
 
 ### The 4 legitimate uses of passive ✅
@@ -238,12 +238,14 @@ Build it:
 - ⚠️ *My bike **was stolen by** someone.* ← pointless! ✅ Just say *"was stolen."* ✅
 - ⚠️ *The email **was sent by** me.* ← say *"I sent it."* ⭐
 
-*(Rule.)* **If the "by" phrase is worth saying, use ACTIVE instead.** ✅
+*(Rule of thumb.)* **If naming the doer is the point, active is usually clearer.** ✅
 
-- ❌ *The report was written by me.* ❌
+- ⚠️ *The report was written by me.* ← technically fine, but heavy
 - ✅ **I wrote the report.** ⭐ *(shorter, stronger!)*
 
-*(Emphasise.)* **If you're going to name the doer anyway — put them in front.** That's active voice. ✅
+*(Emphasise.)* **If you're going to name the doer anyway — usually put them in front.** That's active voice. ✅
+
+*(One honest exception.)* ⭐ Keep the passive when the **thing** is what you're talking about: ✅ *"The novel was written by Arundhati Roy."* ✅ Here the novel is the topic, so the passive is the better sentence. ⭐
 
 ---
 
