@@ -16,11 +16,11 @@ Your phone rings. It's on the table. You say:
 
 Now — could you say *"I'm going to get it"*? 🤔
 
-*(Shake head.)* Technically yes... but nobody does. Because you decided **this second**. And English has a **special form** for decisions made in the moment: **will**. ✅
+*(Shake head.)* Technically yes... but it would sound odd, because you decided **this second**. And English has a natural form for decisions made in the moment: **will**. ✅
 
 Now the opposite. Your friend asks about your evening:
 
-> ❌ *"I will watch a movie tonight."*
+> ⚠️ *"I will watch a movie tonight."* *(correct — but it doesn't sound like a plan you already had)*
 > ✅ *"I'm going to watch a movie tonight."* ✅
 
 *(Point at camera.)*
@@ -170,7 +170,7 @@ Build it:
 
 > ✅ **"I'm going to start a business next year."**
 
-*(The spoken form!)* 🔊 Nobody says *"going to"* fully in speech:
+*(The spoken form!)* 🔊 In relaxed speech, *"going to"* usually squeezes:
 - ✅ *"I'm **gonna** start a business."* ⭐ *(Day 43!)* 🔗
 
 *(Reminder.)* **Say "gonna." Write "going to."** ✅ Never write *gonna* in an email! 📧
@@ -294,7 +294,7 @@ Because **ചെയ്യും** is one form, Malayalis default to *will*:
 **Use 2: Formal/legal writing** 📜
 - ✅ *The tenant shall pay by the 5th of each month.* ✅
 
-*(But.)* ❌ *"I shall go to Kochi tomorrow"* — nobody says this anymore. It sounds like a 1940s novel. 📚 Say ✅ **"I'll go"** or **"I'm going."** ✅
+*(But.)* ⚠️ *"I shall go to Kochi tomorrow"* — very rare in everyday speech now, and it can sound like a 1940s novel. 📚 Say ✅ **"I'll go"** or **"I'm going."** ✅ *(Some British speakers do still use it — it isn't wrong, just formal.)*
 
 *(Emphasise.)* Learn **"Shall I...?"** and **"Shall we...?"** ⭐ — those two are genuinely useful and polite. Drop the rest. ✅
 

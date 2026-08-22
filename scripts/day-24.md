@@ -43,7 +43,7 @@ Today: three words, three clear jobs. And one combination you must **never** say
 
 *(Show the secret.)* Look at the word: **an + other = another.** The **"an"** is hiding inside! And *an* means **one**. 💡
 
-So *another* is **always singular**, and it already contains its own article. That's why ❌ *"the another"* is impossible — you can't have *the* and *an* together!
+So *another* normally takes a **singular** noun, and it already contains its own article. That's why ❌ *"the another"* is impossible — you can't have *the* and *an* together!
 
 - ✅ *Could I have **another** cup of tea?* → one more ☕
 - ✅ *Let's meet **another** day.* → a different day
@@ -53,12 +53,12 @@ So *another* is **always singular**, and it already contains its own article. Th
 
 ### 2️⃣ OTHER = different — and it needs a noun after it
 
-*Other* cannot stand alone. It must be followed by a **noun** (or the word *one*).
+As a **describing** word, *other* is followed by a **noun** (or the word *one*).
 
 - ✅ *the **other** shirt* ✅
 - ✅ *the **other** one* ✅
 - ✅ ***other** people* ✅
-- ❌ *Give me the other.* ← incomplete *(though "the other" alone is sometimes okay — see below)*
+- ✅ *Give me the other.* ← also fine when it's obvious what you mean; **"the other one"** is clearer ⭐
 
 **OTHER = different + needs a noun. Malayalam: മറ്റേ / വേറെ**
 

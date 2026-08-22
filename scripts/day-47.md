@@ -55,7 +55,7 @@ This is for things that are **always** true — your job, your habits, facts abo
 - ✅ *Water **boils** at 100°C.* → a permanent fact
 - ✅ *She **lives** in Kochi.* → her home
 
-**SIMPLE PRESENT = always / usually / permanently.** 🔁
+**SIMPLE PRESENT = always / usually / this is just how it is.** 🔁 *(It doesn't have to be forever — "I work in a bank" is true today, not for life.)*
 
 ### ⏺️ PRESENT CONTINUOUS = the moving arrow
 

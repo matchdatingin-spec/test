@@ -78,7 +78,7 @@ Today: **25 phrasal verbs** you'll genuinely use. Let's go. 🚀
 - *give **up*** ✅ = quit
 - *turn **down*** ✅ = reject
 
-*(Firmly, honestly.)* **You cannot work these out.** ✅ They must be **learned as whole units**, like vocabulary. ⭐
+*(Firmly, honestly.)* **You can't reliably work these out from the parts.** ✅ Learn them as **whole units**, like vocabulary. ⭐ *(Some are transparent — "come in," "sit down" — but the idiomatic ones must be memorised.)*
 
 *(Slogan.)*
 > **Learn the whole phrase, not the parts.** 🧱

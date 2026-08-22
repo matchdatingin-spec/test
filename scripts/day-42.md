@@ -329,14 +329,16 @@ English expects **you** to solve it:
 
 *(Observation.)* Malayalis often add **"please"** to a command and think it's now polite:
 
-- ❌ *"Please send the file."* ← still an order, just with please 🚫
-- ✅ *"Could you send the file?"* ⭐ ← genuinely polite ✅
+- ⚠️ *"Please send the file."* ← polite enough with a warm tone, but still **direct** 🚫
+- ✅ *"Could you send the file?"* ⭐ ← softer, and safer with someone senior ✅
 
 *(Explain.)* **"Please" doesn't change the structure — it just decorates it.** Real politeness in English comes from turning the **order into a question**. ❓
 
 *(The rule.)*
 
-> ### 👉 Politeness = turn the command into a QUESTION.
+> ### 👉 The easiest way to soften a request: turn the command into a QUESTION.
+
+*(One honest note.)* ⭐ *"Please send the file"* isn't rude — in a friendly team it's completely normal. ✅ But a question gives the other person room to say no, which is why it's safer with clients and seniors. ⭐
 
 - ❌ *Come here, please.* → ✅ **Could you come here for a second?** ✅
 - ❌ *Wait, please.* → ✅ **Could you wait a moment?** ✅
