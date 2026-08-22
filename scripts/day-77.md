@@ -61,12 +61,12 @@ Today I'll show you why that fails, and give you a **3-step method** that makes 
 
 *(Explain.)* You have **two** vocabularies: ✅
 
-| Type | What it means | Your size |
+| Type | What it means | Typical size |
 |---|---|---|
-| **Passive** 👂 | words you **understand** when you hear/read them | maybe **8,000+** ✅ |
-| **Active** 🗣️ | words you **produce** when speaking | maybe **1,500** ⚠️ |
+| **Passive** 👂 | words you **understand** when you hear/read them | by far the **larger** list ✅ |
+| **Active** 🗣️ | words you **produce** when speaking | a **much smaller** slice ⚠️ |
 
-*(Emphasise.)* ⭐ Your passive vocabulary is probably **five times** bigger than your active one. ✅
+*(Emphasise.)* ⭐ For most learners, the passive list is **several times** bigger than the active one. ✅ *(Nobody can tell you your exact numbers without testing you — but the gap is real, and it's the gap that matters.)*
 
 *(The insight.)*
 
@@ -234,7 +234,7 @@ Today I'll show you why that fails, and give you a **3-step method** that makes 
 
 *(Do the maths.)* ⭐ **Three words a day = about 1,000 a year.** ✅
 
-*(Emphasise.)* And 1,000 **active** words added to your existing 1,500 would move you from **hesitant** to **comfortable** fluency. ✅ In one year. ⭐
+*(Emphasise.)* And adding around **1,000 active words** to the ones you already use would take you a long way from **hesitant** towards **comfortable**. ✅ Over a year, that's very achievable. ⭐
 
 *(Firmly.)* **Three a day. That's the whole plan.** ✅
 
