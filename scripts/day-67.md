@@ -212,7 +212,7 @@ And I've chosen these four for a reason. Each one shows a **different** English 
 | Saturday | **SAT-ur-day** ✅ |
 | Sunday | **SUN-day** ✅ |
 
-*(Note.)* ⚠️ All of them end in **"-day"** with a **weak** vowel — not a loud *"DAY"* ✅ It's **"MUN-dee"** in fast speech. ✅
+*(Note.)* ⚠️ The stress is always on the **first** part, never on *-day*. ✅ In fast speech the ending often weakens to **"MUN-dee"** ✅ — but a full **"MUN-day"** is equally standard, especially when you say the word on its own. ⭐
 
 ---
 

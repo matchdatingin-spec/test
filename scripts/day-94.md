@@ -1,8 +1,8 @@
 # Day 94 — Live English Test Malayalam: What Is Your Real Level?
 
 **Target length:** 18–20 minutes
-**Level:** Assessment *(all four skills)*
-**One-line promise:** A four-skill test — speaking, writing, listening, grammar — and an honest answer about what your level means for the job or exam you actually want.
+**Level:** Self-assessment *(speaking, writing, listening + grammar)*
+**One-line promise:** A four-part self-check — speaking, writing, listening and grammar — and an honest answer about what your level means for the job or exam you actually want.
 
 **📌 Format note:** An **assessment** video, and the most comprehensive in the series. Section 3 becomes four skill tests. Section 4 becomes level interpretation mapped to real-world goals.
 
@@ -36,9 +36,11 @@ Someone asks about your English. And you say *"okay,"* or *"average,"* or *"I ca
 
 *(Confident.)*
 
-*(Explain.)* Day 65 tested your **grammar**. ✅ Today we test **all four skills** — speaking, writing, listening, and grammar together. ⭐
+*(Explain.)* Day 65 tested your **grammar** alone. ✅ Today we check **four areas together** — speaking, writing, listening, and grammar. ⭐
 
-*(Firmly.)* Because you can have Band 8 grammar and Band 5 speaking. ✅ And that combination needs a **completely** different plan from the reverse. ⭐
+*(A quick note for accuracy.)* ⭐ The **four skills** are properly listening, speaking, reading and writing. ✅ We're swapping **reading** for **grammar** today, because reading is rarely the blocker for Malayali speakers — and grammar knowledge is where most of you have been over-invested. ⭐
+
+*(Firmly.)* Because you can have very strong grammar and very weak speaking. ✅ And that combination needs a **completely** different plan from the reverse. ⭐
 
 *(Warm.)* Get a pen, get 25 minutes, find somewhere you can speak out loud. Let's go. 🚀
 
@@ -75,13 +77,15 @@ Someone asks about your English. And you say *"okay,"* or *"average,"* or *"I ca
 | Level | Speaking | Writing | Real-world equivalent |
 |---|---|---|---|
 | **A2** | simple sentences, frequent pauses | short messages | basic ✅ |
-| **B1** | can explain and discuss with effort ⭐ | clear emails ✅ | **IELTS 5.5–6** · most jobs in India ✅ |
-| **B2** | fluent on familiar topics, few pauses ⭐ | professional, structured ✅ | **IELTS 6.5–7** · Gulf/abroad jobs ⭐ |
-| **C1** | flexible, near-effortless ✅ | nuanced ✅ | **IELTS 7.5–8** · client-facing, academic ⭐ |
+| **B1** | can explain and discuss with effort ⭐ | clear emails ✅ | roughly **IELTS 5.5–6** · most jobs in India ✅ |
+| **B2** | fluent on familiar topics, few pauses ⭐ | professional, structured ✅ | roughly **IELTS 6.5–7** · Gulf/abroad jobs ⭐ |
+| **C1** | flexible, near-effortless ✅ | nuanced ✅ | roughly **IELTS 7.5–8** · client-facing, academic ⭐ |
 
-*(Emphasise.)* ⭐ **B2 is the target for most people watching.** ✅ It's what most overseas jobs and IELTS 7 require. ✅
+*(Emphasise.)* ⭐ **B2 is the target for most people watching.** ✅ It's roughly what most overseas jobs and an IELTS 7 goal call for. ✅
 
-*(Firmly.)* And B2 is genuinely **reachable** from B1 in a few months of the right practice. ⭐ 🔗 *(Day 45)*
+*(Say this too.)* ⚠️ These IELTS comparisons are **approximate**. ✅ Employers, universities and immigration authorities set their **own** required scores — often with a **minimum in each skill**. Always check the actual requirement for your route. ⭐
+
+*(Firmly.)* And moving from B1 towards B2 is genuinely **achievable** with a few months of the right practice. ⭐ 🔗 *(Day 45)*
 
 ### 📋 Your score sheet
 
@@ -189,7 +193,7 @@ Someone asks about your English. And you say *"okay,"* or *"average,"* or *"I ca
 
 *(Quick — 10 sentences, 1 mark each.)*
 
-**1.** *"I ___ here for three years."* → **have been working** ✅ 🔗 *(19, 27)*
+**1.** *"I ___ here for three years."* → **have been working** ✅ *(or **have worked** — both correct!)* 🔗 *(19, 27)*
 **2.** *"He ___ like coffee."* → **doesn't** ✅ 🔗 *(53)*
 **3.** *"I ___ with your opinion."* → **agree** *(no "am")* ✅ 🔗 *(52)*
 **4.** *"If I had money, I ___ buy a car."* → **would** ✅ 🔗 *(51)*
@@ -215,15 +219,17 @@ Someone asks about your English. And you say *"okay,"* or *"average,"* or *"I ca
 
 *(The interpretation section — the real value.)*
 
-### 📊 Your overall level
+### 📊 Your rough working band
 
-| Total | Level | What it means |
+*(Say this clearly before you show the table.)* ⚠️ This is a **self-scored practice check**, not an official test. ✅ It can't give you a real CEFR level or an IELTS score — only a full, properly marked exam does that. ✅ Use it to find your **weakest skill**, which is what actually changes your study plan. ⭐
+
+| Total | Rough band | What it suggests |
 |---|---|---|
-| **34–40** ⭐ | **B2+** | Ready for overseas jobs, IELTS 7 achievable ✅ |
-| **26–33** ✅ | **B1+/B2** | Solid. Targeted work gets you to B2 ⭐ |
-| **18–25** ✅ | **B1** | Functional. Speaking is likely the gap ✅ |
-| **10–17** 💙 | **A2/B1** | Building. Foundation work needed ✅ |
-| **Below 10** 💙 | **A2** | Early stage — and that's a starting point, not a verdict ⭐ |
+| **34–40** ⭐ | around **B2** | Strong base — an IELTS 7 target is realistic with exam practice ✅ |
+| **26–33** ✅ | around **B1+/B2** | Solid. Targeted work moves you up ⭐ |
+| **18–25** ✅ | around **B1** | Functional. Speaking is likely the gap ✅ |
+| **10–17** 💙 | around **A2/B1** | Building. Foundation work needed ✅ |
+| **Below 10** 💙 | around **A2** | Early stage — a starting point, not a verdict ⭐ |
 
 ### 🔍 But the PROFILE matters more
 
@@ -244,7 +250,7 @@ Someone asks about your English. And you say *"okay,"* or *"average,"* or *"I ca
 - ✅ **Day 36** P-E-R-F-O — record 2 min daily 🎙️
 - ✅ **Day 45** daily plan, 60% output ⭐
 
-*(Firmly.)* ⭐ You need **mouth hours**, not more rules. ✅ Three months of daily speaking would move you to B2. ⭐
+*(Firmly.)* ⭐ You need **mouth hours**, not more rules. ✅ For most people in this pattern, a few months of consistent daily speaking makes a very visible difference. ⭐
 
 #### 👂 Pattern 2: Everything medium, Listening low ⚠️
 
@@ -282,7 +288,7 @@ Someone asks about your English. And you say *"okay,"* or *"average,"* or *"I ca
 - ✅ **Day 45's** full daily plan ⭐
 - ✅ **Days 74–77** vocabulary 📚
 - ✅ **Day 58** relative clauses — biggest structural upgrade available 🔗
-- ⭐ Aim for **B2 in 4 months** ✅
+- ⭐ Set yourself a **4-month** push towards B2 ✅ *(a target to aim at, not a guarantee)*
 
 #### ⚠️ Pattern 5: Grammar low, others okay
 
@@ -301,7 +307,7 @@ Someone asks about your English. And you say *"okay,"* or *"average,"* or *"I ca
 
 *(The table people actually want. Hold it on screen.)*
 
-| Your goal | Level needed | What to prioritise |
+| Your goal | Rough level to aim for | What to prioritise |
 |---|---|---|
 | **Job in India, non-client-facing** 💼 | B1 ✅ | writing clarity 🔗 *(83)* |
 | **Job in India, client-facing** 💼 | B1+/B2 ⭐ | speaking + phone English 🔗 *(44, 71)* |
@@ -313,6 +319,8 @@ Someone asks about your English. And you say *"okay,"* or *"average,"* or *"I ca
 | **Promotion to team lead** 📈 | B1+ ✅ | meeting English 🔗 *(87)* |
 
 *(Emphasise.)* ⭐ Notice how **specific** the priorities are. ✅ You don't need "better English." You need **one or two named skills**. 🎯
+
+*(And the disclaimer that protects you.)* ⚠️ The levels in this table are **guidance**, not official requirements. ✅ Before you plan an exam or a visa route, check the **exact** score the regulator, employer or university asks for. ⭐
 
 ### 💙 And the honest part about levels
 

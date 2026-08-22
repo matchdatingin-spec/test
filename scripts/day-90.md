@@ -2,7 +2,7 @@
 
 **Target length:** 18–20 minutes
 **Level:** B2 *(exam preparation, healthcare professionals)*
-**One-line promise:** OET Writing tests clinical judgement in English — and the biggest failure isn't grammar, it's including too much.
+**One-line promise:** OET Writing tests how well you **communicate** a case in English — and the biggest failure isn't grammar, it's including too much.
 
 **📌 Format note:** Closes the **exam block**. Written for healthcare professionals *(nurses, doctors, pharmacists, physios)*. Section 3 becomes case-notes-to-letter construction with a full model. Section 4 covers the selection and register errors that cap Malayali candidates at Grade C.
 
@@ -119,7 +119,7 @@ Today: the structure, the register, and how to decide what to cut. Let's go. �
 > ### **5. Request** — exactly what you want the reader to do ⭐
 > ### **6. Closing** ✅
 
-*(Emphasise paragraph 2!)* ⭐ **The purpose must be clear in the first sentence.** ✅ Criterion 1 depends entirely on this. ⭐
+*(Emphasise paragraph 2!)* ⭐ **The purpose must be clear immediately.** ✅ This is where Criterion 1 is won or lost — though the whole letter is judged, not just the opening. ⭐
 
 ---
 
@@ -177,7 +177,7 @@ Today: the structure, the register, and how to decide what to cut. Let's go. �
 | Wound size, healing status ⭐ | her core task |
 | Daily dressing for 10 days ⭐ | the request |
 | Oral clindamycin, 3 days remaining ✅ | continuing treatment |
-| **Penicillin allergy** ⭐ | safety — always include |
+| **Penicillin allergy** ⭐ | safety — she may administer or advise on medication |
 | Diabetes, poorly controlled *(HbA1c 9.2%)* ⭐ | affects healing |
 | Needs diabetes education ⭐ | second request |
 | Lives alone, first floor, no lift ⭐ | access and safety |
@@ -225,7 +225,7 @@ Today: the structure, the register, and how to decide what to cut. Let's go. �
 >
 > I am writing to refer Mrs. Thomas, who is being discharged today following treatment for cellulitis of the right lower leg. She requires daily wound dressing for the next ten days and would benefit from diabetes education, and I would be grateful if you could take over her care at home."* ⭐
 
-*(Emphasise.)* ⭐ In **two sentences**, the reader knows: ✅ who, why, what's needed, and what's being asked. ✅ That's Criterion 1 secured. ⭐
+*(Emphasise.)* ⭐ In **two sentences**, the reader knows: ✅ who, why, what's needed, and what's being asked. ✅ That's the strongest possible start on Criterion 1 — now keep it up through the rest of the letter. ⭐
 
 *(The purpose phrases.)*
 - ✅ *"I am writing to refer ___, who ___"* ⭐
@@ -317,7 +317,7 @@ Today: the structure, the register, and how to decide what to cut. Let's go. �
 
 *(The core error — and it comes from a good place.)*
 
-*(Explain warmly.)* This is the **most common** reason strong Malayali candidates get Grade C instead of B. ✅
+*(Explain warmly.)* This is one of the **most common** reasons strong Malayali candidates get Grade C instead of B. ✅
 
 *(Explain why it happens.)* Three genuine reasons: ✅
 1. **Clinical training** teaches completeness — omission can harm ✅
@@ -328,13 +328,13 @@ Today: the structure, the register, and how to decide what to cut. Let's go. �
 
 *(The reframe.)*
 
-> ### 👉 In OET, **omitting** irrelevant detail demonstrates clinical judgement. ✅ That's what's being tested. ⭐
+> ### 👉 In OET, **omitting** irrelevant detail shows you understand your reader's needs. ✅ That selection skill is a big part of what's being marked. ⭐
 
 *(The practical test.)* Before each note, ask: ✅
 - ✅ *"Would this change what the reader does?"* ⭐
 - **No** → **cut it** ✂️
 
-*(Emphasise.)* ⭐ A 250-word letter that includes the 1998 appendectomy scores **lower** than a 190-word letter that doesn't. ✅
+*(Emphasise.)* ⭐ A padded 250-word letter stuffed with the 1998 appendectomy will usually score **lower** on selection than a tight 190-word letter that leaves it out. ✅
 
 ### Trap 2: Copying case notes word-for-word ⚠️
 
@@ -349,9 +349,11 @@ Today: the structure, the register, and how to decide what to cut. Let's go. �
 | *DM2 dx 2009, poorly controlled* ⚠️ | **She has type 2 diabetes, diagnosed in 2009 and currently poorly controlled** ⭐ |
 | *Lives alone, 1st flr, no lift* ⚠️ | **She lives alone in a first-floor flat with no lift** ✅ |
 
-*(Emphasise.)* ⚠️ **Never** use abbreviations like *c/o, pt, dx, hx, NAD* in the letter. ✅ Write them out. ⭐
+*(Emphasise.)* ⚠️ **Don't** carry case-note shorthand like *c/o, pt, dx, hx, NAD* into the letter. ✅ Write them out in full sentences. ⭐
 
-*(The exception.)* ✅ **Standard clinical terms** are fine: *HbA1c, IV, BP, mg* ✅
+*(The exception.)* ✅ **Standard clinical terms and units** your reader uses every day are fine: *HbA1c, IV, BP, mg* ✅
+
+*(The principle.)* ⭐ Ask: **would this professional reader use this form in a letter?** ✅ If yes, keep it. If it's note-taking shorthand, expand it. ⭐
 
 ### Trap 3: Wrong register 👔
 
@@ -410,14 +412,14 @@ Today: the structure, the register, and how to decide what to cut. Let's go. �
 | **10–38 min** | Write ✍️ |
 | **38–45 min** | Check — word count, allergies included, requests specific 🔍 |
 
-*(Emphasise.)* ⭐ **Ten minutes before you write a word.** ✅ Selection is the exam; writing is just the delivery. ⭐
+*(Emphasise.)* ⭐ **Ten minutes before you write a word.** ✅ Selection is where most marks are won or lost; the writing is the delivery. ⭐
 
 ### ✅ The OET checklist
 
 | ✅ | Check |
 |---|---|
 | ⬜ | Purpose clear in the **first sentence** ⭐ |
-| ⬜ | **Allergies** included *(if present in the notes)* ⚠️ |
+| ⬜ | **Allergies** included *(whenever your reader may give or advise on medication)* ⚠️ |
 | ⬜ | Irrelevant history **omitted** ✂️ ⭐ |
 | ⬜ | No case-note **abbreviations** *(c/o, pt, dx)* ✅ |
 | ⬜ | Requests are **specific** with duration ⭐ |

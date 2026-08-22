@@ -59,7 +59,7 @@ Today: the full rebuild, criterion by criterion. Let's go. 🚀
 | **TR** 🎯 | Task Response | position unclear, parts missing ⚠️ | **clear position** + all parts ✅ |
 | **CC** 🔗 | Coherence & Cohesion | one long block, random linkers ⚠️ | **topic sentences**, logical flow ✅ |
 | **LR** 📚 | Lexical Resource | repetition, memorised phrases ⚠️ | **precise topic** vocabulary ✅ |
-| **GRA** ✍️ | Grammatical Range | mostly simple sentences ⚠️ | **mix**, majority error-free ✅ |
+| **GRA** ✍️ | Grammatical Range | mostly simple sentences ⚠️ | **variety** of complex forms, frequent error-free sentences ✅ |
 
 *(Emphasise.)* ⭐ Every fix today gets a **badge**. ✅ So you'll see which criterion you're earning. ⭐
 
@@ -71,9 +71,11 @@ Today: the full rebuild, criterion by criterion. Let's go. 🚀
 
 #### 1️⃣ State your position in the introduction ⭐ **TR**
 
-*(Explain.)* Band 5 essays say *"I will discuss both views."* ✅ Band 7 essays **take a side in sentence two**. ⭐
+*(Explain.)* Band 5 essays say *"I will discuss both views."* ✅ Higher-band essays **commit to a position in the introduction** — and then hold it throughout. ⭐
 
-*(Firmly.)* ⚠️ Postponing your opinion to the conclusion is the most common Band 5–6 error among Indian candidates. ✅
+*(Firmly.)* ⚠️ Hiding your opinion until the conclusion is one of the most common Task Response weaknesses among Indian candidates. ✅
+
+*(One honesty note.)* ⭐ There's no rule that says "sentence two." ✅ And one good sentence alone won't lift you to Band 7 — the position has to be **developed and supported** all the way through. That's what the rest of this checklist is for. ⭐
 
 #### 2️⃣ Give every body paragraph a topic sentence ⭐ **CC**
 
@@ -311,7 +313,7 @@ Today: the full rebuild, criterion by criterion. Let's go. 🚀
 |---|---|
 | ⬜ | **Four** clear paragraphs? ✅ |
 | ⬜ | Does each body paragraph start with a **topic sentence**? ⭐ |
-| ⬜ | How many times did I write **"also"**? *(more than 3 = problem)* ⚠️ |
+| ⬜ | Am I leaning on **"also"** instead of real linking? ⚠️ |
 | ⬜ | Is each paragraph **one** idea, developed? ⭐ |
 
 #### 📚 **LR** — Lexical Resource
@@ -319,18 +321,18 @@ Today: the full rebuild, criterion by criterion. Let's go. 🚀
 |---|---|
 | ⬜ | Any of: *nowadays / modern era / plethora / coin has two sides*? ✂️ ⚠️ |
 | ⬜ | How many **"very + weak word"**? 🔗 *(Day 74)* ⚠️ |
-| ⬜ | Do I have **5+ topic-specific** words? ⭐ |
-| ⬜ | Did I repeat one noun more than **5** times? ⚠️ |
+| ⬜ | Do I have a good spread of **topic-specific** words? ⭐ |
+| ⬜ | Am I repeating the same noun when a synonym would work? ⚠️ |
 
 #### ✍️ **GRA** — Grammar
 | ⬜ | Check |
 |---|---|
 | ⬜ | Any *"are having / is having"*? 🔗 ⚠️ |
 | ⬜ | Any *"informations / advices / works"*? 🔗 ⚠️ |
-| ⬜ | At least **3** complex sentences? ✅ |
+| ⬜ | A real **variety** of complex sentences, not all simple ones? ✅ |
 | ⬜ | Any *"since 3 years"*? 🔗 ⚠️ |
 
-*(Emphasise.)* ⭐ **Nineteen checks.** ✅ Run them on every practice essay and you'll self-correct faster than any teacher could mark for you. ⭐
+*(Emphasise.)* ⭐ **Seventeen checks.** ✅ Run them on every practice essay and you'll self-correct faster than any teacher could mark for you. ⭐
 
 ### ⚠️ The three Band 6 ceilings
 
@@ -389,9 +391,9 @@ Comment: **which criterion had the most unticked boxes?** ⭐ *(TR / CC / LR / G
 
 > ### 🎯 **Put your position in sentence two of your introduction.** ⭐
 
-*(Explain.)* Not the conclusion. ✅ **Sentence two.** ✅
+*(Explain.)* Not the conclusion. ✅ Right at the **start**. ✅
 
-*(Emphasise.)* One sentence. ✅ And it can move Task Response from Band 5 to Band 7 on its own — because the examiner is looking for exactly that, in exactly that place. ⭐
+*(Emphasise.)* One sentence — and it's the **highest-leverage** sentence in the whole essay. ✅ It tells the examiner immediately that you've answered the question, and it gives the rest of your essay something to defend. ⭐ *(Then you have to actually defend it — that's the other half of the mark.)*
 
 *(Practise the shape.)*
 > ✅ *"While I accept that ___, I do not believe ___."* ⭐
@@ -400,7 +402,7 @@ Comment: **which criterion had the most unticked boxes?** ⭐ *(TR / CC / LR / G
 
 Tomorrow, Day 94 — **the live level test.** 📊
 
-*(Energetic.)* Not a grammar quiz this time. A **real** assessment — speaking, writing, listening and grammar together — to find your **actual** working level. ✅
+*(Energetic.)* Not a grammar quiz this time. A **practical** self-check — speaking, writing, listening and grammar together — to see where your **working** English really stands. ✅
 
 *(Explain.)* And I'll be honest about what each level means for the things you actually want: a job abroad, an IELTS band, a promotion, a client-facing role. ⭐
 
