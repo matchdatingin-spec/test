@@ -427,6 +427,6 @@ Tomorrow, Day 89 — **IELTS Writing Task 1.** 📊
 
 *(Explain.)* And it's genuinely the **easier** task to score well on — because it's formulaic. There's a fixed structure, a fixed set of language, and no opinion required. ⭐
 
-*(Warm.)* Tomorrow: the four-paragraph formula that works for **any** chart type, the vocabulary for describing change, and the one mistake that costs candidates a whole band — **including your own opinion**, which Task 1 forbids. ⚠️
+*(Warm.)* Tomorrow: the four-paragraph formula that works for **any** chart type, the vocabulary for describing change, and the mistake that does the most damage to a Task 1 score — **including your own opinion**, which Task 1 doesn't ask for. ⚠️
 
-**One paragraph, one idea, stated first. Structure is 50% of your mark.** 🎓 See you tomorrow! 👋
+**One paragraph, one clear idea, stated first. Organisation is a quarter of your mark — and it lifts Task Response too.** 🎓 See you tomorrow! 👋
