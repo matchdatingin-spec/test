@@ -24,10 +24,12 @@ Every script follows the same 5-part structure:
 
 ## Progress
 
-| Days | Status |
-|---|---|
-| 01–30 | ✅ Complete |
-| 31–100 | ⏳ In progress |
+| Days | Block | Status |
+|---|---|---|
+| 01–30 | Common mistakes and confusing word pairs | ✅ Complete |
+| 31–45 | Translation, thinking in English, fluency mechanics | ✅ Complete |
+| 46–50 | Grammar deep-dive (tenses) | ✅ Complete |
+| 51–100 | Grammar, pronunciation, vocabulary, career, exams | ⏳ In progress |
 
 ## Index
 
@@ -66,6 +68,36 @@ Every script follows the same 5-part structure:
 | [29](day-29.md) | 20 Malayalam idioms you can't translate |
 | [30](day-30.md) | 20-question milestone quiz |
 
+### Days 31–45 — Translation, thinking in English, fluency mechanics
+
+| Day | Topic | Framework introduced |
+|---|---|---|
+| [31](day-31.md) | 15-sentence live translation challenge | *read the Malayalam backwards — verb first* |
+| [32](day-32.md) | Translating long Malayalam sentences | **Cut · Verb · Who · Build · Join** |
+| [33](day-33.md) | 100 daily-use sentences | grouped by situation |
+| [34](day-34.md) | 50 natural phrases | one strong word > "very + weak word" |
+| [35](day-35.md) | Asking any question | **5 question patterns** (the "swap") |
+| [36](day-36.md) | Speaking 2 minutes on any topic | **P–E–R–F–O** |
+| [37](day-37.md) | Thinking in English | **Name · Narrate · Attach · Self-talk · Input** |
+| [38](day-38.md) | When your mind goes blank | **Breathe · Buy time · Build small** |
+| [39](day-39.md) | Building long sentences safely | core first, then 4 layers |
+| [40](day-40.md) | Telling any story | **S–P–A–R–K** |
+| [41](day-41.md) | Normal vs natural English | shorter, warmer, fewer extra words |
+| [42](day-42.md) | Requests, disagreement, saying no | soften + reason + alternative |
+| [43](day-43.md) | Why native English sounds fast | **Reduce · Link · Delete** |
+| [44](day-44.md) | Shadowing practice session | 6 guided drill blocks |
+| [45](day-45.md) | 30-day fluency challenge | the daily 20 minutes, 60% output |
+
+### Days 46–65 — Grammar deep-dive
+
+| Day | Topic |
+|---|---|
+| [46](day-46.md) | All 12 tenses through one story |
+| [47](day-47.md) | Simple present vs present continuous |
+| [48](day-48.md) | Simple past vs present perfect |
+| [49](day-49.md) | Will vs going to |
+| [50](day-50.md) | Past perfect — when *had* is really needed |
+
 ## Recurring threads across scripts
 
 These callbacks are deliberate — they make the series feel like one course, not 100 separate videos:
@@ -75,4 +107,20 @@ These callbacks are deliberate — they make the series feel like one course, no
 - **One negative / one uncertainty per sentence** — Days 03, 09, 22, 26.
 - **States don't take -ing** — Days 01, 19, 27.
 - **Feelings: Malayalam receives them, English becomes them** — Days 01, 29.
-- **Politeness lives in the verb tail in Malayalam, at the front in English** — Days 04, 08, 09, 13.
+- **Politeness lives in the verb tail in Malayalam, at the front in English** — Days 04, 08, 09, 13, 33, 42.
+- **Person + verb first** — the single reflex that fixes S-O-V leakage; Days 32, 36, 39.
+- **Flow beats accuracy while speaking** — Days 36, 38, 40, 44.
+- **Malayalam verb endings as evidence** — `-ഓട്` → *tell*, `വരെ` → *until*, `മുതൽ` → *since*, `-ഇരുന്നു` → *used to* / *had*, `-ആം` → *will*, `-ആൻ പോകുന്നു` → *going to*, `കൊണ്ടുവരുക/കൊണ്ടുപോകുക` → *bring/take*.
+- **തന്നെ → "right"** (right now / right here / right away) — Days 02, 41.
+
+## Adapted formats
+
+Not every day fits the grammar-lesson mould. These deviate deliberately, with a `📌 Format note` at the top of the file:
+
+| Day | Format | What changed |
+|---|---|---|
+| 30 | Quiz | Breakdown → 20 questions; Trap → score analysis and a mistake-pattern table |
+| 31 | Live challenge | Breakdown → 15 timed sentences; Trap → four error groups |
+| 33 | Resource | Breakdown → 100 sentences grouped by situation |
+| 44 | Practice session | Breakdown → 6 shadowing blocks with pause markers and production notes |
+| 45 | Plan | Breakdown → daily 20-minute plan, 4-week schedule, 30 topics, 4 progress metrics |
