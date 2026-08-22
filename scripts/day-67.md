@@ -2,14 +2,17 @@
 
 **Target length:** 13–15 minutes
 **Level:** All levels
-**One-line promise:** Four words, in depth — where your tongue goes, why the spelling misleads you, and how to make it automatic.
+**One-line promise:** Four words, in depth — where your tongue goes, why the spelling misleads you, and one word where you were already right.
 
 **📌 Format note:** A **deep-dive pronunciation** video. Section 3 takes four words one at a time instead of listing many. Section 4 covers the singular/plural pairs that cause real-world confusion.
+
+**⚠️ Accuracy note:** *Coupon* is handled differently from the other three. Both **KOO-pon** and **KYOO-pon** are dictionary-standard, so the script does **not** mark either as an error — it uses the word to teach that some English words have two correct pronunciations. Do not "correct" viewers who say KYOO-pon.
 
 **🎬 Production notes:**
 - **Close-up mouth shots** for each word — lips and jaw must be visible
 - Show the word with the **silent letters struck through** as you say it
-- Use a **slow-motion replay** of your mouth for *women* and *coupon*
+- Use a **slow-motion replay** of your mouth for *women*
+- For *coupon*, show **both** respellings side by side with a ✅ on each
 - Put the **respelling in large text** on screen during each repetition
 - Leave a **2-second gap** for repetition after each model — this video is a practice session as much as a lesson
 
@@ -36,7 +39,7 @@ And I've chosen these four for a reason. Each one shows a **different** English 
 - **vehicle** → a silent letter 🤫
 - **women** → the spelling actively **lies** about the vowel 🤥
 - **Wednesday** → a whole syllable **vanishes** 🕳️
-- **coupon** → the **first sound** is wrong for most of us 🔊
+- **coupon** → there are **two correct answers**, and nobody tells you 🤷
 
 *(Confident.)* Master these four, and you'll understand the **system**. Let's go. 🚀
 
@@ -213,43 +216,77 @@ And I've chosen these four for a reason. Each one shows a **different** English 
 
 ---
 
-### 🎟️ WORD 4 — COUPON
+### 🎟️ WORD 4 — COUPON *(the honest one)*
 
-#### ❌ What we say
-**"kyoo-pon"** ✅ — adding a *y* sound after the *k* ✅
+*(Different framing for this one — be upfront.)*
 
-#### ✅ What it actually is
-> ### **"KOO-pon"** ✅ *(US)* — or **"KOO-pon"** *(UK, same)* ✅
+*(Explain.)* This word is here for a different reason. ✅ Because I could tell you the "correct" pronunciation — and I'd be **misleading** you. ⚠️
 
-*(Break it down.)*
+#### ✅ BOTH of these are correct
 
-| Piece | Sound |
+> ### **"KOO-pon"** ✅ — and — **"KYOO-pon"** ✅
+
+*(Firmly.)* Yes. **Both.** ⭐ Check any major dictionary — Oxford, Merriam-Webster, Cambridge — and you'll find **both** listed. ✅
+
+| Version | Where it's common |
 |---|---|
-| **cou** | **KOO** ← like "cool" without the *l* ✅ **No y sound!** |
-| **pon** | **pon** ← soft, like "pawn" ✅ |
+| **KOO-pon** | 🇬🇧 standard in Britain · also common in the US ✅ |
+| **KYOO-pon** | 🇺🇸 widespread in American English ✅ |
 
-*(Explain the error.)* Why do we add the *y*? ✅ Because of words like:
-- *cute* → **KYOOT** ✅
-- *cure* → **KYOOR** ✅
-- *computer* → **kum-PYOO-ter** ✅
+*(Emphasise.)* ⭐ So if someone has told you *"kyoo-pon is wrong"* — they were repeating a rule that doesn't exist. ✅
 
-*(So.)* Your brain learned **"cu" = kyoo"** ✅ But in *coupon*, the spelling is **"cou"** — which is **"koo,"** not "kyoo." ✅
+#### 🤔 So why is it in this video?
 
-*(The memory trick.)* 🔑 **"cou"** as in **"could"** ✅ Not **"cu"** as in "cute." ✅
+*(This is the real lesson.)*
 
-*(Compare.)*
-- ✅ *coupon* → **KOO-pon** ✅
-- ✅ *cute* → **KYOOT** ✅
-- ✅ *coupe* → **KOOP** ✅
-- ✅ *cousin* → **KUZ-un** ✅
+*(Explain.)* Because **coupon teaches you something more useful than a pronunciation.** ⭐
 
-#### 🐢 Practise
+> ### 👉 Not every English word has **one** correct pronunciation. ✅
 
-**Slow:** *KOOO — pon* 🐢
-**Speed:** *KOO-pon · KOO-pon · KOO-pon* ⚡ *(×10)*
+*(Firmly.)* And this matters for you, because Malayalam **does** work that way. ✅ **മലയാളം** has one correct reading. Always. ✅ 🔗 *(Day 66)*
+
+*(Emphasise.)* So when Malayalis meet two versions of an English word, the instinct is: *"one must be wrong — which one?"* ⚠️
+
+*(Firmly.)* Often **neither** is. ⭐
+
+#### 📋 Other words with two correct versions
+
+*(Genuinely useful — these cause needless anxiety.)*
+
+| Word | ✅ Both correct |
+|---|---|
+| **coupon** 🎟️ | KOO-pon · KYOO-pon |
+| **either** | EE-ther · EYE-ther ✅ |
+| **neither** | NEE-ther · NIGH-ther ✅ |
+| **often** | OF-un · OF-ten ✅ 🔗 *(Day 66)* |
+| **schedule** 📅 | SHED-yool · SKED-jool ✅ 🔗 *(Day 73)* |
+| **garage** 🚙 | GA-rij · guh-RAHZH ✅ |
+| **data** 📊 | DAY-tuh · DAH-tuh ✅ |
+| **route** 🛣️ | ROOT · ROWT ✅ |
+| **envelope** ✉️ | EN-vuh-lope · ON-vuh-lope ✅ |
+| **February** | FEB-roo-ree · FEB-yoo-ree ✅ |
+
+*(Emphasise.)* ⭐ **Ten words. Twenty correct pronunciations.** ✅ Nobody will correct you on any of them. ⭐
+
+#### 🎯 So what should YOU do?
+
+*(Practical instruction.)*
+
+> ### 👉 **Pick one. Say it consistently. Stop worrying.** ✅
+
+*(Explain.)* 🔗 *(Day 73's principle)* **Consistency** matters. Which variant you picked does **not**. ⭐
+
+*(Recommendation.)* For Indian speakers, **KOO-pon** is the safer default ✅ — Indian English is largely British-based, and it matches *could, cousin, coupe*. ✅ But **KYOO-pon** would not be an error. ⭐
+
+#### 🐢 Practise *(either one!)*
+
+**Slow:** *KOOO — pon* 🐢 *(or KYOOO — pon)*
+**Speed:** ×10 ⚡
 **Sentence:**
 - ✅ *"Do you have a discount **coupon**?"* 💬
 - ✅ *"I used a **coupon** code."* ✅
+
+*(Warm.)* And notice — you just learned that you were **already right**. 😊 That happens more often than you think. 💙
 - ✅ *"This **coupon** expires tomorrow."* ✅
 
 ---

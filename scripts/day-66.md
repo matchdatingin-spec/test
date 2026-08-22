@@ -122,9 +122,11 @@ Today: **30 words**, fixed. No judgement. Let's go. 🚀
 | 5 | is~~l~~and 🏝️ | IS-land | **EYE-lund** |
 | 6 | de~~b~~t 💰 | debt *(with b)* | **DET** |
 | 7 | sa~~l~~mon 🐟 | SAL-mon | **SAM-un** |
-| 8 | a~~l~~mond 🌰 | AL-mond | **AH-mund** |
+| 8 | a~~l~~mond 🌰 | — | **AH-mund** ⭐ *(AL-mund also accepted)* |
 
 *(Highlight #1.)* ⭐ **Vehicle** is the classic. Say it three times: **VEE-uh-kul.** ✅
+
+*(⚠️ Note on #8.)* **Almond** has a dash in the ❌ column for a reason — *AL-mund* is **also** accepted ✅ *AH-mund* is just more common. ⭐ Not every word on this list has only one right answer 🔗 *(see Day 67!)* ✅
 
 *(Highlight #3.)* And note — because the *h* is silent, it's **"an honest man"** ✅ not "a honest man"! 🔗 *(Day 20's sound rule!)*
 
@@ -180,7 +182,7 @@ Today: **30 words**, fixed. No judgement. Let's go. 🚀
 | 26 | pronunciation 🗣️ | pro-**NOUN**-ciation | pro-nun-see-**AY**-shun |
 | 27 | clothes 👕 | clo-THES | **KLOHZ** *(one syllable!)* |
 | 28 | says 💬 | SAYS | **SEZ** |
-| 29 | often | OF-ten | **OF-un** *(t usually silent)* |
+| 29 | often | — | **OF-un** ⭐ *(OF-ten also correct — both standard)* |
 | 30 | schedule 📅 | SHED-yool / SKED-yool | **SKED-jool** *(US)* / **SHED-yool** *(UK)* ✅ both fine! |
 
 *(Highlight #26 — the irony!)* 😄 The word **"pronunciation"** is itself mispronounced! ✅

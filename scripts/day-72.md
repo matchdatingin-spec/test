@@ -222,12 +222,12 @@ Today: 30 words, organised by pattern. Let's go. 🚀
 | **colonel** 🎖️ | **KER-nul** | borrowed twice, from Italian *and* French! 🤯 |
 | **island** 🏝️ | **EYE-lund** | the *s* was **added** by mistake in the 1500s 😄 |
 | **business** 💼 | **BIZ-nis** | a whole syllable gone 🔗 |
-| **queue** | **KYOO** | four silent letters in a row! 🤯 |
+| **queue** | **KYOO** | five letters, and only the first two do any work 🤯 |
 | **iron** | **EYE-urn** | the letters **swap** in sound! |
 | **suite** 🛏️ | **SWEET** | not "soo-eet" |
 | **genre** 🎬 | **ZHON-ruh** | French, kept whole |
 
-*(Highlight "queue"!)* 😄 **q-u-e-u-e** → **"KYOO"** ✅ Five letters, one sound. English's champion. 🏆
+*(Highlight "queue"!)* 😄 **q-u-e-u-e** → **"KYOO"** ✅ The *qu* gives you the whole word, and the final **eue** does nothing at all. English's champion. 🏆
 
 *(Highlight "iron"!)* ⚠️ **iron** ✅ — Malayalis often say *"eye-RON."* ✅ It's **"EYE-urn"** ✅ *(rhymes with "lion")* ✅
 
