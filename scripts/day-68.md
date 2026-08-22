@@ -236,7 +236,7 @@ English /v/  ←—— Malayalam വ ——→  English /w/
 |---|---|
 | **vowel** | **V**-owel → 🦷 then 👄 |
 | **valuable** | **V**al-ua-ble → 🦷 then 👄 |
-| **ववेb**... let's use → **wave** 🌊 | **W**a-**v**e → 👄 then 🦷 ⭐ |
+| **wave** 🌊 | **W**a-**v**e → 👄 then 🦷 ⭐ |
 | **weave** | **W**ea-**v**e → 👄 then 🦷 |
 | **wives** | **W**i-**v**es → 👄 then 🦷 |
 | **overview** | o-ver-**v**iew → 🦷 then 👄 |
