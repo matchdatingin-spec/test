@@ -266,7 +266,7 @@ I + had to go + to the office + today ✅
 
 ✅ **"I had to go to the hospital yesterday."**
 
-*Trap:* **must has no past tense!** Past necessity is always **had to** *(Day 10)*. And note **the** hospital *(Day 20)*.
+*Trap:* **must has no past form!** For past obligation, use **had to** *(Day 10)*. And note **the** hospital *(Day 20)*.
 
 ❌ Not *"Yesterday I must go to hospital."*
 

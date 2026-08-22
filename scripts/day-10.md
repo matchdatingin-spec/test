@@ -62,7 +62,7 @@ This is the difference nobody explains. Listen:
 - ✅ *I **have to** wear a helmet.* → **The law** says so. Outside pressure. Not my choice.
 - ✅ *You **must** wear a helmet.* → **I** am telling you. Inside pressure. My authority.
 
-*(Slogan.)* **HAVE TO = pressure from outside. MUST = pressure from me.**
+*(Slogan.)* **HAVE TO often = pressure from outside. MUST often = pressure from me.** ✅ *(A useful tendency — written rules use "must" too: "Passengers must wear seatbelts.")*
 
 That's why *"You must take rest"* sounds like an order — you put **yourself** in charge of them.
 
@@ -147,9 +147,9 @@ Build it:
 |---|---|---|---|
 | I / you / we / they | **have to** go | **had to** go | **will have to** go |
 | he / she / it | **has to** go | **had to** go | **will have to** go |
-| must | **must** go | ❌ *no past!* | ❌ *no future!* |
+| must | **must** go | ❌ *no past form!* → use *had to* | *"must go tomorrow"* ✅ |
 
-*(Emphasise.)* **Must has no past tense.** So for the past, you MUST use *had to*:
+*(Emphasise.)* **Must has no past form.** So for past obligation, use *had to*:
 - ❌ *Yesterday I must go to hospital.*
 - ✅ **Yesterday I had to go to the hospital.**
 

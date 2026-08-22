@@ -229,7 +229,7 @@ Build it:
 - ✅ *What are you doing this weekend?* ← asking about plans ⭐
 - ✅ *I'm meeting some friends.* ✅
 
-*(Point out.)* **"What are you doing this weekend?"** is the standard way to ask about plans. Not ❌ *"What will you do this weekend?"* *(sounds like a prediction)* ✅
+*(Point out.)* **"What are you doing this weekend?"** is the standard way to ask about plans. ⚠️ *"What will you do this weekend?"* is correct English too, but it asks something slightly different — more like a prediction or a decision you haven't made yet. ✅
 
 ---
 
@@ -301,7 +301,7 @@ Build it:
 
 *(Normally.)* **always** goes with **simple present**: ✅ *"I always drink tea."* ✅
 
-*(But.)* **always + -ing** exists — and it means **complaining**! 😤
+*(But.)* **always + -ing** exists — and it adds **feeling**, usually annoyance! 😤
 
 - ✅ *He's **always coming** late!* = I'm annoyed 😠
 - ✅ *You're **always losing** your keys!* = frustration
@@ -311,7 +311,9 @@ Build it:
 - *He always comes late.* → a **fact** ✅
 - *He's always coming late!* → a **complaint** 😤
 
-*(Practical warning.)* So be careful — don't say ❌ *"I am always working hard"* in an interview! It sounds like you're **complaining** about it. Say ✅ **"I always work hard."** ✅
+*(Practical warning.)* So be careful — don't say ⚠️ *"I am always working hard"* in an interview! It can sound like you're **complaining** about it. Say ✅ **"I always work hard."** ✅
+
+*(For your ear.)* ⭐ The feeling isn't always negative — ✅ *"She's always helping people"* is a compliment. ✅ The pattern adds **emotion**; context decides whether it's warm or irritated. ⭐
 
 ---
 

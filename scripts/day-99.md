@@ -310,7 +310,7 @@ Good evening, everyone. ✅ And welcome — this is **Day 99**. 🎉
 
 *(Explain.)* Ninety-nine days ago I started this with no idea whether anyone would watch a Malayalam English series past Day 3. ✅
 
-*(Warm.)* And people did. Some of you have commented on **every** video. Some of you have sent me interview results, IELFS scores, job offers. 🎉
+*(Warm.)* And people did. Some of you have commented on **every** video. Some of you have sent me interview results, IELTS scores, job offers. 🎉
 
 *(Firmly.)* Those weren't my achievements. ✅ You did the practice. ⭐
 

@@ -27,7 +27,7 @@ And that double life is exactly why Malayalis produce sentences like:
 > ❌ *"I am having a car."*
 > ❌ *"I have went there."*
 > ❌ *"He have two brothers."*
-> ❌ *"I have a bath every morning."* 😄
+> ⚠️ *"I have a bath every morning."* 😄 *(correct British English — but is it what you mean?)*
 
 *(Point at camera.)*
 
@@ -149,7 +149,7 @@ Build it:
 
 *(Point out — this uses "do"!)* 🔗 *(Day 53)* Because here *have* is a **real verb**, so it needs the **do** helper for questions and negatives. ✅
 
-- ❌ *Have you a car?* ← old-fashioned ✅
+- ⚠️ *Have you a car?* ← correct but old-fashioned/formal British ✅
 - ✅ **Do you have a car?** ⭐ *(modern, standard)*
 
 ### Sentence 2 — built piece by piece
@@ -255,7 +255,7 @@ Build it:
 
 | ❌ Indian English | ✅ International |
 |---|---|
-| I have a bath every morning | **I take a shower every morning** 🚿 |
+| I have a bath every morning *(correct in Britain!)* | **I take a shower every morning** 🚿 |
 | Have your food | **Go ahead and eat** / **Please eat** |
 | I am having doubt | **I have a question** |
 | Take rest 🔗 | **Get some rest** |
@@ -274,11 +274,12 @@ Build it:
 
 *(The permanent fix.)* Ask:
 
-> **Can someone WATCH me doing this?** 👁️
-> **No → plain "have."** ✅
+> **Am I DOING something, or just OWNING/BEING something?** ⚙️
+> **Owning or being → plain "have."** ✅
 
-- Owning a car → nobody can watch that → **I have a car** ✅
-- Eating lunch → yes, visible → **I'm having lunch** ✅
+- Owning a car → not an activity → **I have a car** ✅
+- Eating lunch → an activity → **I'm having lunch** ✅
+- Going through a hard time → also an activity → **I'm having a difficult week** ✅
 
 *(Drill — say these ten, fast.)*
 1. I **have** a car. ✅
@@ -304,7 +305,7 @@ Build it:
 | We have did it | **We have done it** |
 | He has took it | **He has taken it** |
 
-*(Rule.)* **After have/has/had → always the THIRD form.** ✅
+*(Rule.)* **When have/has/had is the perfect helper → the THIRD form follows.** ✅ *(Not when "have" means own or "have to" — those are different: ✅ "I have lunch at one," "I have to go.")*
 
 *(The 15 V3 forms Malayalis need most.)* Say them with me:
 **been · gone · done · come · seen · taken · given · made · said · told · got · known · written · eaten · forgotten** ✅
