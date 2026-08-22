@@ -1,6 +1,10 @@
 # YouTube Scripts — 100-Day Spoken English Course (for Malayalam Speakers)
 
-Ready-to-record scripts generated from [`../youtube-100-video-titles.md`](../youtube-100-video-titles.md).
+Ready-to-record scripts for all 100 videos in [`../youtube-100-video-titles.md`](../youtube-100-video-titles.md).
+
+**Status: ✅ Complete — 100 of 100 scripts.** ~240,000 words, averaging ~2,400 words per script (12–18 minutes of screen time each).
+
+---
 
 ## Script format
 
@@ -9,31 +13,39 @@ Every script follows the same 5-part structure:
 | Section | Time | Purpose |
 |---|---|---|
 | 1. The Hook | 0:00–1:00 | A relatable wrong sentence a Malayali actually says → "today we fix it forever" |
-| 2. The Core Logic | 1:00–3:00 | The *reasoning* behind the rule, in plain language, with pictures/analogies |
+| 2. The Core Logic | 1:00–3:00 | The *reasoning*, in plain language, with pictures and analogies |
 | 3. Sentence Breakdown | 3:00–8:00 | 5–7 practical examples; the first two built piece-by-piece from the Malayalam |
-| 4. The Malayali Trap | 8:00–10:00 | Mother-tongue-influence errors, S-O-V vs S-V-O contrasts, and why direct translation fails |
-| 5. Homework Test | 10:00–End | 2 comment questions to drive engagement, plus a teaser for the next day |
+| 4. The Malayali Trap | 8:00–10:00 | Mother-tongue-influence errors, S-O-V vs S-V-O contrasts, why direct translation fails |
+| 5. Homework Test | 10:00–End | 2 comment questions to drive engagement, plus a next-day teaser |
 
 ## Writing rules used
 
 - All explanations in **simple A2/B1 English** — the creator translates to Malayalam while recording.
 - Malayalam script used only for **source sentences, verb endings, and grammar contrasts** (e.g. `-ഓട്` → *tell*, `വരെ` → *until*, `മുതൽ` → *since*).
-- Every rule is explained through **logic**, never "just memorise."
-- `❌` marks the wrong sentence, `✅` marks the correct one, so the editor can add on-screen graphics directly from the script.
-- Delivery cues are in *(italics inside brackets)* — pauses, energy shifts, gestures, drills.
+- Every rule explained through **logic**, never "just memorise."
+- `❌` marks the wrong sentence, `✅` the correct one, so the editor can build on-screen graphics straight from the script.
+- Delivery cues in *(italics inside brackets)* — pauses, energy shifts, gestures, drills.
+- Cross-references marked `🔗 (Day NN)` so viewers are sent back to the relevant video.
 
-## Progress
+---
 
-| Days | Block | Status |
+## The six blocks
+
+| Days | Block | Focus |
 |---|---|---|
-| 01–30 | Common mistakes and confusing word pairs | ✅ Complete |
-| 31–45 | Translation, thinking in English, fluency mechanics | ✅ Complete |
-| 46–50 | Grammar deep-dive (tenses) | ✅ Complete |
-| 51–100 | Grammar, pronunciation, vocabulary, career, exams | ⏳ In progress |
+| [01–30](#days-0130--mistakes-and-confusing-word-pairs) | Mistakes and word pairs | the 30 errors that mark a Malayali speaker |
+| [31–45](#days-3145--translation-thinking-in-english-fluency) | Translation and fluency | five named frameworks for producing English |
+| [46–65](#days-4665--grammar-deep-dive) | Grammar | the complete system, logic-first |
+| [66–73](#days-6673--pronunciation) | Pronunciation | stress, chunking, and the sounds that matter |
+| [74–77](#days-7477--vocabulary) | Vocabulary | upgrades plus a memory method |
+| [78–90](#days-7890--career-and-exams) | Career and exams | interviews, workplace writing, IELTS, OET |
+| [91–100](#days-91100--makeovers-and-course-close) | Makeovers and close | five before/afters, then the handover |
 
-## Index
+---
 
-### Days 01–30 — Common mistakes, confusing word pairs, core rules
+## Full index
+
+### Days 01–30 — Mistakes and confusing word pairs
 
 | Day | Topic |
 |---|---|
@@ -68,7 +80,7 @@ Every script follows the same 5-part structure:
 | [29](day-29.md) | 20 Malayalam idioms you can't translate |
 | [30](day-30.md) | 20-question milestone quiz |
 
-### Days 31–45 — Translation, thinking in English, fluency mechanics
+### Days 31–45 — Translation, thinking in English, fluency
 
 | Day | Topic | Framework introduced |
 |---|---|---|
@@ -97,30 +109,143 @@ Every script follows the same 5-part structure:
 | [48](day-48.md) | Simple past vs present perfect |
 | [49](day-49.md) | Will vs going to |
 | [50](day-50.md) | Past perfect — when *had* is really needed |
+| [51](day-51.md) | Conditionals — "if I was" or "if I were"? |
+| [52](day-52.md) | Is, am, are, was, were |
+| [53](day-53.md) | Do, does, did |
+| [54](day-54.md) | Have, has, had — the double life |
+| [55](day-55.md) | Subject–verb agreement: 15 traps |
+| [56](day-56.md) | Uncountable nouns: 30 mistakes |
+| [57](day-57.md) | Gerund or infinitive? |
+| [58](day-58.md) | Who, which, that, whose |
+| [59](day-59.md) | Active vs passive voice |
+| [60](day-60.md) | Direct vs indirect speech |
+| [61](day-61.md) | Question tags |
+| [62](day-62.md) | Causatives: make, let, have, get |
+| [63](day-63.md) | Supposed to, meant to, expected to |
+| [64](day-64.md) | Had better, would rather, prefer |
+| [65](day-65.md) | Grammar level test (3 tiers) |
 
-## Recurring threads across scripts
+### Days 66–73 — Pronunciation
 
-These callbacks are deliberate — they make the series feel like one course, not 100 separate videos:
+| Day | Topic |
+|---|---|
+| [66](day-66.md) | 30 commonly mispronounced words |
+| [67](day-67.md) | Vehicle, women, Wednesday, coupon (deep dive) |
+| [68](day-68.md) | V vs W masterclass |
+| [69](day-69.md) | TH pronunciation |
+| [70](day-70.md) | Word stress — the keystone video |
+| [71](day-71.md) | Connected speech and chunking |
+| [72](day-72.md) | Silent letters: 30 words by pattern |
+| [73](day-73.md) | British vs American — and why neither |
 
-- **The boss rule** *(Day 03)* — only one word carries the past; reused in Days 16, 17, 28.
-- **The invisible "be"** — Malayalam has no separate *be* verb; surfaces in Days 04, 07, 09, 16, 28.
-- **One negative / one uncertainty per sentence** — Days 03, 09, 22, 26.
-- **States don't take -ing** — Days 01, 19, 27.
+### Days 74–77 — Vocabulary
+
+| Day | Topic |
+|---|---|
+| [74](day-74.md) | Stop using "very": 40 upgrades |
+| [75](day-75.md) | Stop saying "good" and "bad": 30 upgrades |
+| [76](day-76.md) | 25 phrasal verbs you'll actually use |
+| [77](day-77.md) | Vocabulary memory: **Encode · Retrieve · Use** |
+
+### Days 78–90 — Career and exams
+
+| Day | Topic | Framework |
+|---|---|---|
+| [78](day-78.md) | Self-introduction — freshers | **P–A–S–S** |
+| [79](day-79.md) | Self-introduction — experienced | **N–E–S–T** |
+| [80](day-80.md) | 10 interview questions | **C–E–R** (claim, evidence, relevance) |
+| [81](day-81.md) | Strengths, weaknesses, salary | three numbers: current, target, walk-away |
+| [82](day-82.md) | Live mock interview makeover | 6 paired before/afters |
+| [83](day-83.md) | Professional email | **S–O–B–A–C** |
+| [84](day-84.md) | Leave request emails | **D–R–C–R** (10 templates) |
+| [85](day-85.md) | Professional WhatsApp | one message, one complete thought |
+| [86](day-86.md) | Resume and cover letter | **V–W–N–R** bullet formula |
+| [87](day-87.md) | Office meeting English | signal · point · hand back |
+| [88](day-88.md) | IELTS Writing Task 2 | topic sentences; the 4 criteria |
+| [89](day-89.md) | IELTS Writing Task 1 | always "Overall," · never "because" |
+| [90](day-90.md) | OET Writing (healthcare) | selection — you're marked on what you omit |
+
+### Days 91–100 — Makeovers and course close
+
+| Day | Topic |
+|---|---|
+| [91](day-91.md) | 25 subscriber sentences corrected (6 error families) |
+| [92](day-92.md) | Real email makeover — 4 pairs |
+| [93](day-93.md) | IELTS essay makeover: Band 5.5 → 7 |
+| [94](day-94.md) | Four-skill level test + 5 profile patterns |
+| [95](day-95.md) | Beat the teacher — 15 harder translations |
+| [96](day-96.md) | Pronunciation makeover — 10 fixes |
+| [97](day-97.md) | Why grammar books didn't make you fluent |
+| [98](day-98.md) | The 90-day roadmap (12-week schedule) |
+| [99](day-99.md) | Live masterclass run sheet |
+| [100](day-100.md) | Course walkthrough and series close |
+
+---
+
+## ⚠️ Scripts needing creator input before recording
+
+| Day | What's needed | Why |
+|---|---|---|
+| [44](day-44.md) | Timing/gap production decisions | It's a shadowing session — the repetition gaps *are* the deliverable |
+| [91](day-91.md) | **Real viewer comments** | The 25 sentences are representative; genuine submissions land harder |
+| [92](day-92.md) | **Real work emails** | Same — constructed examples are cleaner than real ones |
+| [93](day-93.md) | **A real Band 5 essay** | Real essays contain messier, more instructive errors |
+| [96](day-96.md) | A volunteer speaker, or perform both versions | Must be performed without mocking the accent |
+| [99](day-99.md) | Platform, date, freebie, registration link | Live session — commercial infrastructure |
+| [100](day-100.md) | **Course name, format, modules, price, feedback mechanism** | Sales video — I deliberately invented no claims you can't keep |
+
+Days 99 and 100 use `[PLACEHOLDERS]` for every commercial specific, with guidance notes explaining what each decision affects.
+
+---
+
+## Recurring threads
+
+These callbacks are deliberate — they make the series feel like one course rather than 100 separate videos.
+
+**Structural threads**
+- **The boss rule** *(Day 03)* — only one word carries the past; reused in Days 16, 17, 28, 53, 61.
+- **The invisible "be"** — Malayalam has no separate *be* verb; Days 04, 07, 09, 16, 28, 52, 63.
+- **One job, one word** — one past, one negative, one uncertainty, one -s; Days 03, 09, 22, 26, 53, 55.
+- **States don't take -ing** — Days 01, 19, 27, 46, 47, 54.
+- **Person + verb first** — the reflex that fixes S-O-V leakage; Days 32, 36, 39, 71.
+- **Flow beats accuracy while speaking** — Days 36, 38, 40, 44, 95.
+
+**Cultural threads**
+- **Politeness lives in the verb tail in Malayalam, at the front in English** — Days 04, 08, 09, 13, 33, 42, 83.
+- **വിനയം as an interview liability** — Days 78, 79, 82, 86.
+- **English as a class marker in Kerala** — Days 38, 68, 73, 94, 97, 100.
 - **Feelings: Malayalam receives them, English becomes them** — Days 01, 29.
-- **Politeness lives in the verb tail in Malayalam, at the front in English** — Days 04, 08, 09, 13, 33, 42.
-- **Person + verb first** — the single reflex that fixes S-O-V leakage; Days 32, 36, 39.
-- **Flow beats accuracy while speaking** — Days 36, 38, 40, 44.
-- **Malayalam verb endings as evidence** — `-ഓട്` → *tell*, `വരെ` → *until*, `മുതൽ` → *since*, `-ഇരുന്നു` → *used to* / *had*, `-ആം` → *will*, `-ആൻ പോകുന്നു` → *going to*, `കൊണ്ടുവരുക/കൊണ്ടുപോകുക` → *bring/take*.
-- **തന്നെ → "right"** (right now / right here / right away) — Days 02, 41.
+
+**Malayalam evidence used as teaching**
+`-ഓട്` → *tell* · `വരെ` → *until* · `മുതൽ` → *since* · `-ഇരുന്നു` → *used to* / *had* · `-ആം` → *will* · `-ആൻ പോകുന്നു` → *going to* · `-ഇച്ചു` → *got it done* · `കൊണ്ടുവരുക/കൊണ്ടുപോകുക` → *bring/take* · `ഓരോ/എല്ലാ` → *each/every* · `തന്നെ` → *"right"* · `-ഇട്ടും` → *despite* · `ഉണ്ട്` → *there is*
+
+**The five ideas that run through everything** *(summarised in Day 100)*
+1. Malayalam already marks most of these distinctions — you're relocating markers, not learning concepts.
+2. English is economical: one job, one word.
+3. Politeness sits in a different place.
+4. Structure matters more than vocabulary.
+5. Your accent is a home, not a problem.
+
+---
 
 ## Adapted formats
 
-Not every day fits the grammar-lesson mould. These deviate deliberately, with a `📌 Format note` at the top of the file:
+Not every day fits the standard structure. These deviate deliberately, each with a `📌 Format note` at the top of the file.
 
 | Day | Format | What changed |
 |---|---|---|
-| 30 | Quiz | Breakdown → 20 questions; Trap → score analysis and a mistake-pattern table |
+| 30 | Quiz | Breakdown → 20 questions; Trap → score analysis + mistake-pattern table |
 | 31 | Live challenge | Breakdown → 15 timed sentences; Trap → four error groups |
 | 33 | Resource | Breakdown → 100 sentences grouped by situation |
-| 44 | Practice session | Breakdown → 6 shadowing blocks with pause markers and production notes |
-| 45 | Plan | Breakdown → daily 20-minute plan, 4-week schedule, 30 topics, 4 progress metrics |
+| 44 | Practice session | Breakdown → 6 shadowing blocks with pause markers |
+| 45 | Plan | Breakdown → daily plan, 4-week schedule, 30 topics, 4 metrics |
+| 65 | Assessment | Three tiers of ten; Trap → level diagnosis + study path |
+| 68, 69 | Physical technique | Sound-system analysis moved to Section 2; Trap → drill and self-test |
+| 73 | Comparison | Hook uses a real learner question; Trap → the "which should you choose" argument |
+| 82, 92, 93, 96 | Makeover | Breakdown → paired before/afters; Trap → pattern summary |
+| 88, 89, 90 | Exam writing | Breakdown → paragraph/letter building against published criteria |
+| 94 | Assessment | Four skill tests; Trap → 5 profile patterns mapped to goals |
+| 97 | Argument | No grammar taught; Breakdown → four reasons; Trap → four shifts |
+| 98 | Roadmap | Breakdown → 12-week schedule with 4 branching tracks |
+| 99 | Live run sheet | Timed segments + host guidance for handling the room |
+| 100 | Sales | Breakdown → course walkthrough; Trap → "who this is NOT for" |
