@@ -46,7 +46,7 @@ You don't need new vocabulary. You need to **use** the vocabulary you already ha
 
 *(Explain properly.)*
 
-*(Explain.)* **"Very"** is a **borrowed intensity** word. It has no meaning of its own — it just says *"more of the next word."* ✅
+*(Explain.)* **"Very"** is a **borrowed intensity** word. Its only job is to say *"more of the next word"* — it adds no picture of its own. ✅
 
 *(Emphasise.)* So *"very hot"* tells your listener: **hot, but more.** ⚠️ It's vague. How much more? 🤔
 
@@ -86,7 +86,7 @@ You don't need new vocabulary. You need to **use** the vocabulary you already ha
 
 *(This is important and often missed.)*
 
-*(Explain.)* Once a word is **already extreme**, you **cannot** add *very*: ✅
+*(Explain.)* Once a word is **already extreme**, *very* sounds wrong in front of it: ✅
 
 | ❌ | ✅ |
 |---|---|
@@ -98,6 +98,8 @@ You don't need new vocabulary. You need to **use** the vocabulary you already ha
 | very excellent | **excellent** ✅ |
 
 *(Explain why.)* Because *exhausted* **already means** "very tired." ✅ Adding *very* is saying "very very tired." 🔁 ✅
+
+*(Small honesty note.)* ⭐ You'll occasionally hear a native speaker say *"very delicious"* for emphasis — it isn't a crime. ✅ But **absolutely / completely** is the natural pairing, and that's what will make you sound fluent. ⭐
 
 *(The correct intensifiers for strong words!)* ⭐
 
@@ -132,7 +134,7 @@ You don't need new vocabulary. You need to **use** the vocabulary you already ha
 | 4 | very sleepy | **drowsy** | *These tablets make me drowsy.* |
 | 5 | very hot 🔥 | **boiling** ⭐ | *It's boiling today.* |
 | 6 | very cold 🥶 | **freezing** ⭐ | *It's freezing in here.* |
-| 7 | very sick | **ill** / **awful** | *I feel awful.* |
+| 7 | very sick | **awful** / **terrible** | *I feel awful.* |
 | 8 | very full 🍽️ | **stuffed** ⭐ | *I'm stuffed — no more, thanks.* |
 
 *(Highlight #1, #2, #5, #6.)* ⭐ These four are the **highest-value** — you'll use them weekly. ✅
@@ -163,12 +165,12 @@ You don't need new vocabulary. You need to **use** the vocabulary you already ha
 | # | ❌ | ✅ Strong word | Sentence |
 |---|---|---|---|
 | 17 | very angry | **furious** ⭐ | *He was furious.* |
-| 18 | very annoyed | **frustrated** ⭐ | *I'm getting frustrated.* |
+| 18 | very annoyed | **irritated** / **frustrated** ⭐ | *I'm getting irritated.* |
 | 19 | very sad | **devastated** / **upset** | *She was devastated.* |
 | 20 | very worried | **anxious** / **concerned** ⭐ | *I'm concerned about the deadline.* |
 | 21 | very afraid | **terrified** ⭐ | *I was terrified.* |
 | 22 | very embarrassed | **mortified** | *I was mortified.* |
-| 23 | very disappointed | **gutted** *(casual)* ⭐ | *I was gutted.* |
+| 23 | very disappointed | **gutted** *(casual, British)* ⭐ | *I was gutted.* |
 | 24 | very confused | **lost** ⭐ | *I'm completely lost.* |
 
 *(Highlight #20!)* ⭐ **"I'm concerned about..."** ✅ — the **professional** version of "I'm worried." Use it at work. 💼
@@ -279,7 +281,7 @@ You don't need new vocabulary. You need to **use** the vocabulary you already ha
 | too beautiful | **stunning** ✅ |
 | I liked it too much | **I loved it** ⭐ |
 
-*(Rule.)* ⚠️ **"Too" always means "more than is good."** ✅ It's a **complaint** word. ✅
+*(Rule.)* ⚠️ **Before an adjective, "too" means "more than is good."** ✅ Treat it as a **complaint** word. ✅ *(Separately, "too" also means "also" — ✅ "I want one too.")*
 
 - ✅ *This tea is **too** sweet.* → I can't drink it ❌
 - ✅ *This tea is **delicious**.* → 😋 ✅
@@ -288,13 +290,13 @@ You don't need new vocabulary. You need to **use** the vocabulary you already ha
 
 | ❌ | ✅ |
 |---|---|
-| I very much like it | **I really like it** ✅ |
-| very much thanks | **thanks a lot** ✅ |
-| He is very much intelligent | **He's very intelligent** ✅ |
+| ⚠️ I very much like it | **I really like it** ✅ *(original is correct but formal)* |
+| ❌ very much thanks | **thanks a lot** ✅ |
+| ❌ He is very much intelligent | **He's very intelligent** ✅ |
 
-*(Rule.)* **"Very much"** goes at the **END**, only with verbs ✅ *"Thank you very much."* ✅ *"I miss you very much."* ✅
+*(Rule.)* **"Very much"** works with **verbs**, most naturally at the **END** ✅ *"Thank you very much."* ✅ *"I miss you very much."* ✅ It does **not** go in front of a plain adjective ❌ *very much intelligent*. ❌
 
-*(The safe swap.)* ⭐ **Replace "very much" with "really."** ✅ It works in more positions and never sounds wrong. ⭐
+*(The safe swap.)* ⭐ **When in doubt, use "really."** ✅ It works in more positions and always sounds natural. ⭐
 
 ### Trap 4: Over-using the strong words 🔥
 

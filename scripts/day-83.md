@@ -407,7 +407,7 @@ Today: the complete formula. Let's go. 🚀
 | *Reply me* 🔗 | **Reply to me** / **Let me know** ✅ |
 | *Discuss about* 🔗 | **discuss** ✅ |
 | *I am having a doubt* 🔗 | **I have a question** ⭐ |
-| *Updation* ⚠️ | **update** ✅ *(not a real word!)* |
+| *Updation* ⚠️ | **update** ✅ *(Indian-office English only)* |
 | *Regards* + no name | **Regards, Vinod** ✅ |
 | ALL CAPS ⚠️ | normal case ✅ *(caps = shouting!)* |
 

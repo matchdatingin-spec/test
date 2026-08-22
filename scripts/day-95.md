@@ -368,8 +368,8 @@ Fifteen sentences. Score yourself. And if you beat me on any of them, say so in 
 | **cover** *(= envelope)* | a lid/blanket ⚠️ | **envelope** ✅ |
 | **out of station** 🔗 | *(meaningless)* ⚠️ | **out of town** ✅ |
 | **timepass** | *(meaningless)* ⚠️ | **something to pass the time** ✅ |
-| **prepone** 🔗 | *(not a word)* ⚠️ | **move earlier** ✅ |
-| **mugging up** | robbing someone! ⚠️ 😄 | **memorising · cramming** ✅ |
+| **prepone** 🔗 | *(unknown outside India)* ⚠️ | **move earlier** ✅ |
+| **mugging up** | *("mugging" alone = robbery!)* ⚠️ 😄 | **memorising · cramming** ✅ |
 | **eve teasing** | *(unclear/euphemistic)* ⚠️ | **harassment** ✅ |
 
 *(Emphasise.)* ⭐ Within India, all of these are perfectly understood. ✅ Internationally, several cause genuine confusion. ✅ 🔗 *(Day 61's principle — know your audience)* ⭐

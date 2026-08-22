@@ -145,7 +145,7 @@ More of the same shape:
 | 12 | Give me one water | **Could I have a glass of water?** | water can't be counted |
 | 13 | I will do it na | **I'll definitely do it** | show promise with *definitely* |
 | 14 | Today itself I'll send | **I'll send it today** | *itself* is തന്നെ again |
-| 15 | Prepone the meeting | **Move the meeting earlier** | *prepone* isn't real English |
+| 15 | Prepone the meeting | **Move the meeting earlier** | *prepone* is Indian English — outsiders won't know it |
 | 16 | Kindly do the needful | **Please take care of it** | 100-year-old office English |
 | 17 | Revert back to me | **Get back to me** | *revert* = go back to old state |
 | 18 | I know to swim | **I know how to swim** | skills need *how* |

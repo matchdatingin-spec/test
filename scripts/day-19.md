@@ -86,7 +86,7 @@ Imagine a **line** from a point in the past to **NOW**.
 
 ### And the second half of the fix: the TENSE
 
-*(Important.)* When you use *since* or *for* about something **still continuing**, English needs a special tense:
+*(Important.)* When you use *since* or *for* about something **still continuing**, this is the tense to reach for:
 
 > ### 👉 have/has been + verb-ing
 
@@ -98,9 +98,11 @@ Imagine a **line** from a point in the past to **NOW**.
 1. It **started in the past** *(so you need "have," the past-connector)*
 2. It is **still happening now** *(so you need "-ing," the continuing marker)*
 
-**have = past. -ing = still going. Together = started before and still going.** 🎯
+**have = the bridge back. -ing = still going. Together = started before and still going.** 🎯
 
 *(That's it.)* **Since/for + have been + -ing.** That's the interview sentence.
+
+*(Also correct — don't panic if you hear it.)* ⭐ The shorter **have/has + V3** works too: ✅ *"I've **worked** here for three years."* ✅ Both are right. The *-ing* version puts a little more weight on the **ongoing** activity. ⭐
 
 ---
 
@@ -263,9 +265,9 @@ The natural questions:
 
 ### Trap 4: Verbs that don't like "-ing"
 
-*(Useful nuance.)* Some verbs describe **states**, not actions, so they skip the *-ing*:
+*(Useful nuance.)* Some verbs describe **states**, not actions, so in that meaning they skip the *-ing*:
 
-**know, have, own, believe, love, like, understand, be**
+**know, have (own), believe, love, like, understand, be**
 
 | ❌ | ✅ |
 |---|---|
@@ -278,7 +280,9 @@ The natural questions:
 - ✅ *I've **known** him for years.* ← state
 - ✅ *I've **been working** here for years.* ← action
 
-*(Connect back.)* Remember Day 01? *"I am having a car"* was wrong for the same reason. **States don't take -ing.** Everything connects. 🔗
+*(Connect back.)* Remember Day 01? *"I am having a car"* was wrong for the same reason. **In their state meaning, these verbs don't take -ing.** Everything connects. 🔗
+
+*(And the flip side.)* ⭐ When the same word describes an **activity**, *-ing* returns: ✅ *I'm **having** lunch.* · *You're **being** rude.* ✅ It's the **meaning** that decides, not the word. ⭐
 
 ---
 

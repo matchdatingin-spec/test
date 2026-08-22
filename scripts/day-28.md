@@ -192,7 +192,7 @@ Build it:
 | 19 | Cousin brother | **Cousin** | no gender needed |
 | 20 | I passed out in 2020 | **I graduated in 2020** | *passed out* = fainted! |
 | 21 | Return it back | **Return it** | *return* includes "back" |
-| 22 | Prepone the meeting | **Move the meeting earlier** | not real English |
+| 22 | Prepone the meeting | **Move the meeting earlier** | Indian English only — won't travel |
 | 23 | One of my friend | **One of my friends** | needs plural |
 | 24 | Myself Arun | **I'm Arun** | *(Day 02)* |
 | 25 | Open/close the light | **Turn on/off the light** | lights don't open! |

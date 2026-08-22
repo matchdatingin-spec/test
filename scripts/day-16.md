@@ -148,7 +148,7 @@ Build it:
 
 *(Ask the audience.)* Why *working* and not *work*?
 
-Because in **"be used to,"** the word *to* is a **preposition** — like *in, on, at*. And after a preposition, English **always** uses **-ing**:
+Because in **"be used to,"** the word *to* is a **preposition** — like *in, on, at*. And when a **verb** follows a preposition, English uses **-ing**:
 
 - ✅ *interested **in** learn**ing***
 - ✅ *good **at** cook**ing***

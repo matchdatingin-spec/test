@@ -162,7 +162,7 @@ Get a pen. Score yourself out of 25. Let's go. 🚀
 ✅ **"He said he would come tomorrow."** — *tell* needs a **person**; and *said* → **would** 🔗 **Days 05, 60**
 
 **19.** ❌ *"I very much liked your yesterday's video."*
-✅ **"I really liked yesterday's video."** — *very much* goes at the **end**, and *really* is safer 🔗 **Days 34, 74**
+✅ **"I really liked yesterday's video."** — the actual error is ❌ *your yesterday's*: pick **one** owner word. ✅ *(*I very much liked yesterday's video* is also correct — just more formal.)* 🔗 **Days 34, 74**
 
 ---
 

@@ -183,9 +183,11 @@ Build it:
 
 *(Emphasise.)* ❌ *"The police is coming"* → ✅ **"The police are coming."** ✅
 
-*(And "people"!)* ⚠️ **People** is already plural — there's no "peoples"!
+*(And "people"!)* ⚠️ **People** is already the plural of *person* — so never *"peoples"* for individuals!
 - ✅ *Many people **are** waiting.* ✅
 - ❌ *Many peoples are...* ❌
+
+*(Tiny footnote, so nobody catches you out.)* ⭐ *Peoples* **does** exist for **nations or ethnic groups**: ✅ *the indigenous **peoples** of Australia.* ✅ You'll almost never need it — just don't be surprised by it. ⭐
 
 ---
 
