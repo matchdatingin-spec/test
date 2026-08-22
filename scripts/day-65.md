@@ -215,7 +215,9 @@ Grab a pen. Write your answers. No pausing to Google. Let's find out where you r
 
 *(Emphasise.)* **Don't add them up yet.** ✅ The **pattern** matters more than the total. 🎯
 
-### 🧱 If Level 1 is below 8 — you're at A2
+*(Be clear about what this is.)* ⚠️ This is a **grammar** check on what we've taught — not a real CEFR test. ✅ A true level also measures speaking, listening, reading and writing. ✅ So treat the labels below as *"your grammar is behaving like this level"* — a signal for what to study next. ⭐
+
+### 🧱 If Level 1 is below 8 — your grammar is working at around A2
 
 *(Warm, no judgement.)*
 
@@ -228,9 +230,9 @@ Grab a pen. Write your answers. No pausing to Google. Let's find out where you r
 
 *(Firmly.)* Do **not** study conditionals or relative clauses yet. Fix *"he doesn't"* and *"I agree"* and *"I am going"* first. ✅
 
-*(Timeline.)* Two focused weeks on those six videos, and you'll move to B1. ✅
+*(Timeline.)* Two focused weeks on those six videos will make a real, visible difference to your accuracy. ✅
 
-### 🔗 If Level 1 is 8+ but Level 2 is below 7 — you're at A2/B1
+### 🔗 If Level 1 is 8+ but Level 2 is below 7 — around A2/B1 on grammar
 
 *(This is where most viewers will land.)*
 
@@ -248,7 +250,7 @@ Grab a pen. Write your answers. No pausing to Google. Let's find out where you r
 
 *(Firmly.)* Master that **one** sentence pattern properly. It appears in every interview, every introduction, every conversation about your life. ✅
 
-### ✨ If Levels 1 and 2 are strong but Level 3 is below 6 — you're at solid B1
+### ✨ If Levels 1 and 2 are strong but Level 3 is below 6 — solid B1-level grammar
 
 *(Encouraging.)*
 
@@ -264,7 +266,7 @@ Grab a pen. Write your answers. No pausing to Google. Let's find out where you r
 
 *(Firmly.)* Your bottleneck is **speaking hours**. Go back to **Days 44 and 45** and do the daily practice. You need **mouth time**, not more rules. 🗣️
 
-### 🏆 If you scored 25+ overall — you're B2 or above
+### 🏆 If you scored 25+ overall — your grammar is working at B2 or above
 
 *(Genuinely impressed.)*
 
@@ -276,7 +278,7 @@ Grab a pen. Write your answers. No pausing to Google. Let's find out where you r
 - Do **Day 44's shadowing** for fluency and rhythm ✅
 - If you're targeting IELTS, jump to **Days 88–89** ⭐
 
-*(Emphasise.)* At your level, **more grammar gives almost zero return**. Vocabulary range and speaking confidence are where your gains are. ✅
+*(Emphasise.)* At this level, **more grammar drills give you very little back**. Vocabulary range and speaking confidence are where your gains are. ✅
 
 ---
 
@@ -346,9 +348,11 @@ I'll reply to as many as I can with a specific recommendation. ✅
 
 - Days 01–30 → the mistakes ✅
 - Days 31–45 → translation and fluency ✅
-- Days 46–65 → the complete grammar system ✅
+- Days 46–65 → the core grammar system ✅
 
-*(Emphasise.)* **Your grammar work is done.** ✅ Genuinely. Everything from Day 66 onwards is a different kind of skill.
+*(Emphasise.)* **The grammar that was holding your speaking back is now behind you.** ✅ Genuinely. Everything from Day 66 onwards is a different kind of skill.
+
+*(Honest note.)* ⭐ That doesn't mean there's no English grammar left in the world — there always is. ✅ It means you now have **enough** to speak accurately, and more rules won't be what unlocks fluency. ⭐
 
 *(Energetic.)*
 

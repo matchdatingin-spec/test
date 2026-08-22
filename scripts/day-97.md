@@ -87,9 +87,9 @@ Today, no grammar. Just the honest answer to why this happened — and what actu
 
 *(Pause.)* Not reading. Not writing exams. **Speaking.** 🗣️
 
-*(Firmly.)* For most Malayali students: maybe **20 hours**. Total. ✅ Across twelve years. ⚠️
+*(Firmly.)* For a lot of us: a **handful of hours**. Total. ✅ Across twelve years. ⚠️ Think back honestly — how many times did a teacher actually make you **talk**?
 
-*(Emphasise.)* ⭐ So you don't have twelve years of speaking experience. You have **twenty hours**. ✅
+*(Emphasise.)* ⭐ So you don't have twelve years of speaking experience. You have twelve years of **reading and writing** experience, and very little speaking. ✅
 
 *(Warm.)* And twenty hours is **nothing**. ✅ Nobody becomes fluent in twenty hours — in any language, at any age, with any teacher. ⭐
 
@@ -113,7 +113,7 @@ Today, no grammar. Just the honest answer to why this happened — and what actu
 
 *(Explain.)* Kerala has genuinely excellent literacy and school enrolment. ✅ That's a real achievement. ⭐
 
-*(But.)* English was taught as an **examinable subject**, like history or maths. ✅ And an exam can only test what you can **write down**. ✅
+*(But.)* English was taught as an **examinable subject**, like history or maths. ✅ And our school exams almost only tested what you could **write down**. ✅ *(Speaking can be examined — IELTS and OET both do it. Our board exams simply didn't.)*
 
 *(The consequence.)*
 
@@ -200,14 +200,14 @@ Today, no grammar. Just the honest answer to why this happened — and what actu
 | builds **understanding** ✅ | builds **production** ⭐ |
 | comfortable 😌 | uncomfortable ⚠️ |
 
-*(Emphasise.)* ⭐ Most Malayali learners run at roughly **95% input, 5% output.** ⚠️
+*(Emphasise.)* ⭐ Most Malayali learners run **overwhelmingly** on input, with almost no output. ⚠️
 
 *(The consequence.)* That's exactly why: ✅
 - ✅ You **understand** English films 👂
 - ✅ You can **read** English newspapers 📖
 - ⚠️ You **freeze** when you have to speak 🧊
 
-*(Firmly.)* Your **passive** vocabulary is maybe 8,000 words. Your **active** vocabulary is maybe 1,500. ✅ 🔗 *(Day 77)*
+*(Firmly.)* For most learners in this position, the words you **recognise** far outnumber the words you can actually **use** — often by several times over. ✅ 🔗 *(Day 77)*
 
 *(Emphasise.)* ⭐ You're not short of English. **You're short of English you've actually used.** ✅
 
@@ -232,7 +232,7 @@ Today, no grammar. Just the honest answer to why this happened — and what actu
 
 ### ⭐ Shift 1 — From rules to habits 💪
 
-*(Explain.)* You now **know** the rules. Days 46–65 covered the entire grammar system. ✅
+*(Explain.)* You now **know** the rules. Days 46–65 covered the core grammar system. ✅
 
 *(Firmly.)* You don't need more rules. ✅ You need the ones you have to become **automatic** — and that happens only through **repetition under mild pressure**. ⭐
 
@@ -262,13 +262,15 @@ Today, no grammar. Just the honest answer to why this happened — and what actu
 
 *(Explain.)* 🔗 *(Day 36)* **Flow beats accuracy** while speaking. ✅
 
-*(Firmly.)* Every time you speak fast and slightly wrong, you strengthen the **direct** pathway. ✅ Every time you speak slowly and perfectly, you strengthen the **translation** pathway. ⚠️ 🔗 *(Day 37)*
+*(Firmly.)* When you speak at a natural pace and let small errors go, you're training the **direct** pathway. ✅ When you stop to construct every sentence perfectly, you're rehearsing the **translation** pathway. ⚠️ 🔗 *(Day 37)*
 
 *(Emphasise.)*
 
-> ### 👉 Fast and slightly wrong is **better practice** than slow and perfect. ⭐
+> ### 👉 For **fluency practice**, moving at speed beats stopping to be perfect. ⭐
 
-*(Warm.)* Which means: **give yourself permission to be worse than you are.** ✅ Temporarily. On purpose. 💙
+*(The balance, honestly.)* ⚠️ Don't take this too far — errors you never notice can settle in permanently. ✅ So run it in **two modes**: speak freely without stopping, then **review the recording** and fix one or two things. ⭐
+
+*(Warm.)* Which means: **give yourself permission to be worse than you are** — while you're talking. ✅ Temporarily. On purpose. 💙
 
 ### ⭐ Shift 4 — From alone to with people 🤝
 
@@ -299,9 +301,9 @@ Today, no grammar. Just the honest answer to why this happened — and what actu
 
 *(Firmly.)* That's it. ✅ No secret method. No app. No accent course. ⭐
 
-*(Emphasise.)* And notice — that's **60 hours** of speaking over six months. ✅ Compared to the **20 hours** you got in twelve years of school. ⭐
+*(Emphasise.)* And let's do the honest arithmetic. ✅ Twenty minutes a day for six months is about **60 hours** of practice — and at sixty percent out loud, that's roughly **36 hours of your own voice**. ⭐
 
-*(Slowly.)* Three times your entire school speaking experience — in six months, at twenty minutes a day. ✅
+*(Slowly.)* Compare that with the handful of hours of real speaking most of us got in twelve years of school. ✅ It's a completely different order of practice — at twenty minutes a day. ✅
 
 *(Warm.)* That's why it works. ✅ Not because the method is clever, but because you'd finally be **doing the thing**. 💪
 

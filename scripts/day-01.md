@@ -24,7 +24,9 @@ But a native speaker will never say that. They say:
 
 > ✅ *"Last night I watched a movie at the theatre."*
 
-Four small changes. *Last* night, not yesterday night. *Watched*, not saw. *A* movie, not one movie. *At the* theatre, not in theatre.
+Three real changes. *Last* night, not yesterday night. *A* movie, not one movie. *At the* theatre, not in theatre.
+
+*(And one that isn't an error.)* ⭐ I also said *watched* instead of *saw* — but **"I saw a movie" is perfectly correct English.** ✅ *Watched* fits viewing at home; *saw* is completely natural for going out to a film. So that one's a **choice**, not a mistake. ⭐
 
 Have you ever said the wrong one? Be honest. Type "yes" in the comments right now.
 

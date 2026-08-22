@@ -142,7 +142,7 @@ Yesterday I told you the **why**. ✅
 **Block 3:** **P-E-R-F-O** on one topic daily, recorded 🎙️
 **Real use:** **three** interactions ✅
 
-**Expect:** ⭐ You'll reach 90 seconds without stopping by the end of the week. ✅
+**Aim for:** ⭐ 90 seconds without stopping by the end of the week. ✅
 
 #### 📅 Week 4 — Storytelling + first checkpoint
 
@@ -153,7 +153,7 @@ Yesterday I told you the **why**. ✅
 
 *(Firmly.)* ⭐ **Do the comparison.** ✅ Hearing four weeks of change is what carries you through weeks 5 to 12. ⭐
 
-**Expect after Phase 1:** freezes down to ~4. Speaking 90 seconds. Habit established. ✅
+**Typical picture after Phase 1:** noticeably fewer freezes. Speaking around 90 seconds. Habit established. ✅ *(Your own numbers will vary — compare with **your** Day 1, not with anyone else.)*
 
 ---
 
@@ -175,7 +175,7 @@ Yesterday I told you the **why**. ✅
 **Block 3:** learn **phrases**, not rules — *at home, on the bus, for three years* ⭐
 **Real use:** 7 interactions ✅
 
-*(Firmly.)* ⭐ 🔗 *(Day 91)* This addresses roughly **30%** of all your errors. ✅ The highest-value week in the plan. ⭐
+*(Firmly.)* ⭐ 🔗 *(Day 91)* These are among the **most frequent** errors we see in the comments. ✅ Arguably the highest-value week in the plan. ⭐
 
 #### 📅 Week 7 — Writing
 
@@ -243,15 +243,17 @@ Yesterday I told you the **why**. ✅
 
 ---
 
-### 📊 The final checkpoint — Day 90
+### 📊 The final checkpoint — end of Week 12
+
+*(Note.)* ✅ Twelve weeks is 84 days — so use the **last few days** to run these checks and write your next plan. ⭐
 
 *(The measurement that proves it.)*
 
-*(Instruct.)* On Day 90, do **all** of these: ✅
+*(Instruct.)* At the end of the plan, do **all** of these: ✅
 
 | ✅ | Test |
 |---|---|
-| ⬜ | Re-record the **baseline topic**. Listen to Day 1 and Day 90 back to back 🎙️ ⭐ |
+| ⬜ | Re-record the **baseline topic**. Listen to Day 1 and today back to back 🎙️ ⭐ |
 | ⬜ | Re-do **Day 94's** four-skill test 📊 |
 | ⬜ | Count your **word notebook** 📚 |
 | ⬜ | Count your **freezes** in the recording 🧊 |
@@ -339,15 +341,15 @@ Yesterday I told you the **why**. ✅
 
 *(Emphasise.)* ⭐ **Three columns. One line a day.** ✅ Ten seconds to fill in — and the visible chain is what keeps you going. 🔗
 
-### 💙 And what happens after Day 90
+### 💙 And what happens when the 90 days are up
 
 *(Close the section honestly.)*
 
 *(Explain.)* On Day 91, you won't be fluent. ✅ You'll be **comfortable**. ⭐
 
-*(Firmly.)* And then the plan is simple: **keep going.** ✅ Another 90 days at the same 20 minutes takes you from comfortable to genuinely fluent. ⭐
+*(Firmly.)* And then the plan is simple: **keep going.** ✅ Another 90 days at the same 20 minutes moves you a long way from comfortable towards genuinely fluent. ⭐ *(How far depends on you — there's no fixed number of hours that hands out fluency.)*
 
-*(Sincere.)* There's no finish line, and that's fine. ✅ Because by Day 90 the 20 minutes won't feel like study anymore. It'll just be **something you do**. 💪
+*(Sincere.)* There's no finish line, and that's fine. ✅ Because by the end of this plan the 20 minutes won't feel like study anymore. It'll just be **something you do**. 💪
 
 ---
 
@@ -378,11 +380,11 @@ Comment: **"Baseline recorded ✅"**
 
 *(Slowly.)* And here's the honest arithmetic that should encourage you. 📊
 
-*(Explain.)* Twelve years of school gave you roughly **20 hours** of speaking. ✅ 🔗 *(Day 97)*
+*(Explain.)* Twelve years of school gave most of us only a **handful of hours** of real speaking. ✅ 🔗 *(Day 97)*
 
-*(Firmly.)* This plan gives you **60 hours** — in 90 days. ⭐
+*(Firmly.)* This plan gives you about **30 hours of practice** in 90 days — and with sixty percent out loud, roughly **18 hours of your own voice**. ⭐
 
-*(Emphasise.)* **Three times your entire school speaking experience, in three months.** ✅
+*(Emphasise.)* **That's very likely more real speaking than your entire school career gave you — in three months.** ✅
 
 *(Sincere.)* That's why it works. ✅ Not because it's clever. Because you'd finally be **doing the thing** you were never given time to do. 💪
 

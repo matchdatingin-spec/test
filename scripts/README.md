@@ -35,7 +35,7 @@ Every script follows the same 5-part structure:
 |---|---|---|
 | [01–30](#days-0130--mistakes-and-confusing-word-pairs) | Mistakes and word pairs | the 30 errors that mark a Malayali speaker |
 | [31–45](#days-3145--translation-thinking-in-english-fluency) | Translation and fluency | five named frameworks for producing English |
-| [46–65](#days-4665--grammar-deep-dive) | Grammar | the complete system, logic-first |
+| [46–65](#days-4665--grammar-deep-dive) | Grammar | the core system, logic-first |
 | [66–73](#days-6673--pronunciation) | Pronunciation | stress, chunking, and the sounds that matter |
 | [74–77](#days-7477--vocabulary) | Vocabulary | upgrades plus a memory method |
 | [78–90](#days-7890--career-and-exams) | Career and exams | interviews, workplace writing, IELTS, OET |
@@ -203,12 +203,12 @@ Days 99 and 100 use `[PLACEHOLDERS]` for every commercial specific, with guidanc
 These callbacks are deliberate — they make the series feel like one course rather than 100 separate videos.
 
 **Structural threads**
-- **The boss rule** *(Day 03)* — only one word carries the past; reused in Days 16, 17, 28, 53, 61.
+- **The boss rule** *(Day 03)* — within one verb group, only one word carries the past; reused in Days 16, 17, 28, 53, 61.
 - **The invisible "be"** — Malayalam has no separate *be* verb; Days 04, 07, 09, 16, 28, 52, 63.
-- **One job, one word** — one past, one negative, one uncertainty, one -s; Days 03, 09, 22, 26, 53, 55.
-- **States don't take -ing** — Days 01, 19, 27, 46, 47, 54.
+- **One job, one word** — one past marker per verb group, one negative per clause, one helper at a time; Days 03, 09, 22, 26, 53, 55.
+- **State meanings don't take -ing** — Days 01, 19, 27, 46, 47, 54.
 - **Person + verb first** — the reflex that fixes S-O-V leakage; Days 32, 36, 39, 71.
-- **Flow beats accuracy while speaking** — Days 36, 38, 40, 44, 95.
+- **Flow first while speaking, accuracy in review** — Days 36, 38, 40, 44, 95.
 
 **Cultural threads**
 - **Politeness lives in the verb tail in Malayalam, at the front in English** — Days 04, 08, 09, 13, 33, 42, 83.
@@ -221,7 +221,7 @@ These callbacks are deliberate — they make the series feel like one course rat
 
 **The five ideas that run through everything** *(summarised in Day 100)*
 1. Malayalam already marks most of these distinctions — you're relocating markers, not learning concepts.
-2. English is economical: one job, one word.
+2. English is economical: one job, one word *(one past marker per verb group, one negative per clause)*.
 3. Politeness sits in a different place.
 4. Structure matters more than vocabulary.
 5. Your accent is a home, not a problem.
