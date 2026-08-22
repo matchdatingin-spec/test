@@ -16,11 +16,11 @@ That person was not lying. But they gave you only 10% of the truth. And that 10%
 
 > ❌ *"If I had money, I will buy a car."*
 > ❌ *"I will like to join your class."*
-> ❌ *"He said he will come tomorrow."*
+> ⚠️ *"He said he will come tomorrow."*
 
 *(Pause.)*
 
-Three sentences. Three wrong *wills*. And in all three, the correct word was **would**.
+Three sentences. The first two are simply **wrong** — they need *would*. The third is the interesting one: it's **acceptable** in real speech, but *would* is the safer, exam-correct choice, and we'll see exactly why.
 
 But here's the confusing part — *would* is NOT past in any of those sentences. Sentence one is about the future. So how can a "past tense" word talk about the future?
 
@@ -42,7 +42,7 @@ Use *will* when you believe the thing is **actually going to happen.** It's real
 - *It will rain tomorrow.* → I expect real rain.
 - *She will pass the exam.* → I believe it truly.
 
-**WILL = 100% real, in this world.**
+**WILL = you're talking about the real world.**
 
 ### 💭 WOULD = THE IMAGINARY WORLD
 
@@ -67,9 +67,9 @@ Yes, *would* also does one past job: **reported speech** and **past habits**.
 - ✅ *He said he **would** come.* ← he said "I will come," but we report it in the past
 - ✅ *When I was a child, we **would** go to the beach every Sunday.* ← old habit
 
-Notice the logic still holds: both are **not happening now.** They're outside the real, present world. *Would* is always slightly "away from reality."
+*(Be honest about this.)* ⚠️ Those two are **real** — the beach trips genuinely happened! ✅ So *would* doesn't always mean "imaginary." The one thing all its jobs share is **distance**: distance from the real world *(a dream)*, or distance in **time** *(a past habit, a past report)*.
 
-*(Slogan.)* **Will = here and now, really. Would = over there, in my head.**
+*(Slogan.)* **Will = close and direct. Would = one step away** — away in reality, or away in time. ⭐
 
 ---
 
@@ -144,7 +144,9 @@ Compare:
 - ✅ *He **says** he **will** come.* ← reporting now → will
 - ✅ *He **said** he **would** come.* ← reported in the past → would
 
-**Simple rule: said → would. Says → will.**
+**Safe default: said → would. Says → will.** ⭐
+
+*(One honest caveat.)* ⚠️ If the plan is **still** true and still in the future when you report it, native speakers do also say ✅ *"He said he **will** come tomorrow."* ✅ It isn't a crime. But **would** is the safer, exam-correct default — so make *would* your habit.
 
 ### Five more real-life examples
 
@@ -187,13 +189,15 @@ English is not relaxed. English demands you **declare your world** and stay in i
 | **Imaginary, unlikely** | if + past … **would** | If I **had** the money, I **would** buy a car. *(I don't have it)* |
 | **Impossible, past regret** | if + had + V3 … **would have** | If I **had had** the money, I **would have** bought a car. *(too late)* |
 
-*(Say clearly.)* Three levels: **maybe → dream → too late.** Never mix them. If your sentence has *had*, its partner must be *would*. If it has present tense, its partner must be *will*.
+*(Say clearly.)* Three levels: **maybe → dream → too late.** These three are your safe **default patterns** — learn them as templates.
 
-**Quick self-check while speaking:** the two halves must **match**.
+**Quick self-check while speaking:** the two halves normally **match**.
 - ✅ present + will
 - ✅ past + would
 - ❌ past + will ← the classic Malayali error
-- ❌ present + would
+- ⚠️ present + would ← usually wrong in these patterns
+
+*(Advanced note — say it once, don't dwell.)* ⭐ The result half can also take **could** or **might** when you're less sure: ✅ *If I had the money, I **might** buy a car.* ✅ So the three rows are reliable templates, not the only legal combinations.
 
 ### Trap 2: The invisible "be"
 
@@ -208,7 +212,7 @@ Same as Day 04 — because Malayalam often has no separate "be" verb, we drop it
 
 ### Trap 3: Using *will* for polite requests
 
-Malayalis often say ❌ *"Will you please send me the file?"* — grammatically okay, but it sounds like an **order** from a boss.
+Malayalis often say ⚠️ *"Will you please send me the file?"* — this is correct English, and with a warm tone it's perfectly polite. But it's **direct**, and with a flat tone it can land like an instruction from a boss. There are softer options.
 
 The soft, safe versions:
 - ✅ **Could you send me the file?** ← best

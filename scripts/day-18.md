@@ -216,7 +216,7 @@ Or more naturally:
 | വീട്ടിൽ | in house | **at home** | fixed phrase |
 | Facebook-ൽ | in Facebook | **on Facebook** | platforms take *on* |
 
-*(Point out.)* **Online things always take ON:**
+*(Point out.)* **Platforms and networks usually take ON:**
 - ✅ *on WhatsApp, on Instagram, on YouTube, on the internet*
 - ✅ *I saw it **on** YouTube.*
 - ❌ *I saw it in YouTube.*

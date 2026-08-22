@@ -183,9 +183,11 @@ Build it:
 
 *(Emphasise.)* ❌ *"The police is coming"* → ✅ **"The police are coming."** ✅
 
-*(And "people"!)* ⚠️ **People** is already plural — there's no "peoples"!
+*(And "people"!)* ⚠️ **People** is already the plural of *person* — so never *"peoples"* for individuals!
 - ✅ *Many people **are** waiting.* ✅
 - ❌ *Many peoples are...* ❌
+
+*(Tiny footnote, so nobody catches you out.)* ⭐ *Peoples* **does** exist for **nations or ethnic groups**: ✅ *the indigenous **peoples** of Australia.* ✅ You'll almost never need it — just don't be surprised by it. ⭐
 
 ---
 
@@ -253,7 +255,7 @@ Build it:
 > ✅ *The **list** of names **has** been sent.* ✅
 > ✅ *The **quality** of the products **is** excellent.* ✅
 
-*(The trick.)* **Cross out everything between the subject and the verb.** ✂️ ✅
+*(The trick.)* **Cross out the describing phrase between the subject and the verb.** ✂️ ✅
 
 #### Trap 13: Two subjects joined by "and" ➕
 > ✅ *Ravi and Anu **are** coming.* ✅ *(two people = plural)*
@@ -391,7 +393,7 @@ Build it:
 - ✅ *My family **is** large.* ✅ *(American — safest)*
 - ✅ *My family **are** all doctors.* ✅ *(British — when emphasising individuals)*
 
-*(Advice.)* Use **singular**. ✅ It's correct everywhere and simpler.
+*(Advice.)* Use **singular** as your default. ✅ It's accepted everywhere and simpler. *(Plural is normal in British English when you're thinking of the members individually.)*
 
 *(Same for.)* **team, staff, group, committee, class, government, company** → treat as **singular** ✅
 
@@ -425,9 +427,11 @@ Build it:
 
 *(Firmly.)* And remember the one trick that solves most of them:
 
-> ### 🎯 **See "of"? Cross out everything after it.** ✂️
+> ### 🎯 **See "of"? Cross out the of-phrase and check what's left.** ✂️
 
 *(Practise.)* *One ~~of my friends~~ **is**...* ✅ *The quality ~~of the products~~ **is**...* ✅
+
+*(One family of exceptions — we covered it above.)* ⚠️ With **amounts** — *half of, 50% of, a number of, a lot of* — the noun **after** *of* decides: ✅ *Half of the students **are** here.* ⭐
 
 *(Big close.)*
 
@@ -437,4 +441,4 @@ Tomorrow, Day 56 — **countable and uncountable nouns.** 📦
 
 *(Warm.)* And I'll explain the genuinely interesting reason **why** English decided that *furniture* can't be counted but *chairs* can. There's a logic. It's just a weird one. 😄
 
-**Find the real subject, not the nearest noun. See "of"? Cross it out.** ✂️ See you tomorrow! 👋
+**Find the real subject, not the nearest noun. See "of"? Cross out the of-phrase — unless it's an amount.** ✂️ See you tomorrow! 👋

@@ -55,9 +55,11 @@ PAST ══════════════✋NOW
 - ✅ *She **has been** waiting since morning.* → she's still waiting ✅
 - ✅ *It **has been** raining all day.* → it's still raining ✅
 
-**HAVE/HAS BEEN = started before, still true now.**
+**HAVE/HAS BEEN = started before, and it reaches now.**
 
-### 2️⃣ HAD BEEN = started earlier, and STOPPED before another PAST event ⛔
+*(Small precision note.)* ✅ It can also mean the action **just** stopped, with the result still visible: ✅ *I'm tired — I've been running.* ✅ The link to **now** is what matters, not that it's still in progress.
+
+### 2️⃣ HAD BEEN = it was already going before another PAST event ⛔
 
 There are **two** past moments. *Had been* covers the **earlier** one.
 
@@ -66,18 +68,20 @@ PAST ═══════⛔ (2nd past event) ──── NOW
    (started)  (then this happened)
 ```
 
-- ✅ *I **had been** waiting for an hour when he finally came.* → waiting stopped when he came ⛔
+- ✅ *I **had been** waiting for an hour when he finally came.* → the hour of waiting was already done by then ⛔
 - ✅ *She **had been** working there for 5 years before she resigned.* → then she left
-- ✅ *It **had been** raining, so the road was wet.* → rain stopped, road stayed wet
+- ✅ *It **had been** raining, so the road was wet.* → rain came first, road stayed wet
 
-**HAD BEEN = finished before another past moment. It does NOT touch now.**
+**HAD BEEN = it was already under way before that past moment. It doesn't connect to now.**
+
+*(Careful — one honest correction to a myth.)* ⚠️ *Had been* does **not** always mean the action stopped. ✅ *She had been working there for five years when she was promoted — and she stayed another ten.* ✅ It tells you the action was **already running** at that past point; whether it continued afterwards depends on the story. ⭐
 
 ### 🔑 The 3-second decision
 
 *(Big on screen.)*
 
-> **Is it still true NOW?** → **have / has been** ✅
-> **Did it stop before another PAST event?** → **had been** ⛔
+> **Does it connect to NOW?** → **have / has been** ✅
+> **Was it already going before another PAST event?** → **had been** ⛔
 
 *(Slogan.)*
 > **HAVE BEEN touches now. HAD BEEN stops in the past.**
@@ -232,11 +236,13 @@ Malayalam uses **present tense** for actions that started in the past and contin
 - ❌ *I had been living in Kochi since 2020.* *(if you still live there!)* → ✅ **I've been living in Kochi since 2020.** ✅
 - ❌ *He had been my friend for 10 years.* *(if still friends!)* → ✅ **He's been my friend for 10 years.** ✅
 
-*(Rule — say it firmly.)* **"Had" pushes the sentence AWAY from now.** If the thing is **still true**, never use *had*. ⛔
+*(Rule — say it firmly.)* **"Had" moves your viewpoint back to a PAST moment.** If you're speaking from **today**, use *have/has been*. ⛔
 
-*(Self-check.)* Ask: **"Is it still true today?"**
-- Yes → **have/has been** ✅
-- No, and something else happened after → **had been** ✅
+*(Self-check.)* Ask: **"Am I measuring up to today, or up to a moment in the past?"**
+- Up to today → **have/has been** ✅
+- Up to an earlier past moment → **had been** ✅
+
+*(Advanced flag — say it once.)* ⭐ *Had been* is fine even for things that are still true, **if** your viewpoint is in the past: ✅ *By 2020, I **had been** living in Kochi for ten years* — and I still live here. ✅ The test is your **viewpoint**, not whether the fact ended.
 
 ### Trap 3: "Has" vs "have" with names and groups
 

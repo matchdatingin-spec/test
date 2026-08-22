@@ -17,7 +17,7 @@ You can **answer** questions reasonably well. But when it's **your** turn to ask
 Or this comes out:
 
 > ❌ *"Where you are working?"*
-> ❌ *"You are coming tomorrow?"*
+> ⚠️ *"You are coming tomorrow?"* *(only works as a "confirm this for me" question)*
 > ❌ *"What is your name?"* *(fine!)* ... *"What you are doing?"* ❌
 
 *(Point at camera.)*
@@ -89,7 +89,7 @@ Look: *"You **like** tea."* There's no helper — just *like*. So what jumps?
 > **Pattern 4: [Polite opener] + normal sentence?** → soft/polite questions
 > **Pattern 5: Statement + tag?** → checking questions
 
-*(Reassure.)* Five shapes. Every question in English fits into one of them. Let's build each one. ✅
+*(Reassure.)* Five shapes. These cover almost every question you'll need to **build** from scratch. Let's do each one. ✅
 
 ---
 
@@ -167,7 +167,9 @@ Compare these two shapes:
 
 *(Emphasise heavily.)*
 
-> ### 👉 After a polite opener, DO NOT swap. Use normal statement order.
+> ### 👉 Inside these polite openers, DO NOT swap. Use normal statement order.
+
+*(Small clarification.)* ⚠️ This applies when the question sits **inside** a bigger sentence — *Could you tell me...* / *Do you know...* ✅ A short polite word in front changes nothing: ✅ *"Excuse me, where **is** the station?"* stays swapped. ⭐
 
 *(Explain why this is good news for you.)* Because **normal order is easier for a Malayali brain!** You don't have to flip anything. Just say the polite opener, then say the sentence straight. ✅
 
@@ -199,7 +201,9 @@ Compare these two shapes:
 | **Is** he coming? | |
 | **Would** you like some tea? | *(Day 04)* |
 
-*(Malayali warning.)* ❌ Never just raise your tone: *"You are coming tomorrow?"* ❌ That's the Malayalam **-ഓ** habit! You must **swap**: ✅ **"Are you coming tomorrow?"** ✅
+*(Malayali warning.)* ⚠️ Don't **rely** on just raising your tone: *"You are coming tomorrow?"* Build the real question instead — ✅ **"Are you coming tomorrow?"** ✅
+
+*(Accuracy note, so you're not confused later.)* ⭐ Native speakers **do** say *"You're coming tomorrow?"* — with a rising tone it means *"I thought so — confirm it for me?"* ✅ It's real English, but it's a **confirming** question, not the neutral one. ⚠️ Because Malayalam's **-ഓ** habit pushes you into it **every** time, train the **swap** until it's automatic. ⭐
 
 #### 🅱️ Pattern 2 — Information questions: [Q-word] + helper + person + verb?
 
@@ -325,8 +329,12 @@ I say the statement, you say the question:
 | Statement contains | Question helper |
 |---|---|
 | **am / is / are / was / were** | use **is/are/was/were** ✅ |
-| **can / will / should / have** | use that same word ✅ |
+| **can / will / should** | use that same word ✅ |
+| **have** as a *helper* — *they **have** finished* | use **have/has** ✅ → *Have they finished?* |
+| **have** meaning *own/possess* — *you **have** time* | hire **do** ✅ → *Do you have time?* |
 | **nothing** *(just a plain verb)* | hire **do / does / did** ✅ |
+
+*(Say this clearly — it trips everyone up.)* ⭐ **Have** has two jobs. ✅ Helper *have* + third form flips: *Have you eaten?* ✅ Possession *have* takes *do*: *Do you have a pen?* ⭐
 
 *(Test.)*
 - *You **are** busy* → *Are you busy?* ✅ *(be verb present)*
@@ -340,9 +348,9 @@ I say the statement, you say the question:
 - ❌ *Coming tomorrow?* → ✅ **Are you coming tomorrow?**
 - ❌ *Where going?* → ✅ **Where are you going?**
 
-*(Rule.)* **Every English question needs a person.** Even in casual speech, don't drop it. ✅
+*(Rule.)* **A full English question needs a subject.** When you're building a proper question, put the person in. ✅
 
-*(Exception — okay in very casual speech among friends.)* ✅ *"Coming?"* ✅ *"Ready?"* ✅ These are fine informally. But never in an interview or with a stranger. ✅
+*(Two real exceptions, so you're not confused.)* ✅ Short casual questions genuinely drop it: *"Coming?"* · *"Ready?"* — fine with friends, not in an interview. ✅ And **subject questions** don't need one at all, because the question word **is** the subject: ✅ *"Who called?"* ⭐
 
 ### Trap 4: Only asking, never following up
 

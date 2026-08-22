@@ -15,7 +15,7 @@ Two sentences. Which is correct?
 > *"If I **was** rich, I would buy a house."*
 > *"If I **were** rich, I would buy a house."*
 
-*(Pause.)* The second one. ✅ **"If I were."** Even though *I was* is normally correct English!
+*(Pause.)* The second one is the **safe, exam-correct** choice. ✅ **"If I were."** Even though *I was* is normally correct English! *(And yes — you'll hear "If I was" from native speakers too. More on that later.)*
 
 *(Confused gesture.)* And it gets stranger. Look:
 
@@ -80,7 +80,7 @@ In English, moving a verb **one step back in time** doesn't always mean the past
 - ❌ past … will ❌ ← the classic Malayali error
 - ❌ had … would ❌
 
-*(Rule.)* **Pick a level and stay on it.** ✅
+*(Rule.)* **Pick a level and stay on it.** ✅ *(These three are your safe templates. Advanced speakers do mix them — but master the three first.)*
 
 ### The Malayalam clue 🪷
 
@@ -123,7 +123,7 @@ Build it:
 
 *(The critical rule — emphasise heavily!)*
 
-> ### 👉 NEVER put "will" in the "if" half.
+> ### 👉 Don't put "will" in the "if" half.
 
 - ❌ *If it **will** rain tomorrow...* ❌
 - ✅ *If it **rains** tomorrow...* ✅

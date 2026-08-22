@@ -51,7 +51,7 @@ We've hit this problem on Days 04, 07, 09, 16, and 28. Today we fix it at the ro
 | **he / she / it** | **is** | **was** |
 | **you / we / they** | **are** | **were** |
 
-*(Emphasise.)* Six words. That's the **entire** be-verb system in English. ✅
+*(Emphasise.)* Six words. Those are **all the present and past forms** you'll ever need. ✅ *(Plus the plain form **be**, and **been** for the perfect — Day 54.)*
 
 *(Memory aid.)*
 > **I am · He is · They are.**
@@ -79,9 +79,11 @@ We've hit this problem on Days 04, 07, 09, 16, and 28. Today we fix it at the ro
 
 *(Point out row 3!)* This is the subtle one. **-ing is not a complete verb** — it always needs a *be* partner. ✅
 
-*(Rule.)* **-ing can never stand alone.** ✅
+*(Rule.)* **An -ing verb can't be your main verb on its own.** ✅
 - ❌ *I working* ❌
 - ✅ *I **am** working* ✅
+
+*(Advanced note — say it once.)* ⭐ *-ing* words **can** appear without *be*, but then they're doing a different job — acting like a noun or a description: ✅ *Swimming helps.* · *I saw her leaving.* ✅ For your **main verb**, always pair *-ing* with *am/is/are/was/were*. ⭐
 
 ### The 4 jobs of "be"
 
@@ -120,7 +122,9 @@ We've hit this problem on Days 04, 07, 09, 16, and 28. Today we fix it at the ro
 
 **agree · know · understand · remember · forget · need · want · like · love · hate · think · hope · mean · belong · own** ✅
 
-*(Say it.)* These are **verbs**. They **never** take am/is/are. ✅
+*(Say it.)* These are **verbs**. Don't put am/is/are **directly** in front of them. ✅
+
+*(One clarification, so a native speaker doesn't confuse you later.)* ⭐ Some of these do appear with *be* + **-ing** when the meaning shifts: ✅ *I'm **thinking** about it.* · *I'm **hoping** to finish today.* ✅ What's always wrong is *be* + the **plain** verb: ❌ *I am agree.* ⭐
 
 ---
 
@@ -255,7 +259,9 @@ Build **Half 2:**
 | was not | **wasn't** |
 | were not | **weren't** |
 
-*(Emphasise.)* Native speakers **always** contract these in speech. Say **"I'm," "he's," "they're"** — not the full forms. ✅
+*(Emphasise.)* Native speakers contract these **most of the time** in normal speech. Make **"I'm," "he's," "they're"** your default. ✅
+
+*(Note.)* ✅ The full forms aren't wrong — they come back for **emphasis** and careful speech: ✅ *"I **am** serious."* ⭐
 
 ---
 
@@ -329,10 +335,12 @@ If the answer is no — insert **be**. ✅
 | There is many problems | **There are many problems** |
 | My family are big | **My family is big** ✅ |
 
-*(Rule.)* **Look at the noun right before the be-verb.**
+*(Rule.)* **Find the MAIN word of the subject — the thing the sentence is really about.**
 - One thing → **is/was** ✅
 - More than one → **are/were** ✅
 - *everyone/everybody/nobody* → **is** ✅ *(Day 23)* 🔗
+
+*(Warning — don't just grab the nearest word!)* ⚠️ ✅ *The box **of chocolates** **is** on the table.* ✅ The main word is *box*, not *chocolates*. 🔗 *(Day 55 drills this properly.)*
 
 ### Trap 4: "Is" for actions in the present
 

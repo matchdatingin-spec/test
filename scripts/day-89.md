@@ -27,9 +27,9 @@ Good news to start with.
 
 *(Explain why.)* Because Task 2 asks you to **think** — you need ideas, a position, arguments. ✅
 
-*(Emphasise.)* Task 1 asks you to **describe**. ✅ No opinion. No ideas needed. Just accurate reporting of what's in front of you. ⭐
+*(Emphasise.)* Task 1 asks you to **describe**. ✅ No opinion. No outside knowledge. Just accurate, selective reporting of what's in front of you. ⭐
 
-*(Firmly.)* Which means it's **formulaic**. ✅ Same structure every time. Same language every time. ✅
+*(Firmly.)* Which means it's **highly formulaic**. ✅ The same four-part plan works every time — though the **language** shifts with the visual: charts need trends, maps need locations, processes need stages. ✅
 
 *(Lean in.)*
 
@@ -74,9 +74,9 @@ Good news to start with.
 > ### 👉 **Never** write what you think, why it happened, or what should be done. ✅
 
 *(Show the errors.)*
-| ❌ Forbidden in Task 1 | ✅ Allowed |
+| ❌ Avoid in Task 1 | ✅ Do this instead |
 |---|---|
-| *This is because of urbanisation* ⚠️ *(a reason)* | *The figure rose sharply* ✅ |
+| *This is because of urbanisation* ⚠️ *(a reason the chart never showed)* | *The figure rose sharply* ✅ |
 | *I think this trend is worrying* ⚠️ *(opinion)* | *The trend continued upward* ✅ |
 | *The government should act* ⚠️ *(solution)* | *Figures remained stable* ✅ |
 | *This is a positive development* ⚠️ | *This was the highest of the three* ✅ |
@@ -105,7 +105,7 @@ Good news to start with.
 - ✅ the **highest** and **lowest** ✅
 - ✅ any **dramatic** change or **crossover** ⭐
 
-*(⚠️ No specific numbers in the overview.)* ✅ Save those for the body. ✅
+*(⚠️ Keep detailed numbers out of the overview.)* ✅ Save the figures for the body — the overview is for the **big picture**. ✅ *(A single figure is allowed if it IS the headline, but don't clutter it.)*
 
 ### ⏰ The 20-minute plan
 
@@ -117,7 +117,7 @@ Good news to start with.
 
 *(Emphasise.)* ⭐ **Three minutes finding your overview** ✅ is the best-spent time in Task 1. ⭐
 
-*(Word count.)* **150 minimum · 170–190 target** ⭐ ✅ Don't write 250 — you'll steal time from Task 2, which is worth **twice** as much. ⚠️
+*(Word count.)* **150 is the official minimum · 170–190 is our practical target** ⭐ ✅ Don't write 250 — you'll steal time from Task 2, which is worth **twice** as much. ⚠️
 
 *(Slogan.)*
 > **Select, don't list. Overview always. No opinion ever.** 📊 ⭐
@@ -174,13 +174,13 @@ Good news to start with.
 | *visiting* | **travelled to** ✅ |
 | *between 2010 and 2020* | **over an eleven-year period from 2010 to 2020** ⭐ |
 
-*(⚠️ Never copy the question.)* ✅ Copied words don't count toward 150. ⚠️
+*(⚠️ Never copy the question.)* ✅ Copied wording demonstrates none of **your** English, so it earns you nothing — paraphrase it instead. ⚠️
 
 ---
 
 ### 🅒 Step 3 — The overview *(the crucial paragraph)*
 
-> ### **Formula: "Overall, ..." + the 2 big features, no specific numbers** ✅
+> ### **Formula: "Overall, ..." + the 2 big features, kept free of detailed figures** ✅
 
 **Model:**
 > ✅ *"Overall, visitor numbers in all three states increased steadily until 2019, before falling dramatically in 2020. Rajasthan attracted the most tourists throughout the period, although Kerala saw the sharpest growth of the three before the final year."* ⭐
@@ -299,7 +299,7 @@ Good news to start with.
 | **Process diagram** 🔧 | **passive voice** + sequencing words ⭐ 🔗 *(Day 59!)* |
 | **Map** 🗺️ | describe **changes** between the two versions ✅ |
 
-*(For a process diagram.)* ⭐ 🔗 *(Day 59's passive is genuinely required here)*
+*(For a process diagram.)* ⭐ 🔗 *(Day 59's passive is the natural choice here — the doer is usually unknown or irrelevant. If the diagram names who does it, active voice is fine.)*
 > ✅ *"First, the raw material **is collected** and **transported** to the factory. It **is then washed** before **being crushed** into smaller pieces."* ⭐
 
 *(For a pie chart.)*
@@ -405,9 +405,9 @@ Good news to start with.
 | ⬜ | Overview has **no** specific numbers ✅ |
 | ⬜ | **Zero** reasons, opinions, or solutions ⚠️ |
 | ⬜ | Figures **selected**, not listed ⭐ |
-| ⬜ | At least **3** comparison phrases ✅ |
+| ⬜ | Several **comparison** phrases, not just a list ✅ |
 | ⬜ | Consistent **tense** ✅ |
-| ⬜ | **170–190** words ✅ |
+| ⬜ | Comfortably over **150** words *(170–190 is a good target)* ✅ |
 | ⬜ | *increase **by** / **to*** used correctly ✅ |
 | ⬜ | Finished in **20 minutes** ⏰ |
 
@@ -434,12 +434,14 @@ Good news to start with.
 
 *(Firmly.)* And the two habits that will move your Task 1 band fastest:
 
-> ### 🎯 1. Always write **"Overall,"** as your second paragraph ✅
-> ### 🎯 2. Never write **"because"** ⚠️
+> ### 🎯 1. Always write an **"Overall,"** overview paragraph ✅
+> ### 🎯 2. Don't explain **why** — no outside reasons ⚠️
 
-*(Explain.)* Two rules. ✅ One adds the paragraph examiners require; one removes the content that earns nothing. ⭐
+*(Explain.)* Two habits. ✅ One gives you the overview examiners look for; one removes the content that earns nothing. ⭐
 
-*(Emphasise.)* And remember the time discipline — **20 minutes, then move on.** ⏰ Task 2 is worth **twice** as much, and candidates who overrun on Task 1 lose more than they gain. ✅
+*(About "because.")* ⚠️ It's not a banned word — the danger is what usually follows it: an **outside reason** the chart never showed. ✅ If the visual itself shows the link, you may describe it. ⭐
+
+*(Emphasise.)* And remember the time discipline — **give Task 1 about 20 minutes, then move on.** ⏰ Task 2 is worth **twice** as much, and candidates who overrun on Task 1 lose more than they gain. ✅
 
 *(Big close.)*
 

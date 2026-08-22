@@ -153,7 +153,7 @@ Build it:
 - ✅ *I want to become fluent in English.*
 - ✅ *I want to speak English confidently.*
 
-*(Warning.)* Never say ❌ *"I want to talk in English fluently"* — drop the *in*. It's simply **speak English**. No preposition.
+*(Warning.)* Don't say ⚠️ *"I want to talk in English fluently"* for general ability — the natural phrase is **speak English**. No preposition.
 
 But — ✅ *"Let's talk in English"* is fine! Because there, *talk* = conversation, and *in English* = the medium. Feel the difference:
 - **Speak English** = have the skill.

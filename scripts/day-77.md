@@ -141,7 +141,7 @@ Today I'll show you why that fails, and give you a **3-step method** that makes 
 *(And the extra hook.)* If you can, add a **feeling** or a **picture**: 🖼️
 - ✅ *"**Bland** — the hostel sambar. No salt, no taste, three years."* 😅 ⭐
 
-*(Emphasise.)* That word is now **permanent**. ✅ Because it made you feel something. ✅
+*(Emphasise.)* That word will stick **far** better. ✅ Because it made you feel something. ✅
 
 *(The honest exception.)* ⚠️ For **abstract** words *(sincerity, justice, reluctant)*, using Malayalam **is** fine and faster. ✅ 🔗 *(Day 37)* Don't be a purist. ✅
 
@@ -182,7 +182,7 @@ Today I'll show you why that fails, and give you a **3-step method** that makes 
 | **After 1 week** | retrieve once ✅ |
 | **After 1 month** | retrieve once ✅ |
 
-*(Emphasise.)* ⭐ **Five retrievals, spread out** ✅ — that's usually enough for permanent memory. ✅ Far less work than daily revision. ⭐
+*(Emphasise.)* ⭐ **Five retrievals, spread out** ✅ — for most words that's enough to make them stick for a long time. ✅ Far less work than daily revision. ⭐ *(Words you keep using stay; words you never use again will still fade — that's normal.)*
 
 *(Practical.)* Use a **free app** if you like *(Anki, Quizlet)* ✅ Or just five pages in a notebook labelled *Today, Tomorrow, 3 days, 1 week, 1 month*. ✅ Move the word forward each time you get it right. ✅
 

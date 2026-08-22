@@ -56,14 +56,14 @@ Today: what Band 7 actually needs, criterion by criterion, and a full essay buil
 
 | Criterion | What it measures | Band 7 needs |
 |---|---|---|
-| **1. Task Response** 🎯 | did you answer the question fully? | a **clear position** throughout + all parts covered ✅ |
-| **2. Coherence & Cohesion** 🔗 | is it organised and logical? | clear **paragraphing**, one idea per paragraph ✅ |
+| **1. Task Response** 🎯 | did you answer the question fully? | a **clear position** throughout + all parts covered + ideas **developed** ✅ |
+| **2. Coherence & Cohesion** 🔗 | is it organised and logical? | clear **paragraphing**, each paragraph with one clear central topic ✅ |
 | **3. Lexical Resource** 📚 | vocabulary range and accuracy | some **less common** words, used correctly ✅ |
-| **4. Grammatical Range** ✍️ | sentence variety and accuracy | a **mix** of simple and complex; **majority** error-free ✅ |
+| **4. Grammatical Range** ✍️ | sentence variety and accuracy | a variety of complex structures with **frequent error-free** sentences ✅ |
 
-*(Emphasise.)* ⭐ Notice — **two** of the four are about **organisation**, not language. ✅ That's 50% of your mark. ⭐
+*(Emphasise.)* ⭐ Notice — **Coherence & Cohesion** is a full **25%** of your mark, and it's purely about **organisation**, not vocabulary. ✅ And weak organisation drags **Task Response** down too, because undeveloped ideas score lower. ⭐
 
-*(Firmly.)* So a candidate with **excellent** English and **poor** structure gets Band 6. ✅ And a candidate with **good** English and **excellent** structure gets Band 7. ⭐
+*(Firmly.)* So a candidate with **excellent** English and **poor** structure often lands at Band 6. ✅ And a candidate with **good** English and **excellent** structure can reach Band 7. ⭐
 
 ### ⭐ The single biggest Band 6 → 7 fix
 
@@ -113,15 +113,15 @@ Today: what Band 7 actually needs, criterion by criterion, and a full essay buil
 
 | Rule | Detail |
 |---|---|
-| **Minimum** | 250 words ✅ — under this loses marks ⚠️ |
-| **Target** | **270–290** ⭐ |
-| **Don't exceed** | ~320 — more words = more errors ⚠️ |
+| **Official minimum** | 250 words ✅ — going under costs you, because you can't develop enough ⚠️ |
+| **Practical target** | **270–290** ⭐ *(our recommendation, not an IELTS rule)* |
+| **Watch out past** | ~320 — more words usually means more errors and less control ⚠️ |
 
 *(Emphasise.)* ⭐ **Longer is not better.** ✅ A tight 280-word essay scores higher than a rambling 400-word one. ⭐
 
 *(Slogan.)*
-> **One paragraph, one idea, stated first.** 🔗
-> **Structure is 50% of your mark.** ⭐
+> **One paragraph, one clear idea, stated first.** 🔗
+> **Organisation is a quarter of your mark — and it lifts Task Response too.** ⭐
 
 ---
 
@@ -159,7 +159,7 @@ Today: what Band 7 actually needs, criterion by criterion, and a full essay buil
 2. **Fully disagree** ✅
 3. **Partly agree** ⭐ *(usually the easiest to argue well)*
 
-*(Emphasise.)* ⭐ And whichever you choose — **state it clearly and keep it consistent** for the whole essay. ✅ Changing position mid-essay is a Band 5–6 error. ⚠️
+*(Emphasise.)* ⭐ And whichever you choose — **state it clearly and keep it consistent** for the whole essay. ✅ An unclear or shifting position pulls **Task Response** down badly. ⚠️
 
 *(Our choice.)* **Partly agree** — online learning will replace **some** classroom functions but not all. ⭐
 
@@ -194,7 +194,7 @@ Today: what Band 7 actually needs, criterion by criterion, and a full essay buil
 | *digital instruction... physical classrooms* | **different words** from the question ⭐ |
 | *While I accept that... I do not believe...* | **clear position**, and it's a **partly agree** ⭐ |
 
-*(⚠️ Critical.)* ❌ **Never copy the question wording.** ✅ Examiners don't count copied words toward your 250. ⚠️
+*(⚠️ Critical.)* ❌ **Never copy the question wording.** ✅ Copied wording shows the examiner **nothing** about your own English, so it can't earn you Lexical Resource marks — and it wastes space you need for real content. ⚠️
 
 *(Paraphrasing techniques.)*
 | Question word | ✅ Paraphrase |
@@ -276,7 +276,7 @@ Today: what Band 7 actually needs, criterion by criterion, and a full essay buil
 
 *(Explain.)* Many coaching centres teach **template essays** to memorise — with fixed phrases and pre-written paragraphs. ✅
 
-*(Firmly.)* Examiners are **trained** to spot this. ⚠️ And a memorised essay that doesn't precisely answer the question is capped at **Band 5–6** on Task Response — no matter how good the English is. ⚠️
+*(Firmly.)* Examiners are **trained** to spot this. ⚠️ A memorised essay that doesn't precisely answer the question scores badly on Task Response — no matter how good the English is. ✅ And wholly memorised material can be penalised much more seriously than that. ⚠️
 
 *(The specific danger.)* ⚠️ If the question asks *"to what extent do you agree"* and you produce a memorised *"advantages and disadvantages"* essay, you've failed the task. ✅
 
@@ -296,7 +296,7 @@ Today: what Band 7 actually needs, criterion by criterion, and a full essay buil
 
 *(A Task Response killer.)*
 
-*(Explain.)* IELFS questions often have **two** parts: ✅
+*(Explain.)* IELTS questions often have **two** parts: ✅
 
 > *"Some people think X. Others think Y. **Discuss both views and give your own opinion.**"*
 
@@ -309,8 +309,10 @@ Today: what Band 7 actually needs, criterion by criterion, and a full essay buil
 | *To what extent do you agree?* | state **how much** you agree, clearly ⭐ |
 | *Discuss both views and give your opinion* | cover **both** + **your** view ⭐ |
 | *What are the causes and solutions?* | **causes** AND **solutions** ✅ |
-| *Advantages and disadvantages* | **both** — and usually which outweighs ✅ |
-| *Do you think this is positive or negative?* | pick **one** and commit ✅ |
+| *Advantages and disadvantages* | **both** — and if it asks which **outweighs**, answer that too ✅ |
+| *Do you think this is positive or negative?* | take a **clear** stand — one side, or a well-argued "mostly X" ✅ |
+
+*(The golden rule.)* ⭐ Answer **the exact words on the paper**. ✅ Don't apply a memorised question-type formula. ⭐
 
 *(Firmly.)* ⭐ In your 5 minutes of planning, **underline every part of the question** and tick each one when you've covered it. ✅
 
@@ -343,14 +345,16 @@ Today: what Band 7 actually needs, criterion by criterion, and a full essay buil
 
 *(Explain.)* Some candidates write **250 words in two paragraphs** — or worse, one. ✅
 
-*(Firmly.)* ⚠️ This alone can cap Coherence & Cohesion at Band 5. ✅ Not because of the English — because the examiner **cannot see** your organisation. ⚠️
+*(Firmly.)* ⚠️ This badly damages Coherence & Cohesion. ✅ Not because of the English — because the examiner **cannot see** your organisation. ⚠️
 
 *(The required shape.)*
 
-> ### 👉 **Four paragraphs.** Introduction, Body 1, Body 2, Conclusion. ✅
+> ### 👉 **Use four paragraphs.** Introduction, Body 1, Body 2, Conclusion. ✅
 > *(Or five, if you have three body ideas.)*
 
 *(Emphasise.)* ⭐ **Leave a clear blank line between paragraphs.** ✅ Make the structure **visible**. ✅
+
+*(Accuracy note.)* ⚠️ IELTS doesn't **require** a specific number of paragraphs — what's marked is whether your organisation is clear and logical. ✅ Four is simply the **most reliable shape** under exam pressure. ⭐
 
 ### Trap 5: Malayalam-influenced structures ⚠️
 
@@ -368,7 +372,7 @@ Today: what Band 7 actually needs, criterion by criterion, and a full essay buil
 | *Due to this reason* | **For this reason** ✅ |
 | *In my point of view* | **From my point of view** ✅ / **In my view** ✅ |
 
-*(Emphasise.)* ⭐ Days 19, 56, and 57's fixes all appear in IELFS marking. ✅ Everything connects. 🔗
+*(Emphasise.)* ⭐ Days 19, 56, and 57's fixes all appear in IELTS marking. ✅ Everything connects. 🔗
 
 ### 🎯 The Band 7 checklist
 
@@ -381,8 +385,8 @@ Today: what Band 7 actually needs, criterion by criterion, and a full essay buil
 | ⬜ | **All parts** of the question answered ⭐ |
 | ⬜ | **Four** paragraphs, clearly separated ✅ |
 | ⬜ | Each body paragraph has a **topic sentence** ⭐ |
-| ⬜ | Each body paragraph has an **example** ✅ |
-| ⬜ | **270–290** words ✅ |
+| ⬜ | Each body paragraph is **developed** — example, evidence or explanation ✅ |
+| ⬜ | Comfortably over **250** words *(around 270–290 is a good target)* ✅ |
 | ⬜ | Question **not copied** word-for-word ⚠️ |
 | ⬜ | Mix of **simple and complex** sentences ✅ |
 | ⬜ | No *"nowadays in this modern era"* ⚠️ |
@@ -413,7 +417,7 @@ Today: what Band 7 actually needs, criterion by criterion, and a full essay buil
 
 *(Explain.)* That's it. ✅ Not better vocabulary. Not longer sentences. ✅ **A topic sentence.** ⭐
 
-*(Emphasise.)* Because the examiner has about **two minutes** with your essay. ✅ Topic sentences let them see your argument **instantly** — and that's what Coherence & Cohesion measures. ⭐
+*(Emphasise.)* Because an examiner reads a great many essays. ✅ Topic sentences let them see your argument **instantly** — and clear progression is exactly what Coherence & Cohesion measures. ⭐
 
 *(Big close.)*
 

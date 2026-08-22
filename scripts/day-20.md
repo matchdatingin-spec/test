@@ -119,7 +119,9 @@ Build it:
 - ✅ *She's **a** nurse.*
 - ✅ *My father is **a** farmer.*
 
-*(Emphasise.)* ❌ *"I am teacher"* / ❌ *"He is engineer"* — these are the **most common Malayali article errors**. Every job needs **a** or **an**. No exceptions.
+*(Emphasise.)* ❌ *"I am teacher"* / ❌ *"He is engineer"* — these are the **most common Malayali article errors**. When you name **one** job, it needs **a** or **an**. ✅
+
+*(Tiny exception, for completeness.)* ⭐ A few unique top positions drop it: ✅ *She was elected **president**.* ✅ Not something you'll say often — but now you won't be confused by it. ⭐
 
 *(Interview warning.)* In an interview, ❌ *"I am fresher"* → ✅ **"I am a fresher."** ✅ Or better: **"I'm a recent graduate."**
 

@@ -278,7 +278,9 @@ Pick a random topic and give your opinion for 60 seconds. *(Use yesterday's P-E-
 
 *(Explain.)* Fast, direct, slightly-wrong English **builds** the direct pathway. Slow, perfect, translated English **strengthens** the translation pathway. 🔗
 
-*(Say firmly.)* **Every time you speak fast and imperfectly, you're training the right habit.** Every time you speak slowly and perfectly, you're training the wrong one. ✅
+*(Say firmly.)* **When you keep speaking instead of stopping to translate, you're training the habit you want.** ✅ Stopping to build each sentence perfectly rehearses the translation habit instead. ✅
+
+*(But keep the balance.)* ⚠️ This is about **fluency practice**, not about ignoring accuracy forever. ✅ Speak freely in the moment — then **review** and fix what you notice afterwards. That combination is what actually improves you. ⭐
 
 ### Trap 4: Thinking in "textbook English"
 

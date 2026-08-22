@@ -249,13 +249,15 @@ Here's what happens. You think of a beautiful, complex Malayalam sentence — th
 
 > *"I go— I went— I have gone to Bangalore last— no, in 2019..."* 😰
 
-*(Firmly.)* **Stop doing that.** Nobody cares about a small tense slip. But everybody notices **stopping**. 🛑
+*(Firmly.)* **Stop doing that.** A small tense slip costs you very little. Repeated **stopping** costs you a lot. 🛑
 
 *(The rule that matters.)*
 
-> ### 👉 FLOW beats accuracy when you're speaking.
+> ### 👉 While you're speaking, FLOW comes first.
 
-*(Explain.)* A listener judges you on **confidence and clarity**, not on whether you said *"since"* instead of *"for."* Say it wrong and **keep going**. Fix it later, in your practice — not live. ✅
+*(Explain.)* A listener is mostly following your **meaning** — not auditing whether you said *"since"* instead of *"for."* Say it slightly wrong and **keep going**. Fix it later, in your practice — not live. ✅
+
+*(One important limit.)* ⚠️ If the error changes your **meaning** — a wrong number, a missing *not*, the wrong name — **do** correct it immediately. ✅ And in **exams**, accuracy is directly marked, so review your recordings afterwards. ⭐
 
 *(Note.)* And if you truly must correct yourself, do it the **native** way:
 - ✅ *"I went there in 2019 — **sorry, 2020**."* ✅ *(smooth, confident)*

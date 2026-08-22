@@ -23,7 +23,7 @@ You want to ask your colleague for help. And you say:
 
 *(Point at camera.)*
 
-Five sentences. **Five unnecessary S's.** ✅
+Four sentences. **Three unnecessary S's** — *informations, furnitures, advices* — plus one *"two good news"* that needs a completely different fix. ✅
 
 *(Lean in.)*
 
@@ -85,13 +85,13 @@ It has **no natural edges** — you can only measure it, not count it.
 
 *(The practical consequences — all four matter.)*
 
-**Rule 1: No -s. Ever.** ❌
+**Rule 1: No -s in the uncountable meaning.** ❌
 - ❌ informations · ✅ **information** ✅
 
 **Rule 2: No "a / an."** ❌
 - ❌ an advice · ✅ **some advice** ✅
 
-**Rule 3: Always a SINGULAR verb.** ✅ 🔗 *(Day 55)*
+**Rule 3: Use a SINGULAR verb.** ✅ 🔗 *(Day 55)*
 - ✅ *The information **is** correct.* ✅
 - ✅ *The news **is** good.* ✅
 
@@ -345,7 +345,7 @@ Build it:
 | **children** | — | plural | **are** ✅ |
 | **staff** | singular | usually singular | **is** ✅ |
 
-*(Emphasise.)* ❌ *"Peoples"* ❌ and ❌ *"childrens"* ❌ are **double plurals**. Never. ✅
+*(Emphasise.)* ❌ *"Peoples"* *(for individuals)* ❌ and ❌ *"childrens"* ❌ are **double plurals**. Don't use them. ✅ *(For the record: **peoples** exists only for nations/ethnic groups — 🔗 Day 55.)*
 
 ### Bonus: the Indian-English uncountables 🇮🇳
 

@@ -80,13 +80,13 @@ Without measurement, you can't see progress. And when you can't see progress, yo
 **Input** 📥 = watching, reading, listening *(comfortable)*
 **Output** 📤 = speaking, writing, producing *(uncomfortable — and where growth happens)*
 
-*(Point out the problem.)* Most learners run at **95% input, 5% output**. That's why they understand English well and speak it badly. ✅
+*(Point out the problem.)* Most learners run **almost entirely** on input, with barely any output. That's why they understand English well and speak it badly. ✅
 
-*(The correction.)* So out of 20 minutes:
-- **12 minutes output** 📤 *(speaking, writing)*
-- **8 minutes input** 📥 *(listening, reading)*
+*(The correction.)* So out of 20 minutes, aim for roughly:
+- **14 minutes output** 📤 *(speaking, reading aloud, writing)*
+- **6 minutes input** 📥 *(listening, learning phrases)*
 
-*(Emphasise.)* **Twelve minutes of your own voice, every day.** That single number is the engine of this plan. 🗣️
+*(Emphasise.)* **Twelve minutes of your own voice, every day** — plus two minutes of writing. That's the engine of this plan. 🗣️
 
 ### And one honest expectation ⚠️
 
@@ -121,7 +121,7 @@ Without measurement, you can't see progress. And when you can't see progress, yo
 | **6. Learn 5 phrases** | 3 min | From Days 33/34/41 lists | 📥 input |
 | **7. Read aloud** | 2 min | Any English text, out loud | 📤 output |
 
-*(Total: 20 minutes. Output = 14 minutes.)* ✅
+*(Total: 20 minutes. Output = 14 minutes — of which 12 are your own voice.)* ✅
 
 ---
 

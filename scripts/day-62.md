@@ -218,7 +218,9 @@ Build it:
 - ✅ *They didn't let us in.* ✅
 - ✅ *Let me think for a second.* ⭐ 🔗 *(Day 38)*
 
-*(Note.)* ⚠️ *Let* has **no** passive! ❌ *"I was let to go"* ❌ ✅ Use **"I was allowed to go."** ✅
+*(Note.)* ⚠️ *Let* doesn't form a passive **this** way: ❌ *"I was let to go"* ❌ ✅ Use **"I was allowed to go."** ✅
+
+*(For your ear.)* ⭐ *Let* does appear in a few fixed passive phrases — ✅ *"He was let go"* *(= dismissed)* · *"We were let in."* ✅ But for **permission**, always use **was allowed to**. ⭐
 
 *(And "allow" takes "to"!)*
 - ✅ *He **let** me go.* ✅ *(no to)*
@@ -344,7 +346,7 @@ Build it:
 *(Emphasise.)* **"Get" does seven jobs.** ✅ Learning it well is one of the highest-value things an intermediate speaker can do. ⭐
 
 *(And the phrasal verbs!)* 🔗 *(Day 76)*
-- ✅ *get **up*** = wake up ✅
+- ✅ *get **up*** = rise from bed ✅ *(different from **wake up** = stop sleeping — you can wake up at 6 and get up at 6:30!)*
 - ✅ *get **on*** = board ✅ 🔗 *(Day 18)*
 - ✅ *get **off*** = leave a vehicle ✅
 - ✅ *get **back to** you* = reply ⭐ 🔗 *(Day 41)*

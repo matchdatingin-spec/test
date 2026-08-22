@@ -230,7 +230,7 @@ Instead of two sentences, start one with **-ing**:
 
 ---
 
-### The safety rule: the 15-word limit ✂️
+### The safety habit: aim for about 15 words ✂️
 
 *(Practical and important.)*
 
@@ -238,7 +238,7 @@ Instead of two sentences, start one with **-ing**:
 
 > ### 👉 In speaking, stop at about 15 words. Then breathe and start a new sentence.
 
-*(Explain.)* Why 15? Because that's roughly one comfortable breath, and it's about the limit of what a **listener** can follow easily. Beyond that, both speaker and listener get lost. ✅
+*(Explain.)* Why 15? It's not a grammar rule — it's a **practical** target. ✅ It's roughly one comfortable breath, and it keeps you from building sentences you can't finish. ✅ Skilled speakers go much longer; while you're building the habit, short is safer. ⭐
 
 *(Demo the limit.)*
 - ✅ *"I worked at a small company in Kochi, where I handled accounts for two years."* → **14 words** ✅ perfect

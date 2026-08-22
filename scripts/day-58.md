@@ -129,7 +129,7 @@ Two sentences:
 
 *(Emphasise.)* Malayalam **front-loads** the description. English **back-loads** it. 🔄
 
-*(That's why we produce.)* ❌ *"I have a doctor friend"* ✅ *(understandable, but limited)* or ❌ *"I have one friend, he is doctor"* ✅
+*(That's why we produce.)* ✅ *"I have a doctor friend"* — **this one is actually fine English**, just less flexible — or ❌ *"I have one friend, he is doctor"* ⚠️ which needs fixing.
 
 Build it the English way:
 
@@ -250,17 +250,19 @@ Build it:
 *(You already know which one)*
 
 > ✅ *"My friend, **who lives in Dubai**, is coming."* ✅
-> → I have one friend *(you know who)*, and by the way, he lives in Dubai. ✅
+> → You already know which friend, and by the way, he lives in Dubai. ✅
 
 *(Emphasise the difference!)*
-- *My brother **who lives in Kochi*** → I have **more than one** brother ✅
-- *My brother, **who lives in Kochi**,* → I have **one** brother ✅
+- *My brother **who lives in Kochi*** → the clause is **identifying** which brother, so it suggests there are others ✅
+- *My brother, **who lives in Kochi**,* → you already know **which** brother; this is just extra information ✅
+
+*(Precise version.)* ⭐ Commas don't literally count your siblings. ✅ They tell the listener whether the clause is **picking out** the person *(no commas)* or **adding a detail** about someone already identified *(commas)*. ⭐
 
 *(Practical note.)* ⚠️ With **commas**, you **cannot** use *that*:
 - ✅ *My friend, **who** lives in Dubai, is coming.* ✅
 - ❌ *My friend, **that** lives in Dubai, is coming.* ❌
 
-*(Simple advice for speaking.)* Don't worry about commas when **speaking**. ✅ Just know it for **writing** and IELTS. ⭐
+*(Simple advice for speaking.)* You don't have to think about commas when **speaking** — but notice that speakers **pause** slightly around the extra-information type. ✅ Know the written rule for **writing** and IELTS. ⭐
 
 ---
 
@@ -323,7 +325,7 @@ Malayalam puts the description **before** the noun, and English puts it **after*
 
 ❌ *"I have a friend who is a doctor who works in a hospital which is in Kochi which is near my house."* 😄
 
-*(The fix.)* **Maximum ONE joining word per sentence.** ✅ Then use a **full stop**.
+*(The fix.)* **Aim for one joining word per sentence while you're learning.** ✅ Then use a **full stop**. *(Longer chains are grammatical — they're just hard to follow.)*
 
 ✅ *"I have a friend who is a doctor. He works at a hospital in Kochi, near my house."* ⭐
 

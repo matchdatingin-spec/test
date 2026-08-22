@@ -37,11 +37,13 @@ Imagine a house and a place — let's say Dubai.
 
 ### ✈️🏠 HAS BEEN = went there AND came back
 
-The journey is a **complete circle**. Kerala → Dubai → Kerala. He is **here now**.
+The journey is a **complete circle**. Kerala → Dubai → Kerala. The trip is **finished**.
 
-- ✅ *He has been to Dubai.* → He visited. He's back. Ask him about it!
+- ✅ *He has been to Dubai.* → He visited and came back. Ask him about it!
 
-**BEEN = experience. The person is here.**
+*(Small precision note.)* ⭐ *"Has been"* doesn't mean he's standing next to you — it means the **visit is over**. ✅ You can say *"He's been to Dubai"* about someone who's now in Chennai. ⭐
+
+**BEEN = a completed visit. The person isn't there any more.**
 
 ### ✈️➡️ HAS GONE = went there and is STILL there
 
@@ -53,24 +55,24 @@ The journey is a **one-way arrow**. Kerala → Dubai. Full stop. He is **not her
 
 ### The 2-second test
 
-> **"Is the person in front of me / nearby? Or are they far away?"**
+> **"Have they come back from that place? Or are they still away?"**
 
-- Here / came back → **has been**
+- Came back → **has been**
 - Away right now → **has gone**
 
 *(Test it.)*
 - *Where's Amma?* → *She **has gone** to the temple.* → she's away ✅
-- *Have you ever eaten sushi?* → *Yes, I **have been** to a Japanese restaurant.* → I'm back ✅
+- *Have you ever eaten sushi?* → *Yes, I **have been** to a Japanese restaurant.* → the visit is done ✅
 
 ### Why the same word "been"?
 
 *(Quick logic note.)* **Been** is the third form of **be** — not of *go*! And *be* means "exist / stay."
 
-So *"I have been to Delhi"* literally means *"I have existed in Delhi at some point in my life."* That's why it feels like **experience**.
+So *"I have been to Delhi"* is closer to *"I have spent time in Delhi at some point in my life."* That's why it feels like **experience**.
 
 And *gone* is the third form of **go** — pure movement, one direction.
 
-**Be = staying (then returning). Go = leaving.** That's the root of everything.
+**Be = you were there (and the trip is over). Go = you left.** That's the root of everything. ⭐
 
 ---
 

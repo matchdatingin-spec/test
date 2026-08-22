@@ -25,9 +25,9 @@ Say this word out loud: **vehicle.** 🚗
 
 Did you say **"veh-HIK-ul"**? 🤔
 
-*(Warm smile.)* Most of us do. And it's wrong. The correct sound is:
+*(Warm smile.)* Most of us do. And the stress is in the wrong place. The standard sound is:
 
-> ✅ **"VEE-uh-kul"** ✅ *(the "h" is silent!)*
+> ✅ **"VEE-uh-kul"** ✅ *(stress on VEE, and the "h" usually disappears)*
 
 *(Point at camera.)*
 
@@ -149,7 +149,9 @@ Today: **30 words**, fixed. No judgement. Let's go. 🚀
 
 *(Emphasise.)* Look at the pattern — the **first** syllable is loud, and the middle **collapses**. ✅
 
-*(Practise #9 five times.)* **COMF-ter-bul.** ✅ Not four syllables. **Three.** ✅
+*(Practise #9 five times.)* **COMF-ter-bul.** ✅ Three syllables, not four evenly-weighted ones. ✅
+
+*(Honest note.)* ⭐ Careful speech **does** keep four — *COM-for-ta-ble* — and that's standard too. ✅ What matters is that the stress sits on the **first** syllable and the middle stays **light**. ⭐
 
 ---
 
@@ -191,7 +193,7 @@ Today: **30 words**, fixed. No judgement. Let's go. 🚀
 
 *(Say it three times.)* **pro-nun-see-AY-shun.** ✅
 
-*(Highlight #27.)* **Clothes** = **one syllable** ✅ Just say **"close"** with a *z* at the end: **KLOHZ** ✅ Not "clo-thes." ✅
+*(Highlight #27.)* **Clothes** = **one syllable** ✅ Not "clo-thes." ✅ Aim for **KLOHTHZ** — the *th* is very light, and in fast speech it often disappears completely into **"close."** ✅
 
 ---
 
@@ -279,13 +281,15 @@ Today: **30 words**, fixed. No judgement. Let's go. 🚀
 - *p**o**lice* → the *o* becomes **"uh"** ✅
 - *ab**ou**t* → **"uh-BOUT"** ✅
 
-*(Emphasise.)* **The schwa is the most common sound in English.** ✅ And Malayalam **doesn't have it** — Malayalam vowels are all **full and clear**. ✅
+*(Emphasise.)* **The schwa is the most common sound in English.** ✅ And Malayalam doesn't use it the same way — Malayalam vowels stay much **fuller and clearer**. ✅
 
 *(So we produce.)* ❌ *"po-LEES"* with a clear **o** ✅ instead of ✅ *"puh-LEES"* with a lazy **uh** ✅
 
 *(The practical rule.)*
 
-> ### 👉 In an **unstressed** syllable, the vowel almost always becomes **"uh."** 😐 ✅
+> ### 👉 In an **unstressed** syllable, the vowel very often shrinks to **"uh."** 😐 ✅
+
+*(Small caution.)* ⚠️ Not every unstressed vowel becomes *uh* — some shrink towards a short **"i"** instead, like the ending of **work-ing** ✅ and **wan-ted**. ✅ But *uh* is by far the most common. ⭐
 
 *(Practise the schwa.)*
 | Word | ✅ The "uh" |

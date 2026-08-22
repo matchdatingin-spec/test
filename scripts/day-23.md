@@ -135,7 +135,7 @@ Now the same idea with **ALL**:
 | ❌ Every students... | never! *every* + plural is impossible |
 | ❌ All student... | never! *all* + singular countable is impossible |
 
-*(Rule.)* **Every is followed by ONE thing. All is followed by MANY things.** Physically impossible to mix.
+*(Rule.)* **Every takes ONE countable thing. All takes a plural — or an uncountable amount** *(all the rice, all day)*. ✅ That's why they don't swap.
 
 ### Sentence 2 — built piece by piece
 
@@ -280,12 +280,12 @@ Malayalam puts **എല്ലാം** in flexible positions, so we produce:
 ### Bonus: "both" — the two-person version
 
 *(Quick expansion.)*
-- **both** = two things ✌️ → *Both my brothers **are** engineers.* ← plural ✅
-- **all** = three or more 👥
+- **both** = exactly two ✌️ → *Both my brothers **are** engineers.* ← plural ✅
+- **all** = the whole group 👥 *(usually three or more — but it can cover two as well)*
 - **each** = any number, one at a time
 
 - ✅ *Both of them are coming.* ← two people
-- ✅ *All of them are coming.* ← three or more
+- ✅ *All of them are coming.* ← the whole group *(use **both** when you know it's exactly two)*
 
 ---
 

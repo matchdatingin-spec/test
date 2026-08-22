@@ -286,7 +286,7 @@ English storytelling usually puts the **interesting bit early** to hook the list
 
 *(Why it happens.)* Because Malayalam storytelling comfortably uses **present tense for past events** — it makes the story vivid. **ഞാൻ ഓഫീസിൽ ചെല്ലുന്നു, manager വിളിക്കുന്നു...** ✅ Perfectly natural Malayalam! 🪷
 
-*(The English rule.)* **Pick one tense and stay in it.** ✅
+*(The English habit.)* **Pick one time frame and stay in it.** ✅ *(Inside a past story you'll still switch between* went, was going *and* had gone *— that's correct. What you avoid is jumping between past and present narration.)*
 
 - ✅ **All past** *(safest)*: *I went, he called, he said...* ⭐
 - ✅ **All present** *(advanced "narrative present")*: *So I go in, he calls me, he says...* ✅

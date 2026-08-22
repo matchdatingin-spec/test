@@ -87,7 +87,9 @@ But at a shop counter, softness is a **good** thing. So there, *could* wins.
 
 *(Notice.)* The Malayalam sentence has **no subject at all**! No ഞാൻ, no നിങ്ങൾ. Just the verb with a polite tail: **തരാമോ**.
 
-That's why Malayalis produce subject-less English: ❌ *"Give one bag?"* ❌ *"Can give a bag?"* English cannot do that. **English always needs a person.**
+That's why Malayalis produce subject-less English: ❌ *"Give one bag?"* ❌ *"Can give a bag?"* English can't do that here. **In a question or a statement, English needs the person.**
+
+*(One exception you already use.)* ✅ **Commands** drop the subject naturally: ✅ *"Give me a bag."* · *"Sit down."* ✅ That's fine — it's questions and statements that need the person. ⭐
 
 Build it:
 

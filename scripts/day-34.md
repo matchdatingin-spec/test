@@ -163,7 +163,7 @@ Your brain: *"I don't agree with your opinion."*
 | 1 | I am very happy | **I'm thrilled** / **I'm so glad** |
 | 2 | I am very tired | **I'm exhausted** / **I'm worn out** |
 | 3 | I am very hungry | **I'm starving** |
-| 4 | I am very sad | **I'm gutted** / **I'm really down** |
+| 4 | I am very sad | **I'm really down** / **I'm gutted** *(= badly let down by something specific)* |
 | 5 | I am very angry | **I'm furious** |
 | 6 | I am very surprised | **I'm shocked** / **I can't believe it** |
 | 7 | I am very afraid | **I'm terrified** |
@@ -173,7 +173,9 @@ Your brain: *"I don't agree with your opinion."*
 | 11 | I don't feel well | **I'm a bit under the weather** |
 | 12 | I am very excited | **I can't wait!** ⭐ |
 
-*(Highlight #12.)* **"I can't wait!"** is how English shows excitement. Not ❌ *"I am very much excited."* ✅
+*(Highlight #12.)* **"I can't wait!"** is how English shows excitement **about something coming up** ✅ — *"I can't wait to see it!"* ✅ Not ❌ *"I am very much excited."* ✅
+
+*(Small note.)* ⭐ If there's no future event, use ✅ *"I'm so excited!"* — *can't wait* needs something to wait **for**. ⭐
 
 #### Group B — Opinions (13–24)
 
@@ -268,7 +270,7 @@ Your brain: *"I don't agree with your opinion."*
 
 ### Trap 1: "Very much" everywhere
 
-*(Malayalam **വളരെ / ഒരുപാട്** attaches to anything. English "very much" does not.)*
+*(Malayalam **വളരെ / ഒരുപാട്** attaches to anything. English "very much" is fussier — it goes with **verbs**, not plain adjectives.)*
 
 | ❌ | ✅ |
 |---|---|
@@ -296,7 +298,7 @@ Your brain: *"I don't agree with your opinion."*
 | It is too good | **It's really good** / **It's excellent** |
 | I liked it too much | **I liked it a lot** |
 
-*(Explain firmly.)* **"Too" always means "more than is good."** It's a **complaint** word! 🚫
+*(Explain firmly.)* **In this pattern, "too" means "more than is good."** Treat it as a **complaint** word! 🚫 *(Don't confuse it with "too" = also — ✅ "Me too.")*
 
 - ✅ *This tea is **too** sweet.* = I can't drink it ❌
 - ✅ *This tea is **really** sweet.* = delicious ✅

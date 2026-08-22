@@ -255,7 +255,7 @@ I'll tell you which day each question comes from. Note it down. At the end, you'
 → ✅ *"Unless you study, you'll fail."* — *Unless* already means "if not." *(Day 26)*
 
 **B3.** *Between* or *among*? *"The money was divided ___ the four brothers."*
-→ ✅ **between** — They're specific, named individuals 📍. Number doesn't decide it. *(Day 25)*
+→ ✅ **among** is the safe answer — dividing **spreads** something through a group ☁️. ✅ *Between* is also acceptable if you're stressing each brother's own share. Number doesn't decide it — the **relationship** does. *(Day 25)*
 
 **B4.** Fix: *"Show me the another shirt."*
 → ✅ *"Show me the other shirt."* — *Another* already contains "an." *(Day 24)*

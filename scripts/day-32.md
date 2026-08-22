@@ -299,7 +299,7 @@ English allows time at the **front or the end** — but the **end is more natura
 - ✅ ***Yesterday** I went to the office.* ✅ *(also fine — adds emphasis)*
 - ❌ *I yesterday went to the office.* ❌ *(never in the middle!)*
 
-*(Rule.)* **Time goes at the FRONT or the END. Never in the middle.** ✅
+*(Rule.)* **Put time expressions at the FRONT or the END — not between the person and the verb.** ✅ *(Short frequency words are the exception: ✅ "I **often** go," "I **never** eat there.")*
 
 *(And remember Day 18!)* When you stack time words, English goes **small → big**:
 - ✅ *at 6 o'clock on Monday in January* ✅

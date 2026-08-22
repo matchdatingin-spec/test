@@ -50,7 +50,7 @@ Today: one idea, and reported speech becomes logical. Let's go. 🚀
 
 *(Now.)* You're reporting it **today**. You've **moved** — in time, and in place. ✅
 
-*(Emphasise.)* So every word that pointed at **Ravi's moment** must be re-pointed at **your moment**. 🔄
+*(Emphasise.)* So any word that pointed at **Ravi's moment** may need re-pointing at **your moment**. 🔄
 
 > ✅ *"He said he **was** busy **that day**."* ✅
 
@@ -99,15 +99,19 @@ Today: one idea, and reported speech becomes logical. Let's go. 🚀
 | here | **there** |
 | this | **that** |
 | these | **those** |
-| come | **go** |
+| come | **go** *(only if the destination isn't where you are now)* |
+
+*(Careful with the last one!)* ⚠️ *Come/go* follows **where you are**, not a fixed rule: ✅ if he said *"I'll come to your house"* and you're reporting it, ✅ *"He said he'd **come** to my house"* is correct — because it's still **towards** you. ⭐
 
 **4. People change to match YOUR view** 👤
 
 | Their words | Your report |
 |---|---|
 | *"**I** am busy."* | **he/she** was busy |
-| *"**You** are late."* | **I** was late |
+| *"**You** are late."* *(said to me)* | **I** was late |
 | *"**My** phone."* | **his/her** phone |
+
+*(The real rule.)* ⚠️ Don't memorise *you → I*. ✅ Ask **who was actually being spoken to.** ✅ If Ravi said *"You are late"* to **Anu**, the report is *"He said **she** was late."* ⭐
 
 *(Emphasise.)* Four categories. And they're all doing the **same** thing — re-pointing from their moment to yours. ✅
 
@@ -140,7 +144,7 @@ Today: one idea, and reported speech becomes logical. Let's go. 🚀
 
 *(And notice.)* Malayalam says **വരുമെന്ന്** — a **future** form, not shifted back! ✅
 
-*(Point out.)* **Malayalam doesn't shift tenses in reported speech.** ✅ That's exactly why we produce ❌ *"He said he will come."* ✅
+*(Point out.)* **Malayalam doesn't shift tenses in reported speech.** ✅ That's exactly why *"He said he will come"* comes out of our mouths automatically — and why **would** needs deliberate practice. ⭐
 
 Build it:
 
@@ -285,12 +289,14 @@ Build it:
 
 ### Trap 2: No tense shift *(Malayalam habit)*
 
-| ❌ | ✅ |
+| ⚠️ Unshifted | ✅ Shifted — the safe default |
 |---|---|
 | He said he will come | **He said he would come** ✅ |
 | She said she is busy | **She said she was busy** ✅ |
 | He said he can help | **He said he could help** ✅ |
 | They said they have finished | **They said they had finished** ✅ |
+
+*(Remember the good news from earlier!)* ⭐ The left column isn't always wrong — it's fine when the thing is **still true right now**. ✅ But because Malayalam **never** shifts, your mouth will always pick the left column. ⚠️ So drill the **right** column until *would/was/could/had* come out automatically. ⭐
 
 *(Why it happens.)* Malayalam **-എന്ന്** attaches to the **original** tense: **വരുമെന്ന്** *(will come)*, **തിരക്കാണെന്ന്** *(is busy)* ✅ No shifting. ✅
 

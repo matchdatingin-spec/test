@@ -90,7 +90,7 @@ Because *unless* **already means "if not,"** you must **never** add another *not
 
 *(Explain.)* Think about it: *"unless you don't study"* = *"if you don't don't study"* = *"if you study"*. Backwards! 🔄
 
-*(Remember Day 03 and Day 22?)* **English allows only one negative.** *Unless* is the negative. Don't add another. 🔗
+*(Remember Day 03 and Day 22?)* **Standard English marks the negative once per clause.** *Unless* already carries it. Don't add another. 🔗
 
 ---
 
@@ -253,7 +253,7 @@ Build it:
 
 *(Why does this happen?)* Because Malayalam **വരുന്നത് വരെ** feels like it needs a negative echo. It doesn't in English.
 
-*(Rule.)* **After "until," the verb is always POSITIVE** — just like after *unless*! ✅
+*(Rule.)* **After "until," don't add an extra negative** — just like after *unless*! ✅ *(Say "until he comes," not "until he doesn't come.")*
 
 *(Practise — say these six with me.)*
 1. Wait until I come. ✅

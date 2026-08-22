@@ -152,7 +152,7 @@ Today: **30 replacements**, organised by what you're actually describing. Let's 
 |---|---|---|---|
 | 17 | good app | **useful** ⭐ | *a really useful app* 📱 |
 | 18 | good phone | **reliable** ✅ | *a reliable phone* |
-| 19 | good design | **well-made** ✅ | *well-made furniture* |
+| 19 | good design | **well-designed** ✅ | *a well-designed app* *(**well-made** = solidly built)* |
 | 20 | good price 💰 | **reasonable** ⭐ | *a reasonable price* |
 | 21 | bad quality | **poor quality** ⭐ | *poor-quality material* |
 | 22 | bad phone | **faulty** ✅ | *a faulty charger* 🔧 |

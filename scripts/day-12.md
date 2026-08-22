@@ -119,9 +119,10 @@ Classic **S-O-V**. Malayalam even stacks **two verbs** at the end (കൊണ്�
 
 > ✅ **"Take this file to the manager."**
 
-*(Important.)* English doesn't need "and give." **Take ... to ...** already means delivering. Adding "give" makes it heavy:
+*(Important.)* English doesn't need "and give." **Take ... to ...** already covers the delivery. Adding "give" makes it heavy — and note the missing *the*:
 - ❌ *Take this file and give to manager.*
 - ✅ **Take this file to the manager.**
+- ✅ *(If you really want to stress the handover:)* **Take this file and give it to the manager.** ✅
 
 *(One more pair to feel the direction.)*
 - ✅ *Take this file **to** the manager.* → away from me
@@ -198,10 +199,10 @@ English has a few more direction words, and knowing them makes you sound natural
 
 Practise those. They sound extremely natural.
 
-*(And note **carry**.)* Malayalis often use *carry* wrongly:
-- ❌ *Carry your certificates to the interview* → ✅ **Bring your certificates.**
+*(And note **carry**.)* Malayalis often reach for *carry* where a native speaker wouldn't:
+- ⚠️ *Carry your certificates to the interview* → ✅ **Bring your certificates.**
 
-*Carry* is about the **physical act of holding weight** — not about direction. Say *"She's carrying a baby"* ✅ but *"Bring your documents"* ✅.
+*Carry* is about the **physical act of holding or transporting** — it says nothing about direction. So it isn't wrong, it's just the wrong focus: the interviewer cares that the documents **arrive**, not how you hold them. Say *"She's carrying a baby"* ✅ but *"Bring your documents"* ✅.
 
 ---
 

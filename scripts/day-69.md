@@ -154,7 +154,7 @@ Today, that step. Let's go. 🚀
 - ✅ **Yes, tongue visible** → correct TH ✅
 - ❌ **No, tongue hidden** → you're making ത ❌
 
-*(Emphasise.)* **TH is the only English sound where your tongue is VISIBLE.** ✅ That makes it easy to check! ⭐
+*(Emphasise.)* **TH is the English sound where your tongue tip comes forward to the teeth.** ✅ You can literally see it in a mirror — which makes it easy to check! ⭐ *(A light touch is enough — it doesn't have to stick out far.)*
 
 ---
 
@@ -211,8 +211,10 @@ Today, that step. Let's go. 🚀
 *(Highlight "the"!)* ⭐ **"The"** is the **most frequently used word in English.** ✅ If you fix only one TH, fix **the**. 🎯
 
 *(Note the two pronunciations of "the"!)*
-- Before a **consonant** → **"thuh"** ✅ *(thuh file, thuh man)*
-- Before a **vowel** → **"thee"** ✅ *(thee apple, thee office)*
+- Before a **consonant sound** → **"thuh"** ✅ *(thuh file, thuh man)*
+- Before a **vowel sound** → **"thee"** ✅ *(thee apple, thee office)*
+
+*(Note — go by SOUND, not spelling!)* ⚠️ ✅ *thee **hour*** *(the h is silent → vowel sound)* ✅ but ✅ *thuh **university*** *(it starts with a "yoo" sound)*. ⭐
 
 *(Practise.)* **thuh book · thee apple · thuh man · thee office** ✅
 
@@ -349,7 +351,7 @@ Today, that step. Let's go. 🚀
 
 1. ✅ **Millions of native speakers don't use it either.** In London, *"think"* is often *"fink."* In Ireland, *"this"* is often *"dis."* In New York, the same. ✅
 2. ✅ **Context almost always saves you.** If you say *"I tink so,"* nobody thinks you said *"I tink so"* — they hear *think*. ✅
-3. ✅ **It never blocks understanding** the way **word stress** does. 🔗 *(Tomorrow's topic!)*
+3. ✅ **It rarely blocks understanding** the way **word stress** does. 🔗 *(Tomorrow's topic!)* ⚠️ *(It can matter in pairs like* three/tree *and* thin/tin *— so it's worth some practice.)*
 
 *(Emphasise, warmly.)* So — practise it. It's a nice polish. But **do not** lose sleep over it. ✅
 
@@ -368,7 +370,7 @@ Today, that step. Let's go. 🚀
 | ⭐ | *month, birthday, health* | occasional ✅ |
 | — | *thirty-third, northern* | rare — ignore ✅ |
 
-*(Emphasise.)* **Four words: the, this, that, they.** ✅ Master those, and you've covered about **80%** of all TH sounds you'll ever say. 🎯
+*(Emphasise.)* **Four words: the, this, that, they.** ✅ Master those and you've covered a huge share of the TH sounds you'll say every day. 🎯
 
 *(Practise those four, ten times each.)* 🗣️ **the · this · that · they** ✅
 

@@ -61,7 +61,7 @@ Reading is not learning. Your **mouth** must make the shape. Reading with your e
 
 **Rule 3: Use each one in real life within 48 hours.** ⏰
 
-*(Emphasise.)* A sentence you've used **once in real life** is worth **50** sentences you've only read. Real use puts it in permanent memory. ✅
+*(Emphasise.)* A sentence you've actually **used** is worth far more than a dozen you've only read. Real use is what makes it stick. ✅
 
 ### And one thing about pronunciation 🔊
 
@@ -128,7 +128,7 @@ Reading is not learning. Your **mouth** must make the shape. Reading with your e
 | 27 | **Could I see the menu?** | |
 | 28 | **What do you recommend?** ⭐ | sounds very natural |
 | 29 | **Not too spicy, please.** | 🌶️ |
-| 30 | **Could I get the bill, please?** | not "bill please" alone |
+| 30 | **Could I get the bill, please?** | warmer than "The bill, please" |
 | 31 | **Can we get this to go?** | = parcel 📦 |
 | 32 | **It was delicious!** | |
 

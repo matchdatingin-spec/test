@@ -55,7 +55,7 @@ This is the most important video in this block. Let's go. 🚀
 
 *(Explain properly — this framing is genuinely clarifying.)*
 
-*(Explain.)* Languages divide into two rhythm families. ✅
+*(Explain.)* Languages **lean** towards one of two rhythm styles. ✅ *(It's a spectrum, not two boxes — but the contrast is exactly what your ear needs.)*
 
 #### 🥁 SYLLABLE-TIMED — like Malayalam
 
@@ -65,7 +65,7 @@ This is the most important video in this block. Let's go. 🚀
 
 *(Emphasise.)* It sounds like a **steady drum**. Even. Regular. Beautiful. ✅
 
-*(Point out.)* Tamil, Spanish, Italian, Hindi — all syllable-timed. ✅ Roughly half the world speaks this way. ✅
+*(Point out.)* Tamil, Spanish, Italian, Hindi — all lean this way. ✅ A huge share of the world speaks with this rhythm. ✅
 
 #### 🎵 STRESS-TIMED — like English
 
@@ -73,7 +73,7 @@ This is the most important video in this block. Let's go. 🚀
 
 **pho - TOG - ra - phy** ← one **loud** beat, three **quiet** ones 🎵 ✅
 
-*(Emphasise.)* It sounds like a **heartbeat** — strong, weak, weak, strong, weak. ✅ Not even at all. ✅
+*(Emphasise.)* It sounds like a **heartbeat** — strong, weak, weak, strong, weak. ✅ Far less even than Malayalam. ✅
 
 *(The consequence.)*
 
@@ -87,18 +87,20 @@ This is the most important video in this block. Let's go. 🚀
 
 *(Be precise — learners often think it's just volume.)*
 
-*(Explain.)* A **stressed** syllable is **three** things at once: ✅
+*(Explain.)* A **stressed** syllable usually stands out in **three** ways: ✅
 
 | Feature | The stressed syllable is... |
 |---|---|
 | **Louder** 🔊 | more volume ✅ |
 | **Longer** ⏱️ | held slightly more ✅ |
-| **Higher** 📈 | the pitch rises ✅ |
+| **Clearer in pitch** 📈 | the pitch stands out — often higher ✅ |
+
+*(Note.)* ⚠️ You don't need all three every time — **length** and **clear vowel** do most of the work. ✅ Aim for "longer and clearer," and the rest follows. ⭐
 
 *(And the unstressed ones.)* Get **shorter, quieter,** and their vowel usually collapses into the lazy **"uh"** 😐 ✅ 🔗 *(Day 66's schwa!)*
 
 *(Show it.)*
-- ✅ **pho-TOG-ra-phy** → *"fuh-TOG-ruh-fee"* ✅ *(three schwas!)*
+- ✅ **pho-TOG-ra-phy** → *"fuh-TOG-ruh-fee"* ✅ *(two schwas — the "fuh" and the "ruh")*
 - ✅ **com-FORT-a-ble** → wait, it's ✅ **COMF-ter-bul** ✅
 - ✅ **de-VEL-op** → *"duh-VEL-up"* ✅
 
@@ -135,7 +137,7 @@ This is the most important video in this block. Let's go. 🚀
 
 *(Explain.)* English stress isn't random. There are **patterns** — and knowing them means you can **guess** correctly for new words. ✅
 
-#### Pattern 1: Two-syllable NOUNS → stress the **first** ✅
+#### Pattern 1: Two-syllable NOUNS → *usually* stress the **first** ✅
 
 | Word | Stress |
 |---|---|
@@ -146,7 +148,7 @@ This is the most important video in this block. Let's go. 🚀
 | **MON**-ey | 1️⃣ |
 | **PROB**-lem | 1️⃣ |
 
-#### Pattern 2: Two-syllable VERBS → stress the **second** ✅
+#### Pattern 2: Two-syllable VERBS → *often* stress the **second** ✅
 
 | Word | Stress |
 |---|---|
@@ -157,7 +159,9 @@ This is the most important video in this block. Let's go. 🚀
 | ex-**PLAIN** | 2️⃣ |
 | re-**PEAT** | 2️⃣ |
 
-*(Emphasise the pattern!)* ⭐ **Nouns: front. Verbs: back.** ✅
+*(Emphasise the tendency!)* ⭐ **Nouns often front. Verbs often back.** ✅
+
+*(But be honest — this is a tendency, not a law.)* ⚠️ Plenty of nouns break it: ✅ ho-**TEL**, po-**LICE**, ad-**VICE**, ma-**CHINE**, ca-**REER**. ✅ And plenty of verbs break it: ✅ **AN**-swer, **HAP**-pen, **OF**-fer, **VIS**-it. ✅ Where the pattern really earns its keep is **Pattern 3** below. ⭐
 
 #### 🤯 Pattern 3: Same word, different stress = different meaning!
 
@@ -189,7 +193,7 @@ This is the most important video in this block. Let's go. 🚀
 | tech-**NI**-cian | ✅ |
 | pro-nun-ci-**A**-tion | ✅ 🔗 |
 
-*(Emphasise.)* ⭐ **Very reliable rule!** ✅ The syllable **immediately before** *-tion* is **always** stressed. ✅
+*(Emphasise.)* ⭐ **Very reliable rule!** ✅ The syllable **immediately before** *-tion* takes the stress. ✅
 
 #### Pattern 5: Words ending in **-ic, -ical, -ity, -ify** → stress **just before** ✅
 
@@ -202,7 +206,7 @@ This is the most important video in this block. Let's go. 🚀
 | i-**DEN**-ti-fy | ✅ |
 | pho-**TOG**-ra-phy | ✅ ⭐ |
 
-*(Point out.)* And there's our hook word! ✅ *photo**graph**y* ends in **-phy** → stress moves back to **TOG** ✅
+*(Point out.)* And there's our hook word! ✅ Words ending in **-graphy** put the stress **three syllables from the end** → pho-**TOG**-ra-phy ✅
 
 *(Show the family — this is lovely!)* ⭐
 
@@ -258,7 +262,7 @@ This is the most important video in this block. Let's go. 🚀
 | 11 | **MAN**-a-ger ✅ | **MAN**-a-ger ✅ *(this one's right!)* |
 | 12 | ca-**REER** ✅ | ca-**REER** ✅ *(right!)* |
 | 13 | **AD**-vice ⚠️ | ad-**VICE** 🔗 |
-| 14 | **RE**-port ⚠️ | re-**PORT** *(verb)* / **RE**-port *(noun)* ✅ |
+| 14 | **RE**-port ⚠️ | re-**PORT** ✅ *(noun AND verb — this one doesn't shift!)* |
 | 15 | **IN**-ter-est-ing ✅ | **IN**-tres-ting ✅ 🔗 |
 | 16 | ne-**CESS**-a-ry ⚠️ | **NEC**-es-sa-ry |
 | 17 | **A**-vail-a-ble ⚠️ | a-**VAIL**-a-ble |
@@ -280,7 +284,7 @@ This is the most important video in this block. Let's go. 🚀
 
 **Method 1: Google it** 🔊 — type the word, click the speaker icon ✅
 **Method 2: Check the ending** ✅ — *-tion, -ity, -ic, -phy* → stress just before ✅
-**Method 3: Count and guess** ✅ — two-syllable noun? front. Verb? back. ✅
+**Method 3: Last resort — guess and check** ⚠️ — many two-syllable nouns take front stress, many verbs take back stress. ✅ But there are plenty of exceptions *(ho-**TEL**, po-**LICE**, ad-**VICE**, ma-**CHINE** are all nouns!)*, so **always confirm with Method 1**. ⭐
 
 *(And the dictionary mark!)* 📖 In dictionaries, stress is shown with a small mark: **/fəˈtɒɡrəfi/** ← the **ˈ** comes **before** the stressed syllable ✅
 
@@ -371,15 +375,17 @@ This is the most important video in this block. Let's go. 🚀
 *(Show it.)*
 > ✅ *"I **WANT** to go to the **MAR**ket to**MOR**row."* ✅
 
-*(Point out.)* Three loud words. The rest — *to, the, go* — crushed. ✅ 🔗 *(Day 43!)*
+*(Point out.)* Three **loud** words. The small ones — *to, the* — get crushed. ✅ 🔗 *(Day 43!)*
 
 *(The rule.)*
 
-> ### 👉 **Content words get stress. Grammar words get crushed.** ✅
+> ### 👉 **Content words usually take the stress. Grammar words usually get crushed.** ✅
 
-| 🔊 Stressed | 😐 Crushed |
+| 🔊 Usually stressed | 😐 Usually crushed |
 |---|---|
 | nouns, main verbs, adjectives, question words | *a, the, to, of, and, is, are, do, can* |
+
+*(One nuance for later.)* ⭐ Stress follows the **point you're making**: ✅ *"I said **TO** him, not **ABOUT** him."* ✅ When a small word carries the meaning, it gets the stress. 🔗 *(Day 71)*
 
 *(Practise.)* Say this, stressing only the capitals:
 > ✅ *"I **THINK** we should **LEAVE** at **SIX**."* ✅

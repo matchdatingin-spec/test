@@ -2,7 +2,7 @@
 
 **Target length:** 16–18 minutes
 **Level:** All levels *(revision)*
-**One-line promise:** 25 real sentences from real learners — corrected, explained, and tagged to the day where the rule was taught.
+**One-line promise:** 25 typical learner sentences — corrected, explained, and tagged to the day where the rule was taught.
 
 **📌 Format note:** Opens the **makeover block** (Days 91–96). Section 3 becomes the 25 corrections grouped by error type. Section 4 becomes the pattern analysis — which error types dominate and what that means.
 
@@ -162,7 +162,7 @@ Get a pen. Score yourself out of 25. Let's go. 🚀
 ✅ **"He said he would come tomorrow."** — *tell* needs a **person**; and *said* → **would** 🔗 **Days 05, 60**
 
 **19.** ❌ *"I very much liked your yesterday's video."*
-✅ **"I really liked yesterday's video."** — *very much* goes at the **end**, and *really* is safer 🔗 **Days 34, 74**
+✅ **"I really liked yesterday's video."** — the actual error is ❌ *your yesterday's*: pick **one** owner word. ✅ *(*I very much liked yesterday's video* is also correct — just more formal.)* 🔗 **Days 34, 74**
 
 ---
 

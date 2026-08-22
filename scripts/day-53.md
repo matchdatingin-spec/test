@@ -18,7 +18,7 @@ Listen to these:
 > ❌ *"He don't like coffee."*
 > ❌ *"I didn't went there."*
 > ❌ *"Does he knows the answer?"*
-> ❌ *"You like tea?"*
+> ⚠️ *"You like tea?"* *(only works as a "let me check" question)*
 
 *(Point at camera.)*
 
@@ -191,7 +191,7 @@ Build it:
 | Correcting someone | **He doesn't work there anymore.** | doesn't + plain |
 | Checking a fact | **Does this bus go to Kaloor?** | does + plain |
 
-*(Highlight row 5.)* **"Does this bus go to...?"** ⭐ — genuinely useful travel English. Not ❌ *"This bus goes to Kaloor?"* ✅
+*(Highlight row 5.)* **"Does this bus go to...?"** ⭐ — genuinely useful travel English, and the form to build. ⚠️ *"This bus goes to Kaloor?"* is what people say when they're **checking** something they already half-believe — real English, but not the neutral question. ✅
 
 ---
 
@@ -227,7 +227,7 @@ Build it:
 
 *(Point out.)* **Copy the helper from the question.** ✅ That's the whole rule. 🔗 *(Same as Day 14's "So do I"!)*
 
-*(Malayali note.)* We often answer with just ❌ *"Yes"* or repeat everything: ❌ *"Yes, I am liking tea."* ✅ Say **"Yes, I do."** ✅ Short, natural, correct.
+*(Malayali note.)* We often answer with a bare *"Yes"* — which is **fine**, just a bit flat — or we repeat everything: ❌ *"Yes, I am liking tea."* ⚠️ Say **"Yes, I do."** ✅ Short, natural, and it sounds engaged.
 
 ### 🎁 Bonus 3: Question tags with do 🏷️
 
@@ -259,7 +259,9 @@ Build it:
 - ✅ *Why **didn't you** call?* ✅ *(helper + not, then person)*
 - ❌ *Why you didn't call?* ❌
 
-*(Rule.)* **In questions, the helper comes BEFORE the person.** Always. ✅ 🔗 *(Day 35's swap)*
+*(Rule.)* **In a direct question, the helper comes BEFORE the person.** ✅ 🔗 *(Day 35's swap)*
+
+*(Two exceptions you've already met.)* ⭐ Subject questions don't swap — ✅ *"Who called?"* ✅ And inside a polite opener you keep statement order — ✅ *"Could you tell me why he didn't call?"* ⭐
 
 ### Trap 2: Double tense — "didn't went"
 

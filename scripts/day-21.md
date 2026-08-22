@@ -176,7 +176,7 @@ Now the negative version:
 - ❌ *many works* → ✅ **a lot of work**
 - ❌ *many homeworks* → ✅ **a lot of homework**
 
-*(Tip.)* **Traffic, work, homework, luggage, furniture** — these look plural in Malayalam thinking but are **always singular** in English. No -s. Ever.
+*(Tip.)* **Traffic, work, homework, luggage, furniture** — these look plural in Malayalam thinking, but in this everyday meaning English treats them as **uncountable**: singular verb, no *-s*. ✅
 
 ---
 
@@ -235,7 +235,7 @@ Now the negative version:
 
 Malayalam **വളരെ / ഒരുപാട്** gets translated as "very much" and dropped anywhere:
 
-- ❌ *I very much like it* → ✅ **I like it very much.** / **I really like it.**
+- ⚠️ *I very much like it* → ✅ **I like it very much.** / **I really like it.** *(the original is correct but formal)*
 - ❌ *Very much thanks* → ✅ **Thanks a lot.** / **Thank you very much.**
 - ❌ *He is very much good* → ✅ **He is very good.**
 - ❌ *Very much people came* → ✅ **A lot of people came.**
@@ -261,8 +261,8 @@ So:
 - ✅ *There's **too much** salt in this curry.* ← a problem! Can't eat it 🧂
 - ✅ *I like it **a lot**.* ← positive ✅
 
-*(Emphasise.)* **"Too" always means "more than is good."** Never use it as a compliment!
-- ❌ *She is too beautiful* → sounds like a complaint 😄
+*(Emphasise.)* **"Too" normally means "more than is good."** So don't reach for it when you mean a compliment!
+- ⚠️ *She is too beautiful* → sounds like a complaint 😄
 - ✅ *She is very beautiful.* ✅
 
 ### Bonus: the "enough" family

@@ -211,7 +211,7 @@ We speak like this every day:
 This is a brilliant Malayalam shortcut — take any English word, glue ചെയ്യുക on the end, done. But when you speak English, that same habit produces this:
 
 - ❌ *I will do study* → ✅ **I will study.**
-- ❌ *I did try* → ✅ **I tried.**
+- ⚠️ *I did try* → ✅ **I tried.** *(the original is correct only as emphasis — see below)*
 - ❌ *He did complete it* → ✅ **He completed it.**
 - ❌ *We did enjoy* → ✅ **We enjoyed it.**
 - ❌ *Don't do fight* → ✅ **Don't fight.**

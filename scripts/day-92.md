@@ -111,9 +111,9 @@ Now the rebuild:
 
 *(A useful rule of thumb.)*
 
-> ### 👉 If your email is over **120 words**, something is either **repeated** or **unnecessary**. ✂️
+> ### 👉 If a routine email runs past **120 words**, check it — something is often **repeated** or **unnecessary**. ✂️
 
-*(Emphasise.)* ⭐ Most work emails should be **40–90 words**. ✅ Long emails signal that you haven't decided what you actually want. ⚠️
+*(Emphasise.)* ⭐ Most everyday work emails land at **40–90 words**. ✅ *(Genuinely complex or legal messages can be longer — that's fine.)* ✅ But a long email about a **simple** request usually means you haven't decided what you actually want. ⚠️
 
 ---
 
@@ -136,7 +136,7 @@ Now the rebuild:
 | Subject says nothing ⚠️ | *"Regarding"* |
 | No client **name** or **amount** 📊 | throughout |
 | No clear **ask** 🎯 | *"do the needful"* |
-| Colonial phrases 📜 | *above cited, kind notice, in this connection, oblige, revert* |
+| Colonial phrases 📜 | *above cited, kind notice, in this connection, oblige* |
 | *"till date"* ⚠️ | Indian English |
 
 #### ✅ AFTER — 50 words
@@ -180,7 +180,7 @@ Now the rebuild:
 | **Excuses first**, request last ⛏️ | whole structure |
 | Never says **how much** extra time 📊 | ⚠️ |
 | Over-apologises 🙏 🔗 *(Day 84)* | *"extremely sorry for the inconvenience caused"* |
-| *"since last week"* ⚠️ 🔗 *(Day 19)* | should be *"for a week"* |
+| *"are on leave since last week"* ⚠️ 🔗 *(Day 19)* | the **tense** is wrong, not *since*: **"have been on leave since last week"** ✅ |
 | No **new date** offered ⚠️ | ⚠️ |
 
 #### ✅ AFTER — 62 words

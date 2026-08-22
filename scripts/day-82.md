@@ -253,8 +253,8 @@ The second time: after we fix it. ✅
 | | ❌ Before | ✅ After |
 |---|---|---|
 | **Answer length** | 15–35 sec ⚠️ | 30–90 sec ✅ |
-| **Numbers used** | 0 📊 | 7 ⭐ |
-| **Apologies** | 4 😔 | 0 ✅ |
+| **Numbers used** | 0 📊 | many ⭐ |
+| **Apologies** | several 😔 | 0 ✅ |
 | **Shrinking words** *(just, only, small, somehow)* | 6 ⚠️ | 0 ✅ |
 | **"Sir" count** | 11 🙏 | 1 ✅ |
 | **Complaints about employer** | 4 ⚠️ | 0 ✅ |
@@ -307,9 +307,9 @@ The second time: after we fix it. ✅
 | I don't know SAP ⚠️ | *I haven't used SAP, but I've done X* ⭐ |
 | I have no experience ⚠️ | *I'm at the start of my career, so...* ✅ |
 
-#### 5️⃣ Cut "sir" to once ✅ 🔗 *(Day 80)*
+#### 5️⃣ Stop repeating "sir" ✅ 🔗 *(Day 80)*
 
-*(Explain.)* Once at the start, once at the end. ✅ In between, speak as a professional to a professional. ⭐
+*(Explain.)* At most once at the start and once at the end. ✅ In between, speak as a professional to a professional. ⭐
 
 *(Emphasise.)* Eleven *"sirs"* signals **anxiety**. ✅ One signals **respect**. ✅
 
