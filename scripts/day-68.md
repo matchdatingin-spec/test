@@ -124,10 +124,12 @@ English /v/  ←—— Malayalam വ ——→  English /w/
 
 *(Explain.)* Hold your **hand** about 5 cm in front of your mouth. ✋
 
-**Say "vvvv"** → 🦷 You feel **almost no air** on your hand ✅ *(the air is trapped by the teeth)*
-**Say "wwww"** → 👄 You feel a **puff of air** on your hand ✅ *(the lips release it)*
+**Say "vvvv"** → 🦷 Air **scrapes** out between your teeth and lip — you feel a thin, buzzy stream ✅
+**Say "wwww"** → 👄 Air flows out **freely** through rounded lips — smooth, no scraping ✅
 
-*(Emphasise.)* **/v/ = no air on the hand. /w/ = air on the hand.** ✋ ✅
+*(Emphasise.)* **/v/ = teeth on lip, buzzing friction 🦷 · /w/ = rounded lips, nothing touching 👄** ✅
+
+*(The real test is TOUCH, not air.)* ⭐ Put a finger on your top teeth: for **/v/** your bottom lip **touches** them. For **/w/** it touches **nothing**. ✅ That's the check that never fails. ⭐
 
 *(Do it together on camera.)* Try it now. **"vvvv"** ... **"wwww"** ✅ Different, isn't it? ⭐
 
@@ -234,13 +236,12 @@ English /v/  ←—— Malayalam വ ——→  English /w/
 
 | Word | The switch |
 |---|---|
-| **vowel** | **V**-owel → 🦷 then 👄 |
-| **valuable** | **V**al-ua-ble → 🦷 then 👄 |
 | **wave** 🌊 | **W**a-**v**e → 👄 then 🦷 ⭐ |
 | **weave** | **W**ea-**v**e → 👄 then 🦷 |
 | **wives** | **W**i-**v**es → 👄 then 🦷 |
-| **overview** | o-ver-**v**iew → 🦷 then 👄 |
-| **worldwide** | **w**orld-**w**ide → 👄 👄 ✅ |
+| **twelve** | t-**w**el-**v**e → 👄 then 🦷 |
+| **weave the vest** | 👄 🦷 → 🦷 |
+| **we visit** | **w**e **v**isit → 👄 then 🦷 |
 | **west vest** | 👄 then 🦷 |
 
 *(Practise "wave" ten times.)* ⭐ **W**ave — lips round, then teeth bite. 👄→🦷 ✅
@@ -334,13 +335,13 @@ English /v/  ←—— Malayalam വ ——→  English /w/
 
 *(Explain.)* You can't analyse every word while talking. So use this: ✅
 
-> ### 👉 **W-words are almost all question and function words.** 👄
-> *we, what, when, where, which, why, who, will, would, want, work, week, with* ✅
+> ### 👉 Many of English's most common **little** words start with **w**. 👄
+> *we, what, when, where, which, why, will, would, want, work, week, with* ✅
 
-> ### 👉 **V-words are mostly "content" words from Latin.** 🦷
-> *very, video, visit, value, vehicle, available, service, develop, love, have* ✅
+> ### 👉 **V** turns up a lot in longer, borrowed words. 🦷
+> *very, video, visit, value, vehicle, available, service, develop* ✅
 
-*(Emphasise.)* If the word starts with **wh-** → it's **always /w/** 👄 ✅ That's a reliable rule. ⭐
+*(Emphasise.)* Most **wh-** words start with **/w/** 👄 ✅ — but watch the exceptions: **who, whose, whole** start with an **h** sound! ⚠️ ⭐
 
 ---
 

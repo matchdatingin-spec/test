@@ -2,7 +2,7 @@
 
 **Target length:** 16–18 minutes
 **Level:** All levels
-**One-line promise:** One speaker, ten fixes, before and after — and their accent doesn't change at all.
+**One-line promise:** One speaker, ten fixes, before and after — and they still sound like themselves.
 
 **📌 Format note:** Closes the **makeover block**. Section 3 becomes ten paired before/after fixes on one continuous passage. Section 4 becomes the priority argument: which fixes actually affect understanding.
 
@@ -27,7 +27,7 @@ Listen to this.
 
 *(Pause.)*
 
-*(Explain.)* Every word is understandable. ✅ Nothing is grammatically wrong except *"Myself Vinod."* ✅
+*(Explain.)* Every word is understandable. ✅ Grammatically there's very little wrong — *"Myself Vinod"* and *"four years experience"* *(it needs **four years' experience**)*. ✅
 
 *(Firmly.)* But it's **hard work** to listen to. ⚠️ And in an interview, that costs him. ✅
 
@@ -37,9 +37,9 @@ Listen to this.
 
 *(Point at camera.)*
 
-*(Emphasise.)* **Same voice. Same accent. Same person.** ✅
+*(Emphasise.)* **Same voice. Same person. Still unmistakably a Malayali speaking English.** ✅
 
-*(Explain.)* What changed? **Ten specific things** — and not one of them was his accent. ⭐
+*(Explain.)* What changed? **Ten specific things** — stress, rhythm, a couple of sounds, and a few word choices. ⭐ Nobody asked him to sound American. ⭐
 
 *(Confident.)* Today: all ten, one at a time. Let's go. 🚀
 
@@ -59,7 +59,7 @@ Listen to this.
 > ### We are **not** making him sound American or British. ✅
 > ### We are **not** removing anything Malayali from his speech. ✅
 
-*(Emphasise.)* ⭐ 🔗 *(Day 73's argument)* ✅ An Indian accent is a **legitimate** accent with 200 million speakers. ✅
+*(Emphasise.)* ⭐ 🔗 *(Day 73's argument)* ✅ Indian English is a **legitimate** variety spoken by **hundreds of millions** of people. ✅
 
 *(The actual goal.)*
 
@@ -122,8 +122,8 @@ Listen to this.
 
 ### 📍 FIX 3 — "com-for-ta-ble" → "COMF-tuh-bul"
 
-**❌ Before:** *com-for-**TA**-ble* — four syllables ⚠️
-**✅ After:** **COMF**-tuh-bul — **three** ⭐
+**❌ Before:** *com-for-**TA**-ble* — stress on the wrong syllable ⚠️
+**✅ After:** **COMF**-tuh-bul — stress on the **first**, middle squeezed ⭐
 
 *(Explain.)* 🔗 *(Day 66)* English **swallows the middle**. 🕳️ ✅
 
@@ -138,7 +138,7 @@ Listen to this.
 
 *(The technique.)* 🔗 *(Day 68)* **Top teeth touch the bottom lip.** 🦷 Then voice. ✅
 
-*(The hand test.)* ✋ **/v/ = no air on your palm.** ✅
+*(The touch test.)* ✋ **/v/ = bottom lip touching the top teeth, with a buzz.** 🦷 ✅ **/w/ = rounded lips, touching nothing.** 👄 ✅ 🔗 *(Day 68)*
 
 *(Practise the pair.)* **very — wery — very** ×5 🗣️ *(feel the mouth change)* ✅
 
@@ -148,10 +148,10 @@ Listen to this.
 
 ### 🔊 FIX 5 — "wor-king" → the schwa fix
 
-**❌ Before:** *wor-**KING*** — clear *i* in the ending ⚠️
+**❌ Before:** *wor-**KING*** — stress landing on the ending ⚠️
 **✅ After:** **WOR**-king — the *-ing* is soft and unstressed 😐 ⭐
 
-*(Explain.)* 🔗 *(Day 66)* Unstressed syllables collapse into **"uh."** 😐 ✅
+*(Explain.)* 🔗 *(Day 66)* Unstressed syllables go **short and light** — usually towards **"uh"**, though *-ing* keeps a light **"i"**. 😐 ✅ The point is that the **stress moves to the front**. ⭐
 
 *(Show the pattern.)*
 | ❌ Clear | ✅ Lazy ⭐ |
@@ -192,7 +192,7 @@ Listen to this.
 | I will send it | **I'll send it** ✅ |
 | I would like | **I'd like** ✅ |
 
-*(Explain.)* 🔗 *(Days 49, 71)* Native speakers contract **almost always** in speech. ✅ Full forms sound like **reading aloud**. ⚠️
+*(Explain.)* 🔗 *(Days 49, 71)* Native speakers contract **most of the time** in relaxed speech. ✅ Using full forms for **every** word can sound like **reading aloud**. ⚠️ *(Full forms are still normal for emphasis: "I **am** sure.")* ✅
 
 *(Practise.)* **I'm · I've · I'll · I'd** ✅ ×5 each 🗣️
 
@@ -288,7 +288,7 @@ Listen to this.
 
 *(Explain.)* **v/w takes the most work and delivers the least clarity gain.** ✅ Context almost always saves it — nobody hears *"wery good"* and thinks you said something else. ✅
 
-*(Firmly.)* Whereas ❌ *"HO-tel"* genuinely **fails** — the listener may not recognise the word. ⚠️
+*(Firmly.)* Whereas ❌ *"HO-tel"* is much more likely to **fail** — wrong stress can stop a listener recognising the word at all. ⚠️
 
 *(The instruction.)*
 

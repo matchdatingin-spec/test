@@ -38,11 +38,11 @@ And it gets worse. Watch:
 
 *(Laugh, warmly.)*
 
-English has roughly **60%** of words containing a silent letter. Sixty percent! ✅
+A huge share of English words contain a letter nobody pronounces. ✅
 
 *(Lean in, confident.)*
 
-But here's the good news — **they're not random.** ✅ There are about **twelve patterns**. Learn the patterns, and you can predict a word you've never seen. ✅
+But here's the good news — **they're mostly not random.** ✅ They fall into a handful of **patterns**. Learn the patterns, and most new words will stop surprising you. ✅ *(There are still stubborn one-off words — for those, check the dictionary.)* ⭐
 
 Today: 30 words, organised by pattern. Let's go. 🚀
 
@@ -80,7 +80,7 @@ Today: 30 words, organised by pattern. Let's go. 🚀
 
 *(The core contrast — from Day 66.)* 🔗
 
-*(Explain.)* Malayalam is **perfectly phonetic**. ✅ Every letter is pronounced. Always. **മലയാളം** has no silent letters — the concept barely exists. ✅
+*(Explain.)* Malayalam spelling is **far more phonetic** than English. ✅ You pronounce what you see, and **മലയാളം** has nothing like English's silent letters — the concept barely exists. ✅
 
 *(Emphasise.)* So your reading instinct says: **"see a letter, say a letter."** ✅ And English punishes that instinct constantly. ✅
 
@@ -133,7 +133,9 @@ Today: 30 words, organised by pattern. Let's go. 🚀
 
 ---
 
-### 🅻 Pattern 3: Silent **L** — before D, F, K, M
+### 🅻 Pattern 3: Silent **L** — in a small family of common words
+
+*(Careful — this one is a WORD LIST, not a spelling rule.)* ⚠️ The *l* is very much alive in *cold, self, milk, film, help.* ✅ So learn these particular words: ⭐
 
 | # | Word | ✅ Sound |
 |---|---|---|
@@ -143,7 +145,7 @@ Today: 30 words, organised by pattern. Let's go. 🚀
 | 12 | wa~~l~~k 🚶 | **WAWK** |
 | 13 | ta~~l~~k 💬 | **TAWK** 🔗 |
 | 14 | sa~~l~~mon 🐟 | **SAM-un** |
-| 15 | a~~l~~mond 🌰 | **AH-mund** |
+| 15 | almond 🌰 | **AH-mund** ✅ *or* **AL-mund** ✅ — both standard 🔗 *(Day 66)* |
 
 *(Highlight #9!)* ⭐ **would, could, should** ✅ — you say these constantly! 🔗 *(Day 04)* No **l** sound: **"wud, kud, shud."** ✅
 
@@ -229,7 +231,7 @@ Today: 30 words, organised by pattern. Let's go. 🚀
 
 *(Highlight "queue"!)* 😄 **q-u-e-u-e** → **"KYOO"** ✅ The *qu* gives you the whole word, and the final **eue** does nothing at all. English's champion. 🏆
 
-*(Highlight "iron"!)* ⚠️ **iron** ✅ — Malayalis often say *"eye-RON."* ✅ It's **"EYE-urn"** ✅ *(rhymes with "lion")* ✅
+*(Highlight "iron"!)* ⚠️ **iron** ✅ — Malayalis often say *"eye-RON."* ✅ It's **"EYE-urn"** ✅ — stress on **EYE**, and the *r* jumps in front of the *o*. ✅
 
 ---
 
