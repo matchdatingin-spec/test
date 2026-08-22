@@ -2,7 +2,7 @@
 
 **Target length:** 11–12 minutes
 **Level:** B1
-**One-line promise:** It's not about "2 vs 3+." It's about whether you see **separate individuals** or a **blurry group**.
+**One-line promise:** It's not about "2 vs 3+." It's about whether you're **linking and comparing** things, or placing something **inside a group**.
 
 ---
 
@@ -16,9 +16,9 @@ In school, your teacher said:
 
 *(Pause. Shake head slowly.)* And now look at these sentences — all written by native speakers, all perfectly correct:
 
-- ✅ *India lies **between** Pakistan, China, Nepal, and Bangladesh.* → **four** countries!
 - ✅ *There's an agreement **between** the five companies.* → **five**!
 - ✅ *Choose **between** these ten options.* → **ten**!
+- ✅ *Talks **between** India, Pakistan, China and Nepal broke down.* → **four**!
 
 *(Point at camera.)*
 
@@ -26,7 +26,7 @@ So the rule you memorised for 15 years is... incomplete. It's a **shortcut**, no
 
 *(Lean in.)* And that's frustrating, because when the rule doesn't fit, you freeze. You don't know which word to pick.
 
-Today I'll give you the **real** rule — the one native speakers use without thinking. It takes 2 minutes to understand, and it works 100% of the time. Let's go.
+Today I'll give you the **real** logic — the one native speakers use without thinking. It takes 2 minutes to understand, and it will carry you through almost every sentence you'll ever say. Let's go.
 
 ---
 
@@ -34,43 +34,45 @@ Today I'll give you the **real** rule — the one native speakers use without th
 
 *(Draw two pictures with your hands.)*
 
-Forget counting. Think about **how clearly you see the individuals**.
+Forget counting. Ask what **kind of relationship** you're describing.
 
-### 📍 —— 📍 BETWEEN = separate, distinct individuals. You can see each one.
+### 📍 ↔️ 📍 BETWEEN = side-by-side links, gaps, and choices
 
-Each thing is a **clear, separate dot**. You could point at each one and name it.
+*(Explain.)* Use *between* when each thing is **facing the others** — a line drawn from one to another. Deals, differences, distances, choices, time gaps.
 
-- ✅ *between you and me* → two clear people 👤👤
-- ✅ *between Kochi and Trivandrum* → two named cities 📍📍
-- ✅ *between Pakistan, China, and Nepal* → three named countries 📍📍📍
+- ✅ *between you and me* → a link, you ↔️ me 👤↔️👤
+- ✅ *the difference **between** "some" and "any"* → one compared with the other ⚖️
+- ✅ *the train runs **between** Kochi and Chennai* → from one point to the other 📍↔️📍
+- ✅ *choose **between** these ten options* → each one weighed against the rest ⚖️
+- ✅ *the meeting is **between** 3 and 4* → a gap with two edges ⏰
 
-*(Emphasise.)* **Even with ten things — if you can NAME each one, it's BETWEEN.** ✅
+**BETWEEN = links, gaps, comparisons, choices. Malayalam: ഇടയിൽ**
 
-**BETWEEN = clear separate items. Malayalam: ഇടയിൽ (രണ്ടിനും ഇടയിൽ)**
+### ☁️ AMONG = inside a group, surrounded by it
 
-### ☁️ AMONG = a blurry crowd. You can't see the individuals.
+*(Explain.)* Use *among* when something is **inside** a larger group, or spread **through** it. You're not drawing lines between members — you're placing something in the middle of them.
 
-The things are a **mass, a group, a crowd**. You don't see who's who.
+- ✅ *He was standing **among** the crowd.* → inside it ☁️
+- ✅ *The house is hidden **among** the trees.* → surrounded ☁️
+- ✅ *This habit is common **among** teenagers.* → spread through the group ☁️
+- ✅ *The land was divided **among** the villagers.* → shared out through a group ☁️
 
-- ✅ *among the crowd* → I can't name them ☁️
-- ✅ *among the trees* → a forest, unnamed ☁️
-- ✅ *among my friends* → the group, generally ☁️
-- ✅ *He is popular among students.* → students in general ☁️
-
-**AMONG = an unnamed group / crowd. Malayalam: കൂട്ടത്തിൽ / ഇടയിൽ (പലരുടെ)**
+**AMONG = inside / spread through a group. Malayalam: കൂട്ടത്തിൽ**
 
 ### The 2-second test
 
 *(Big and clear on screen.)*
 
-> **Can you POINT and NAME each one?** → **BETWEEN** 📍📍📍
-> **Is it a blurry crowd?** → **AMONG** ☁️
+> **Am I linking, comparing, or choosing?** → **BETWEEN** 📍↔️📍
+> **Am I inside a group, or spreading something through it?** → **AMONG** ☁️
 
 *(Test it.)*
-- *between Ram, Sita, and Lakshman* → named! ✅ **between**
-- *among the villagers* → unnamed crowd ✅ **among**
-- *between the three options* → each option is distinct ✅ **between**
-- *among the audience* → a crowd ✅ **among**
+- *the difference **between** the two jobs* → comparing ✅ **between**
+- *he was popular **among** the students* → inside the group ✅ **among**
+- *choose **between** the three options* → weighing each ✅ **between**
+- *she sat **among** the audience* → inside it ✅ **among**
+
+*(Very important honesty note.)* ⚠️ **Naming the people does NOT force "between."** ✅ *The money was divided **among** Ravi, Anu and Manu* is perfectly correct English — because dividing is **spreading through a group**. ✅ It's the **relationship** that decides, not whether you know their names. ⭐
 
 *(Reassuring note.)* And here's the good news — **for two things, it's ALWAYS "between."** So your old rule was never *wrong* — it was just too small. The new rule includes it and covers everything else too. ✅
 
@@ -123,7 +125,7 @@ Build it:
 
 **Malayalam:** അവൻ വിദ്യാർത്ഥികളുടെ ഇടയിൽ വളരെ പോപ്പുലർ ആണ്.
 
-*(Find the clue.)* **വിദ്യാർത്ഥികളുടെ ഇടയിൽ** — "among students." Are these named individuals? No! It's a **general crowd** of students. ☁️ → **AMONG** ✅
+*(Find the clue.)* **വിദ്യാർത്ഥികളുടെ ഇടയിൽ** — "among students." Is he being compared with them, or **popular inside** that group? Inside! ☁️ → **AMONG** ✅
 
 Build it:
 
@@ -143,21 +145,23 @@ Build it:
 
 | Sentence | Picture |
 |---|---|
-| *The money was divided **between** Ravi and Anu.* | 📍📍 two named people |
-| *The money was divided **among** the villagers.* | ☁️ an unnamed crowd |
-| *The prize was shared **between** the three winners.* | 📍📍📍 three specific winners |
-| *The prize was shared **among** the participants.* | ☁️ a general group |
+| *The money was divided **between** Ravi and Anu.* | 📍↔️📍 two shares, one each |
+| *The money was divided **among** the villagers.* | ☁️ spread through a group |
+| *The prize was shared **between** the three winners.* | 📍↔️📍 separate shares, winner by winner |
+| *The prize was shared **among** the participants.* | ☁️ spread through the group |
 
-*(Point out rows 3 and 4.)* Look! **Three** winners takes *between*, because they're **specific and named**. And *participants* takes *among*, because it's a **vague crowd**. 🤯
+*(Point out rows 3 and 4.)* Row 3 uses *between* because we're thinking of **each winner's own share**. Row 4 uses *among* because we're spreading it **through** a group. 🤯
 
-**The number was never the point. The clarity was.** ✅
+*(And be fair to the learner.)* ⭐ For row 3, ✅ *shared **among** the three winners* is **also** correct — it just stops highlighting the individual shares. ✅ With sharing and dividing, **both are often acceptable**; the meaning shifts slightly, and neither is an error.
+
+**The number was never the point. The relationship was.** ✅
 
 ### Five more real-life examples
 
 | Situation | ✅ Correct | Why |
 |---|---|---|
-| Travelling | **The train runs between Kochi and Chennai.** | two named cities 📍📍 |
-| Describing a house | **The house is hidden among the trees.** | unnamed crowd of trees ☁️ |
+| Travelling | **The train runs between Kochi and Chennai.** | from one point to the other 📍↔️📍 |
+| Describing a house | **The house is hidden among the trees.** | surrounded by them ☁️ |
 | Choosing a job | **I have to choose between two offers.** | two clear options 📍📍 |
 | Talking about a habit | **This problem is common among young people.** | general group ☁️ |
 | Office schedule | **The meeting is between 3 and 4 p.m.** | two clear times ⏰ |
@@ -261,8 +265,8 @@ Comment your answers — I reply to every one!
 
 *(Warm close.)*
 
-Number 1 is the real test of today's lesson. **Four** brothers — so is it *among*? Or does the fact that they're **specific, named brothers** make it *between*? Think about the clarity, not the number, and tell me your answer! 🤔
+Number 1 is the interesting one — and it's a **trick question**. ⭐ *Divided **among** the four brothers* is the classic, safe answer, because dividing spreads something **through** a group. ✅ But *divided **between** the four brothers* is also used, when you want to stress **each brother's own share**. ✅ Tell me which one you chose and **why** — the reasoning is what I'm marking! 🤔
 
 Tomorrow, Day 26 — **unless vs until.** These two look like cousins, but one is about **conditions** and the other about **time**. And there's one sentence Malayalis say wrong so often that it completely reverses the meaning. This one really matters — don't miss it.
 
-**Can you name each one? → between 📍. Blurry crowd? → among ☁️.** See you tomorrow! 👋
+**Linking, comparing, choosing? → between 📍↔️📍. Inside a group? → among ☁️.** See you tomorrow! 👋

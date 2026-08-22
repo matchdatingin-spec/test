@@ -2,7 +2,7 @@
 
 **Target length:** 12–14 minutes
 **Level:** B1
-**One-line promise:** One question decides it — **"Is a finished time mentioned?"** If yes, simple past. Always.
+**One-line promise:** One question does most of the work — **"Is a finished time mentioned?"** If yes, simple past. Every time.
 
 ---
 
@@ -23,8 +23,8 @@ The second one. ✅ And the first one is **wrong** — even though it sounds mor
 
 And now the opposite:
 
-> ❌ *"Did you ever go to Dubai?"*
-> ✅ **"Have you ever been to Dubai?"** ✅
+> ⚠️ *"Did you ever go to Dubai?"*
+> ✅ **"Have you ever been to Dubai?"** ✅ ← the precise one for life experience
 
 *(Lean in.)*
 
@@ -47,9 +47,11 @@ But there's **one question** that solves this permanently. Ask it, and you'll ne
 *(Write it big.)*
 
 > **YES → SIMPLE PAST** ⬅️
-> **NO → PRESENT PERFECT** 🔗
+> **NO → ask one more thing: does the result matter NOW?** 🔗
 
-*(That's it.)* That single question decides 90% of cases. ✅
+*(Be precise.)* The **first** direction is rock solid: a finished time **always** blocks the present perfect. ✅
+
+*(The second half needs care.)* ⚠️ "No time mentioned" does **not** automatically mean present perfect. ✅ *I saw him.* · *She called.* ✅ are correct with no time word — they're just **past storytelling**. ✅ So when there's no time word, ask: **am I pointing at now, or telling a past story?** ⭐
 
 *(Define "finished time.")* A finished time is any period that is **over**:
 
@@ -80,7 +82,7 @@ The event happened, but you're mentioning it **because of what it means NOW**. T
 
 ### The 3 jobs of present perfect
 
-*(Practical — these are all the uses.)*
+*(Practical — these are the three you'll use constantly.)*
 
 **Job 1: Experience in your life** 🌍 *(no date)*
 - ✅ *I've been to Dubai.* · *Have you ever eaten sushi?* · *I've never seen snow.*
@@ -118,12 +120,13 @@ Build it:
 
 > ✅ **"I saw that movie last week."**
 
-*(Note the vocabulary!)* For movies, native speakers prefer **watched**:
+*(Note the vocabulary!)* For movies, **both** are natural:
 - ✅ *I **watched** that movie last week.* ⭐
 - ✅ *I **saw** that movie last week.* ✅ *(also fine)*
 
-*(Difference.)* **Watch** = you chose to view it, attentively 👀. **See** = it happened to your eyes 👁️.
-- ✅ *I watched a movie.* ✅ *(chosen)*
+*(Difference.)* **Watch** = following it over time, attentively 👀. **See** = perceiving it 👁️ — which includes *going to* a film.
+- ✅ *I watched a movie at home.* ✅ *(following it on screen)*
+- ✅ *I saw a movie at the cinema.* ✅ *(went and viewed it — completely normal)*
 - ✅ *I saw an accident.* ✅ *(happened to be there)*
 
 *(Now — remove the time and watch the tense flip!)*
@@ -241,7 +244,9 @@ Watch how native speakers **switch** tenses in a real exchange:
 
 *(Why does this happen?)* Because **ചെയ്തിട്ടുണ്ട്** feels more "complete" and more polite in Malayalam, so we reach for the longer English form thinking it's better. 🤔
 
-*(Firmly.)* But in English, **present perfect and a date cannot coexist.** ❌ It's not a style choice — it's a grammar conflict.
+*(Firmly.)* But in English, **present perfect can't sit with a finished date for a single event.** ❌ It's not a style choice — it's a grammar conflict.
+
+*(One clarification, so you're not confused.)* ⭐ Dates **are** allowed when they mark a **starting point** or an **unfinished** period: ✅ *I've lived here **since 2019**.* · *I've been to Goa **twice this year**.* ✅ The clash is only with a **closed, finished** time like *last month* or *in 2019*. ⭐
 
 *(The self-check — one second.)*
 
@@ -253,12 +258,14 @@ Watch how native speakers **switch** tenses in a real exchange:
 
 *(The reverse error.)*
 
-| ❌ | ✅ |
+| ⚠️ Not the best fit | ✅ Better for "up to now" |
 |---|---|
 | Did you ever go to Dubai? | **Have you ever been to Dubai?** |
 | Did you eat? *(just now)* | **Have you eaten?** ⭐ |
 | Did you finish? *(right now)* | **Have you finished?** |
 | Did you see my message? | **Have you seen my message?** ⭐ |
+
+*(Important honesty note.)* ⚠️ The left column is **not** broken English — American speakers say these constantly, and they're fine when a **particular occasion** is understood. ✅ But for *"in your whole life, up to now"* and *"is it done yet?"*, the **right** column is the safer, more precise choice — and the one exams expect. ⭐
 
 *(Highlight #2 — the ചോറ് കഴിച്ചോ classic!)* 🔗 *(Day 01, Day 29)*
 - ✅ **"Have you eaten?"** ✅ = ചോറ് കഴിച്ചോ? *(right now, is your hunger sorted?)*
@@ -334,7 +341,7 @@ Before speaking, run this:
 2. *"Did you ever eaten Chinese food?"*
 3. *"I am working here since three years."*
 4. *"He has called me yesterday."*
-5. *"I didn't finish it yet."*
+5. *"I didn't finish it yet."* *(hint: this one is accepted in American English — but what's the safer international version?)*
 
 *(Warm close.)*
 

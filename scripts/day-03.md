@@ -33,9 +33,11 @@ Today, no memorising. Just one piece of logic. And after that, *"Did you went"* 
 
 Here is the rule. Write it down.
 
-### 👉 In one English sentence, only ONE word is allowed to show the past.
+### 👉 In one English verb group, only ONE word carries the past.
 
-One. Not two. If two words show the past, the sentence breaks.
+One. Not two. If two words in the **same** verb group show the past, the sentence breaks.
+
+*(Important — be precise here.)* ⚠️ A long sentence **can** have several past verbs, because it has several verb groups: ✅ *He **said** he **was** tired.* ✅ Both are past, and both are correct. The rule is about **one** verb group — one *did* + one verb working together.
 
 Look at the simple statement:
 
@@ -66,7 +68,7 @@ When the boss walks in, the boss takes responsibility for the **time**. And the 
 
 That's it. That's the whole lesson.
 
-**Whenever you see *did*, the next verb must be plain.** Go, not went. Eat, not ate. See, not saw. Buy, not bought.
+**Whenever *did* is the helper, its main verb must be plain.** Go, not went. Eat, not ate. See, not saw. Buy, not bought.
 
 *(Say together.)* Did you **go**. Did you **eat**. Did you **see**. Did you **buy**.
 
@@ -149,9 +151,11 @@ The pattern: **Question word + did + person + plain verb.**
 
 *(Chant it.)* What – did – you – say. Where – did – you – go. Why – did – he – call.
 
-### The one exception you must know
+### The exception you must know
 
-There is exactly **one** case where you don't need *did*, and Malayalis get it wrong in the opposite direction.
+Among **simple-tense** questions like these, there's one case where you don't need *did*, and Malayalis get it wrong in the opposite direction.
+
+*(Quick note.)* ✅ *Did* is also not needed when the sentence **already has** a helper: ✅ *Was he there?* · *Can she swim?* · *Has he left?* ✅ Those already have their own boss, so they never hire *did*.
 
 When the question word is asking about **the subject** — the doer itself — no helper is needed.
 
@@ -185,7 +189,7 @@ Look:
 
 *(Amazed tone.)* Five different meanings and the word order never changed **once**. Malayalam is a genius language for this. Everything happens inside the verb.
 
-English is the opposite. English is **lazy about verbs but strict about order.** English refuses to pack meaning into the verb. Instead, it hires extra staff and lines them up:
+English works differently. English marks **some** things on the verb — *go/went, walk/walked* — but for questions and negatives it prefers to **hire a helper** and line the words up in order:
 
 | Meaning | Malayalam | English |
 |---|---|---|

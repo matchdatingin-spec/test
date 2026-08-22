@@ -38,9 +38,9 @@ Today I'll give you the **real** logic — one idea, and every case makes sense.
 
 *(Slow. This is the key.)*
 
-Forget "positive and negative." Think about **certainty**.
+Forget "positive and negative." Think about what you **expect**.
 
-### ✅ SOME = I KNOW it exists. I'm just not saying how much.
+### ✅ SOME = I'm treating it as real. I'm just not saying how much.
 
 You're **sure** the thing is there.
 
@@ -78,7 +78,9 @@ You're **unsure**, or you're saying **zero**.
 
 *(Explain.)* **Why *some*?** Because when I **offer** you tea, I already **have** the tea in my hand! I **know** it exists. So → **some** ✅
 
-*(Beautiful, right?)* The certainty logic explains it. The "positive/negative" rule cannot.
+*(Beautiful, right?)* The expectation logic explains it. The "positive/negative" rule cannot.
+
+*(One honest line.)* ⚠️ This isn't a law of physics — it's a very reliable **guide**. What *some* really signals is that you're treating the thing as **there**; *any* leaves it genuinely open. ✅
 
 *(Rule to remember.)*
 > **Offering or requesting something you expect to exist → SOME.**
@@ -153,7 +155,9 @@ Build it:
 - ✅ ***Any** questions?* = whatever you want to ask ✅
 - ✅ *You can pick **any** colour.* = your choice ✅
 
-*(Explain.)* In **positive** sentences, *any* means **"your free choice."** That's why *"give me any tea"* sounded odd — you gave away your choice for no reason. 😄
+*(Explain.)* In **positive** sentences, *any* usually means **"your free choice."** That's why *"give me any tea"* sounded odd — you gave away your choice for no reason. 😄
+
+*(Also worth knowing.)* ✅ *Any* turns up after **if** too: ✅ *If you need any help, call me.* ⭐
 
 *(But it's beautiful when used right.)*
 - ✅ *Come at any time — I'm free all day.* ✅
@@ -208,9 +212,11 @@ So we produce:
 - ❌ *I didn't see nobody* → ✅ **I didn't see anybody.**
 - ❌ *He didn't tell nothing* → ✅ **He didn't tell me anything.**
 
-*(Explain the rule clearly.)* **English allows only ONE negative per sentence.**
+*(Explain the rule clearly.)* **In standard English, one clause carries only ONE negative word.**
 
-*(Remember Day 03?)* Same idea as "one past per sentence"! English is very economical.
+*(Remember Day 03?)* Same economical instinct as the *did* rule — the negative is marked **once** per clause.
+
+*(Precision note.)* ⚠️ A longer sentence **can** hold two negatives when they're in **different** clauses: ✅ *I didn't say she wasn't coming.* ✅ And many English dialects *do* stack negatives — that's a real dialect, not stupidity. But for interviews, exams and international work, use **one negative per clause**. ⭐
 
 So:
 - ✅ *I don't have **anything**.* ← negative in "don't," so *any* ✅
@@ -227,12 +233,14 @@ Both correct! Pick one. Never both.
 
 **എന്തെങ്കിലും** means "something-or-other / anything." And in **questions**, English wants **anything**:
 
-| Malayalam | ❌ | ✅ |
+| Malayalam | ⚠️ Not the neutral choice | ✅ Neutral question |
 |---|---|---|
 | എന്തെങ്കിലും വേണോ? | Do you want something? | **Do you want anything?** |
 | എന്തെങ്കിലും പ്രശ്നമുണ്ടോ? | Is there some problem? | **Is there any problem?** |
 | ആരെങ്കിലും വന്നോ? | Did somebody come? | **Did anybody come?** |
 | എന്തെങ്കിലും ചോദിക്കാനുണ്ടോ? | Some questions? | **Any questions?** |
+
+*(Be accurate here!)* ⚠️ The middle column is **not broken English.** ✅ *"Do you want something?"* and *"Did somebody come?"* are real sentences — they just carry an extra flavour: you're **expecting a yes**, or you already **suspect** it's true. ✅ Use the **any** column when you're asking with a genuinely open mind. ⭐
 
 *(But watch the offer exception again!)*
 - ✅ *Would you like something to drink?* ← offering ✅ *some* is correct here!
@@ -243,13 +251,15 @@ Both correct! Pick one. Never both.
 ### Trap 3: "Some" for singular countable nouns
 
 - ❌ *Give me some pen* → ✅ **Give me a pen.** *(one pen = a)*
-- ❌ *I need some help... ✅ correct!* *(help is uncountable)*
-- ❌ *There is some problem* → ✅ **There is a problem.** *(one problem = a)*
+- ✅ *I need some help* ← already correct! *(help is uncountable)*
+- ⚠️ *There is some problem* → ✅ **There is a problem.** *(one problem = a)*
 
-*(Rule.)* **Some** goes with **plurals** and **uncountables** only:
+*(Rule for you to follow.)* For **one** countable thing, use **a/an** — not *some*:
 - ✅ some pen**s** ✅ *(plural)*
 - ✅ some water ✅ *(uncountable)*
 - ❌ some pen ❌ *(singular countable → use "a")*
+
+*(Advanced note — for your ear, not your homework.)* ⭐ Native speakers **do** say *some* + singular when they mean **"a certain one I can't identify"**: ✅ *Some guy called you.* · *There's some problem with the server.* ✅ It's real, but it adds a vague/dismissive tone — so stick with **a/an** until it feels natural. ⭐
 
 *(Connect to Day 20.)* Remember: **a countable singular noun is never alone** — it needs *a, an, the, my...* not *some*. 🔗
 

@@ -44,7 +44,9 @@ Same as yesterday's *bring/take* — it's all about **direction**. But this time
 - ✅ *I borrowed ₹500 from my brother.* → money came to me
 - ✅ *She borrowed a book from the library.* → book came to her
 
-**BORROW = take. Always with FROM.**
+**BORROW = take. The source takes FROM.**
+
+*(Note.)* ✅ You can also drop the source completely when it's obvious: ✅ *Can I borrow a pen?* ⭐
 
 ### ➡️ LEND = I GIVE (temporarily)
 
@@ -54,7 +56,9 @@ Same as yesterday's *bring/take* — it's all about **direction**. But this time
 - ✅ *I lent him ₹500.* → money left me
 - ✅ *The bank lends money.* → money leaves the bank
 
-**LEND = give. Always with TO (or with a person right after).**
+**LEND = give. The receiver takes TO (or sits right after the verb).**
+
+*(Note.)* ✅ The receiver can be left out too: ✅ *Banks lend money.* ⭐
 
 ### The 2-second test
 
@@ -149,7 +153,7 @@ Build it:
 
 *(Emphasise the pattern.)* See how the **"from my brother"** part travels all the way to the **end** in English? In Malayalam it sits in the middle. This is the S-O-V vs S-V-O switch in action. **English: person → action → thing → details.**
 
-*(Careful with a common error.)* Some Malayalis say ❌ *"I took ₹500 from my brother."* That sounds like you **won't return it** — or worse, that you took it without asking! Use **borrowed** to show it's a loan.
+*(Careful with a common error.)* Some Malayalis say ⚠️ *"I took ₹500 from my brother."* That's correct English, but *took* says nothing about returning it — so it can sound like a gift, or even like you didn't ask. Use **borrowed** to make the **loan** clear.
 
 ### Five more real-life examples
 
@@ -204,8 +208,10 @@ Because **തരുക/കൊടുക്കുക** are so flexible, we over-us
 - ❌ *He gave me money, I will return* → ✅ **He lent me some money.**
 
 *(Explain the difference clearly.)*
-- **give** = it's yours now, keep it forever 🎁
-- **lend** = you'll return it ↩️
+- **give** = hand it over, with **no** built-in promise to return it 🎁
+- **lend** = hand it over, and you **will** return it ↩️
+
+*(Careful.)* ⚠️ *Give* doesn't always mean "forever" — ✅ *Give me the pen for a second* is normal. ✅ The point is that **lend** *states* the return; **give** doesn't. ⭐
 
 So if you say *"Give me ₹500,"* you are asking for a **gift**. If you say *"Could you lend me ₹500?"* you're asking for a **loan**. Big difference in a friendship! 😄
 
@@ -231,14 +237,16 @@ So if you say *"Give me ₹500,"* you are asking for a **gift**. If you say *"Co
 ### Bonus: the third word — "rent"
 
 *(Quick upgrade.)*
-- **borrow** = take temporarily, **free** 🆓
-- **rent** = take temporarily, **with money** 💰
-- **lend** = give temporarily, free
-- **rent out** = give temporarily, for money
+- **borrow** = take temporarily, and **give it back** 🔄
+- **rent** = pay to use something temporarily 💰
+- **lend** = give temporarily, expecting it back 🔄
+- **rent out** = let someone use your thing, for money
 
-- ✅ *I borrowed my friend's car.* → free
-- ✅ *I rented a car for the trip.* → I paid
+- ✅ *I borrowed my friend's car.* → usually a favour, no payment
+- ✅ *I rented a car for the trip.* → I paid a rental company
 - ✅ *He rents out his flat.* → he receives money
+
+*(Precise note.)* ⚠️ The real difference is **"do I return it?"**, not "is it free?" ✅ Banks *lend* money and charge **interest** — so borrowing isn't automatically free. ✅ *Rent* is specifically about **paying to use** something for a period. ⭐
 
 ---
 

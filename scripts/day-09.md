@@ -18,7 +18,7 @@ And you want to say **ഞാൻ വരും എന്ന് തോന്നു�
 
 *(Stop. Look at camera.)*
 
-Two mistakes in four words. First — *"may be"* written as two words is a completely different thing from **maybe**. Second — you doubled up. *Maybe* + *will* is like wearing two watches.
+The problem is in the first two words. *"May be"* written as **two** words is a helper + verb — a completely different thing from the one-word comment **maybe**. And once you've written *may be*, you now have **two helpers** fighting: *may* and *will*. English never allows two helpers like that side by side.
 
 The natural sentences are:
 > ✅ **"I might come."**
@@ -35,12 +35,14 @@ Have you said "may be I will come"? Almost every Malayali has. Today we fix it �
 
 Think of a **percentage dial** for "maybe."
 
-| Word | Chance | Feeling |
+| Word | Rough feeling | Feeling |
 |---|---|---|
-| **will** | 100% | It's happening. |
-| **may** | around 50% | A real, fair chance. |
-| **might** | around 30% | Possible, but I doubt it. |
-| **won't** | 0% | Not happening. |
+| **will** | confident | It's happening. |
+| **may** | a real, fair chance | Could easily go either way. |
+| **might** | a bit more doubtful | Possible, but I doubt it. |
+| **won't** | ruled out | Not happening. |
+
+*(Say this out loud.)* ⚠️ These are **feelings, not percentages** — context and tone change them completely. Treat the table as a dial you can feel, not a number you can measure. ✅
 
 *(Honest teaching.)* Now listen carefully, because this is important: the difference between *may* and *might* is **very small**. Native speakers often use them interchangeably. Nobody will misunderstand you if you swap them.
 
@@ -49,9 +51,9 @@ So don't stress about 50% vs 30%. Instead, learn these **two solid, practical di
 ### Difference 1: *May* also means PERMISSION. *Might* never does.
 
 - ✅ *May I come in?* = asking permission ← formal, polite
-- ❌ *Might I come in?* ← technically exists, but sounds like a 100-year-old British novel 😄
+- ⚠️ *Might I come in?* ← this is real English, but very formal and old-fashioned 😄
 
-**So: for permission, always MAY.** *May I...?* is the most formal, most respectful way to ask.
+**So: for permission, use MAY.** *May I...?* is the formal, respectful way to ask.
 
 ### Difference 2: For imaginary or very unlikely things, use MIGHT.
 
@@ -111,7 +113,7 @@ Now, two correct ways to build it.
 - **might** = a helper verb → goes **inside**, before the main verb
 
 - ✅ *Maybe he is busy.* / ✅ *He might be busy.*
-- ❌ *He maybe busy.* ← wrong! *maybe* can't sit in the middle
+- ❌ *He maybe busy.* ← wrong! there's no verb at all here
 - ❌ *Might he is busy.* ← wrong! that's a question shape
 
 *(Warning about "may be" as two words.)* There **is** a correct use of *may be* as two words — when *may* is the helper and *be* is the verb:
@@ -181,7 +183,7 @@ We covered it, but let's understand **why** it happens.
 
 In Malayalam: **ഒരുപക്ഷേ ഞാൻ വരും.** Here **ഒരുപക്ഷേ** = maybe, and **വരും** = will come. Malayalam happily keeps **both** — the uncertainty word *and* the future ending. There's no conflict.
 
-English **hates** that doubling. In English, **either** the helper carries the uncertainty, **or** a separate word does — never both:
+English can't copy that shape **directly**, because *may* and *will* are both helpers, and English allows only **one** helper of that kind in a verb group:
 
 | Malayalam | ❌ | ✅ |
 |---|---|---|
@@ -189,7 +191,9 @@ English **hates** that doubling. In English, **either** the helper carries the u
 | ഒരുപക്ഷേ അവൻ വരില്ല | May be he will not come | **He might not come.** |
 | ഒരുപക്ഷേ ശരിയാകും | May be it will be correct | **It might work.** |
 
-**Rule: one uncertainty per sentence.** Pick *maybe* + *will*, OR just *might*. Not both.
+**Rule: one helper per verb group.** ❌ *may will* is impossible. ✅ Use **might/may** alone, or the one-word comment **maybe** with *will*.
+
+*(Very important — don't get this backwards!)* ⭐ **"Maybe I'll come" is 100% correct.** ✅ The word *maybe* is not a helper, so it sits happily with *will*. ✅ What breaks is only ❌ *may* + *will* — two helpers. ⭐
 
 ### Trap 2: "may not" vs "might not" vs "cannot"
 

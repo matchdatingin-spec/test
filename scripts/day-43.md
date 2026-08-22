@@ -26,9 +26,9 @@ So your problem is **not** vocabulary. Your problem is that you learned English 
 
 *(Lean in.)*
 
-And here's the good news that nobody tells you: **native speakers are not speaking fast.** Measure it — they say about the same number of ideas per minute as you do.
+And here's the good news that nobody tells you: **a lot of what feels like "fast" is not speed at all.** Some speakers genuinely are quick — but the bigger problem is that they're **gluing words together** and **swallowing sounds**.
 
-They're just **gluing words together** and **swallowing sounds**. And those patterns are **predictable**. 🎯
+And those patterns are **predictable**. 🎯
 
 Today I teach you the patterns. Your listening will improve **immediately** — not in months. Today. Let's go. 🚀
 
@@ -48,7 +48,7 @@ Malayalam is a **syllable-timed** language. Every syllable gets roughly **equal 
 
 *(Emphasise.)* That's why Malayalam sounds **rhythmic and even** — like a steady drum. And it's why Malayalam is **easy to read aloud**: what you see is what you say. ✅
 
-**English is completely different.** English is **stress-timed**. Some syllables get **big time**, and the rest get **crushed**:
+**English leans the other way.** English is much more **stress-timed**. Some syllables get **big time**, and the rest get **crushed**:
 
 **"I want to go to the market."**
 → *"I **WANT** to go to the **MAR**ket."*
@@ -58,7 +58,7 @@ Malayalam is a **syllable-timed** language. Every syllable gets roughly **equal 
 
 *(The consequence for you.)*
 
-> ### 👉 Your ears expect every syllable to be pronounced. English deletes half of them.
+> ### 👉 Your ears expect every syllable to be pronounced clearly. English squeezes and swallows many of them.
 
 *(That's the whole problem.)* You're listening for sounds that **aren't there**. ✅
 
@@ -118,7 +118,13 @@ Malayalam is a **syllable-timed** language. Every syllable gets roughly **equal 
 - → *"do abou-dit"* ✅
 
 **Full decode:**
-> **"What do you want to do about it?"** → *"Whaddaya wanna do abou-dit?"* ✅
+> **"What are you going to do about it?"** → *"Whaddaya gonna do abou-dit?"* ✅
+
+*(Don't mix these two up!)* ⚠️ **gonna = going to** ✅ · **wanna = want to** ✅
+- ✅ *"Whaddaya **gonna** do?"* = What **are** you **going to** do?
+- ✅ *"Whaddaya **wanna** do?"* = What **do** you **want to** do?
+
+*(Say both, three times each.)* Different helper, different meaning. ⭐
 
 *(Say both versions three times.)* Slow, then fast. Slow, then fast. ✅
 
@@ -133,7 +139,9 @@ Malayalam is a **syllable-timed** language. Every syllable gets roughly **equal 
 
 *(The listening strategy!)* So when you listen to fast English:
 
-**Don't try to catch every word. Catch the LOUD words — they carry 90% of the meaning.** ✅
+**Don't try to catch every word. Catch the LOUD words — they carry most of the meaning.** ✅
+
+*(One caution.)* ⚠️ "Most" is not "all" — the small crushed words carry **grammar**: *don't, didn't, will, has.* ✅ Hunt the loud words first, but keep half an ear on the negatives. ⭐
 
 *(Demo.)* *"...mumble mumble **MEETING** mumble **THREE** mumble **TOMORROW**..."*
 → You got it! **Meeting, three, tomorrow.** ✅ That's the whole message! 🎯
@@ -157,7 +165,7 @@ Malayalam is a **syllable-timed** language. Every syllable gets roughly **equal 
 **Full decode:**
 > ✅ **"I don't know, let me check and I'll let you know."** ✅
 
-*(Point out.)* **Eleven words became five sounds.** No wonder it felt fast! ✅
+*(Point out.)* **Eleven words squeezed into about five beats.** No wonder it felt fast! ✅
 
 *(Note the "cha" sound.)* When **t** meets **y**, they merge into **"ch"**:
 - *let you* → **letcha** 🔗
@@ -235,14 +243,15 @@ Malayalam is a **syllable-timed** language. Every syllable gets roughly **equal 
 
 *(Practise.)* **"Notatall!"** ✅ That's why you never hear the three separate words. ✅
 
-#### Rule 2: Same consonant twice = say it once ✂️
+#### Rule 2: Same consonant twice = one long sound ✂️
 
 - *bus stop* → **"bustop"**
-- *want to* → **"wanna"**
 - *black coffee* → **"blacoffee"**
 - *hot tea* → **"hotea"**
 
-#### Rule 3: T and D disappear between consonants 🕳️
+*(Note.)* ⚠️ *want to → wanna* belongs to a different family — that's a **set phrase** reduction, not this doubling rule. ✅
+
+#### Rule 3: T and D often disappear inside consonant clusters 🕳️
 
 - *next day* → **"nexday"**
 - *most people* → **"mospeople"**
@@ -250,7 +259,7 @@ Malayalam is a **syllable-timed** language. Every syllable gets roughly **equal 
 - *old man* → **"olman"**
 - *friendship* → **"frenship"**
 
-*(Point out.)* That's why **"I don't know"** becomes **"I dunno"** — the **t** vanished between **n** and **k**. ✅
+*(Point out.)* ⚠️ **"I dunno"** is a bigger squeeze than this rule — the *t* drops **and** the whole phrase collapses into one word. ✅ Learn it as a **set phrase**, not as an example of the T-rule. ⭐
 
 ---
 
@@ -289,12 +298,12 @@ Malayalam is a **syllable-timed** language. Every syllable gets roughly **equal 
 *(Demo the difference.)*
 
 Take the word **"comfortable"** *(4 syllables written)*:
-- ❌ Malayali habit: **com-for-ta-ble** → all four, equal ✅ clear but not natural
-- ⭐ Native: **COMF-ter-bl** → only 3 sounds, first one strong! ✅
+- ⚠️ Malayali habit: **com-for-ta-ble** → all four, equal weight ✅ clear, but very even
+- ⭐ Relaxed native speech: **COMF-ter-bl** → squeezed to 3, first one strong! ✅
 
 *(More examples — the stress patterns Malayalis get wrong.)*
 
-| Word | ❌ Even | ⭐ Native stress |
+| Word | ❌ Even | ⭐ Common relaxed pronunciation |
 |---|---|---|
 | comfortable | com-for-ta-ble | **COMF**-ter-bl |
 | vegetable | ve-ge-ta-ble | **VEJ**-ta-bl |
@@ -305,7 +314,9 @@ Take the word **"comfortable"** *(4 syllables written)*:
 | Wednesday | wed-nes-day | **WENZ**-day |
 | February | feb-ru-a-ry | **FEB**-yoo-ree |
 
-*(Point out.)* See the pattern? **English swallows the middle.** 🕳️
+*(Point out.)* See the pattern? **English often swallows the middle.** 🕳️
+
+*(Fair warning.)* ⚠️ These are the **relaxed** forms, not the only correct ones. ✅ Careful speech keeps more syllables — *COM-for-ta-ble*, *IN-ter-est-ing* — and that's standard too. ✅ Learn these to **hear** fast speech, not because the fuller version is wrong. ⭐
 
 *(Practise these eight out loud — twice each.)*
 
@@ -317,7 +328,7 @@ Take the word **"comfortable"** *(4 syllables written)*:
 
 *(Observation.)* Because most Malayalis learned English from **textbooks and exams**, we expect speech to match writing. ✅ So when a native says *"gonna,"* it feels **wrong** — like they made a mistake. 🤔
 
-*(Firmly.)* They didn't. **Written English and spoken English are two different systems.** 📚🗣️
+*(Firmly.)* They didn't. **Written English and spoken English follow different habits.** 📚🗣️
 
 | Written | Spoken |
 |---|---|
@@ -326,7 +337,7 @@ Take the word **"comfortable"** *(4 syllables written)*:
 | Do you want to? | **"Wanna?"** |
 | Let us go | **"Let's go"** |
 
-*(Rule.)* **Never write these.** ❌ Never expect writing in speech. ✅ Two systems. ✅
+*(Rule.)* **Don't write these in formal English** — emails, essays, exams. ❌ *(You'll see them in novels, subtitles and WhatsApp, where they're perfectly normal.)* ✅ And don't expect writing in speech. ✅
 
 ### Trap 3: Speaking too slowly and clearly *(when it hurts you)*
 
@@ -372,7 +383,7 @@ But there's one thing that genuinely hurts you: **pausing between every word.**
 | **Sentence rhythm** | copying a specific person |
 | **Clear consonants** ⭐ | dropping your identity |
 
-*(Emphasise.)* **Rhythm and stress = understandable. Accent = cosmetic.** ✅
+*(Emphasise.)* **Rhythm and stress do most of the work for being understood. Copying a native accent is optional.** ✅
 
 *(Warm.)* Speak English **as a Malayali**, clearly and confidently. That's not a compromise — that's **correct**. ❤️
 

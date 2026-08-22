@@ -85,7 +85,9 @@ Now — what does each one **mean**?
 | **could have** | it was possible, but no ⚪ |
 | **would have** | in another world, yes 💭 |
 
-*(Big note.)* And here's the thing they all share: **none of them actually happened.** Every sentence in this lesson describes a past that **did not come true.**
+*(Big note.)* And here's what they share **in this lesson**: none of these examples actually happened. In these three meanings, we're describing a past that **did not come true.**
+
+*(Honest flag — we come back to this later!)* ⚠️ Careful: *could have* and *might have* have a **second** job, which we'll meet at the end of the class — **guessing** about the past: ✅ *He could have missed the bus.* ✅ There, it may well have happened. So "didn't happen" is true for the **regret** meaning, not for every use. ⭐
 
 ---
 
@@ -169,7 +171,7 @@ Now the full "impossible past" sentence. Two halves.
 
 *(Emphasise.)* Level 3 is for **regret about the past**. It's already over. Nothing can change it.
 
-*(The classic error.)* ❌ *"If I would have known, I would have come."* — very common, but wrong. The **if-half never takes "would."** Say: **"If I had known..."**
+*(The classic error.)* ❌ *"If I would have known, I would have come."* — very common, but wrong. In these three patterns, **don't put "would" in the if-half.** Say: **"If I had known..."**
 
 *(Practise the shape.)*
 - ✅ *If I had studied, I would have passed.*
@@ -242,16 +244,18 @@ Say them out loud, right now, with me. That list will serve you for the rest of 
 - ❌ *If I would have money, I would buy...* → ✅ **If I had money, I would buy...**
 - ❌ *If he would have come, we would have started* → ✅ **If he had come, we would have started.**
 
-*(Rule.)* **"Would" belongs only in the RESULT half. Never in the "if" half.**
+*(Rule.)* **In these patterns, "would" belongs in the RESULT half, not the "if" half.**
 
-*(Simple check.)* One *would* per sentence. If you hear two, one is wrong.
+*(Simple check.)* One *would* per conditional sentence. If you hear two, one is almost certainly wrong.
 
 ### Trap 4: Missing the "not" position
 
-- ❌ *I should have not gone* → ✅ **I shouldn't have gone.** / *I should not have gone.* ✅
-- ❌ *I would have not helped* → ✅ **I wouldn't have helped.**
+- ⚠️ *I should have not gone* → ✅ **I shouldn't have gone.** / *I should not have gone.* ✅
+- ⚠️ *I would have not helped* → ✅ **I wouldn't have helped.**
 
-*(Rule.)* **The "not" attaches to the FIRST helper.** should**n't** have, could**n't** have, would**n't** have.
+*(Rule.)* **Put the "not" on the FIRST helper.** should**n't** have, could**n't** have, would**n't** have.
+
+*(Small honesty note.)* ✅ *"I should have not gone"* isn't broken English — it just puts heavy stress on *not*, which is rare. ✅ Make **shouldn't have** your default. ⭐
 
 *(Drill — say these six with me, fast.)*
 1. I should have called. ✅

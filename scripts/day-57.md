@@ -31,7 +31,7 @@ One is quitting. One is smoking. And the only difference is **-ing** versus **to
 And then there's the everyday confusion:
 
 > ❌ *"I enjoy to swim."*
-> ❌ *"I am interested to learn English."*
+> ❌ *"I am interested to learn English."* *(should be: interested **in learning**)*
 > ❌ *"I look forward to meet you."*
 
 *(Emphasise.)* All wrong — all need **-ing**. ✅
@@ -75,6 +75,8 @@ Today: one **feeling** that explains almost every case, plus the lists you genui
 > **-ing looks back at reality ⬅️. To looks forward at purpose ➡️.**
 > **-ing = അനുഭവം. To = ലക്ഷ്യം.** ✅
 
+*(Honest framing — say it once.)* ⭐ This feeling is a **memory hook**, not a law. ✅ It explains the pairs above beautifully, but many verbs simply have a fixed habit you learn by ear — ✅ *avoid **driving** tomorrow* is *-ing* even though it's in the future. ✅ Use the feeling to remember, and the **lists** below to be sure. ⭐
+
 ### The three groups of verbs 📋
 
 *(Now the practical part.)*
@@ -82,7 +84,7 @@ Today: one **feeling** that explains almost every case, plus the lists you genui
 **Group 1: Verbs that take only -ING** ⬅️
 *(These are about **real, experienced** things)*
 
-**enjoy · avoid · finish · stop · mind · suggest · recommend · practise · consider · imagine · admit · deny · keep · miss · risk**
+**enjoy · avoid · finish · mind · suggest · recommend · practise · consider · imagine · admit · deny · keep · miss · risk**
 
 - ✅ *I enjoy **reading**.* ✅
 - ✅ *He avoided **answering**.* ✅
@@ -91,7 +93,7 @@ Today: one **feeling** that explains almost every case, plus the lists you genui
 **Group 2: Verbs that take only TO** ➡️
 *(These are about **goals, decisions, intentions**)*
 
-**want · need · decide · hope · plan · promise · agree · refuse · try · learn · offer · manage · expect · afford · seem**
+**want · need · decide · hope · plan · promise · agree · refuse · learn · offer · manage · expect · afford · seem**
 
 - ✅ *I want **to go**.* ✅
 - ✅ *He decided **to leave**.* ✅
@@ -103,6 +105,8 @@ Today: one **feeling** that explains almost every case, plus the lists you genui
 **like · love · hate · prefer · begin · start · continue**
 
 - ✅ *I like **reading**.* ✅ = ✅ *I like **to read**.* ✅ *(both fine!)*
+
+*(And note these two — they take both, but the meaning CHANGES.)* ⭐ **stop** and **try** get their own section later in this class: ✅ *stop **smoking*** *(quit)* vs *stop **to smoke*** *(pause in order to)*; ✅ *try **to call*** *(attempt)* vs *try **calling*** *(experiment)*. ⭐
 
 *(Point out the logic!)* Look at Groups 1 and 2 again:
 - Group 1 verbs are about things you've **done** ⬅️
@@ -234,7 +238,9 @@ Build it:
 
 *(Extremely practical.)*
 
-> ### 👉 After ANY preposition, always use -ING. Never "to + verb."
+> ### 👉 When a VERB follows a preposition, use -ING. Never "to + verb."
+
+*(Small precision note.)* ✅ Prepositions are usually followed by a **noun** — *in the house*, *after lunch*. ✅ This rule kicks in when what follows is a **verb**. ⭐
 
 *(Explain.)* Prepositions are the small words: *in, on, at, for, of, about, after, before, without, by* ✅
 
@@ -328,6 +334,8 @@ Build it:
 | I'm interested to know | **I'd like to know** ✅ / **I'm interested in knowing** ✅ |
 | Interested to join | **Interested in joining** ✅ |
 
+*(One genuine exception, so you're not confused.)* ⭐ With **hear, know, learn, see**, *interested to* is correct English when you mean a **reaction to news**: ✅ *"I'd be interested to hear what he said."* ✅ But for interests and hobbies, always **interested in + -ing**. ⭐
+
 *(Note.)* ✅ *"I'd be interested to know..."* ✅ **does** exist and is correct in formal English! But **"interested in + -ing"** is safer. ⭐
 
 ### Trap 3: The adjective + preposition list
@@ -361,7 +369,7 @@ Build it:
 | After **want, need, decide, plan, hope, try, promise** | **to** ✅ |
 | After **enjoy, avoid, finish, stop, mind, suggest** | **-ing** ✅ |
 | After **like, love, hate, prefer, start** | **either!** 😌 ✅ |
-| **Not sure?** | use **-ing** — it's right more often ⭐ |
+| **Not sure?** | don't guess — **rephrase**: *"I'd like to..."* / *"I enjoy..."* with a verb you know ⭐ |
 
 *(Emphasise.)* And honestly? If you say ❌ *"I enjoy to swim,"* everyone understands you perfectly. ✅ This is a **polish** issue, not a communication issue. Don't let it slow your speaking. 🔗 *(Day 36 — flow beats accuracy!)*
 

@@ -163,7 +163,7 @@ Malayalam has roughly **three** main time buckets:
 #### 4️⃣ Present Perfect Continuous — *"He has been drinking tea for 20 years."*
 
 **Shape:** have/has been **+ -ing** 🔗🔄
-**Meaning:** started in the past, **still going**
+**Meaning:** started in the past, and it **reaches now** *(still going, or just stopped)*
 **Malayalam:** 20 വർഷമായി കുടിക്കുന്നു
 
 > ✅ *"He **has been drinking** tea for twenty years."* ← still does ✅
@@ -194,7 +194,7 @@ Malayalam has roughly **three** main time buckets:
 
 *(Signal words.)* **yesterday, last week, in 2019, two days ago, at 7 a.m.** 📅
 
-*(Emphasise.)* **The moment you say a finished time → simple past.** Always. ✅
+*(Emphasise.)* **The moment you name a finished time → simple past.** ✅ *(This direction is reliable — a finished time blocks the present perfect.)* ⭐
 
 ---
 
@@ -230,7 +230,7 @@ Malayalam has roughly **three** main time buckets:
 1. Ravi left ← **earlier** → *had left* ✅
 2. I reached ← **later** → *reached* ✅
 
-*(Rule.)* **Two past events? The earlier one gets HAD.** ✅ *(Day 50 goes deep on this!)*
+*(Rule.)* **Two past events, and you want to mark which came first? The earlier one can take HAD.** ✅ *(Often optional — Day 50 goes deep on this!)*
 
 ---
 
@@ -242,7 +242,9 @@ Malayalam has roughly **three** main time buckets:
 
 > ✅ *"He **had been waiting** for an hour **before** I **came**."*
 
-*(Note — Day 27!)* 🔗 This one is mostly for **writing** and **storytelling**. In speech, *"He was waiting for an hour"* ✅ is perfectly fine. ✅
+*(Note — Day 27!)* 🔗 This one is mostly for **writing** and **storytelling**. In speech, people often simplify: ✅ *"He'd been waiting an hour when I came."* ✅
+
+*(Careful with the shortcut.)* ⚠️ *"He was waiting for an hour"* changes the picture slightly — it doesn't clearly say the hour was **already finished** when you arrived. ✅ If the sequence matters, keep **had been**. ⭐
 
 ---
 
@@ -392,8 +394,10 @@ Malayalam has roughly **three** main time buckets:
 *(The deciding question.)*
 
 > **Is a finished TIME mentioned?** *(yesterday, in 2019, last week)*
-> **YES → simple past** ✅ *(always! no exceptions)*
+> **YES → simple past** ✅ *(this direction is safe)*
 > **NO, and the result matters now → present perfect** ✅
+
+*(One honest caution.)* ⚠️ "No time mentioned" does **not** force the present perfect. ✅ *I saw him.* · *She called.* ✅ are perfect English with no time word — because we're telling a **past story**. ✅ Ask the second question too: **does the result matter right now?** ⭐
 
 *(Practise the pair — very important.)*
 - ✅ *I **have been** to Goa.* ← experience, no date ✅
@@ -404,7 +408,7 @@ Malayalam has roughly **three** main time buckets:
 
 *(We've met this on Days 01, 19, 27 — reinforce it.)* 🔗
 
-Some verbs describe **states**, not actions. States **cannot** be "in progress":
+Some verbs describe **states**, not actions. In their state meaning, they normally **don't** take *-ing*:
 
 **know · have (own) · understand · believe · like · love · want · need · belong · seem · mean**
 
@@ -416,23 +420,26 @@ Some verbs describe **states**, not actions. States **cannot** be "in progress":
 | I am wanting tea | **I want tea** |
 | She is having long hair | **She has long hair** |
 
-*(The test.)* **Can you SEE it happening from outside?** 👁️
-- *drinking* → yes, visible ✅ → *-ing* fine
-- *knowing* → no, invisible ❌ → no *-ing*
+*(The test.)* **Is it something you DO, or something that just IS?** ⚙️
+- *drinking* → something you do ✅ → *-ing* fine
+- *knowing* → a state you're in ❌ → no *-ing*
+
+*(Advanced note — don't let it confuse you.)* ⭐ Some of these verbs **change meaning** and then allow *-ing*: ✅ *I'm **having** lunch* *(= eating)* · *I'm **thinking** about it* · *You're **being** rude.* ✅ The rule is about the **state meaning**, not the word itself. ⭐
 
 ### Trap 4: Trying to use all 12 in conversation
 
 *(An honest, freeing correction.)*
 
-*(Direct.)* Here's a fact that will relieve you: in normal spoken English, **four tenses cover about 90% of everything.** ✅
+*(Direct.)* Here's a fact that will relieve you: in normal spoken English, a **small handful** of tenses carries the vast majority of what you say. ✅
 
-**The essential four:**
+**The essential ones:**
 1. **Simple present** → *I work here.* ①
 2. **Simple past** → *I went yesterday.* ⑤
 3. **Present continuous** → *I'm working now.* ②
-4. **Present perfect / perfect continuous** → *I've been working here for 3 years.* ③④
+4. **Present perfect** → *I've finished.* ③
+5. **Present perfect continuous** → *I've been working here for 3 years.* ④
 
-*(Emphasise.)* **Master those four completely.** The other eight will come naturally, over years, from reading and listening. ✅
+*(Emphasise.)* **Master those five completely.** The rest will come naturally, over years, from reading and listening. ✅
 
 *(Firmly.)* Don't try to force *"Future Perfect Continuous"* into a conversation to sound advanced. Native speakers barely use it. **Simple and correct beats complex and shaky.** ✅
 
