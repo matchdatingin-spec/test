@@ -218,7 +218,7 @@ Build it:
 
 *(The first failure mode.)*
 
-| ❌ Unclear | ✅ Clear |
+| ⚠️ Unclear | ✅ Clear |
 |---|---|
 | When I reached the station, the train left | **When I reached the station, the train had left.** |
 | I came home, my brother went out | **When I came home, my brother had gone out.** |
@@ -232,7 +232,7 @@ Build it:
 
 *(The second failure mode — more common than you'd think.)*
 
-| ❌ Over-used | ✅ Correct |
+| ⚠️ Over-used | ✅ Correct |
 |---|---|
 | Yesterday I had gone to the market | **Yesterday I went to the market.** |
 | Last year I had visited Delhi | **Last year I visited Delhi.** |

@@ -94,7 +94,7 @@ Why? Because after the first sentence, we **both** know which dog! The informati
 
 *(Notice.)* Malayalam has **ഒരു** here — good! But your brain translates ഒരു as **"one"**:
 
-❌ *"I am one teacher."*
+⚠️ *"I am one teacher."*
 
 *(Explain.)* **ഒരു has two jobs in Malayalam:**
 1. Counting → *one* → ഒരു പുസ്തകം മാത്രം = only **one** book

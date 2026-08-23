@@ -154,7 +154,7 @@ Listen to this.
 *(Explain.)* 🔗 *(Day 66)* Unstressed syllables go **short and light** — usually towards **"uh"**, though *-ing* keeps a light **"i"**. 😐 ✅ The point is that the **stress moves to the front**. ⭐
 
 *(Show the pattern.)*
-| ❌ Clear | ✅ Lazy ⭐ |
+| ⚠️ Over-clear | ✅ Naturally relaxed ⭐ |
 |---|---|
 | wor-KING | **WOR**-king ✅ |
 | ac-COUNTS | **ac**-counts → uh-**KOWNTS** ✅ |

@@ -293,7 +293,7 @@ Some learners do start thinking in English — but in **written, formal** Englis
 *(Laugh.)* That's not thinking in English. That's thinking in **1950s textbook**. 📜
 
 *(The fix.)* Your inner voice should sound like **speech**, not writing:
-- ❌ *"I shall now prepare tea."*
+- ⚠️ *"I shall now prepare tea."*
 - ✅ *"Let me make some tea."* ⭐
 
 *(Connect to Day 34.)* Use the natural phrases we learned: *"Let me...", "I'd better...", "I've got to...", "Might as well..."* 🔗

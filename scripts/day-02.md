@@ -131,7 +131,7 @@ More of the same shape:
 
 *(On screen: ❌ then ✅. Keep it snappy, 8–10 seconds each.)*
 
-| # | ❌ Malayali English | ✅ Correct English | Why |
+| # | ⚠️ Kerala English | ✅ International English | Why |
 |---|---|---|---|
 | 1 | I have a doubt | **I have a question** | doubt = suspicion |
 | 2 | Clear my doubt | **Could you clarify this?** | *clarify* is the real word |
@@ -180,7 +180,7 @@ So *"I am from Kerala only"* actually means: *"I am from Kerala and from nowhere
 
 English does emphasis in a completely different way. Not with an extra word at the end — with **stress in the voice**, or with a **strong adverb**.
 
-| Malayalam | ❌ Word-for-word | ✅ Real English |
+| Malayalam | ⚠️ Word-for-word | ✅ Real English |
 |---|---|---|
 | ഞാൻ കേരളത്തിൽ നിന്ന് തന്നെ | I'm from Kerala only | **I'm from Kerala.** *(stress "Kerala")* |
 | ഇന്ന് തന്നെ അയക്കും | Today itself I'll send | **I'll send it TODAY.** |

@@ -126,7 +126,7 @@ I have been waiting **very intensely**, without sleeping, watching carefully, fo
 
 *(On screen: Malayalam → ❌ literal → ✅ real English. Fast, fun, big reactions!)*
 
-| # | Malayalam | ❌ Literal translation | ✅ Real English |
+| # | Malayalam | ⚠️ Literal translation | ✅ Real English |
 |---|---|---|---|
 | 1 | തല തിന്നരുത് | Don't eat my head | **Stop bugging me.** |
 | 2 | കണ്ണിൽ എണ്ണയിട്ട് കാത്തിരിക്കുന്നു | Waiting with oil in eyes | **I've been waiting eagerly.** |
@@ -195,7 +195,7 @@ English builds emotion through **objects and actions** instead: *break the ice, 
 
 In Malayalam, **feelings and events COME to you**. They arrive like visitors:
 
-| Malayalam | ❌ Literal | ✅ English |
+| Malayalam | ⚠️ Literal | ✅ English |
 |---|---|---|
 | ഉറക്കം വരുന്നു | Sleep is coming | **I'm sleepy.** |
 | ദേഷ്യം വരുന്നു | Anger is coming | **I'm getting angry.** |

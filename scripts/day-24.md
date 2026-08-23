@@ -87,7 +87,7 @@ As a **describing** word, *other* is followed by a **noun** (or the word *one*).
 
 *(Big red X on screen.)*
 
-| ❌ Never say | ✅ Say instead |
+| ⚠️ Avoid | ✅ Say instead |
 |---|---|
 | the another | **the other** |
 | another ones | **other ones** / **another one** |

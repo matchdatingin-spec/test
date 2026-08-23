@@ -12,7 +12,7 @@
 
 You went to the barber. Now you're telling a friend. And you say:
 
-> ❌ *"I cut my hair yesterday."* ✂️
+> ⚠️ *"I cut my hair yesterday."* ✂️
 
 *(Pause. Amused.)* Really? **You** cut it? With your own scissors, looking in the mirror? 😄
 
@@ -26,7 +26,7 @@ The correct sentence:
 
 And the same problem here:
 
-> ❌ *"I repaired my bike."* → you fixed it yourself 🔧
+> ⚠️ *"I repaired my bike."* → you fixed it yourself 🔧
 > ✅ *"I got my bike repaired."* → the mechanic did it ⭐
 
 *(Lean in.)*

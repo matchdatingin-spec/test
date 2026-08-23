@@ -123,7 +123,7 @@ Today I'll show you why that fails, and give you a **3-step method** that makes 
 
 *(Show the difference.)*
 
-| ❌ The old way | ✅ The new way |
+| ⚠️ The old way | ✅ The new way |
 |---|---|
 | *exhausted = വളരെ ക്ഷീണം* | *"I was **exhausted** after the Onam shopping with Amma."* ⭐ |
 | *reliable = വിശ്വസിക്കാവുന്ന* | *"Ravi is the most **reliable** person in my team."* ⭐ |
@@ -153,7 +153,7 @@ Today I'll show you why that fails, and give you a **3-step method** that makes 
 
 *(Explain.)* This is the crucial difference: ✅
 
-| ❌ Re-reading | ✅ Retrieving |
+| ⚠️ Re-reading | ✅ Retrieving |
 |---|---|
 | Look at *"exhausted"* and its meaning 👁️ | Cover the word. Ask: *"What's the English for very tired?"* 🎣 |
 | Feels easy ✅ | Feels **hard** ⚠️ |
@@ -225,7 +225,7 @@ Today I'll show you why that fails, and give you a **3-step method** that makes 
 
 *(Explain.)* Here's what actually works: ✅
 
-| ❌ What people attempt | ✅ What works |
+| ⚠️ What people attempt | ✅ What works |
 |---|---|
 | 20 new words a day 📚 | **3 new words a day** ⭐ |
 | Long lists, no use | 3 words, **all used** ✅ |

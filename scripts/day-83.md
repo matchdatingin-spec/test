@@ -115,7 +115,7 @@ Today: the complete formula. Let's go. 🚀
 *(Emphasise.)* English business email does the **opposite**. ✅ The point comes **first**, the context after. 🔄
 
 *(Show it.)*
-| ❌ Context-first | ✅ Point-first |
+| ⚠️ Context-first | ✅ Point-first |
 |---|---|
 | *"As you know, the quarter is ending and there have been several client queries, and considering the workload, I would like to request..."* ⚠️ | *"Could I take Friday off? I've cleared my pending work and Anu will cover urgent queries."* ⭐ |
 
@@ -133,7 +133,7 @@ Today: the complete formula. Let's go. 🚀
 
 *(Explain.)* The subject decides whether your email gets **opened** and **found again later**. ✅
 
-| ❌ Weak | ✅ Strong |
+| ⚠️ Weak | ✅ Strong |
 |---|---|
 | *Regarding* | **Q3 report — draft for your review** ⭐ |
 | *Important* | **Leave request: 14–15 March** ✅ |
@@ -230,7 +230,7 @@ Today: the complete formula. Let's go. 🚀
 
 *(Explain.)* Say **exactly** what you want and **by when**. ✅
 
-| ❌ Vague | ✅ Clear |
+| ⚠️ Vague | ✅ Clear |
 |---|---|
 | *Please do the needful* 📜 | **Could you approve this by Thursday?** ⭐ |
 | *Kindly look into it* | **Could you check the July entry and let me know?** ✅ |
@@ -336,7 +336,7 @@ Today: the complete formula. Let's go. 🚀
 
 *(The main clear-out. Give the full replacement list.)*
 
-| ❌ Old Indian business English | ✅ Modern |
+| ⚠️ Old Indian business English | ✅ Modern |
 |---|---|
 | Respected Sir | **Hi [Name]** / **Dear Mr. [Name]** ⭐ |
 | With reference to the above cited subject | **About the ___** ✅ |
@@ -385,7 +385,7 @@ Today: the complete formula. Let's go. 🚀
 
 ### Trap 3: Over-apologising in writing 🙏 🔗 *(Day 42)*
 
-| ❌ Excessive | ✅ Right |
+| ⚠️ Excessive | ✅ Right |
 |---|---|
 | *Sorry sorry, extremely sorry for the delay and inconvenience caused* | **Sorry for the delay.** ⭐ |
 | *I apologise for troubling you with this matter* | **Quick question —** ✅ |
@@ -394,7 +394,7 @@ Today: the complete formula. Let's go. 🚀
 
 *(Emphasise.)* ⭐ **One apology + the fix.** ✅ Then move on. ✅
 
-### Trap 4: Small mechanical errors that get noticed ⚠️
+### Trap 4: Small details that get noticed ⚠️ *(a few are errors; the rest are dated)*
 
 *(Practical checklist.)*
 

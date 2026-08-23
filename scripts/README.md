@@ -23,7 +23,17 @@ Every script follows the same 5-part structure:
 - All explanations in **simple A2/B1 English** — the creator translates to Malayalam while recording.
 - Malayalam script used only for **source sentences, verb endings, and grammar contrasts** (e.g. `-ഓട്` → *tell*, `വരെ` → *until*, `മുതൽ` → *since*).
 - Every rule explained through **logic**, never "just memorise."
-- `❌` marks the wrong sentence, `✅` the correct one, so the editor can build on-screen graphics straight from the script.
+- **Symbol legend** — the editor builds on-screen graphics straight from these, so the distinction matters:
+
+  | Symbol | Means | Example |
+  |---|---|---|
+  | `❌` | **Genuinely ungrammatical.** Not possible in any variety of English. | ❌ *I am agree* · ❌ *He has went* · ❌ *I need pen* |
+  | `⚠️` | **Correct English, but not what you want here** — regional, dated, too direct, or a different meaning. | ⚠️ *I have a doubt* *(Indian English for "a question")* · ⚠️ *I can come tomorrow* *(availability, not a promise)* |
+  | `✅` | The recommended form. | ✅ *I have a question* |
+  | `⭐` | The best/most natural option when several are correct. | ⭐ *Could I have a bag, please?* |
+
+- **Never put `❌` on a grammatical sentence.** If a learner's sentence is well-formed but regional, dated, or means something else, it takes `⚠️` and a one-line note saying *why* — never a red cross. Marking correct English as wrong teaches learners to distrust English they are producing correctly.
+- Where a table column mixes the two, label the column `⚠️` and mark genuine errors inside it individually.
 - Delivery cues in *(italics inside brackets)* — pauses, energy shifts, gestures, drills.
 - Cross-references marked `🔗 (Day NN)` so viewers are sent back to the relevant video.
 

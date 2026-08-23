@@ -99,7 +99,7 @@ Build it:
 > ✅ **"I have been to Goa."**
 
 *(Note the tiny word.)* **been TO** a place. Always *to*.
-- ❌ *I have been in Goa* → different meaning! *(that means I stayed there for a period)*
+- ⚠️ *I have been in Goa* → different meaning! *(that means I stayed there for a period)*
 - ✅ *I have been to Goa.* → I visited ✅
 
 *(Useful additions.)*
@@ -146,7 +146,7 @@ Build it:
 | Your sister moved abroad | **She has gone to Canada for her studies.** | she's there now |
 | Someone knocks, asks for your dad | **Sorry, he's gone out. He'll be back at six.** | away now |
 
-*(Highlight row 5.)* **"He's gone out"** — perfect natural English for *പുറത്ത് പോയി*. Not ❌ *"He went outside"*, not ❌ *"He is out of station."* Say **"He's gone out"** or **"He's not in right now."**
+*(Highlight row 5.)* **"He's gone out"** — perfect natural English for *പുറത്ത് പോയി*. Not ⚠️ *"He went outside"*, not ⚠️ *"He is out of station."* Say **"He's gone out"** or **"He's not in right now."**
 
 *(Bonus.)* And for a **short absence**, native speakers love this shape:
 - ✅ *He's just gone out.*
@@ -227,10 +227,10 @@ Answers in the comments. I read every one.
 1. എന്റെ അച്ഛൻ ബാങ്കിൽ പോയിട്ടുണ്ട്. *(he's back)*
 2. എന്റെ അച്ഛൻ ബാങ്കിൽ പോയിരിക്കുന്നു. *(he's there now)*
 
-**Question 2:** Fix these three:
+**Question 2:** Two need fixing. One is already grammatical — say which, and why the other version is more usual:
 1. *"I have been to Munnar last month."*
 2. *"He has went to Dubai."*
-3. *"Have you ever gone to a foreign country?"*
+3. *"Have you ever gone to a foreign country?"* ⚠️
 
 *(Warm close.)*
 

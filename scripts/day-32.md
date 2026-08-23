@@ -143,7 +143,7 @@ This is a **hugely** useful pattern that Malayalis underuse:
 - ✅ *There **was** a problem.* ← ഒരു പ്രശ്നം ഉണ്ടായിരുന്നു
 - ✅ *There **isn't** any water.* ← വെള്ളമില്ല
 
-❌ Not *"A meeting is there."* ❌ Not *"Meeting is having."*
+⚠️ Not *"A meeting is there."* ⚠️ Not *"Meeting is having."*
 
 *(Rule.)* **Whenever Malayalam says ഉണ്ട് / ഇല്ല about existence → use "There is / There isn't."** ✅
 
@@ -264,7 +264,7 @@ But when you force English into that shape, you get sentence chains like:
 
 *(Demonstrate — say it both ways.)*
 
-❌ *"I went to the office and the manager told me about a meeting and I have to prepare a report and it is due on Friday."* *(one breath, exhausting)*
+⚠️ *"I went to the office and the manager told me about a meeting and I have to prepare a report and it is due on Friday."* *(one breath, exhausting)*
 
 ✅ *"I went to the office. The manager told me about a meeting. I have to prepare a report — it's due on Friday."* *(three breaths, clear and confident)* ⭐
 
@@ -334,7 +334,7 @@ English allows time at the **front or the end** — but the **end is more natura
 
 **Question 2 — the short-sentence challenge.** Take this and rewrite it as **three separate short sentences**:
 
-> ❌ *"I went to the shop and I bought vegetables and then I came home and I cooked dinner."*
+> ⚠️ *"I went to the shop and I bought vegetables and then I came home and I cooked dinner."*
 
 *(Warm close.)*
 

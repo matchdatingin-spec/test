@@ -107,7 +107,7 @@ Two sentences:
 
 *(But NOT when it's the doer!)*
 - ✅ *The man **who** called me* ← must keep *who*! ✅
-- ❌ *The man called me* ❌ *(different meaning!)*
+- ⚠️ *The man called me* ⚠️ *(different meaning!)*
 
 *(The test.)* **Is there another subject right after?**
 - *The book **I** bought* → yes, "I" ✅ → can delete ⭐
@@ -274,7 +274,7 @@ Build it:
 
 Malayalam puts the description **before** the noun, and English puts it **after**:
 
-| Malayalam | ❌ Direct | ✅ English |
+| Malayalam | ⚠️ Direct | ✅ English |
 |---|---|---|
 | ഞാൻ വാങ്ങിയ ഫോൺ | I bought phone | **the phone I bought** ⭐ |
 | അവൻ പറഞ്ഞ കാര്യം | he said matter | **the thing he said** ⭐ |

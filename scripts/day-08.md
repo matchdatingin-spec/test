@@ -18,7 +18,7 @@ The shopkeeper understands you. But something feels rough. Like you ordered him.
 
 Or you're in an interview, and the manager asks *"Can you handle pressure?"* and you answer:
 
-> ❌ *"Yes sir, I could."*
+> ⚠️ *"Yes sir, I could."*
 
 *(Wince.)* Ooh. You just said **"maybe, in some imaginary situation."** In an interview! When you needed confidence!
 
@@ -187,7 +187,7 @@ So look at this:
 
 This is the big structural one. Malayalam politeness deletes the subject:
 
-| Malayalam | ❌ Direct translation | ✅ English |
+| Malayalam | ⚠️ Direct translation | ✅ English |
 |---|---|---|
 | ഒന്ന് സഹായിക്കാമോ? | Can help? | **Could you help me?** |
 | ഇവിടെ ഇരിക്കാമോ? | Can sit here? | **Could I sit here?** |

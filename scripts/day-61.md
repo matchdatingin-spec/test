@@ -303,7 +303,7 @@ Build it:
 | **Check politely** ✅ | *You did send it, **didn't you**?* |
 
 *(Highlight #1.)* ⭐ 🔗 *(Day 42)* A tag is a **softener**! ✅
-- ❌ *"You forgot to send it."* → blunt 😬
+- ⚠️ *"You forgot to send it."* → blunt 😬
 - ✅ *"You forgot to send it, didn't you?"* → gentler ✅
 
 *(Emphasise.)* Tags are one of the easiest ways to sound **less blunt** in English. ✅

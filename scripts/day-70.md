@@ -346,7 +346,7 @@ This is the most important video in this block. Let's go. 🚀
 > ### 👉 To sound natural, you must be **LAZY** with unstressed syllables. 😌 ✅
 
 *(Show it.)*
-| Word | ❌ Too clear | ✅ Naturally lazy |
+| Word | ⚠️ Too clear | ✅ Naturally relaxed |
 |---|---|---|
 | **about** | a-BOUT *(clear a)* | **uh-BOUT** 😐 |
 | **police** | PO-LICE | **puh-LEES** 😐 |
@@ -364,7 +364,7 @@ This is the most important video in this block. Let's go. 🚀
 
 *(Explain.)* Some words are so common in Indian English with the "wrong" stress that we never question them: ✅
 
-| Word | ❌ Indian English | ✅ International |
+| Word | ⚠️ Indian English | ✅ International |
 |---|---|---|
 | **necessary** | ne-**CESS**-ary | **NEC**-es-sary ✅ |
 | **available** | **A**-vailable | a-**VAIL**-able ✅ |

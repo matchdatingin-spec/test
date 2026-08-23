@@ -300,7 +300,7 @@ The second time: after we fix it. ✅
 
 #### 4️⃣ Frame every negative forward ➡️ 🔗 *(Day 79)*
 
-| ❌ Backward | ✅ Forward |
+| ⚠️ Backward | ✅ Forward |
 |---|---|
 | no increment ⚠️ | *looking for a clearer growth path* ⭐ |
 | manager not supporting ⚠️ | *looking for a more collaborative setup* ✅ |

@@ -147,7 +147,7 @@ Build it:
 
 *(Highlight the last one.)* ⚠️ **നമുക്ക് ...ആം** = **"Let's..."** ✅ Not "we will"!
 - ✅ *നമുക്ക് പോകാം* → **"Let's go."** ✅
-- ❌ *"We will go."* ❌ *(that's a plan, not a suggestion)*
+- ⚠️ *"We will go."* ⚠️ *(that's a plan, not a suggestion)*
 
 ### Sentence 2 — built piece by piece
 
@@ -240,7 +240,7 @@ Because **ചെയ്യും** is one form, Malayalis default to *will*:
 
 *(Explain the impression.)* Using *will* for a **booked** plan sounds oddly **uncertain** — like you haven't really committed. 🤔
 
-*(Emphasise.)* Say ✅ *"I'm meeting the client at 4"* ✅ and you sound **organised**. Say ❌ *"I will meet the client at 4"* ❌ and it sounds like you **just** thought of it. ✅
+*(Emphasise.)* Say ✅ *"I'm meeting the client at 4"* ✅ and you sound **organised**. Say ⚠️ *"I will meet the client at 4"* ⚠️ and it sounds like you **just** thought of it. ✅
 
 ### Trap 2: "Will" after time words
 
@@ -271,7 +271,7 @@ Because **ചെയ്യും** is one form, Malayalis default to *will*:
 
 *(The Day 29 classic — worth repeating.)*
 
-- ❌ *"I will come now."* → sounds like you're **arriving** 🤔
+- ⚠️ *"I will come now."* → sounds like you're **arriving** 🤔
 - ✅ **"I'll be right back."** ⭐ = ഞാൻ ഇപ്പോൾ വരാം *(leaving briefly)*
 - ✅ **"I'm coming!"** ⭐ = ഞാൻ വരുന്നു *(on my way to you)*
 

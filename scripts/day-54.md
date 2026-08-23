@@ -253,7 +253,7 @@ Build it:
 
 *(Useful and fun.)*
 
-| ❌ Indian English | ✅ International |
+| ⚠️ Indian English | ✅ International |
 |---|---|
 | I have a bath every morning *(correct in Britain!)* | **I take a shower every morning** 🚿 |
 | Have your food | **Go ahead and eat** / **Please eat** |

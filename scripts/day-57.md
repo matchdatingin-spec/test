@@ -255,7 +255,7 @@ Build it:
 
 *(Explain.)* In some phrases, **"to" is a preposition**, not part of an infinitive. And then it takes **-ing**! 🤯
 
-| ✅ Correct | ❌ Common error |
+| ✅ Correct | ⚠️ Common error or different meaning |
 |---|---|
 | **look forward to** meet**ing** you ⭐ | look forward to meet |
 | **used to** work**ing** here ⭐ 🔗 | used to work *(different meaning!)* |

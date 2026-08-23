@@ -103,7 +103,7 @@ Today I'll give you a structure — **P-A-S-S** — for a **90-second** answer t
 
 *(Explain.)* Being a fresher is not a weakness in an interview. It's a **different** offer: ✅
 
-| ❌ What freshers say | ✅ What to say instead |
+| ⚠️ What freshers say | ✅ What to say instead |
 |---|---|
 | *I have no experience* | *I'm at the start of my career, so I'm keen to learn your way of working* ⭐ |
 | *I don't know that software* | *I haven't used it yet, but I picked up Excel in two weeks, so I learn fast* ⭐ 🔗 *(Day 50!)* |
@@ -175,7 +175,7 @@ Today I'll give you a structure — **P-A-S-S** — for a **90-second** answer t
 4. ✅ **One personal strength**, with proof ✅
 
 *(⚠️ Avoid these vague claims.)* 🔗 *(Day 75)*
-| ❌ Vague | ✅ Specific |
+| ⚠️ Vague | ✅ Specific |
 |---|---|
 | I'm a good communicator | **I'm comfortable presenting to a group** ⭐ |
 | I'm hard-working | **I'm the person who stays until the numbers match** ⭐ |

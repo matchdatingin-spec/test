@@ -307,7 +307,7 @@ Take the word **"comfortable"** *(4 syllables written)*:
 
 *(More examples — the stress patterns Malayalis get wrong.)*
 
-| Word | ❌ Even | ⭐ Common relaxed pronunciation |
+| Word | ⚠️ Even | ⭐ Common relaxed pronunciation |
 |---|---|---|
 | comfortable | com-for-ta-ble | **COMF**-ter-bl |
 | vegetable | ve-ge-ta-ble | **VEJ**-ta-bl |

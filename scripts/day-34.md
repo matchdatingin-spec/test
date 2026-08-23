@@ -311,7 +311,7 @@ Your brain: *"I don't agree with your opinion."*
 
 Malayalam is **direct** — and that's not rudeness, it's **efficiency**. But translated straight into English, directness becomes coldness:
 
-| Malayalam | ❌ Blunt English | ✅ Natural English |
+| Malayalam | ⚠️ Blunt English | ✅ Natural English |
 |---|---|---|
 | ഇത് ശരിയല്ല | This is wrong | **I think there might be an issue here.** |
 | എനിക്ക് ഇഷ്ടമല്ല | I don't like it | **It's not really my thing.** |
@@ -359,7 +359,7 @@ Malayalam is **direct** — and that's not rudeness, it's **efficiency**. But tr
 
 **Question 2 — the softening test.** Your friend invites you to a wedding but you can't go. Write **two** ways to refuse politely in English.
 
-*(Say why this matters.)* Because ❌ *"I will not come"* — grammatically perfect — can genuinely hurt someone's feelings. Softening is not decoration. It's **kindness**. 💙
+*(Say why this matters.)* Because ⚠️ *"I will not come"* — grammatically perfect — can genuinely hurt someone's feelings. Softening is not decoration. It's **kindness**. 💙
 
 *(Warm close.)*
 

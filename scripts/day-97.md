@@ -221,7 +221,7 @@ Today, no grammar. Just the honest answer to why this happened — and what actu
 
 *(The practical answer — hold this on screen.)*
 
-| ❌ What you were doing | ✅ What actually works |
+| ⚠️ What you were doing | ✅ What actually works |
 |---|---|
 | Learning **rules** 📚 | Building **habits** 💪 |
 | **Input** heavy 📥 | **60% output** 📤 ⭐ |
