@@ -287,7 +287,7 @@ Add up your marks out of 20. Now be honest with yourself.
 
 *(Encouraging.)* You're building. Nothing is broken. You just need more **repetition**.
 
-**Your next step:** Pick your **three weakest** days and rewatch them **this week**. Write 10 sentences for each. Post them in the comments — I'll correct them. 📝
+**Your next step:** Pick your **three weakest** days and rewatch them **this week**. Write 10 sentences for each. Post them in the comments — I correct as many as I can get to. 📝
 
 ### 📚 Below 10 — You're just early
 

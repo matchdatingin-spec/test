@@ -301,7 +301,7 @@ Let's build a clean two-column list you can memorise. This single table fixes do
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Comment your answers — I read every single one!
+Comment your answers — I read as many as I can!
 
 **Question 1:** Translate — ഞാൻ നിങ്ങളോട് യോജിക്കുന്നു, പക്ഷേ നമുക്ക് ഈ വിഷയത്തെക്കുറിച്ച് നാളെ ചർച്ച ചെയ്യാം.
 *(Hint: no *am* before agree, and no *about* after discuss!)*
@@ -314,7 +314,7 @@ Comment your answers — I read every single one!
 
 Five mistakes. Comment them like this: **"1. ___ → ___"** and so on.
 
-Get all five, and I'll pin your comment for everyone to learn from. 📌
+Get all five — **I pin one great answer on every video**, for everyone to learn from. 📌
 
 Tomorrow, Day 29 — my **favourite** video of this whole series. **"Don't eat my head!"** 🤯 We'll look at **20 Malayalam phrases** that become absolutely hilarious when translated directly — *തലവേദന ഉണ്ടാക്കരുത്, കണ്ണിൽ എണ്ണ ഇട്ട് കാത്തിരിക്കുന്നു, ചെവി കടിക്കുന്നു* — and I'll give you the **real** English expression for each one. This one is going to be fun. Don't miss it!
 

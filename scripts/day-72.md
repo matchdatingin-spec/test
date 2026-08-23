@@ -23,7 +23,7 @@ Say this word: **listen.** 👂
 
 *(Pause.)* Did you say the **t**? 🤔
 
-*(Smile.)* Most Malayalis do — *"lis-TEN."* ✅ But there's no **t** sound at all:
+*(Smile.)* Most learners do — *"lis-TEN."* ✅ But there's no **t** sound at all:
 
 > ✅ **"LIS-un"** ✅
 

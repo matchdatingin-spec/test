@@ -280,7 +280,7 @@ Build it:
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Comment your answers — I reply to every one!
+Comment your answers — I reply to as many as I can!
 
 **Question 1:** Translate — നീ നന്നായി പഠിച്ചില്ലെങ്കിൽ നിനക്ക് ജയിക്കാൻ കഴിയില്ല, അതുകൊണ്ട് exam തീരുന്നത് വരെ phone തൊടരുത്.
 *(Hint: the first half needs **unless**, the second half needs **until**. And remember — no extra "not" after unless!)*

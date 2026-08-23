@@ -269,7 +269,7 @@ Say them out loud, right now, with me. That list will serve you for the rest of 
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Comment your answers — I reply to everyone!
+Comment your answers — I reply to as many as I can!
 
 **Question 1:** Translate — ഞാൻ കൂടുതൽ പഠിക്കേണ്ടിയിരുന്നു, അപ്പോൾ എനിക്ക് exam pass ആകുമായിരുന്നു.
 *(Hint: regret + imaginary past result. Two different helpers!)*

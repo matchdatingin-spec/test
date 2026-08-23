@@ -303,7 +303,7 @@ Before you speak, ask **three** questions:
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Comment your answers — I read and reply to every one!
+Comment your answers — I read as many as I can, and reply to the ones that need it!
 
 **Question 1:** Translate these two — one touches NOW, one stopped in the PAST:
 1. ഞാൻ 2019 മുതൽ ഈ കമ്പനിയിൽ ജോലി ചെയ്യുന്നു. *(I still work there)*

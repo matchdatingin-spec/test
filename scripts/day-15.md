@@ -1,4 +1,4 @@
-# Day 15 — Already, Still, or Yet? Learn the Difference in 10 Minutes
+# Day 15 — Already, Still, or Yet? Learn the Difference Once and for All
 
 **Target length:** 12–14 minutes
 **Level:** B1
@@ -268,7 +268,7 @@ Don't worry about this for speaking — just don't get confused when you see it 
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Comment your answers — I reply to every one!
+Comment your answers — I reply to as many as I can!
 
 **Question 1:** Translate — അവൻ ഇതുവരെ വന്നിട്ടില്ല, ഞാൻ ഇപ്പോഴും കാത്തിരിക്കുന്നു.
 *(Hint: one sentence needs **yet**, the other needs **still**.)*

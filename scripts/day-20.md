@@ -14,7 +14,7 @@ Listen to this sentence:
 
 > ❌ *"I am teacher. I have car. Yesterday I went to hospital and doctor gave medicine."*
 
-*(Nod.)* Perfectly understandable, right? Every Malayali speaks like this at some point. And every English listener notices **immediately**.
+*(Nod.)* Perfectly understandable, right? Most of us speak like this at some point. And an English listener notices straight away.
 
 The correct version:
 > ✅ **"I am a teacher. I have a car. Yesterday I went to the hospital and the doctor gave me some medicine."**
@@ -302,7 +302,7 @@ Before a noun, run this:
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Comment your answers — I read every one!
+Comment your answers — I read as many as I can!
 
 **Question 1:** Translate — ഞാൻ ഒരു എൻജിനീയറാണ്. ഇന്നലെ ഞാൻ ഒരു പുതിയ ഫോൺ വാങ്ങി, പക്ഷേ ആ ഫോൺ പണിമുടക്കി.
 *(Hint: you'll need **an**, **a**, and **the** — in that order!)*

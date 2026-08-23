@@ -221,7 +221,7 @@ Practise those short forms out loud. If you say the full *"I have been"* every t
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Answers in the comments. I read every one.
+Answers in the comments. I read as many as I can.
 
 **Question 1:** Translate these two — they look similar but need different words!
 1. എന്റെ അച്ഛൻ ബാങ്കിൽ പോയിട്ടുണ്ട്. *(he's back)*
@@ -234,7 +234,7 @@ Answers in the comments. I read every one.
 
 *(Warm close.)*
 
-Question 1 is the heart of today's lesson — if you get both right, you have truly understood it. Comment "1. ___ 2. ___" and I'll reply to you personally.
+Question 1 is the heart of today's lesson — if you get both right, you have truly understood it. Comment "1. ___ 2. ___" — I reply to as many as I can, and **I pin one great answer on every video.** 📌
 
 Tomorrow, Day 12 — **bring vs take.** Both are കൊണ്ടുവരുക / കൊണ്ടുപോകുക, and the rule depends on something surprising: **where the listener is standing.** Simple, but it changes everything.
 

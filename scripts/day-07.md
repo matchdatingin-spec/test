@@ -225,7 +225,7 @@ The soft, safe versions:
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Answers in the comments — I'll correct every one.
+Answers in the comments — I correct as many as I can get to.
 
 **Question 1:** Translate — എനിക്ക് സമയം ഉണ്ടായിരുന്നെങ്കിൽ ഞാൻ നിങ്ങളെ സഹായിക്കുമായിരുന്നു.
 

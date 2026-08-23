@@ -221,7 +221,7 @@ If your boss asks "Will you finish this today?" and you say "I can," you have no
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Comment your answers — I read every single one.
+Comment your answers — I read as many as I can.
 
 **Question 1:** Translate — എനിക്ക് car ഓടിക്കാൻ അറിയാം, പക്ഷേ ഇന്ന് എനിക്ക് വരാൻ കഴിയില്ല.
 

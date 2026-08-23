@@ -216,7 +216,7 @@ That little **'d** is short for *would*. Practise the sound: **I'd like.** Not "
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Two tasks. Comments below — I'll correct every answer.
+Two tasks. Comments below — I correct as many as I can get to.
 
 **Question 1:** Translate — എനിക്ക് നാളെ leave വേണം, നിങ്ങൾ manager-നോട് സംസാരിക്കാമോ?
 *(Hint: two of today's three words are needed.)*
@@ -233,3 +233,25 @@ Sentence 3 in Question 2 is the real test. Think about it — if the situation i
 Tomorrow, Day 05 — **say, tell, speak, talk.** Four words that all become **പറയുക** in your head. One clean rule for each, and a trick so you never confuse *say* and *tell* again.
 
 Could = possible. Should = right. Would = imagine. Repeat it tonight before you sleep. See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — എനിക്ക് നാളെ leave വേണം, നിങ്ങൾ manager-നോട് സംസാരിക്കാമോ?**
+
+✅ **Model:** *"I'd like to take tomorrow off — could you speak to the manager?"*
+
+**Also accept:** *I need tomorrow off, could you talk to the manager?* · *I'd like leave tomorrow — could you speak to the manager?*
+**Note:** വേണം can be *need* **or** *would like* depending on context — accept both.
+
+**Q2 — fix these three:**
+
+1. *"Should you give me your pen?"* — ⚠️ **This is grammatical!** It asks whether he is *obliged* to. For a request: ✅ *"Could you give me your pen?"* / *"Could I borrow your pen?"* **Do not mark it wrong** — mark it "right words, wrong job."
+2. *"Would you free on Sunday?"* → ✅ *"Would you **be** free on Sunday?"* *(missing* be*)*
+3. *"If I had money, I will buy a bike."* → ✅ *"If I had money, I **would** buy a bike."* *(imaginary → would)*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(see the symbol legend in the scripts README)*

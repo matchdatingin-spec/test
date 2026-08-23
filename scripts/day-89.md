@@ -10,8 +10,19 @@
 
 **📌 Format note:** Second **exam block** video. Structured as a writing class: Section 3 becomes the formula plus a full model answer. Section 4 covers the errors that cost a whole band.
 
+**🎨 ASSET REQUIRED — build this chart before filming.** The model answer in Section 3 describes **exact figures**, so the chart on screen must match them or the whole lesson contradicts itself. Build a **line graph** titled *"Overseas visitors to three Indian states, 2010–2020 (millions)"*, x-axis 2010→2020, y-axis 0–1.8 million, three lines:
+
+| Year | Rajasthan | Kerala | Goa |
+|---|---|---|---|
+| 2010 | 1.3 | 0.6 | 0.5 |
+| 2015 | 1.45 | 0.9 | 0.5 |
+| 2019 | 1.6 | 1.2 | 0.9 |
+| 2020 | 0.2 | 0.1 | 0.1 |
+
+*(Interpolate the in-between years smoothly. Goa must be visibly **flat** from 2010 to 2015, then rise. All three must drop steeply in 2020.)* ⚠️ **This is illustrative exam-practice data, not real tourism statistics — do not present it as real.** ⛔
+
 **🎬 Production notes:**
-- You **must** show a sample chart on screen — the model answer is meaningless without it
+- You **must** show the chart above on screen — the model answer is meaningless without it
 - Build the answer **paragraph by paragraph** alongside the chart
 - **Highlight** the data being described as you describe it
 - Show the **20-minute timer** breakdown

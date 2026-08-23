@@ -288,7 +288,7 @@ Without measurement, you can't see progress. And when you can't see progress, yo
 
 *(The most common killer.)*
 
-*(Direct.)* Every Malayali knows this one. **"അടുത്ത തിങ്കളാഴ്ച തുടങ്ങാം."** 😄
+*(Direct.)* We all know this one. **"അടുത്ത തിങ്കളാഴ്ച തുടങ്ങാം."** 😄
 
 *(Firmly.)* And then Monday becomes next Monday. And next month. And then the year ends.
 

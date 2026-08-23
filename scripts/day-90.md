@@ -7,7 +7,7 @@
 **📌 Format note:** Closes the **exam block**. Written for healthcare professionals *(nurses, doctors, pharmacists, physios)*. Section 3 becomes case-notes-to-letter construction with a full model. Section 4 covers the selection and register errors that cap Malayali candidates at Grade C.
 
 **🎬 Production notes:**
-- Show the **case notes** on screen — the model letter is meaningless without them
+- **🎨 ASSET:** Show the **case notes** on screen — they are written out in full in Section 3 below *("The case notes")*, so build the graphic straight from that block. The model letter is meaningless without them. ⚠️ These are **illustrative practice notes, not a real patient** — say so on camera. ⛔
 - Build the letter **paragraph by paragraph** beside the notes
 - **Colour-code** which case notes were selected and which were deliberately omitted
 - Show the **six OET criteria** as a reference table
@@ -464,7 +464,9 @@ Tomorrow, Day 91 — **the makeover block begins.** 🔍
 
 *(Energetic.)* And it starts with something I've been collecting: **25 sentences from your comments.** ✅
 
-*(Explain.)* Real sentences, written by real viewers of this series, with real mistakes. And we'll correct every one — with the reason, and the day number where the rule was taught. ⭐
+*(Explain.)* Twenty-five sentences built from the mistakes that came up again and again across the series. And we'll work through all of them — with the reason, and the day number where the rule was taught. ⭐
+
+> **🎥 SCRIPT NOTE.** ⚠️ Only say *"real viewer comments"* once you have **genuine submissions with permission** — see the production dependency on Day 91. ⛔
 
 *(Warm.)* If you've commented on any video in the last 90 days, your sentence might be in tomorrow's video. 😄 And if it is — thank you, because your mistake is going to teach hundreds of other people. 💙
 

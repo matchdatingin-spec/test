@@ -259,7 +259,7 @@ So:
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Comment your answers — I reply to every one!
+Comment your answers — I reply to as many as I can!
 
 **Question 1:** Translate these two — one is a past habit, one is comfort:
 1. ഞാൻ ചെറുപ്പത്തിൽ ദിവസവും ക്രിക്കറ്റ് കളിച്ചിരുന്നു.
