@@ -206,7 +206,7 @@ Malayalam **ഇല്ല / പറ്റില്ല** covers a lot of ground, so
 - ✅ *You **may not** enter.* = you are **not allowed** *(permission refused!)*
 - ✅ *He **can't** come.* = it's impossible for him *(no ability)*
 
-*(Warning.)* This is a real danger. **"You may not"** is a **prohibition**, not a maybe! If you say ❌ *"He may not come"* meaning "perhaps he won't," a formal listener might hear *"he is forbidden to come."*
+*(Warning.)* This is a real danger. **"You may not"** is a **prohibition**, not a maybe! If you say ⚠️ *"He may not come"* meaning "perhaps he won't," a formal listener might hear *"he is forbidden to come."*
 
 **Safe practice: for uncertainty, always use MIGHT NOT.** Leave *may not* for rules and prohibitions.
 
@@ -245,7 +245,7 @@ Answers in the comments. I reply to every one.
 **Question 2:** Fix these three:
 1. *"May be I will join tomorrow."*
 2. *"He might busy now."*
-3. *"Might I come in, sir?"*
+3. *"Might I come in, sir?"* ⚠️ *(careful — this one is already correct. What would you say instead, and why?)*
 
 *(Encouraging close.)*
 

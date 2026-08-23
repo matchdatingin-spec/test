@@ -181,7 +181,7 @@ Build it:
 | 8 | I am having a car | **I have a car** | own ≠ action *(Day 01)* |
 | 9 | Where you are going? | **Where are you going?** | question flip |
 | 10 | What you said? | **What did you say?** | needs *did* *(Day 03)* |
-| 11 | I didn't went | **I didn't go** | one past per sentence |
+| 11 | I didn't went | **I didn't go** | *did* already carries the past |
 | 12 | He don't like it | **He doesn't like it** | he → does |
 | 13 | She have a bike | **She has a bike** | she → has |
 | 14 | Everyone are here | **Everyone is here** | *(Day 23)* |
@@ -274,7 +274,7 @@ Let's build a clean two-column list you can memorise. This single table fixes do
 
 *(Fun but important — these appear in the 25.)*
 
-| ❌ Indian English | ✅ International English |
+| ⚠️ Indian English | ✅ International English |
 |---|---|
 | do the needful | **please take care of it** |
 | revert back to me | **get back to me** |

@@ -254,7 +254,7 @@ Today: what Band 7 actually needs, criterion by criterion, and a full essay buil
 
 ---
 
-### 📄 The full essay *(286 words)*
+### 📄 The full essay *(295 words)*
 
 *(Show it complete on screen.)*
 
@@ -266,7 +266,7 @@ Today: what Band 7 actually needs, criterion by criterion, and a full essay buil
 >
 > *In conclusion, while I agree that online learning will take over much of the lecturing that currently happens in classrooms, I do not think it will replace them altogether. The more probable outcome is a blended model, in which information is delivered remotely and the physical classroom is reserved for the practical and collaborative work that genuinely requires it.* ⭐
 
-*(Emphasise.)* ⭐ **Four paragraphs. 286 words. One clear position held throughout.** ✅
+*(Emphasise.)* ⭐ **Four paragraphs. 295 words. One clear position held throughout.** ✅
 
 ---
 
@@ -324,7 +324,7 @@ Today: what Band 7 actually needs, criterion by criterion, and a full essay buil
 
 *(Explain.)* Candidates are often taught to insert "high-level" vocabulary — and it backfires: ✅
 
-| ❌ Overloaded | ✅ Natural academic |
+| ⚠️ Overloaded | ✅ Natural academic |
 |---|---|
 | *In this contemporary era of globalisation* ⚠️ | **Today** ✅ / **In recent decades** ✅ |
 | *It is a highly debatable topic since time immemorial* ⚠️ | **This is a contested issue** ✅ |

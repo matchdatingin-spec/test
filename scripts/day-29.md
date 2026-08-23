@@ -126,7 +126,7 @@ I have been waiting **very intensely**, without sleeping, watching carefully, fo
 
 *(On screen: Malayalam → ❌ literal → ✅ real English. Fast, fun, big reactions!)*
 
-| # | Malayalam | ❌ Literal translation | ✅ Real English |
+| # | Malayalam | ⚠️ Literal translation | ✅ Real English |
 |---|---|---|---|
 | 1 | തല തിന്നരുത് | Don't eat my head | **Stop bugging me.** |
 | 2 | കണ്ണിൽ എണ്ണയിട്ട് കാത്തിരിക്കുന്നു | Waiting with oil in eyes | **I've been waiting eagerly.** |
@@ -141,7 +141,7 @@ I have been waiting **very intensely**, without sleeping, watching carefully, fo
 | 11 | വാ തുറന്നില്ല | Didn't open mouth | **He didn't say a word.** |
 | 12 | കാല് പിടിക്കുന്നു | Catching feet | **He's begging / pleading.** |
 | 13 | തലയിൽ മുണ്ടിട്ടു | Put cloth on head | **He's hiding in shame.** |
-| 14 | പുലിവാല് പിടിച്ചു | Caught a tiger's tail | **I bit off more than I can chew.** 🐯 |
+| 14 | പുലിവാല് പിടിച്ചു | Caught a tiger's tail | **I bit off more than I could chew.** 🐯 |
 | 15 | ചങ്ക് പറിഞ്ഞു | Heart got torn | **It broke my heart.** 💔 |
 | 16 | മുതലക്കണ്ണീർ | Crocodile tears | **Crocodile tears.** ✅ *(same idiom!)* 🐊 |
 | 17 | അവന്റെ വാക്കിന് വിലയില്ല | His word has no price | **His word means nothing.** / **You can't trust him.** |
@@ -195,7 +195,7 @@ English builds emotion through **objects and actions** instead: *break the ice, 
 
 In Malayalam, **feelings and events COME to you**. They arrive like visitors:
 
-| Malayalam | ❌ Literal | ✅ English |
+| Malayalam | ⚠️ Literal | ✅ English |
 |---|---|---|
 | ഉറക്കം വരുന്നു | Sleep is coming | **I'm sleepy.** |
 | ദേഷ്യം വരുന്നു | Anger is coming | **I'm getting angry.** |

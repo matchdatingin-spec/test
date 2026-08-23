@@ -174,12 +174,12 @@ Build it:
 |---|---|---|
 | You need a charger at work | **Can I borrow your charger for ten minutes?** | I take ⬅️ |
 | A friend needs money | **I lent him ₹2000 last week.** | I give ➡️ |
-| Explaining a bank loan | **I took a loan from the bank.** | *(loans use "take"!)* |
+| Explaining a bank loan | **I took out a loan from the bank.** | *(loans use "take out"!)* |
 | Returning something | **Thanks for lending me your notes.** | they gave ➡️ |
 | Library rule | **You can borrow up to three books.** | you take ⬅️ |
 
 *(Highlight row 3 — important exception.)* For **loans** from banks, English says **take a loan** or **get a loan**, not "borrow a loan":
-- ✅ *I took a home loan.*
+- ✅ *I took out a home loan.*
 - ✅ *I got a loan from SBI.*
 - ✅ *The bank lent me ₹10 lakhs.* *(bank gives = lend ✅)*
 
@@ -217,7 +217,7 @@ So your brain already tracks direction — it just tracks it **inside the verb**
 
 Because **തരുക/കൊടുക്കുക** are so flexible, we over-use **give**:
 
-- ❌ *Give me your pen for two days* → ✅ **Could you lend me your pen for two days?**
+- ⚠️ *Give me your pen for two days* → ✅ **Could you lend me your pen for two days?**
 - ❌ *He gave me money, I will return* → ✅ **He lent me some money.**
 
 *(Explain the difference clearly.)*
@@ -270,11 +270,11 @@ Comment your answers — I reply to every single one!
 **Question 1:** Translate — ഞാൻ അവന് 1000 രൂപ കടം കൊടുത്തു, പക്ഷേ അവൻ ഇതുവരെ തിരിച്ചു തന്നിട്ടില്ല.
 *(Hint: "I gave a loan" → which verb? And "returned to me" → which verb?)*
 
-**Question 2:** Fix these four:
+**Question 2:** Three are wrong. The fourth is grammatical — rewrite it so the **promise to return** is explicit:
 1. *"Can you borrow me ₹100?"*
 2. *"I borrowed him my umbrella."*
 3. *"He lent money from the bank."*
-4. *"Give me your notes for one day."*
+4. *"Give me your notes for one day."* ⚠️
 
 *(Warm close.)*
 

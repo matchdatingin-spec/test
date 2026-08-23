@@ -85,7 +85,7 @@ Every *unless* sentence can be rewritten with **if + not**, and the meaning stay
 
 Because *unless* **already means "if not,"** you must **never** add another *not* after it:
 
-- ❌ *Unless you don't study, you'll fail.* ← double negative! ❌
+- ⚠️ *Unless you don't study, you'll fail.* ← double negative! ⚠️
 - ✅ **Unless you study, you'll fail.** ✅
 
 *(Explain.)* Think about it: *"unless you don't study"* = *"if you don't don't study"* = *"if you study"*. Backwards! 🔄
@@ -123,7 +123,7 @@ Look at the verb: **finish**, not "will finish."
 
 *(Explain the rule.)* **After time words — until, when, before, after, as soon as — English uses the PRESENT tense for future meaning.** No *will*!
 
-- ✅ *I'll call you when I **reach**.* ← not "will reach"
+- ✅ *I'll call you when I **get there**.* ← not "will get there"
 - ✅ *Wait until he **comes**.* ← not "will come"
 - ✅ *Let's start as soon as she **arrives**.* ← not "will arrive"
 - ✅ *I'll message you after I **finish**.* ← not "will finish"
@@ -136,7 +136,7 @@ Look at the verb: **finish**, not "will finish."
 3. Call me as soon as you **land**. ✅
 
 *(Malayali warning.)* This is a **very** common error:
-- ❌ *I will call you when I will reach home* → ✅ **I'll call you when I reach home.** ✅
+- ❌ *I will call you when I will get home* → ✅ **I'll call you when I get home.** ✅
 
 ### Sentence 2 — built piece by piece
 
@@ -159,7 +159,7 @@ Build it:
 > ✅ **"I won't come if you don't call me."** ✅ Identical meaning!
 
 *(Show the error clearly.)*
-- ❌ *I won't come unless you don't call me.* ← double negative ❌
+- ⚠️ *I won't come unless you don't call me.* ← the grammar is legal, but the meaning **flips** ⚠️
   *(This actually means: "I won't come if you DO call me"! 😄 The opposite!)*
 
 *(Note the Malayalam trap in detail.)* Look at the Malayalam: **വിളിച്ചില്ലെങ്കിൽ** — the "not" is **inside the word**. So when your brain translates, it wants to put a "not" in the English too. That's exactly where the error comes from.
@@ -168,7 +168,7 @@ Build it:
 - ✅ *unless you **call*** ✅
 - ✅ *unless it **rains*** ✅
 - ✅ *unless he **agrees*** ✅
-- ❌ *unless you don't call* ❌
+- ⚠️ *unless you don't call* — reverses your meaning ⚠️
 
 *(Say to yourself.)* **"After unless, be positive!"** 😊
 

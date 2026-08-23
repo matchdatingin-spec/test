@@ -57,7 +57,7 @@ When you hear **എനിക്ക് ഇന്ന് ഓഫീസിൽ പോ�
 - ഓഫീസിൽ → "in office..." ❌ *wrong preposition*
 - പോകേണ്ടി വന്നു → "...had to go" ✅ *finally, the verb!*
 
-*(Point out the problem.)* The **verb arrived last**. But English needs the verb **second**! So you built the sentence and then had to rebuild it. That's the freeze. 🧊
+*(Point out the problem.)* The **verb arrived last**. But English wants the verb **early — right after the person**! So you built the sentence and then had to rebuild it. That's the freeze. 🧊
 
 ### The fix: find the VERB first
 
@@ -156,7 +156,7 @@ I + had to go + to the office + today ✅
 
 *Two traps:* **വേണം** here is a **desire**, not necessity → *would like*, not *must* *(Day 10)*. And **ഒരു = a**, not *one* *(Day 20)*.
 
-❌ Not *"I want one tea."* *(too blunt)* ❌ Not *"I am wanting a tea."*
+⚠️ Not *"I want one tea."* *(too blunt)* ⚠️ Not *"I am wanting a tea."*
 
 ---
 
@@ -184,7 +184,7 @@ I + had to go + to the office + today ✅
 
 *(This one is beautiful.)* Malayalam says "the bus was not got." English has a **single verb** for this: **miss**. 🚌
 
-❌ Not *"I didn't get the bus."* *(understood, but not natural)*
+⚠️ Not *"I didn't get the bus."* *(understood, but not natural)*
 ✅ Also fine: *"I couldn't catch the bus."*
 
 ---
@@ -240,7 +240,7 @@ I + had to go + to the office + today ✅
 
 ✅ **"I'll be right back."**
 
-*(The Day 29 classic!)* ❌ *"I will come now"* sounds like you're **arriving**. This phrase means you're **leaving briefly**. Completely different! 🔄
+*(The Day 29 classic!)* ⚠️ *"I will come now"* sounds like you're **arriving**. This phrase means you're **leaving briefly**. Completely different! 🔄
 
 ---
 

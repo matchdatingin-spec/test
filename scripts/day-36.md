@@ -118,7 +118,7 @@ Each block has a **starter phrase**. Learn these five, and the blocks come autom
 
 **🆁 R — Reason** *(why it matters to you)*
 
-> ✅ *"The reason I like it is that it's not too big and not too small. I can reach anywhere in fifteen minutes, but I still get everything I need."*
+> ✅ *"The reason I like it is that it's not too big and not too small. I can get anywhere in fifteen minutes, but I still have everything I need."*
 
 *(Note.)* **"The reason I like it is that..."** ⭐ Memorise this exact frame. It works for any topic. ✅
 
@@ -140,7 +140,7 @@ Each block has a **starter phrase**. Learn these five, and the blocks come autom
 
 **Now the whole thing together:**
 
-> ✅ *"Let me tell you about my hometown. I'm from Thrissur, which is a city in central Kerala. To give you an idea, Thrissur is famous for a festival called Thrissur Pooram — every year, thousands of people come to see the elephants and the drums, and the whole city stays awake all night. The reason I like it is that it's not too big and not too small; I can reach anywhere in fifteen minutes but still get everything I need. Honestly, whenever I come back from travelling, I feel relaxed the moment I reach Thrissur — it just feels like home. Overall, I'd say it's one of the best cities in Kerala to live in, and I'd like to settle there after a few years."*
+> ✅ *"Let me tell you about my hometown. I'm from Thrissur, which is a city in central Kerala. To give you an idea, Thrissur is famous for a festival called Thrissur Pooram — every year, thousands of people come to see the elephants and the drums, and the whole city stays awake all night. The reason I like it is that it's not too big and not too small; I can get anywhere in fifteen minutes but still have everything I need. Honestly, whenever I come back from travelling, I feel relaxed the moment I reach Thrissur — it just feels like home. Overall, I'd say it's one of the best cities in Kerala to live in, and I'd like to settle there after a few years."*
 
 *(Check the clock.)* **That's about 75 seconds of speaking — and roughly two minutes with natural pauses.** ✅
 

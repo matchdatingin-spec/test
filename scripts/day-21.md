@@ -130,7 +130,7 @@ In Malayalam, your **tone** decides. In English, the **word "a"** decides.
 
 Build it *(positive meaning — I have some friends)*:
 
-1. **Countable?** → Yes → few family
+1. **Countable?** → Yes → *few*
 2. **Positive feeling?** → Yes → add **a** → **a few**
 3. **Who** → I
 4. **have** → have
@@ -157,7 +157,7 @@ Now the negative version:
 - ✅ *There's **a little** hope.* 🙂
 - ✅ *There's **little** hope.* 🙁
 
-*(Practical advice.)* In everyday speech, **use "a few" and "a little"** — the positive ones. The negative *few/little* sound quite formal, and native speakers usually say **"not many"** or **"hardly any"** instead:
+*(Practical advice.)* In everyday speech, **use "a few" and "a little"** — the positive ones. The negative forms *few* and *little* sound quite formal, and native speakers usually say **"not many"** or **"hardly any"** instead:
 - ✅ *I don't have many friends here.*
 - ✅ *I have hardly any time.*
 
@@ -171,7 +171,7 @@ Now the negative version:
 | Complaining about traffic | **There was a lot of traffic.** | uncountable *(never "many traffics"!)* |
 | Talking about work pressure | **I have a lot of work today.** | uncountable |
 
-*(Highlight row 4 and 5.)* Please note these three carefully — Malayalis get them wrong constantly:
+*(Highlight rows 4 and 5.)* Please note these two carefully — Malayalis get them wrong constantly:
 - ❌ *many traffics* → ✅ **a lot of traffic**
 - ❌ *many works* → ✅ **a lot of work**
 - ❌ *many homeworks* → ✅ **a lot of homework**
@@ -216,14 +216,14 @@ Now the negative version:
 
 *(A subtle one.)* Look:
 
-- ❌ *I have much work.* ← sounds strange!
+- ⚠️ *I have much work.* ← sounds strange!
 - ✅ *I have **a lot of** work.* ✅
 
 *(Explain.)* In modern English, **"much" mostly lives in negatives and questions**:
 - ✅ *I don't have **much** time.* ← negative ✅
 - ✅ *Do you have **much** experience?* ← question ✅
 - ✅ *How **much** does it cost?* ← question ✅
-- ❌ *I have much time.* ← positive... unnatural
+- ⚠️ *I have much time.* ← positive... unnatural
 - ✅ *I have **a lot of** time.* ✅
 
 *(Same for "many," but less strict.)* *Many* is fine in positives: ✅ *Many people came.* ✅ But **"a lot of"** always sounds more natural in speech.
@@ -240,7 +240,7 @@ Malayalam **വളരെ / ഒരുപാട്** gets translated as "very much
 - ❌ *He is very much good* → ✅ **He is very good.**
 - ❌ *Very much people came* → ✅ **A lot of people came.**
 
-*(Rule.)* **"Very much" goes at the END of the sentence**, and only with verbs — never before an adjective:
+*(Rule.)* **"Very much" normally goes after the verb or at the end of the clause** — and not before an ordinary adjective *(use plain "very" there)*. ✅ *(In formal style it can also precede the verb: ✅ "I **very much** appreciate it.")*
 - ✅ *I miss you very much.*
 - ✅ *Thank you very much.*
 - ❌ *very much beautiful* → ✅ **very beautiful**
@@ -251,7 +251,7 @@ Malayalam **വളരെ / ഒരുപാട്** gets translated as "very much
 
 - ❌ *The food was too much tasty* → ✅ **The food was really tasty.**
 - ❌ *He is too much good* → ✅ **He is very good.**
-- ❌ *I liked it too much* → ✅ **I liked it a lot.**
+- ⚠️ *I liked it too much* → ✅ **I liked it a lot.**
 
 *(Explain the difference.)*
 - **a lot** = a large amount ✅ neutral/positive

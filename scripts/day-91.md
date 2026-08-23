@@ -123,7 +123,7 @@ Get a pen. Score yourself out of 25. Let's go. 🚀
 ✅ **"Did you go to the class yesterday?"** — *did* carries the past; the verb goes plain 🔗 **Day 03**
 
 **8.** ❌ *"Does she works in Bangalore?"*
-✅ **"Does she work in Bangalore?"** — one **-s** per sentence, and it's on *does* 🔗 **Days 53, 55**
+✅ **"Does she work in Bangalore?"** — one **-s** per verb phrase, and it's on *does* 🔗 **Days 53, 55**
 
 **9.** ❌ *"I should came earlier to the meeting."*
 ✅ **"I should have come earlier to the meeting."** — regret needs **have + third form** 🔗 **Day 17**
@@ -145,7 +145,7 @@ Get a pen. Score yourself out of 25. Let's go. 🚀
 ✅ **"I'm on the bus now — I'll call you in ten minutes."** — public transport → **on**; and future time → **in**, not *after* 🔗 **Day 18**
 
 **14.** ❌ *"He didn't come still, I am waiting since morning."*
-✅ **"He hasn't come yet — I've been waiting since morning."** — *yet* goes at the **end**; and *since* needs **have been** 🔗 **Days 15, 19**
+✅ **"He hasn't come yet — I've been waiting since this morning."** — *yet* goes at the **end**; and *since* needs **have been** 🔗 **Days 15, 19**
 
 **15.** ❌ *"Please discuss about this topic in your next video."*
 ✅ **"Please discuss this topic in your next video."** — *discuss* already contains "about" 🔗 **Days 18, 28**

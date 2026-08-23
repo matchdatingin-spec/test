@@ -300,7 +300,7 @@ Today: **ten questions**, what each is really asking, and the shape that works. 
 
 *(Explain.)* Short answers feel polite in Malayalam conversation. ✅ In an interview, they read as *"nothing to say."* ⚠️
 
-| ❌ Too short | ✅ Complete |
+| ⚠️ Too short | ✅ Complete |
 |---|---|
 | *"Yes sir, I know Excel."* | *"Yes — I use it daily for reconciliation. I'm comfortable with pivot tables, VLOOKUP and basic macros."* ⭐ |
 | *"Yes, I can handle pressure."* | *"Yes. Month-end is a two-day window for 200 accounts, so tight deadlines are normal for me."* ⭐ |

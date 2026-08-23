@@ -35,7 +35,7 @@ Here's a real email. Read it and tell me what's wrong.
 
 *(Pause.)*
 
-*(Explain.)* Ninety words. ✅ And here's the problem: **you still don't know what Anu wants.** ⚠️
+*(Explain.)* Eighty-eight words. ✅ And here's the problem: **you still don't know what Anu wants.** ⚠️
 
 *(Firmly.)* Does she want her manager to call the client? Escalate it? Approve a credit hold? ✅ It doesn't say. ⚠️
 
@@ -123,7 +123,7 @@ Now the rebuild:
 
 ### 📧 MAKEOVER 1 — Chasing a payment *(the hook email, in full)*
 
-#### ❌ BEFORE — 90 words
+#### ❌ BEFORE — 88 words
 
 > **Subject:** *Regarding*
 >
@@ -162,7 +162,7 @@ Now the rebuild:
 
 ### 📧 MAKEOVER 2 — Asking for a deadline extension
 
-#### ❌ BEFORE — 105 words
+#### ❌ BEFORE — 81 words
 
 > **Subject:** *Report*
 >
@@ -211,7 +211,7 @@ Now the rebuild:
 
 *(The hardest email to write well.)*
 
-#### ❌ BEFORE — 95 words
+#### ❌ BEFORE — 82 words
 
 > **Subject:** *Sorry sir*
 >
@@ -266,7 +266,7 @@ Now the rebuild:
 
 ### 📧 MAKEOVER 4 — Emailing a client *(highest stakes)*
 
-#### ❌ BEFORE — 110 words
+#### ❌ BEFORE — 99 words
 
 > **Subject:** *Regarding the requirement*
 >
@@ -328,9 +328,9 @@ Now the rebuild:
 
 | | ❌ Before *(average)* | ✅ After *(average)* |
 |---|---|---|
-| **Word count** | 100 | **63** ⭐ |
+| **Word count** | 88 | **63** ⭐ |
 | **Colonial phrases** | 6 📜 | **0** ✅ |
-| **Apologies** | 2.5 🙏 | **0.25** ✅ |
+| **Apologies** | 1.25 🙏 | **0** ✅ |
 | **Numbers/specifics** | 0.5 📊 | **4** ⭐ |
 | **Clear ask** | 0.25 🎯 | **1** ⭐ |
 | **Grammar level** | B1 | **B1** ✅ *(unchanged!)* |

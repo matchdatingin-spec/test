@@ -275,7 +275,7 @@ If it emphasises **client handling** → tell a difficult-client story ✅
 
 *(Explain.)* They **will** ask why you're leaving. ✅ And Malayali candidates often answer with **honest** reasons that damage them: ✅
 
-| ❌ Honest but damaging | ✅ Professional |
+| ⚠️ Honest but damaging | ✅ Professional |
 |---|---|
 | *There's no increment* | **I'm looking for a role with a clearer growth path** ⭐ |
 | *My manager is difficult* | **I'm looking for a different working style — more collaborative** ✅ |

@@ -154,7 +154,7 @@ Listen to this.
 *(Explain.)* 🔗 *(Day 66)* Unstressed syllables go **short and light** — usually towards **"uh"**, though *-ing* keeps a light **"i"**. 😐 ✅ The point is that the **stress moves to the front**. ⭐
 
 *(Show the pattern.)*
-| ❌ Clear | ✅ Lazy ⭐ |
+| ⚠️ Over-clear | ✅ Naturally relaxed ⭐ |
 |---|---|
 | wor-KING | **WOR**-king ✅ |
 | ac-COUNTS | **ac**-counts → uh-**KOWNTS** ✅ |
@@ -245,7 +245,7 @@ Listen to this.
 | Myself Vinod | **I'm Vinod** ⭐ |
 | I passed out in 2020 | **I graduated in 2020** ⭐ |
 | I am having four years experience | **I've got four years' experience** ⭐ |
-| I can handle pressure | **I'm used to working under pressure** ⭐ 🔗 *(Day 16)* |
+| I can handle pressure *(correct, but generic)* | **I'm used to working under pressure** ⭐ 🔗 *(Day 16)* |
 
 ---
 
@@ -328,7 +328,7 @@ Listen to this.
 
 *(Close the pronunciation block properly. This matters.)*
 
-*(Slowly, warmly.)* We've spent eight days on pronunciation — Days 66 to 73, and today. ✅
+*(Slowly, warmly.)* We've spent nine days on pronunciation — Days 66 to 73, and today. ✅
 
 *(Firmly.)* And I want to end with the same message I started with: ✅
 
@@ -379,7 +379,7 @@ And the smallest possible commitment, which will still make a real difference:
 
 **Ninety-six days.** ✅ And the makeover block is done. 🎉
 
-*(Explain.)* Days 91 to 96 all showed you the **same** thing, in five different areas: ✅
+*(Explain.)* Days 82 and 91 to 96 all showed you the **same** thing, in five different areas: ✅
 
 | Makeover | What changed | What didn't |
 |---|---|---|

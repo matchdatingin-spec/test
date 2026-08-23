@@ -78,7 +78,7 @@ In English, moving a verb **one step back in time** doesn't always mean the past
 - ✅ past … would ✅
 - ✅ had … would have ✅
 - ❌ past … will ❌ ← the classic Malayali error
-- ❌ had … would ❌
+- ⚠️ had … would — not in the four basic types *(but see the **mixed conditional** later in this class — it's real!)*
 
 *(Rule.)* **Pick a level and stay on it.** ✅ *(These three are your safe templates. Advanced speakers do mix them — but master the three first.)*
 
@@ -326,9 +326,11 @@ Sometimes the **past** affects the **present**:
 
 *(Rule — say it firmly.)*
 
-> ### 👉 "Would" NEVER goes after "if."
+> ### 👉 In a Type 2 or Type 3 conditional, "would" does NOT go in the if-half.
 
-*(Emphasise.)* Never. Not in any of the four types. **"Would" lives only in the result half.** ✅
+*(Emphasise.)* In all four conditional types, **"would" lives in the result half** — the if-half uses a past form instead. ✅
+
+*(One honest exception, so nobody corrects you wrongly.)* ⚠️ *If you would…* **does** exist in English — as a **polite request**, not a conditional: ✅ *"I'd be grateful if you would send it."* ✅ *"If you would kindly wait here."* ⭐ That's a different structure. In a hypothetical *if*, keep *would* out of the if-half. ✅
 
 ### Trap 4: The Malayalam word-order flip
 

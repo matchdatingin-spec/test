@@ -14,7 +14,7 @@ Your friend calls and says he's coming to your house. You want to say **നാ�
 
 And you say:
 
-> ❌ *"Take that book when you come tomorrow."*
+> ⚠️ *"Take that book when you come tomorrow."*
 
 *(Confused face.)* Now your friend is thinking: *"Take it? Take it where? Away from your house? But I haven't even come yet!"*
 
@@ -22,7 +22,7 @@ You meant **bring**. You said **take**. And in English, those two words point in
 
 Or this classic one, said while leaving the house:
 
-> ❌ *"Bring an umbrella, it may rain."*
+> ⚠️ *"Bring an umbrella, it may rain."*
 
 *(Smile.)* Wrong again. When you're going out, you **take** an umbrella.
 
@@ -161,18 +161,18 @@ Because **"here" can be the place you're talking about**, not just your body. Th
 *(Honest observation.)* In Kerala English, *take* has become the all-purpose verb:
 
 - ❌ *Take rest* → ✅ **get some rest**
-- ❌ *Take a photo of me... okay this one is fine!* ✅
-- ❌ *I will take leave tomorrow* → ✅ **I'll take the day off** / **I'm on leave tomorrow** *(take leave is understood but sounds Indian)*
-- ❌ *Take your food* → ✅ **Have your food** / **Go ahead and eat**
-- ❌ *Take medicine... also fine!* ✅
-- ❌ *I took my degree in 2020* → ✅ **I did my degree in 2020** / **I graduated in 2020**
-- ❌ *Take a bath... fine in most English!* ✅
+- ✅ *Take a photo of me* — this one is fine! ✅
+- ⚠️ *I will take leave tomorrow* → ✅ **I'll take the day off** / **I'm on leave tomorrow** *(take leave is understood but sounds Indian)*
+- ⚠️ *Take your food* → ✅ **Have your food** / **Go ahead and eat**
+- ✅ *Take medicine* — also fine! ✅
+- ⚠️ *I took my degree in 2020* → ✅ **I did my degree in 2020** / **I graduated in 2020**
+- ✅ *Take a bath* — fine in most English! ✅
 
 *(Smile.)* So *take* is genuinely useful — just not for **rest**, **food**, or **degrees**.
 
 ### Trap 2: Forgetting that "bring" needs a destination in mind
 
-Malayalis say ❌ *"I will bring it"* when they mean *"I'll take it with me."*
+Malayalis say ⚠️ *"I will bring it"* when they mean *"I'll take it with me."*
 
 Think about where you'll be:
 - Talking on the phone, planning to visit your friend → *"I'll **bring** it."* ⬅️ *(coming to you)*

@@ -78,7 +78,7 @@ Good news to start with.
 > ### 👉 **Never** write what you think, why it happened, or what should be done. ✅
 
 *(Show the errors.)*
-| ❌ Avoid in Task 1 | ✅ Do this instead |
+| ⚠️ Avoid in Task 1 | ✅ Do this instead |
 |---|---|
 | *This is because of urbanisation* ⚠️ *(a reason the chart never showed)* | *The figure rose sharply* ✅ |
 | *I think this trend is worrying* ⚠️ *(opinion)* | *The trend continued upward* ✅ |
@@ -104,7 +104,7 @@ Good news to start with.
 
 *(Explain.)* Examiners look for it specifically. ✅ Without a clear overview, you **cannot** score above Band 5 on Task Achievement — regardless of how accurate your details are. ⚠️
 
-*(What goes in it.)* ✅ The **two** most striking things a person would notice in five seconds: ✅
+*(What goes in it.)* ✅ The **most striking things** a person would notice in five seconds — pick the two clearest: ✅
 - ✅ the overall **trend** *(rose, fell, fluctuated)* ✅
 - ✅ the **highest** and **lowest** ✅
 - ✅ any **dramatic** change or **crossover** ⭐
@@ -228,7 +228,7 @@ Good news to start with.
 
 ---
 
-### 📄 The full answer *(178 words)*
+### 📄 The full answer *(168 words)*
 
 > ✅ *The line graph illustrates how many overseas visitors travelled to three states in India — Kerala, Goa and Rajasthan — over an eleven-year period from 2010 to 2020.*
 >
@@ -238,7 +238,7 @@ Good news to start with.
 >
 > *In 2020, all three states recorded a steep decline. Rajasthan fell to just 0.2 million, while both Kerala and Goa dropped to approximately 0.1 million. The reduction was proportionally greatest in Kerala, which lost over 90 per cent of its 2019 arrivals.* ⭐
 
-*(Emphasise.)* ⭐ **178 words. Four paragraphs. Zero opinions.** ✅
+*(Emphasise.)* ⭐ **168 words. Four paragraphs. Zero opinions.** ✅
 
 ---
 
@@ -378,7 +378,7 @@ Good news to start with.
 
 *(Emphasise.)* ⚠️ Most graphs show the **past** ✅ → use **past simple** throughout. ✅ Mixing tenses is a very visible error. ⚠️
 
-### Trap 5: Language errors that recur in Indian Task 1 answers ⚠️
+### Trap 5: Language to fix in Indian Task 1 answers ⚠️ *(some are errors, some are just wordy)*
 
 | ❌ | ✅ |
 |---|---|

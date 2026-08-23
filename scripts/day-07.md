@@ -62,7 +62,7 @@ Real → **will.** Imagining → **would.**
 
 ### And the "past" part?
 
-Yes, *would* also does one past job: **reported speech** and **past habits**.
+Yes, *would* also does two past jobs: **reported speech** and **past habits**.
 
 - ✅ *He said he **would** come.* ← he said "I will come," but we report it in the past
 - ✅ *When I was a child, we **would** go to the beach every Sunday.* ← old habit
@@ -152,7 +152,7 @@ Compare:
 
 | Situation | ✅ Correct | Which world? |
 |---|---|---|
-| Promising your friend | **I'll call you when I reach.** | real |
+| Promising your friend | **I'll call you when I get there.** | real |
 | Dreaming about a job abroad | **I would love to work in Canada.** | imaginary |
 | Ordering at a restaurant | **I'd like a masala dosa, please.** | polite = softened, imaginary |
 | Refusing gently | **I would come, but I have a class.** | imaginary (I'm not coming) |

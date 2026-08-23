@@ -50,7 +50,7 @@ Someone asks about your English. And you say *"okay,"* or *"average,"* or *"I ca
 
 *(Explain what levels mean and why four skills matter.)*
 
-### 📊 The four skills are usually UNEVEN
+### 📊 Your skills are usually UNEVEN
 
 *(The key insight of this video.)*
 

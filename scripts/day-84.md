@@ -20,7 +20,7 @@ You need Friday off. You write:
 
 *(Pause.)*
 
-*(Explain.)* Eighty words. ✅ Three apologies. ✅ And notice what's **missing**: ⚠️
+*(Explain.)* Sixty-two words. ✅ One apology, buried in padding. ✅ And notice what's **missing**: ⚠️
 
 - ❓ What **date** exactly? ✅
 - ❓ How many **days**? ✅
@@ -85,7 +85,7 @@ Today: ten templates. Let's go. 🚀
 *(Explain.)* Most leave emails ask for **permission**. ✅ A strong one presents a **plan**. ✅
 
 *(Show the difference.)*
-| ❌ Asking permission | ✅ Presenting a plan |
+| ⚠️ Asking permission | ✅ Presenting a plan |
 |---|---|
 | *"Kindly grant me leave"* ⚠️ | *"My pending work is up to date and Anu can cover urgent queries"* ⭐ |
 
@@ -166,7 +166,7 @@ Today: ten templates. Let's go. 🚀
 >
 > *Hi Rajesh,*
 >
-> *I'm unwell today — fever since last night — so I won't be able to come in.*
+> *I'm unwell today — I've had a fever since last night — so I won't be able to come in.*
 >
 > *I've asked Anu to handle anything urgent. I'll be on my phone if something needs my input.*
 >
@@ -368,7 +368,7 @@ Today: ten templates. Let's go. 🚀
 
 ### Trap 3: "Kindly grant me leave" 📜 🔗 *(Day 83)*
 
-| ❌ Old | ✅ Modern |
+| ⚠️ Old | ✅ Modern |
 |---|---|
 | Kindly grant me leave | **I'd like to take Friday off** ⭐ |
 | I request you to sanction my leave | **Could I take Friday off?** ✅ |
@@ -384,7 +384,9 @@ Today: ten templates. Let's go. 🚀
 
 *(Both are fine.)* Use the first for planned leave, the second when you know it's inconvenient. ✅
 
-### Trap 4: Grammar errors specific to leave emails ⚠️
+### Trap 4: Grammar slips and dated wording in leave emails ⚠️
+
+*(Two different things — read the labels.)* ⚠️ **❌ = genuinely ungrammatical.** ⚠️ **⚠️ = correct English, but dated or too direct for a modern workplace.** ✅
 
 *(Practical checklist.)*
 

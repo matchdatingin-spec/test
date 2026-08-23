@@ -356,7 +356,7 @@ Build it:
 | He can drives | **He can drive** |
 | He will comes | **He will come** |
 
-*(Rule.)* **When a helper is present, the -s moves to the helper.** ✅ One -s per sentence. 🔗
+*(Rule.)* **When a helper is present, the -s moves to the helper.** ✅ One -s per verb phrase. 🔗
 
 *(The two paths.)*
 - ✅ *He **works** here.* ← no helper, -s on verb ✅
