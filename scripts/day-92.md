@@ -448,3 +448,20 @@ Tomorrow, Day 93 — **the IELTS essay makeover.** 🎓
 *(Warm.)* If you're preparing for IELTS, this is the most useful video in the series for you. Don't miss it.
 
 **Point first. One clear ask. And problems always come with solutions.** 📧 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — sent-folder audit**
+**What a good answer looks like:** a real word count from a real email sent this week · an honest yes/no on the clear-ask test · ideally one line on what they'd cut.
+Example: *"Word count: 210. Clear ask in the first two lines? No — my request was in paragraph four."*
+
+**Q2 — the mistake email**
+**What a good answer looks like:** owns the error in the **first line**, no long preamble and no self-punishment · states what's already fixed · proposes the next step and offers the manager an alternative · under 80 words · **no blaming** a colleague or the system.
+Example: *"Subject: Correction — March invoice sent with wrong total. Hi Deepa, I sent Invoice 318 with ₹42,000 instead of ₹48,000. I've issued a corrected invoice and emailed the client an apology. Unless you'd rather call them, I'll confirm receipt on Thursday. Sorry for the extra work."*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

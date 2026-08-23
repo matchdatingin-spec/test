@@ -391,3 +391,22 @@ Passive voice is where Indian office English goes wrong most often — because w
 Tomorrow: when passive is right, when it's wrong, with real office and exam examples.
 
 **Noun first, description after. And repeat the noun? Replace it.** 🔗 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — join into one sentence**
+1. ✅ *"I have a colleague who speaks Japanese."* Also *that speaks*
+2. ✅ *"This is the shop where I bought my phone."* Also *…the shop I bought my phone from*
+3. ✅ *"I met a man whose son studies with me."*
+
+**Q2 — noun first, description after**
+1. → ✅ *"The phone I bought works well."* Also *that/which I bought*
+2. → ✅ *"I have a brother who works in Dubai."*
+3. → ✅ *"What he said was right."* Also *The thing he said was right.* ❌ not *That he said thing was right* *(Malayalam order)*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

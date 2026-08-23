@@ -355,3 +355,20 @@ Tomorrow, Day 48 — **simple past vs present perfect.** 🔍
 There's one clean rule that decides it every time, and I'll show you the exact word that forces your choice. Don't miss it.
 
 **"I work" = always 🔁. "I'm working" = now ⏺️. And -ing + tomorrow = a fixed plan!** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — same Malayalam verb, three tenses**
+1. *(job)* → ✅ *"I teach at a school."* ❌ not *I am teaching* for a permanent job
+2. *(now)* → ✅ *"I'm taking a class right now."*
+3. *(tomorrow)* → ✅ *"I'm going to a meeting tomorrow."* Also *I have a meeting tomorrow.*
+
+**Q2 — choose and explain**
+1. ✅ *live* 2. ✅ *am staying* *(temporary)* 3. ✅ *boils* 4. ✅ *is raining* 5. ✅ *is always coming* *(annoyance)* — ⚠️ *always comes* is also grammatical, just neutral 6. ✅ *do you do* — ⚠️ *"What are you doing?"* is grammatical but asks about this moment
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

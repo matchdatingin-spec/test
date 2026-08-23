@@ -360,3 +360,20 @@ Not grammar. Not rules. **100 ready-made sentences** you'll actually use — at 
 Save tomorrow's video. It's the one you'll come back to a hundred times.
 
 **Cut. Verb. Who. Build. Join.** ✂️ See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — apply Cut · Verb · Who · Build · Join**
+✅ **Model:** *"When I woke up in the morning, it was raining, so I went by bus, but the bus was late."*
+**Also accept (equally good):** three short sentences — *"I woke up. It was raining, so I took the bus. But the bus was late."* Also *got up* · *on the bus*.
+
+**Q2 — rewrite as three short sentences**
+⚠️ **Already grammatical — do not mark wrong.** The original chain breaks no rule; it's only *stylistically* weak (four *and*s). This is trimming, not correcting.
+✅ **Model:** *"I went to the shop and bought some vegetables. Then I came home. I cooked dinner."*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

@@ -397,3 +397,18 @@ Tomorrow, Day 74 — **we start the vocabulary block.** 📚
 *(Warm.)* Tomorrow: **40 powerful words** that replace "very + weak word" — and instantly make your English sound more precise and more confident. ⭐
 
 **Good English = the listener understands you the first time.** ✅ See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — spot the variety**
+1. *SKED-jool* → ✅ **🇺🇸** *(BrE: SHED-yool)* 2. *VIT-uh-min* → ✅ **🇬🇧** 3. *elevator* → ✅ **🇺🇸** *(BrE: lift)* 4. *colour* → ✅ **🇬🇧** 5. *on holiday* → ✅ **🇬🇧** *(AmE: on vacation)*
+
+**Q2 — your own audit**
+**What a good answer looks like:** five words recorded — **schedule · water · ask · tomato · advertisement** · states which side each leans to and whether it's **consistent** · the conclusion is about clarity, not imitation. Mixing is acceptable if stable.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

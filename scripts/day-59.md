@@ -400,3 +400,22 @@ Tomorrow, Day 60 — **direct vs indirect speech.** 💬
 Most people memorise a table of rules and forget it in a week. Tomorrow I'll show you **why** the shift happens — one simple idea — so you never need the table again.
 
 **Doer matters → active. Doer doesn't → passive. And never use passive just to sound formal.** 🔁 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — active or passive?**
+1. ✅ **Passive** — *"My bike was stolen."* *(doer unknown)*
+2. ✅ **Active** — *"I sent the wrong report. I'll resend it now."* *(the doer is the point)*
+3. ✅ **Passive is fine** — *"The meeting has been moved to Friday."* Also active *"We've moved the meeting…"* if you want to own it
+4. ✅ **Passive** — *"Water is boiled, then tea leaves are added."*
+
+**Q2 — rewrite in modern active English**
+⚠️ **All four are already grammatical — do not mark them wrong.** This is a **style** exercise: they're correct official-register English that hides the doer.
+1. → ✅ *"Please submit the documents."* 2. → ✅ *"I made a mistake in the calculation."* 3. → ✅ *"I prepared the report."* 4. → ✅ *"The office will be closed on Monday"* — note this **stays passive**, correctly, because the doer is irrelevant
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

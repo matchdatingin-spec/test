@@ -384,3 +384,18 @@ Tomorrow, Day 67 — **four words, in depth.** 🔍
 *(Sincere.)* Plus the **woman / women** pair, which genuinely matters — because in an interview, saying the plural when you mean the singular is noticed. ✅
 
 **Spelling lies 🤥. The middle disappears 🕳️. Unstressed vowels become "uh." 😐** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — record six words, name the hardest**
+**What a good answer looks like:** all six recorded and played back · **one** word named with *what* was hard, not "all of them" · matches the known traps: silent **h** in *vehicle* (VEE-uh-kl) · **ho-TEL / po-LEECE** · *COMF-ter-bl* · *WENZ-day* · *RES-uh-pee*.
+
+**Q2 — the *-ed* syllable test**
+1. *helped* → ✅ **1** *(helpt)* 2. *wanted* → ✅ **2** *(WANT-id)* 3. *finished* → ✅ **2** *(FIN-isht — the* -ed *adds nothing)* 4. *needed* → ✅ **2** 5. *asked* → ✅ **1** *(askt)*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

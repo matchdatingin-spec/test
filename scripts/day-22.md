@@ -307,3 +307,25 @@ Number 5 is the interesting one — it's a **positive** sentence with **any**, a
 Tomorrow, Day 23 — **each, every, and all.** Three words that all become **എല്ലാം / ഓരോ** in Malayalam. And there's one grammar detail that catches almost everyone: is it *"every student **is**"* or *"every student **are**"*? Tomorrow, guaranteed clarity.
 
 **Some = it exists ✔️. Any = unknown or zero ❓.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — എനിക്ക് ഇപ്പോൾ ഒന്നും വേണ്ട, പക്ഷേ കുറച്ച് വെള്ളം കിട്ടുമോ?**
+
+✅ **Model:** *"I don't want anything now, but could I have some water?"*
+**Also accept:** *I want nothing right now, but can I get some water?* ❌ *I don't want nothing* — one negative per clause.
+
+**Q2 — some or any**
+1. **any** · ⚠️ *some* is also correct — it implies you expect a yes
+2. **some** *(offers take some)*
+3. **any**
+4. **some** — and *news* is singular: ❌ *a good news*
+5. **any** — a **positive** sentence and completely correct: here *any* means *it doesn't matter which*
+6. **any** · ⚠️ *some problem* is grammatical too — it means you already suspect one
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

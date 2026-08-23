@@ -227,3 +227,22 @@ Number 4 is the tricky one — think about where the ID card will **end up**. An
 Tomorrow, Day 13 — **borrow vs lend.** Two more words that both become one Malayalam idea. And there's a beautiful direction logic here too: one is *taking*, one is *giving*. If you've ever said *"Can you borrow me your pen?"* — tomorrow's class is for you. 😄
 
 **Come → bring. Go → take.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — bring / take**
+1. …കൊണ്ടുവരണേ → ✅ *"Please bring my book when you come tomorrow."*
+2. …കൊണ്ടുപോകണം → ✅ *"Take this bag with you when you go."*
+
+**Q2 — bring or take**
+1. *…___ an umbrella when you leave.* → ✅ **take**
+2. *Waiter, could you ___ me the menu?* → ✅ **bring** *(also "get me")*
+3. *I ___ my daughter to school.* → ✅ **take** *(also "drop her at school")*
+4. *Please ___ your ID to the exam hall.* → ✅ **bring** *(speaking from the destination)* · ⚠️ **accept "take" too** with reasoning: if you're at home and neither of you is at the hall, *take* is correct. **Mark the reasoning, not the word.**
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

@@ -242,3 +242,23 @@ Notice sentences 1 and 2 look almost identical — but one is **real** and one i
 Tomorrow, Day 08 — **can vs could.** Three different jobs each: ability, permission, polite requests. And I'll show you the one situation where *could* is actually **wrong** even though it sounds more polite.
 
 **Will = real. Would = imagine.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — എനിക്ക് സമയം ഉണ്ടായിരുന്നെങ്കിൽ ഞാൻ നിങ്ങളെ സഹായിക്കുമായിരുന്നു.**
+
+✅ **Model:** *"If I had time, I would help you."*
+**Also accept:** *I would help you if I had time.* · *If I had had time, I would have helped you* — the Malayalam is genuinely ambiguous between "now" and "back then", so the past version is **equally correct**.
+
+**Q2 — will or would**
+1. *If it rains tomorrow, I ___ stay home.* → ✅ **will** *(real future)*
+2. *If I were PM, I ___ change…* → ✅ **would** *(were = imaginary)*
+3. *He said he ___ send the report.* → ✅ **would** · ⚠️ *"he will send it"* is grammatical and common when the sending is still ahead — **do not mark ❌**
+4. *I ___ like two teas, please.* → ✅ **would** *("I'd like" is fixed)*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

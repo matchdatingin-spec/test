@@ -272,3 +272,23 @@ Comment all four answers from Question 1. Get all four helpers right and you've 
 Tomorrow, Day 15 — **already, still, and yet.** Three tiny words that Malayalis place in the wrong position constantly. *"I didn't eat still"* vs *"I still haven't eaten"* — the meaning is the same but only one sounds natural. Tomorrow we fix the positions.
 
 **Positive → So do I. Negative → Neither do I. Confused → Same here!** 😄 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — reply with So / Neither**
+1. *"I don't drink tea."* → ✅ *"Neither do I."* Also *Nor do I* · *Me neither* · *I don't either*
+2. *"I watched that movie yesterday."* → ✅ *"So did I."* Also *I did too* · *Me too*
+3. *"I'm not feeling well."* → ✅ *"Neither am I."* Also *Me neither* — and in real life *"Oh no, what's wrong?"* is the better human reply. Praise that.
+4. *"I can speak Hindi."* → ✅ *"So can I."* Also *I can too*
+
+**Note:** the helper must **match theirs** — did→did, am→am, can→can.
+
+**Q2 — "Nice to meet you!"**
+✅ *"Nice to meet you too!"* Also *"You too!"* · *"Likewise."* — *Me too* fails because they wished something **at you**, so you send it back with *you too*.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

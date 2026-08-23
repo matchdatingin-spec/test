@@ -442,3 +442,19 @@ Tomorrow, Day 56 — **countable and uncountable nouns.** 📦
 *(Warm.)* And I'll explain the genuinely interesting reason **why** English decided that *furniture* can't be counted but *chairs* can. There's a logic. It's just a weird one. 😄
 
 **Find the real subject, not the nearest noun. See "of"? Cross out the of-phrase — unless it's an amount.** ✂️ See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — translate**
+1. → ✅ *"One of my brothers works in Dubai."* — plural after *of*, **singular** verb
+2. → ✅ *"I have some good news."* Also *I have good news* · *a piece of good news*. ❌ not *a good news*
+
+**Q2 — correct verb**
+1. ✅ *is* *(subject =* one*)* 2. ✅ *is* *(*news* uncountable)* 3. ✅ *are* *(*police* always plural)* 4. ✅ *has* — ⚠️ but *"Everyone… **their** form"* is correct 5. ✅ *is* 6. ✅ *is* *(cross out* of items*)* 7. ✅ *doesn't like* 8. ✅ *are*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

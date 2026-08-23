@@ -271,3 +271,26 @@ Get all five right and comment "5/5" — I heart the correct answers I get to, a
 Tomorrow, Day 07 — **will vs would.** Not just "future vs past." I'll show you the *one* real difference: **will = real world, would = imaginary world.** Once you see it, all those confusing "if" sentences become easy.
 
 **Do the activity. Make the thing.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — ഞാൻ ഒരു തെറ്റ് ചെയ്തു, എനിക്ക് ഒരു call ചെയ്യണം, എന്നിട്ട് homework ചെയ്യണം.**
+
+✅ **Model:** *"I made a mistake. I have to make a call, and then do my homework."*
+**Also accept:** *I've made a mistake…* · *I need to make a call and then do my homework.* Only ❌ *I did a mistake* / ❌ *do a call* are genuinely wrong.
+
+**Q2 — do or make**
+1. *…___ me a favour?* → ✅ **do**
+2. *Please don't ___ noise.* → ✅ **make** *(also "make a noise")*
+3. *I need to ___ a decision.* → ✅ **make** · ⚠️ *take a decision* is correct British/Indian usage
+4. *She ___ the dishes.* → ✅ **does** *(also "washes the dishes")*
+5. *He wants to ___ money.* → ✅ **make** *(also "earn money")*
+
+**Note:** accept any answer reasoning *make = something new appears / do = the activity already exists*.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

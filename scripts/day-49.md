@@ -351,3 +351,20 @@ Tomorrow, Day 50 — **the halfway mark, and past perfect.** 🎉
 Tomorrow I'll show you exactly when *had* is genuinely needed — and, just as importantly, the many times you **don't** need it at all. Because half of what you learned about *had* in school was unnecessary.
 
 **Will = now ⚡. Going to = before 📋. -ing = booked 📅.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — three future forms**
+1. *(offering now)* → ✅ *"I'll check."* ❌ not *I am going to check* for a spot decision
+2. *(plan)* → ✅ *"I'm going to buy a bike next month."*
+3. *(fixed appointment)* → ✅ *"I'm seeing the doctor at 10 tomorrow."*
+
+**Q2 — choose**
+1. ✅ *"I'll get it."* 2. ✅ *"It's going to rain."* *(evidence)* — ⚠️ *It will rain* = prediction without evidence 3. ✅ *"I'm meeting my manager at 3."* 4. ✅ *get* — no *will* after *when*. ⚠️ *"when I reach home"* is common Indian English; internationally *get home* / *arrive* 5. ✅ *Shall* *(offer)* — also *Can / Should*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

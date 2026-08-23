@@ -404,3 +404,20 @@ Tomorrow, Day 97 — and we start the **final four**. 🏁
 *(Firmly.)* Tomorrow I'll give you the honest answer — and it's not "you didn't try hard enough." ⭐
 
 **Stress · Chunking · A few sounds. And your accent is a home, not a problem.** 💙 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — record your introduction and check three things**
+**What a good answer looks like:** they actually recorded and **listened back** · contractions used *(I'm, I've — not "I am having")* · delivery broken into 2–3 chunks with pauses, not one flat line · stress on ex-**PEER**-ee-uns · an honest count out of three, including 0/3.
+
+**Q2 — your five most-used work words**
+**What a good answer looks like:** five real words from their actual job, not generic vocabulary · words they say aloud daily · ideally multi-syllable, where stress matters.
+Example: *"Report · invoice · deadline · colleague · schedule."*
+⚠️ **Already grammatical — do not mark wrong:** *"I can handle pressure."* Fine English — only add evidence for interviews. **Accent is not an error.**
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

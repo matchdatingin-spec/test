@@ -413,3 +413,20 @@ Tomorrow, Day 87 — **office meeting English.** 🗣️
 *(Warm.)* Plus the phrases for when you genuinely didn't catch what was said — which happens to everyone, and there's a professional way to handle it. ✅
 
 **Verb first. Number always. And delete "Responsible for."** 📄 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — rewrite three resume bullets using V-W-N-R**
+**What a good answer looks like:** starts with a strong past-tense verb, never *"Responsible for"* · states what was managed · contains at least one number · ends with a result or scope · one line, under 20 words.
+Example: *Before: "Responsible for handling accounts." After: "Managed 150 client accounts, completing monthly reconciliation with zero audit findings in two years."*
+
+**Q2 — your three-line summary**
+**What a good answer looks like:** line 1 = role/qualification plus years · line 2 = current work with a number · line 3 = **one** specific strength, not three vague ones · survives a six-second scan.
+⚠️ *"Passed out in 2020"* — accept, but recommend *"graduated in 2020"* for overseas recruiters.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

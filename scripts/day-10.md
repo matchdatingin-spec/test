@@ -253,3 +253,21 @@ That first one is the real test. Get it wrong in real life and you might acciden
 Tomorrow, Day 11 — **been vs gone.** *"He has been to Dubai"* and *"He has gone to Dubai"* mean two completely different things. One means he's back. One means he's still there. I'll show you the picture that makes it obvious forever.
 
 **Should = advice. Have to = rules. Must = strong.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — ഇന്നലെ എനിക്ക് ഹോസ്പിറ്റലിൽ പോകേണ്ടി വന്നു, അതുകൊണ്ട് ഞാൻ ക്ലാസ്സിൽ വന്നില്ല.**
+
+✅ **Model:** *"Yesterday I had to go to the hospital, so I didn't come to class."*
+**Also accept:** *…so I couldn't attend the class.* · ⚠️ *go to hospital* (no article) is standard **British** usage. **had to** is the only past form — ❌ *I must go yesterday* is impossible.
+
+**Q2 — choose and explain**
+1. **Friend offers to pay** → ✅ *"You don't have to pay."* ⚠️ *"You mustn't pay"* is **grammatical** — do not mark ❌. It means *you are forbidden to*, so it's a meaning error. Also accept *There's no need.*
+2. **Friend on YouTube before an exam** → ✅ *"You should study"* — advice, leaves a choice. *"You must study"* is grammatical but carries your authority, so between friends it sounds bossy. ⚠️ *"You'd better study"* is fine but implies a consequence — a warning, not advice.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

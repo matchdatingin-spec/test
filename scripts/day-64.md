@@ -389,3 +389,24 @@ Tomorrow, Day 65 — **the grammar level test.** 📊
 Bring a pen. No cheating. 😄
 
 **Had better = warning ⚠️. Would rather = this time 🔀. Prefer = always ☕.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — translate three**
+1. ✅ *"You'd better leave now, or you'll be late."*
+2. ✅ *"I prefer tea to coffee."*
+3. ✅ *"I'd rather not come today, sorry."*
+
+**Q2 — fix these five**
+1. → ✅ *"You'd better leave now."* *(no* to*)*
+2. → ✅ *"I prefer tea to coffee."*
+3. → ✅ *"I'd rather stay home."*
+4. ⚠️ *"I don't want to come."* — **Already grammatical — do not mark wrong.** Blunt, not incorrect. Politer: ✅ *"I'd rather not come, if that's okay."*
+5. ⚠️ *"I don't care."* — grammatical but sounds indifferent → ✅ *"Either is fine."* / *"I don't mind."*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

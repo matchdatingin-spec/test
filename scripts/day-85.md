@@ -420,3 +420,20 @@ Tomorrow, Day 86 — **resume and cover letter.** 📄
 *(Explain.)* Tomorrow: how to turn *"handled billing"* into a line that gets you shortlisted, the bullet formula that works, and what to actually write in a cover letter when you feel you have nothing to say. ⭐
 
 **One message. One complete thought. And never "hi" alone.** 📱 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — fix the three WhatsApp messages**
+1. ✅ *"Good morning sir — one question about yesterday's client report: should I include the March figures?"* *(❌* yesterday matter *→* yesterday's report*; never send "Hi sir" and wait)* ⚠️ *doubt* = question in Indian English — accept warmly
+2. ✅ *"Sir, the report is about 80% complete — I'll send it by 4 pm today."* *(❌* almost finishing *→* almost finished*; add a time)*
+3. ✅ *"Sir, could you send me the sales report by 2 pm today? I need it for the client call at 3."* ⚠️ **Grammatical as written** — the problem is *do the needful* (vague) and *asap* (no real deadline), **not grammar**
+
+**Q2 — audit your last real work message**
+**What a good answer looks like:** the "before" is copied honestly, not cleaned up · the improved version is one complete message *(context + ask + deadline)* · no greeting-only opener · under four lines.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

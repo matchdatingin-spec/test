@@ -286,3 +286,23 @@ Number 3 is the sneaky one — remember, **yet must sit at the very back of the 
 Tomorrow, Day 16 — **used to, be used to, get used to.** Three phrases that look almost identical and mean three completely different things. *"I used to smoke"* vs *"I'm used to smoke"* — one is a past habit, one is nonsense. One lesson and you'll own all three.
 
 **Already → middle. Still → middle. Yet → end.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — അവൻ ഇതുവരെ വന്നിട്ടില്ല, ഞാൻ ഇപ്പോഴും കാത്തിരിക്കുന്നു.**
+
+✅ **Model:** *"He hasn't come yet, and I'm still waiting."*
+**Also accept:** *He still hasn't come, and I'm still waiting.*
+
+**Q2 — fix the position**
+1. *"He didn't call me still."* → ✅ *"He hasn't called me yet."* / *"He still hasn't called me."*
+2. *"Already I have finished my work."* → ✅ *"I have already finished my work."*
+3. *"Have you eaten yet your lunch?"* → ✅ *"Have you eaten your lunch yet?"* / *"Have you had lunch yet?"*
+4. *"I sent the email yesterday itself."* → ⚠️ **Do not mark ❌.** Emphatic *itself* is well-established **Indian English** and every Indian listener understands it. ✅ Internationally: *"I sent the email yesterday."* / *"I'd already sent it yesterday."* Same for *now itself* → *right now*.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

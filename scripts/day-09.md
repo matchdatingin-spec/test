@@ -254,3 +254,24 @@ Bonus for the sharp ones: what's the difference in meaning between **"You may no
 Tomorrow, Day 10 — **should vs must vs have to.** How strong is each one? I'll build you a "pressure meter" from gentle advice all the way up to "no choice at all," and show you the one Malayali habit that makes polite advice sound like a threat.
 
 **May I = permission. Might = maybe.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — ഒരുപക്ഷേ അവൻ ഇന്ന് വരില്ല, അവന് പനിയായിരിക്കും.**
+
+✅ **Model:** *"He might not come today — he may have a fever."*
+**Also accept:** *Maybe he won't come today; I think he has a fever.*
+
+**Q2 — fix these three**
+1. *"May be I will join tomorrow."* → ✅ *"I might join tomorrow."* / *"Maybe I'll join tomorrow."* ⚠️ If the learner writes **maybe** as one word, *"Maybe I will join tomorrow"* is **already correct** — the only fault was the space.
+2. *"He might busy now."* → ✅ *"He might be busy now."* *(the invisible* be*)*
+3. *"Might I come in, sir?"* → ⚠️ **Already grammatical — do not mark wrong.** It correctly asks permission, just very formally. ✅ Usual: *"May I come in?"* / *"Could I come in?"*
+
+**Bonus:** *You may not park here* = prohibition. *You might not park here* = a guess.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

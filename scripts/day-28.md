@@ -319,3 +319,26 @@ Get all five — **I pin one great answer on every video**, for everyone to lear
 Tomorrow, Day 29 — my **favourite** video of this whole series. **"Don't eat my head!"** 🤯 We'll look at **20 Malayalam phrases** that become absolutely hilarious when translated directly — *തലവേദന ഉണ്ടാക്കരുത്, കണ്ണിൽ എണ്ണ ഇട്ട് കാത്തിരിക്കുന്നു, ചെവി കടിക്കുന്നു* — and I'll give you the **real** English expression for each one. This one is going to be fun. Don't miss it!
 
 **Agree is a verb. Discuss needs no "about." He, she, it — add the S.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — ഞാൻ നിങ്ങളോട് യോജിക്കുന്നു, പക്ഷേ… ചർച്ച ചെയ്യാം.**
+
+✅ **Model:** *"I agree with you, but let's discuss this tomorrow."*
+**Also accept:** *…let's talk about this topic tomorrow* ✅ *(*talk* **needs** *about*)*. ❌ *I am agree* · ❌ *discuss about*.
+
+**Q2 — the five mistakes**
+1. *Myself Anu* → ✅ *"I'm Anu."* / *"My name is Anu."*
+2. *I am agree* → ✅ *"I agree."*
+3. *many informations* → ✅ *"a lot of information."* *(also much information)* — never ❌ *informations*
+4. *discuss about it* → ✅ *"discuss it."* *(also talk about it)*
+5. *One of my friend* → ✅ *"One of my friends."* Plural group, singular verb: *One of my friends **is** coming.*
+
+⚠️ If a learner writes *"I have a doubt"* elsewhere, accept it warmly (standard Indian English) and offer *"I have a question"*.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

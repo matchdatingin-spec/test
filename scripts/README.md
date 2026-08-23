@@ -4,6 +4,22 @@ Ready-to-record scripts for all 100 videos in [`../youtube-100-video-titles.md`]
 
 **Status: ✅ Complete — 100 of 100 scripts.** ~240,000 words, averaging ~2,400 words per script (12–18 minutes of screen time each).
 
+## 🎬 Filming readiness
+
+| | Status |
+|---|---|
+| **Days 01–98** | ✅ **Ready to film.** Grammar audited and corrected, answer keys written, no placeholders. |
+| **Days 99–100** | 🛑 **Blocked on business decisions** — platform, dates, price, modules, refund policy, support contact. Both files carry a `DO NOT FILM YET` banner listing what's needed. |
+
+**Every script has a `🔑 PRESENTER ANSWER KEY`** at the end, marked *do not read on camera*. Keys list acceptable alternatives, and flag the homework items that are **already correct** so they don't get marked wrong in the comments.
+
+**Three videos need an asset built before you roll** — each is specified in that script's production notes under `🎨 ASSET`:
+- **Day 89** — a line graph. The data table is given; the model answer quotes exact figures, so the chart must match it.
+- **Day 90** — the OET case notes, written out in Section 3.
+- **Day 100** — the seven-block series map, from the table in Section 2.
+
+**Suggested order:** film Days 01–05 as a pilot, check pacing and how the `❌`/`⚠️` distinction reads on screen, then continue in batches.
+
 ---
 
 ## Script format

@@ -477,3 +477,19 @@ Tomorrow, Day 84 — **leave request emails.** 📅
 *(Warm.)* These are the emails you'll actually write this month. And there's a specific structure that gets leave **approved** rather than questioned. ⭐
 
 **Subject · Opening · Body · Action · Close. And the point goes in the first two lines.** 📧 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — modernise the payment-chaser, under 60 words**
+✅ **Model:** *"Subject: Invoice 2214 — payment outstanding since 3 March. Hi Rajesh, Invoice 2214 for ₹45,000 is still unpaid — it was due on 3 March. Could you confirm the payment date, or tell me who to follow up with in accounts? Happy to resend it if needed. Thanks, Anu."*
+**Also accept** any version with a specific subject line, the ask in the first two lines, one named action, and *do the needful / in receipt of / and oblige* removed. ⚠️ *Kindly* and *intimate* (= inform) are fine within India — offer *please* / *let me know*.
+
+**Q2 — the five-day follow-up**
+**What a good answer looks like:** subject names the original request · opens *"just following up"* with a graceful excuse · restates the ask in one line · gives a reason it matters · under 80 words.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

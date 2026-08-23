@@ -346,3 +346,19 @@ We're at the halfway point of this journey. So tomorrow I'm giving you a **compl
 *(Sincere.)* No new grammar. Just a **plan** you can actually follow. Because knowledge without a plan stays knowledge. 🎯
 
 **Copy the rhythm, not just the words.** 🎵 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — the honesty check**
+✅ One word — *"Spoke"* or *"Watched."* Accept either warmly; **"Watched" is the more useful answer because it's honest.** No grammar marking here at all.
+
+**Q2 — your hardest sentence**
+**What a good answer looks like:** a specific sentence number, not *"all of them"* · ideally a note on **what** was hard — a sound, the speed, or the rhythm.
+**Also accept:** naming the sentence text instead of the number. If they name a whole block, ask them to narrow to one line — the precision is the value.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

@@ -413,3 +413,20 @@ Tomorrow, Day 94 — **the live level test.** 📊
 *(Warm.)* Because *"my English is okay"* isn't a level. And you deserve a real answer.
 
 **Position early. Topic sentences always. Your grammar was never the ceiling.** 🎓 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — rebuild the Band 5 introduction with a clear position**
+✅ **Model:** *"It is often suggested that children should begin studying a second language in primary school. While I accept that older learners can study grammar more systematically, I believe an early start brings greater long-term benefits, particularly in pronunciation and confidence."*
+**Also accept** any 2–3 sentence introduction that paraphrases the prompt without *"nowadays, in this modern world"*, states one side clearly by sentence two, and drops *"I will discuss both sides."* A both-sides position is fine **if it commits**. Reject anything that saves the position for the conclusion.
+⚠️ Describe what the criteria reward — a clear position **throughout** — rather than assigning a band.
+
+**Q2 — the 17-point audit on your last essay**
+**What a good answer looks like:** run on a **real past essay**, not the model · one criterion named *(TR/CC/LR/GRA)* with the count of unticked boxes · one specific fix identified.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

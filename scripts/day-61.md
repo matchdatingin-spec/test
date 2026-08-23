@@ -371,3 +371,22 @@ These four verbs let you say that **someone else did something for you** — or 
 There's a logic, and I'll show you it. Very useful for work English.
 
 **Copy the helper. Flip the sign. Unsure? Say "right?"** 🏷️ See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — add the correct tag**
+1. **don't you?** *(also* right?*)* 2. **has he?** 3. **weren't they?** 4. **shall we?** 5. **did they?** 6. **am I?**
+
+**Q2 — fix these three**
+1. *"…isn't it?"* → ✅ *"You're coming tomorrow, aren't you?"* ⚠️ Perfectly understood in Indian English — switch only for international/IELTS use
+2. *"He likes coffee, isn't he?"* → ✅ *"…doesn't he?"* *(no helper → hire* does*)*
+3. ⚠️ *"You'll help me, no?"* → ✅ *"…won't you?"* Also *right? / yeah?*
+
+**Note:** *"You're coming, are you?"* ⚠️ **Already grammatical — do not mark wrong.** A same-polarity tag: it expresses **surprise**, not a neutral check.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

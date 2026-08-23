@@ -311,3 +311,20 @@ Number 4 is the champion question — a **plural** noun with a **singular** verb
 Tomorrow, Day 24 — **another, other, others.** Three words that all become **വേറെ / മറ്റേ** in Malayalam. *"Give me another one"* vs *"Give me other one"* — one is natural, one marks you as a learner. Quick lesson, big polish.
 
 **Each = one by one 👤. Every = the rule 💯. All = the crowd 👥.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — എല്ലാ വിദ്യാർത്ഥികളും… ഓരോരുത്തർക്കും…**
+
+✅ **Model:** *"Every student must come to class every day, and each of them will get a book."*
+**Also accept:** *All students must come to class every day…* · *All the students have to attend class daily…* Check the verb matches: *every student **is*** vs *all students **are***. ❌ *all days* → *every day*.
+
+**Q2 — choose the verb**
+1. *Every student* → **is** 2. *All the students* → **are** 3. *Everyone* → **has** *(and "Everyone has **their** phone" is correct too)* 4. *Each of my friends* → **speaks** 🏆 *(each is the subject)* 5. *Both my sisters* → **are** 6. *All the money* → **was** *(uncountable)*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

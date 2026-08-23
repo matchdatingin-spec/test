@@ -237,3 +237,24 @@ Bonus question for the sharp minds: what's the difference between **"Could you h
 Tomorrow, Day 09 — **may vs might.** Which one shows more possibility? 50%? 30%? And when does *may* stop meaning "maybe" and start meaning "permission"? Short lesson, big clarity.
 
 **About yourself → can. Asking others → could.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — എനിക്ക് car ഓടിക്കാൻ അറിയാം, പക്ഷേ ഇന്ന് എനിക്ക് വരാൻ കഴിയില്ല.**
+
+✅ **Model:** *"I know how to drive a car, but I can't come today."*
+**Also accept:** *I can drive, but I can't come today.* ❌ *I know to drive* is the one real error.
+
+**Q2 — fix these three**
+1. *"Can you give one pen?"* → ✅ *"Could you give me a pen?"* Two fixes: missing **me**, and *one* → **a**. ⚠️ *"Can you give me a pen?"* is fully grammatical — only less polite. Do not mark ❌.
+2. *"I know to cook."* → ✅ *"I know how to cook."* / *"I can cook."*
+3. *"Yesterday I could complete my work."* → ✅ *"…I was able to complete my work."* / *"I managed to finish it."* ⚠️ *could* **is** correct for general past ability (*I could swim at five*) and in negatives (*I couldn't finish*). Only single completed achievements are the problem.
+
+**Bonus:** *Could you help me?* = I want help. *Could I help you?* = I'm offering. The subject decides.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

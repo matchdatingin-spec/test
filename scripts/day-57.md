@@ -413,3 +413,20 @@ These are the words that let you **join** two sentences into one — and turn *"
 This is the single biggest upgrade available to an intermediate speaker. It's how you stop sounding like a beginner making short statements and start sounding like someone who **connects** ideas.
 
 **-ing looks back at reality ⬅️. To looks forward at purpose ➡️.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — same ending, three forms**
+1. → ✅ *"I like watching movies."* Also *I like to watch movies* · *I enjoy watching movies.* ❌ not *I enjoy to watch*
+2. → ✅ *"I decided to learn English."* ❌ not *decided learning*
+3. → ✅ *"I'm looking forward to seeing you."* ❌ not *to see you* after *look forward to*
+
+**Q2 — *-ing* or *to*?**
+1. ✅ *reading* 2. ✅ *to leave* 3. ✅ *learning* *(after the preposition* in*)* 4. ✅ *waiting* 5. ✅ *hearing* *(*to* here is a preposition)* 6. ✅ *smoking* — ⚠️ *"stopped **to** smoke"* is grammatical but means he paused **in order to** smoke: opposite meaning
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

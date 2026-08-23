@@ -402,3 +402,20 @@ Tomorrow, Day 82 — **a live mock interview makeover.** 🎬
 *(Warm.)* This is the video where everything from Days 78 to 81 comes together in one place.
 
 **A salary is a price, not a compliment. 💰 Know your number. Say it once, calmly.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — your three salary numbers**
+**What a good answer looks like:** the target is backed by named evidence *(2–3 real job ads, or a peer's figure)* — not a wish · the target is a **range** · the walk-away is a figure they would genuinely decline below · all three written **before** the interview.
+Example: *"Current ₹4.2L. Target ₹6.5–7.5L — three similar Kochi roles advertise ₹6–8L. Walk-away ₹5.8L."*
+
+**Q2 — the three-part weakness answer**
+**What a good answer looks like:** a real, non-disqualifying weakness · a concrete action in progress · a result with evidence · no apology, no over-explaining.
+Example: *"My weakness has been speaking up in meetings. I now prepare one point in advance and say it in the first ten minutes. As a result, I run the weekly update."*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

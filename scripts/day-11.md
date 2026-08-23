@@ -239,3 +239,22 @@ Question 1 is the heart of today's lesson — if you get both right, you have tr
 Tomorrow, Day 12 — **bring vs take.** Both are കൊണ്ടുവരുക / കൊണ്ടുപോകുക, and the rule depends on something surprising: **where the listener is standing.** Simple, but it changes everything.
 
 **Been = back. Gone = away.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — been / gone**
+1. …പോയിട്ടുണ്ട് *(he's back)* → ✅ *"My father has been to the bank."*
+2. …പോയിരിക്കുന്നു *(he's there now)* → ✅ *"My father has gone to the bank."*
+**Also accept** the contractions *He's been / He's gone* — praise these, they're what fluent speakers say.
+
+**Q2 — two need fixing, one does not**
+1. *"I have been to Munnar last month."* → ✅ *"I went to Munnar last month."* *(a finished time forces simple past)*
+2. *"He has went to Dubai."* → ✅ *"He has gone to Dubai."*
+3. *"Have you ever gone to a foreign country?"* → ⚠️ **Already grammatical — do not mark wrong.** ✅ With *ever*, *been* is the usual choice because it marks **life experience**: *"Have you ever been abroad?"*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

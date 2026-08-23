@@ -396,3 +396,19 @@ Tomorrow, Day 77 — **how to learn vocabulary without forgetting it.** 🧠
 *(Confident.)* Tomorrow I'll give you a **3-step method** that makes words stick — based on how memory actually functions, not on "revise more." And I'll be honest about **why** flashcard lists fail for most people. ⭐
 
 **Learn the whole phrase, not the parts. 🧱 And the pronoun goes in the middle.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — replace the formal words with phrasal verbs**
+✅ **Model:** *"I'll look into the matter and get back to you. If we have to put off the meeting, I'll let you know. I can also help out with the report."*
+⚠️ **revert** = "reply" is standard Indian English and widely understood; internationally use **get back to you** *(elsewhere* revert *means "go back to a previous state")*.
+
+**Q2 — fix the pronoun position**
+1. → ✅ *"Please turn it off."* 2. → ✅ *"Can you pick me up at 7?"* 3. → ✅ *"I'll sort it out tomorrow."* 4. → ✅ *"Let me look into it."* — *look into* is **inseparable**, so the pronoun stays after it
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

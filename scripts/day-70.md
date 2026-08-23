@@ -449,3 +449,20 @@ Tomorrow, Day 71 — **connected speech.** 🔗
 *(Sincere.)* And I promise you this: the goal is **never** to fake an accent. It's to stop **pausing between every word** — which is the single thing that makes fluent English sound fluent. ✅
 
 **Sounds are the clothes. Stress is the body. 🦴 Tap the loud syllable. 👋** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — mark the stress**
+1. ✅ **pho-TOG-ra-phy** 2. ✅ **op-por-TU-ni-ty** 3. ✅ **in-for-MA-tion** 4. ✅ **ho-TEL** — also *HO-tel* *(common American/attributive)* 5. ✅ **NEC-es-sar-y**
+
+**Q2 — the noun/verb switch**
+1. ✅ *"I'd like to buy a **RE**-cord."* *(noun → stress 1)*
+2. ✅ *"Let me re-**CORD** this."* *(verb → stress 2)*
+**What a good answer looks like:** reads both aloud, taps the stressed syllable, lets the other go lazy ("uh"). Same pattern for *PRE-sent / pre-SENT*.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

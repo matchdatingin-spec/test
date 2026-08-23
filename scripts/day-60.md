@@ -423,3 +423,24 @@ These tiny tails at the end of sentences are **everywhere** in natural English �
 I'll show you the pattern, and give you a **safe shortcut** for when the proper tag feels too hard.
 
 **Their "now" is your "then." Everything steps back one place.** ⏮️ See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — report these**
+1. ✅ *"He said he was busy today."* Also *"He said he's busy today"* — ⚠️ backshift is **optional** here because it's still today and still true
+2. ✅ *"She asked me where I was going."* Also *…where I am going* if the journey continues. **No question inversion** after *asked*
+3. ✅ *"He asked me to send the report."* Also *He told me to send…*
+
+**Q2 — fix these five**
+1. → ✅ *"He told me he would come tomorrow."* Also *…he will come tomorrow* while tomorrow is still future
+2. → ✅ *"She asked me where I was going."*
+3. → ✅ *"He told me he was busy."* / *"He said he was busy."* *(*said* takes no person;* told *needs one)*
+4. → ✅ *"She asked me whether I was coming."*
+5. → ✅ *"He suggested going early."* Also *He suggested that we go early.*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

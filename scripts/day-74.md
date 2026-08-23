@@ -392,3 +392,20 @@ Tomorrow, Day 75 — **stop saying "good" and "bad."** ✅
 *(Warm.)* **30 better words** — and more importantly, the **precision** to say what you actually mean. Because *"good"* can mean kind, skilled, useful, tasty, or enjoyable — and English has a different word for each. ⭐
 
 **One precise word beats two vague words. 💪 And match the word to the reality.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — rewrite with no "very"**
+**What a good answer looks like:** zero uses of *very* · each weak adjective replaced by **one** strong word · no double-intensifying *(❌ very exhausted)* · words fit spoken register.
+✅ **Model:** *"Yesterday was scorching. I was exhausted after work and starving. The food was delicious, but the service was appalling. My friend was furious about the delay."*
+**Also accept:** boiling, drained, ravenous, dreadful, livid.
+
+**Q2 — translate three**
+1. ✅ *"I'm exhausted."* 2. ✅ *"It's scorching today."* 3. ✅ *"That biriyani was delicious."*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

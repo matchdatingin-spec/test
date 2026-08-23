@@ -395,3 +395,20 @@ Days 46 to 65 rebuild your grammar **properly** — all twelve tenses, condition
 And we start tomorrow with something ambitious: **all 12 tenses, explained through one single story.** One story. Twelve tenses. It'll click in a way tense tables never did.
 
 **Consistency beats intensity. 60% output. Never miss two days in a row.** 💪 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — record your 2-minute baseline**
+**What a good answer looks like:** the recording exists and is labelled *"Day 1"* · it's on the set topic · they did **not** listen back or re-record to improve it.
+Praise anyone who admits it was rough — that's the point of a baseline.
+
+**Q2 — the public commitment**
+**What a good answer looks like:** a specific start date · a 20-minute slot with a **clock time**, not "morning" or "when I'm free" · ideally anchored to an existing habit.
+⚠️ Gently push back on *"I'll do it whenever I get time"* — that's the exact decision the fixed slot removes.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

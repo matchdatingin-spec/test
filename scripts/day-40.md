@@ -354,3 +354,19 @@ Tomorrow, Day 41 — **normal English vs natural English.** ⬆️
 We touched on this on Day 34. Tomorrow we go **deeper** — **30 more phrases** that separate someone who "learned English" from someone who "speaks English." Small changes, big shift in how people hear you.
 
 **Setting. Problem. Action. Result. Key point.** ⚡ **And put the problem in the first two sentences.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — five S-P-A-R-K blocks**
+**What a good answer looks like:** all five letters labelled · the **P** appears early and is concrete · **A** uses *I* verbs — what **you** did, not the team.
+
+**Q2 — which block is missing?**
+✅ **K — the Key point.** The story stops at the result with no lesson. Add e.g. *"Since then I back up my work every evening."*
+**Also accept:** "the lesson / the takeaway / what you learned". ⚠️ If they answer **P**, give half credit — the problem *is* there, just thin.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

@@ -270,3 +270,26 @@ Number 1 is the interesting one — and it's a **trick question**. ⭐ *Divided 
 Tomorrow, Day 26 — **unless vs until.** These two look like cousins, but one is about **conditions** and the other about **time**. And there's one sentence Malayalis say wrong so often that it completely reverses the meaning. This one really matters — don't miss it.
 
 **Linking, comparing, choosing? → between 📍↔️📍. Inside a group? → among ☁️.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — ഈ കാര്യം നമ്മൾക്കിടയിൽ മാത്രം… ക്ലാസ്സിനിടയിൽ…**
+
+✅ **Model:** *"This must stay between us — don't tell anyone during the class."*
+**Also accept:** *Keep this between the two of us; don't tell anybody during class.* The second ഇടയിൽ is **during**, never *between*. ❌ *don't tell nobody*.
+
+**Q2 — between or among**
+1. *divided ___ the four brothers* → ✅ **among** *(spreading through a group)* · ✅ **between** is also correct if you stress each brother's individual share. **Mark the reasoning.**
+2. *standing ___ the crowd* → ✅ **among** *(also "in the crowd")*
+3. *the difference ___ "some" and "any"* → ✅ **between** — still *between* even with ten items
+4. *common ___ teenagers* → ✅ **among** *(also "with")*
+5. *free ___ 4 and 6* → ✅ **between** *(two endpoints)*
+
+**Key line:** number doesn't decide it — the **relationship** does.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

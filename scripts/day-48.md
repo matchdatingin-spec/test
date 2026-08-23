@@ -367,3 +367,23 @@ Both talk about the future. Both are correct. But there's a genuine difference �
 Plus, I'll bring back yesterday's surprise: **"I'm going tomorrow"** — the present continuous future. Three future forms, one clear map. Don't miss it.
 
 **Date mentioned? → simple past. Always.** ⬅️ See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — same verb, two tenses**
+1. → ✅ *"I went to Dubai in 2019."*
+2. → ✅ *"I have been to Dubai."* ⚠️ *I have gone to Dubai* = I'm there now — different meaning
+
+**Q2 — fix these five**
+1. → ✅ *"I joined this company in 2021."* *(finished date → simple past)*
+2. → ✅ *"Have you ever eaten Chinese food?"* Also *Did you ever eat…* ✅ *(AmE)*
+3. → ✅ *"I have been working here for three years."*
+4. → ✅ *"He called me yesterday."*
+5. ⚠️ **Already grammatical — do not mark wrong.** *"I didn't finish it yet"* is standard **American** English. ✅ Safer internationally: *"I haven't finished it yet."*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

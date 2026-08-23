@@ -301,3 +301,27 @@ And the bonus brain-teaser: what's the difference between **"I have a little hop
 Tomorrow, Day 22 — **some vs any.** Textbooks make this complicated with three rules. There's really only **one** rule, and I'll show you when *any* means "it doesn't matter which" — the meaning nobody teaches.
 
 **Countable → many, a few. Uncountable → much, a little. Unsure → a lot of!** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — എനിക്ക് ഇന്ന് ഒരുപാട് ജോലിയുണ്ട്, അതുകൊണ്ട് അധികം സമയമില്ല.**
+
+✅ **Model:** *"I have a lot of work today, so I don't have much time."*
+**Also accept:** *I've got lots of work today…* ⚠️ *I have much work* is grammatical but bookish — *much* prefers negatives and questions. ❌ *many works*.
+
+**Q2**
+1. *How ___ people?* → ✅ **many**
+2. *I don't have ___ money.* → ✅ **much** *(also a lot of)*
+3. *Add just ___ salt.* → ✅ **a little**
+4. *There was ___ traffic.* → ✅ **a lot of** · ⚠️ *much traffic* is grammatical but unnatural in a positive sentence; *heavy traffic* ✅
+5. *___ friends — maybe three or four.* → ✅ **a few**
+6. *some good ___* → ✅ **advice** — ❌ *advices*
+
+**Bonus:** *a little hope* = some 🙂 · *little hope* = almost none 🙁
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

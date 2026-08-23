@@ -331,3 +331,19 @@ Everyone says *"stop translating in your head, think in English!"* — but **nob
 Tomorrow I give you the actual method. Small, practical steps that move your brain from Malayalam-first to English-first. This is the video that separates people who *know* English from people who *speak* it.
 
 **Don't say more words. Say more BLOCKS. P–E–R–F–O.** 🧱 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — your five P-E-R-F-O blocks**
+**What a good answer looks like:** all five letters present and labelled · **E** contains one *specific* detail (a name, place, number) · **F** names an actual emotion, not a repeat of **P**.
+Example: *P: My uncle influenced me most. E: He ran a tailoring shop in Thrissur and opened at six every morning. R: He showed me discipline beats talent. F: I feel grateful, and a little guilty for not saying so. O: Most of us are shaped by ordinary people, not famous ones.*
+
+**Q2 — record 2 minutes**
+**What a good answer looks like:** states the topic · reports an honest duration *(40 seconds counts)* · names which block ran dry.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

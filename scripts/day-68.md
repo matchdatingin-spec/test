@@ -392,3 +392,19 @@ Another sound that **doesn't exist** in Malayalam — so we substitute **ത** *
 *(Confident.)* Tomorrow's fix is genuinely easier than today's. See you there.
 
 **/v/ = teeth bite lip 🦷. /w/ = lips round, start with "oo" 👄.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — the voice-typing test**
+**What a good answer looks like:** all five spoken separately — **very · water · vest · west · wave** · a score out of 5 plus which word was misheard · links the error to position: /v/ = teeth on lower lip, /w/ = rounded lips starting from "oo".
+**Also accept:** 0/5 — that's useful data, not failure.
+
+**Q2 — the tongue twister**
+*"Very wet weather in the western village."* — three recordings, slowly first. **very** and **village** keep the teeth-to-lip contact; **wet · weather · western** stay lip-rounded.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

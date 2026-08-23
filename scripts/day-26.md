@@ -298,3 +298,23 @@ Number 1 is today's champion mistake — it's the one I hear most often, and fix
 Tomorrow, Day 27 — **have been, has been, had been.** Three forms that confuse everyone. But there's a simple **timeline method** that makes it visual and obvious. Draw one line, and all three snap into place. This is a big one — see you there!
 
 **Until = time ⏰. Unless = if not ❓. And after unless, stay positive!** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — നീ നന്നായി പഠിച്ചില്ലെങ്കിൽ… exam തീരുന്നത് വരെ…**
+
+✅ **Model:** *"Unless you study well, you won't pass, so don't touch your phone until the exam is over."*
+**Also accept:** *If you don't study properly, you won't pass…* ✅ *(equally correct)* *until* takes the **present** — ❌ *until the exam will be over*.
+
+**Q2 — fix these four**
+1. *"Unless you don't call me, I won't come."* → ✅ *"Unless you call me, I won't come."* / *"If you don't call me, I won't come."*
+2. *"I will wait until you will come."* → ✅ *"I will wait until you come."*
+3. *"Please submit the form until Monday."* → ✅ *"…by Monday."* *until* = continuously up to; *by* = at or before a deadline.
+4. *"Everyone attended unless Meera."* → ✅ *"…except Meera."* *(also except for / apart from)*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

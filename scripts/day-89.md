@@ -469,3 +469,23 @@ Tomorrow, Day 90 — **OET Writing.** 🏥
 *(Firmly.)* And it has a trap that fails many strong candidates: **selecting** the right information. Most people include too much — and lose marks for exactly that. ⚠️
 
 **Select, don't list. Overview always. No opinion ever.** 📊 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — the overview only (2 sentences, no numbers)**
+**What a good answer looks like:** begins *"Overall,"* · names the biggest movement *(rise to 2019, sharp fall in 2020)* · names the highest performer and the fastest grower · **no data points and no reasons**.
+Example: *"Overall, tourist numbers in all three states rose steadily until 2019 before falling sharply in the final year. Rajasthan remained the most visited state throughout, although Kerala grew the fastest."*
+
+**Q2 — fix the five sentences**
+1. ✅ *"The graph shows the number of tourists."* *(delete* about*; plural* tourists*)*
+2. ✅ *"Tourism increased **by** 20% in 2015."* ⚠️ *"In the year 2015"* is **already grammatical** — only wordy
+3. ⚠️ **Already grammatical.** The Task 1 issue is the outside **reason**: ✅ *"The figure fell sharply in 2020."*
+4. ✅ *"**The** number of visitors **was** highest in Rajasthan."* ⚠️ *"It was highest in Rajasthan"* is fine
+5. ✅ *"Between 2010 and 2020, the figures rose."* Also *"…there was an upward trend."*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

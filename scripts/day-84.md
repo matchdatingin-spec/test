@@ -474,3 +474,20 @@ Tomorrow, Day 85 — **professional WhatsApp English.** 📱
 *(Warm.)* Tomorrow: how to send work messages that look competent, when a voice note is better than typing, and the "good morning image" question. 😄
 
 **Dates · Reason · Cover · Reachable. And present a plan, not a request.** 📅 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — rewrite Meera's leave email using D-R-C-R, under 60 words**
+✅ **Model:** *"Subject: Leave request — Friday 14 March (1 day). Hi Rakesh, I'd like to take one day's leave on Friday 14 March for a family commitment. My pending work is up to date and Priya can cover client queries. I'll be reachable on WhatsApp for anything urgent. Could you confirm? Thanks, Meera."*
+**Also accept** any version with all four elements — **D**ates, **R**eason, **C**over, **R**eachable — and the apology chain deleted.
+⚠️ **Already grammatical — do not mark wrong:** *"I want to take leave on Friday"* · *"Please adjust my work"* · *"I will join on Monday"* · *"Leave letter"*. These are **register choices, not errors**.
+
+**Q2 — a real leave request you need this month**
+**What a good answer looks like:** exact dates and day count in the subject · reason in one clause · a **named** person covering · a contact method · a clear confirmation ask.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

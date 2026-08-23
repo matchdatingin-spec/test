@@ -432,3 +432,21 @@ Tomorrow's video is completely different. **No teaching.** Instead, we do **shad
 Bring your voice tomorrow. Find a room where you can talk out loud.
 
 **They're not fast. They're squeezed. Reduce. Link. Delete.** 🗜️🔗🕳️ See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — write the full written form**
+1. *"Whatcha doin' tonight?"* → ✅ *"What are you doing tonight?"*
+2. *"I gotta go, lemme call ya later."* → ✅ *"I have got to go — let me call you later."* Also *I've got to go* · *I have to go*
+3. *"Didja finish it?"* → ✅ *"Did you finish it?"* Also *Have you finished it?* — note the *"or not"* tail is the Day 41 trap; standard English drops it
+4. *"I dunno, prolly gonna stay home."* → ✅ *"I don't know — I'm probably going to stay home."*
+
+**Q2 — one reduction you discovered**
+**What a good answer looks like:** quotes what they *heard* and what it actually was · it's a real reduction/linking, not a new vocabulary word.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

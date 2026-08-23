@@ -423,3 +423,25 @@ Some verbs demand **-ing**. Some demand **to**. Some accept both — and with a 
 There's a pattern, and I'll show you how to feel it rather than memorise it.
 
 **Objects with edges → count them 📦. Substances → measure them ☁️.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — translate**
+1. → ✅ *"I need some advice."* Also *a piece of advice*
+2. → ✅ *"I have some good news."*
+3. → ✅ *"I have a lot of work today."* ⚠️ *today itself* is Indian English for emphasis; internationally *today, actually*
+
+**Q2 — fix these six**
+1. → ✅ *"Can you give me some advice?"*
+2. → ✅ *"I need some information."*
+3. → ✅ *"We bought new furniture."* Also *some new furniture*
+4. → ✅ *"He has three years of experience."* *(*experiences* = separate events)*
+5. → ✅ *"The traffic was very bad today."*
+6. ⚠️ *"20 staffs"* is common Indian English → ✅ *"20 staff"* / *"20 staff members"* / *"20 employees."*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

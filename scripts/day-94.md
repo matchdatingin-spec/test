@@ -386,3 +386,21 @@ Tomorrow, Day 95 — **beat the teacher.** 🥊
 *(Explain.)* Because part of learning is seeing that even a teacher pauses — and that "correct English" is often a **choice**, not a single answer. ✅
 
 **Your level is where you are today. And go where it's uncomfortable.** 📊 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — post your four scores**
+**What a good answer looks like:** all four numbers plus the total out of 40 · scored from the video's tasks, not self-estimated mood · **a gap between skills is expected** — an all-equal profile usually means speaking wasn't tested honestly.
+Example: *"S: 4 · W: 7 · L: 5 · G: 8 · Total: 24/40."*
+
+**Q2 — your goal and the one skill you'll work on**
+**What a good answer looks like:** a concrete goal from the table · **exactly one** focus skill, and it is their **lowest** score, not their favourite · a named starting point with a day number.
+Example: *"Goal: Gulf nursing job. Focus: listening — starting Day 43's 30-second practice."*
+**Presenter note:** if someone with G:8 and S:3 picks grammar, gently redirect — go where it's uncomfortable.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*
