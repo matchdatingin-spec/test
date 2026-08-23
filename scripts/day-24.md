@@ -290,3 +290,23 @@ Number 4 is my favourite — the answer uses **"else"**, and once you start usin
 Tomorrow, Day 25 — **between vs among.** You probably learned "between = 2, among = 3 or more." That rule is **not quite right**, and I'll show you the situations where *between* works perfectly with five, ten, or a hundred things. Interesting one!
 
 **Another = one more (singular). Other + noun. Others = alone.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — എനിക്ക് വേറെ ഒരു ചായ വേണം, വേറെ എന്തെങ്കിലും ഉണ്ടോ?**
+
+✅ **Model:** *"I'd like another tea. Is there anything else?"*
+**Also accept:** *One more tea — do you have anything else?* ⚠️ *another tea* is fine in a café; *another cup of tea* ✅ is the careful version.
+
+**Q2 — fix these four**
+1. *"Show me the another shirt."* → ✅ *"Show me the other shirt."* *Another* already contains *an*, so it can never follow *the*.
+2. *"Others people are waiting."* → ✅ *"Other people are waiting."* *(a noun follows → drop the* -s*)*
+3. *"…other like science."* → ✅ *"…others like science."* / *"…other students like science."*
+4. *"Do you want other something?"* → ✅ *"Do you want anything else?"* **else** goes **after** the *some/any* word.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

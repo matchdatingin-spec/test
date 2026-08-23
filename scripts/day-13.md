@@ -283,3 +283,23 @@ Three wrong directions and one register fix. Sort all four and comment "4/4" —
 Tomorrow, Day 14 — **"Me too," "So do I," "Neither do I."** How do you agree with someone in English without sounding like a robot? This is the lesson that makes small talk easy. If someone says *"I don't like coffee"* and you agree — do you say "me too" or "me neither"? Tomorrow you'll know.
 
 **Borrow = from. Lend = to.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — ഞാൻ അവന് 1000 രൂപ കടം കൊടുത്തു, പക്ഷേ അവൻ ഇതുവരെ തിരിച്ചു തന്നിട്ടില്ല.**
+
+✅ **Model:** *"I lent him ₹1,000, but he hasn't paid it back yet."*
+**Also accept:** *…hasn't returned it yet.* · *…still hasn't given it back.* ⚠️ *returned it back* — *return* already contains *back*; drop one.
+
+**Q2 — three wrong, one register fix**
+1. *"Can you borrow me ₹100?"* → ✅ *"Can I borrow ₹100?"* / *"Could you lend me ₹100?"*
+2. *"I borrowed him my umbrella."* → ✅ *"I lent him my umbrella."*
+3. *"He lent money from the bank."* → ✅ *"He borrowed money from the bank."* / *"He took out a loan."*
+4. *"Give me your notes for one day."* → ⚠️ **Already grammatical — do not mark wrong.** A correct if blunt request; *give* just doesn't **state** you'll return them. ✅ *"Could you lend me your notes for a day?"*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

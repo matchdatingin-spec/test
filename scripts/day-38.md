@@ -338,3 +338,20 @@ Tomorrow, Day 39 — **building long sentences without getting confused.** 🧱
 Today we practised going **small** to escape a freeze. Tomorrow we go the **other** direction — how to safely build longer sentences when you're **calm** and want to sound more advanced. Two different tools for two different moments.
 
 **Breathe. Buy time. Build small.** 😌 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — two emergency phrases, said aloud ten times**
+**What a good answer looks like:** two phrases quoted from today's list · both are **time-buyers**, not answers · they confirm saying them out loud.
+
+**Q2 — "Why do you want to improve your English?" in four short sentences**
+**What a good answer looks like:** exactly four sentences · none longer than eight words *(count them)* · full sentences with a verb.
+Example: *"I work with clients every day. My English stops me in meetings. I want a better job. Also, I want to feel confident."*
+⚠️ Short and plain is the target — a long elegant sentence here is a **miss**, not a bonus.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

@@ -8,7 +8,9 @@
 
 ---
 
-## ⚠️ CREATOR INPUT REQUIRED
+## 🛑 DO NOT FILM YET — CREATOR INPUT REQUIRED
+
+**Days 99 and 100 are the only two scripts in the course that are not ready to record.** Everything else (Days 01–98) is filmable. Come back to these two once the business decisions below are made. ⛔
 
 This video is **commercial infrastructure**, not teaching content. It works as a funnel to Day 100's course, so several things depend on decisions only you can make. **Placeholders are marked `[LIKE THIS]`.**
 
@@ -337,3 +339,26 @@ Tomorrow is **Day 100.** 🎉
 *(Warm, final.)*
 
 See you tomorrow — for the last one. 💙 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments.)*
+
+**This is a live Q&A, so there is no graded homework. Three things learners are asked to do:**
+
+**1. Ask a question in the chat**
+**What a good answer looks like:** one specific question, not *"how to improve English?"* · ideally tied to their own situation *(a job, an exam, a meeting)*.
+**Guidance:** the nine questions already scripted in Section 3 cover the most common ones — reuse those answers rather than improvising.
+
+**2. Comment your profile number (1–4)**
+✅ Any number, plus your reply naming their starting day. **Also accept** *"between 2 and 3"* — pick the lower one for them; it's safer to start easier.
+
+**3. Record your baseline tonight**
+**What a good answer looks like:** two minutes on *"tell me about yourself"* · recorded **before** they sleep, not "tomorrow" · labelled **Day 1** · deliberately not listened back to.
+✅ **Model comment:** *"Profile 2. Baseline recorded ✅"*
+**Guidance:** this is the highest-value thing in the video — chase it in the chat more than the link clicks.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

@@ -432,3 +432,21 @@ Tomorrow, Day 89 — **IELTS Writing Task 1.** 📊
 *(Warm.)* Tomorrow: the four-paragraph formula that works for **any** chart type, the vocabulary for describing change, and the mistake that does the most damage to a Task 1 score — **including your own opinion**, which Task 1 doesn't ask for. ⚠️
 
 **One paragraph, one clear idea, stated first. Organisation is a quarter of your mark — and it lifts Task Response too.** 🎓 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — write Body Paragraph 1 only**
+**What a good answer looks like:** sentence one states **one** idea · the explanation extends it *(why, not just what)* · a specific, plausible example · a link back to the position · 5–6 sentences, one paragraph.
+Example: *"The strongest case for public transport is that it moves far more people per rupee spent. A single metro line can carry the passengers of several highway lanes, whereas new roads tend to fill with cars within a few years. In Kochi, metro expansion has eased peak-hour congestion on parallel routes. For this reason, transit delivers more relief per rupee than road building."*
+⚠️ Don't promise a band — say the criteria reward **one clear idea stated first** and visible progression.
+
+**Q2 — paraphrase the question opening**
+✅ **Model:** *"It is sometimes argued that young children ought to begin studying a second language while still at primary level."*
+**Also accept** any version changing at least three elements. Reject only word-for-word copying, or a change that alters the meaning.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

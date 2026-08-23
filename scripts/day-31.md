@@ -409,3 +409,19 @@ Today you handled short sentences. But what happens with a **long** Malayalam se
 Tomorrow I give you a **step-by-step formula** for breaking any long Malayalam sentence into English, no matter how complicated. This is the single most practical video of the whole series. Don't miss it.
 
 **Verb first. Then person. Then details.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — translate two sentences unaided**
+1. …ബാങ്കിൽ പോകണം → ✅ *"I have to go to the bank today, but I don't have time."* Also *I need to go…there's no time.* ❌ *I must go bank today* *(missing* the*;* must *too strong)*
+2. …രാവിലെ മുതൽ വിളിക്കുന്നു → ✅ *"She has been calling me since this morning."* Also *She's been calling me all morning.* ⚠️ *since morning* is very common Indian English and perfectly clear — accept it, then offer *since this morning*.
+
+**Q2 — which mistake group were you in?**
+**What a good answer looks like:** names a group number · quotes one of their own wrong answers as evidence · states the day to rewatch. Example: *"Group 3 — I wrote 'I am working here since 2020'. Rewatching Day 19."*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

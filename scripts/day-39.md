@@ -367,3 +367,19 @@ Here's something you may not realise: **storytelling is the single most useful E
 Tomorrow I give you a **5-step story structure** that works for any story — from "what happened at work today" to "the most memorable day of my life."
 
 **Build short, then grow. 🌱 And stop at 15 words.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — grow "I bought a phone" in four layers**
+**What a good answer looks like:** four visible steps · each layer adds a *different kind* of detail (which one / when / where / why) · the final sentence is still one clean sentence.
+
+**Q2 — fix the chain**
+⚠️ **Already grammatical — do not mark wrong.** Nothing breaks a rule; it's five clauses glued with *and*. We're upgrading style.
+✅ **Model:** *"I woke up late and missed the bus, so I took an auto. I still got to the office at 10, and my manager was angry."*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

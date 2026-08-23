@@ -483,3 +483,20 @@ Tomorrow, Day 47 — we go deep on the **first** pair: **simple present vs prese
 *"I work"* vs *"I am working."* It seems simple — but Malayalis get this wrong constantly, because **ചെയ്യുന്നു** doesn't distinguish them. And there's a fascinating case where the **present continuous talks about the future**. Don't miss it.
 
 **-ing = happening 🔄. have = connecting 🔗. Two words, twelve tenses.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — six-sentence story, six tenses, each labelled**
+✅ **Model:** *"I wake up at six every day. (simple present) · Today I was sleeping when the alarm rang. (past continuous) · I have already had my tea. (present perfect) · I am writing this now. (present continuous) · I had finished breakfast before my sister woke up. (past perfect) · By eight I will have got to the office. (future perfect)"*
+**Also accept:** any six distinct tenses correctly labelled; simple past + future simple instead of the perfects.
+
+**Q2 — identify the tense**
+1. ✅ **present perfect continuous** 2. ✅ **past perfect** 3. ✅ **future perfect** 4. ✅ **simple present** 5. ✅ **past continuous + simple past**
+**Also accept:** "progressive" for "continuous" — the *have*/*-ing* reasoning matters more than the label.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

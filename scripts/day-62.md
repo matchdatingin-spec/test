@@ -412,3 +412,24 @@ These three phrases are **everywhere** in workplace English, and Malayalis rarel
 They're genuinely useful for talking about **rules, plans, and expectations** — and for gently saying *"that's not my job."* 😄
 
 **make · let · have → no "to." get → "to." And -ഇച്ചു → got + V3.** 🔧 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — translate three**
+1. ✅ *"I got my bike serviced yesterday."* Also *I had my bike serviced…*
+2. ✅ *"My manager made me redo the report."*
+3. ✅ *"He made me wait for an hour."* Also *He kept me waiting…*
+
+**Q2 — fix these five**
+1. *"He made me to wait."* → ✅ *"He made me wait."* *(*make* + bare verb)*
+2. ⚠️ *"I cut my hair at the salon."* — **Already grammatical — do not mark wrong.** It literally means **you** did the cutting. Intended: ✅ *"I got my hair cut at the salon."*
+3. → ✅ *"She let me use her laptop."*
+4. → ✅ *"I had my bike repaired yesterday."*
+5. → ✅ *"Can you get him to sign this?"* Also *have him sign this*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

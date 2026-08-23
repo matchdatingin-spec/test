@@ -277,3 +277,23 @@ Number 3 is three letters away from being correct. Find the missing three letter
 Tomorrow, Day 17 — **should have, could have, would have.** The "regret" trio. **ഞാൻ അത് ചെയ്യേണ്ടിയിരുന്നു** — how do you say that in English? These three patterns let you talk about the past you wish had been different. Very powerful, and very easy once you see the shape.
 
 **No "am" → past habit. With "am" → comfortable.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — habit vs comfort**
+1. …കളിച്ചിരുന്നു → ✅ *"I used to play cricket every day when I was young."* Also *I played cricket every day as a kid* ✅ *(simple past is fine)*
+2. …ശീലമായി → ✅ *"I'm used to getting up early now."* Also *I've got/gotten used to waking up early*
+
+**Q2 — fix these three**
+1. *"I am used to smoke, but I stopped."* → ✅ *"I used to smoke, but I stopped."* *(drop* am*)*
+2. *"I used to going to the gym daily."* *(= I go now)* → ✅ *"I'm used to going to the gym daily."*
+3. *"He is used to work late."* → ✅ *"He is used to working late."* The three missing letters are **-ing**.
+
+**Memory line:** no *am* → past habit. With *am* → comfortable, and always **-ing** after it.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

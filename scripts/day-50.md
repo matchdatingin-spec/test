@@ -360,3 +360,23 @@ Tomorrow, Day 51 — **conditionals.** *"If I was"* or *"If I were"*? 🤔
 All those "if" sentences that confused you in school — **zero conditional, first, second, third** — we'll make them one simple ladder. And you'll finally understand why English uses a **past** tense to talk about an **imaginary present**.
 
 **Had = before a past moment you've already set up. No past reference point? No had.** ⏮️ See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — watch the endings**
+1. → ✅ *"I went to the market yesterday."*
+2. → ✅ *"When I got there, he had already left."* Also *By the time I arrived, he had gone.* ⚠️ *"when I reached"* with no object is common Indian English — offer *got there / arrived*, don't mark wrong
+
+**Q2 — does it need *had*?**
+1. ✅ *went* — **no** *(one past event)*
+2. ✅ *had already left* — **yes** · also *left* in casual speech; *when* makes the order clear
+3. ✅ *had* breakfast — **no** *(sequence already in order)*
+4. ✅ *had missed* — **yes** · also *missed* is very natural
+5. ✅ *joined* — **no** *(a plain dated fact)*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

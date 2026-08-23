@@ -420,3 +420,21 @@ Tomorrow, Day 70 — **word stress.** 📍
 *(Warm.)* Tomorrow: how to find the stress, the patterns that predict it, and why Malayalam's beautiful even rhythm is the thing to relax.
 
 **Tongue forward 👅. Let the air flow 💨. And master just: the, this, that, they.** ⭐ See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — the mirror test**
+**What a good answer looks like:** **think · this · three** said at a mirror · honest yes/no on seeing the tongue tip · if "no", reports pushing the tongue forward and letting air escape rather than a hard **ത**.
+
+**Q2 — the dictation pairs**
+1. **thin** /θ/ vs **tin** /t/ → ✅ air flows continuously for *thin*
+2. **three** vs **tree** → ✅ *three* has no stop-burst before the /r/
+3. **they** /ð/ vs **day** /d/ → ✅ *they* is voiced with airflow, tongue forward
+**Also accept** any score 0–3; 3/3 means move on to *the · this · that* in full sentences.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

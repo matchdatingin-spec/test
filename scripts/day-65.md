@@ -365,3 +365,19 @@ Because tomorrow, Day 66 — **we change direction completely.** 🔊
 *(Sincere.)* And I'll say this now, before we start: the goal is **never** to sound American or British. The goal is to be **clearly understood** by anyone in the world, while still sounding like yourself. ✅
 
 **The score is a map, not a verdict.** 🗺️ See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**This is the assessment — every quiz question already has its answer inline (`→ ✅`). This key covers only the closing four-line comment.**
+
+**What a good answer looks like:** three separate scores as **__/10** for Levels 1, 2 and 3 — not one total out of 30 · line 4 names **exactly one** day to rewatch · the day plausibly matches the weakest level.
+✅ **Model:** *"L1: 9, L2: 5, L3: 3. Rewatching Day 27 this week."*
+**Also accept:** any honest scores, including low ones — no score is "wrong."
+**Guidance:** if a learner lists five days, pick one for them. If L1 is below 7, send them back to Days 01–30 before the grammar block.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

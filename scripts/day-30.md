@@ -347,3 +347,24 @@ And then Day 32 gives you my **formula** for translating even long, complicated 
 Thirty days done. Seventy to go. And you're not the same speaker you were on Day 01.
 
 **Comment your score. See you tomorrow!** 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**This is the review quiz — every question already has its answer inline (`→ ✅`). This key covers only the three closing comment lines.**
+
+**Line 1 — your score out of 20**
+✅ Any honest number. Accept *"16/20 + 3 bonus"* or *"19/25"* — the bonus round adds five marks, so learners who counted them are **right**, not confused.
+
+**Line 2 — hardest question**
+✅ *"Q19 was hardest for me."* Also *"I found Q19 the most difficult."* ⚠️ *the most hardest* → *the hardest*.
+
+**Line 3 — one sentence on the next 30 days**
+✅ *"I will speak English out loud for ten minutes every day."* Also *I'm going to practise speaking daily.*
+⚠️ Accept warmly, then offer the international version: *I will revert daily* → *I'll report back daily* · *I will try my level best* → *I'll try my best* · *I will start from today itself* → *starting today*. These are **regional, not errors**.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

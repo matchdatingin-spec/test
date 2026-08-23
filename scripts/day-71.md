@@ -391,3 +391,21 @@ Tomorrow, Day 72 — **silent letters.** 🤫
 *(Warm.)* Including some genuinely surprising ones. When did you last say the *t* in **"listen"**? 🤔
 
 **Chunking is essential 🔗. Reductions are optional. And slow-and-connected beats fast-and-choppy.** ✅ See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — mark the chunks**
+1. ✅ *"I have been working in this company / for two years."*
+2. ✅ *"Could you please send me the report / by tomorrow?"*
+3. ✅ *"I am not sure / but I think the meeting is at three."*
+**Also accept** one extra break at a natural grammar boundary. ❌ Don't accept breaks **inside** a phrase (*"in this / company"*).
+
+**Q2 — the pause count**
+**What a good answer looks like:** sentence 1 recorded and played back with a **number** reported · target 1–2 pauses at the chunk boundary, not a gap after every word · notes that slowing down *inside* a chunk is fine — the fix is fewer gaps, not more speed.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

@@ -401,3 +401,20 @@ Tomorrow, Day 99 — **a live masterclass.** 🎤
 *(Warm.)* Ninety-eight days of me talking. Tomorrow, you talk. 😊
 
 **Twenty minutes. Sixty percent output. Never miss two days in a row.** 🗺️ See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — record your two-minute baseline**
+**What a good answer looks like:** recorded **before** closing the video, not "later tonight" · the full two minutes attempted, hesitations and all — no script, no retakes · saved and labelled "Day 1" · deliberately **not** listened to.
+**Presenter note:** if someone says they re-recorded it four times, ask them to keep the **first** take — that's the comparison point later.
+
+**Q2 — commit publicly: start date, slot, track**
+**What a good answer looks like:** a start date of today or tomorrow, not "next month" · a 20-minute slot pinned to an existing daily anchor, given as a **clock time** not "evening" · **one** track only.
+Example: *"Starting today. Slot: 9:00–9:20 pm after dinner. Track A — job interviews."*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

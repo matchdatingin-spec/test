@@ -384,3 +384,20 @@ Here's something interesting: Malayalis are much better at **answering** than **
 Tomorrow I give you **5 question patterns** that let you ask **anything** in English. Once you have these five, no conversation can go silent on you again.
 
 **One strong word beats "very + weak word." And wrap your disagreement in soft paper.** 🎁 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — upgrade these three**
+1. *"I am very much tired…"* → ❌ *very much* + adjective is ungrammatical. ✅ *"I'm exhausted, but it was a great day."* *(plain* very tired *is fine, just weaker)*
+2. *"I don't agree with your idea. It is not correct."* → ⚠️ **Already grammatical — do not mark wrong.** Correct English that simply lands too hard. ✅ *"I see your point, but I'm not sure that's quite right."*
+3. *"Kindly do the needful and revert back to me."* → ⚠️ Standard Indian business English; *revert back* is redundant even there. ✅ *"Could you take care of this and get back to me?"*
+
+**Q2 — two polite refusals**
+**What a good answer looks like:** two distinct versions · each softens before refusing · at least one gives a reason or good wishes.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

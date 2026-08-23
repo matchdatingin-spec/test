@@ -369,3 +369,20 @@ Tomorrow, Day 98 — **the roadmap.** 🗺️
 *(Warm.)* Because the honest answer to "what actually works" is **twenty minutes a day** — and tomorrow I'll show you exactly what those twenty minutes should contain, for the next three months. 💪
 
 **You didn't fail at speaking. You never practised speaking.** 💙 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — minutes spent speaking English aloud in the last 24 hours**
+**What a good answer looks like:** a single honest number — **zero is a valid and common answer** · counts only speech produced **out loud**, not reading, watching or typing · bonus if they say where those minutes happened.
+**Presenter note:** never treat a low number as failure — it's the diagnosis, not the verdict.
+
+**Q2 — pick your rung on the fear ladder**
+**What a good answer looks like:** names the rung they are genuinely on now *(1 talk to yourself → 6 speak in a meeting)* · the target is **one step up**, not a jump to 6 · the next step is specific — who, what, when.
+Example: *"Currently on 2 (recording myself). This week I'll try 4 — a voice note to my friend on Sunday."*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

@@ -434,3 +434,20 @@ Tomorrow, Day 96 — **the pronunciation makeover.** 🔊
 *(Explain.)* And you'll hear the same finding one final time: their accent **doesn't** change. ✅ Their **word stress** and **chunking** do — and suddenly they're easy to understand. ⭐
 
 **Accurate · Natural · Appropriate. And choose, don't hunt.** 🥊 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — your score and hardest sentence**
+**What a good answer looks like:** an honest score out of 30 across all three tests *(accurate, natural, appropriate)* · one sentence number named · ideally a word on **why** *(idiom, word order, tense)*.
+
+**Q2 — translate എനിക്ക് ഈ ജോലി ഇഷ്ടപ്പെടുന്നില്ല three ways**
+✅ **Model:** *Casual:* *"I'm not enjoying this job at all."* · *Neutral:* *"I don't really like this job."* · *Professional:* *"This role isn't the right fit for me."*
+**Also accept:** *"I've had enough of this job"* · *"I'm not happy in this job"* · *"I'm looking for a role better aligned with my strengths."*
+Mark it right when all three carry the **same meaning at three visibly different formality levels**. ⚠️ *prepone*, *out of station* — accepted warmly; offer *bring forward*, *away/travelling*.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

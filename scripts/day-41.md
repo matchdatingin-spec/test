@@ -372,3 +372,21 @@ We've touched on politeness in many videos. Tomorrow it gets its **own** class: 
 *(Sincere.)* Saying "no" politely in English is genuinely a skill. Most of us either say a hard "no" that sounds rude, or we say "yes" to things we don't want to do. Tomorrow, we fix that.
 
 **Shorter. Warmer. Fewer extra words. And തന്നെ → "right."** ✅ See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — upgrade the message (five problems)**
+✅ **Model:** *"Hi Rajesh — could you look into this when you get a chance? I need the file by end of day today. Also, could you let me know whether the meeting is happening? Thanks!"*
+The five fixes: *Respected Sir* → **Hi/Dear + name** · *do the needful regarding the same* → **look into this** · *today itself* → **today** ⚠️ *(Indian English — clear, just redundant internationally)* · *please intimate me* → **please let me know** ⚠️ *(dated)* · *Thanking you* → **Thanks**.
+
+**Q2 — the തന്നെ test**
+1. → ✅ *"You need to come right now."*
+2. → ✅ *"Stay right there."* ❌ *Sit there itself*
+3. → ✅ *"I'll send it right away."*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

@@ -410,3 +410,25 @@ Tomorrow, Day 55 — **subject-verb agreement.** ⚖️
 **15 traps** — including several that catch even fluent speakers. Some of these will genuinely surprise you.
 
 **Own it → have 🚗. Eat it → having 🍽️. Finished it → have + V3 🔧.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — three lives of *have***
+1. → ✅ *"I have a bike and a car."* Also *I've got…* ❌ not *I am having*
+2. → ✅ *"I have finished the work."*
+3. → ✅ *"I'm having food now."* Also *I'm eating now* — here *having* is the action, so *be* is correct
+
+**Q2 — fix these six**
+1. → ✅ *"I have two sisters."*
+2. → ✅ *"He has finished the work."*
+3. → ✅ *"I have been to Delhi."* ⚠️ *have gone* = still there
+4. ⚠️ **Already grammatical — do not mark wrong.** *"Have you a pen?"* is correct, if dated/formal British. ✅ Modern: *"Do you have a pen?"*
+5. → ✅ *"Have you finished?"*
+6. ⚠️ *"She is having long hair"* is widely used Indian English → internationally ✅ *"She has long hair."*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

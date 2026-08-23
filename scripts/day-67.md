@@ -426,3 +426,19 @@ Tomorrow, Day 68 — **the V and W masterclass.** 🔊
 *(Sincere.)* This one takes real practice — but it's the single biggest clarity upgrade available to you. ✅
 
 **Hear · Slow · Speed · Sentence.** 👂🐢⚡💬 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — record all four, three times each**
+**What a good answer looks like:** three clear repetitions of **vehicle · women · Wednesday · coupon** · one word named as most unnatural with a mouth-position reason · targets *VEE-uh-kl · WIM-in · WENZ-day · KOO-pon*.
+⚠️ *KYOO-pon* for *coupon* is also standard in the US — do not mark wrong.
+
+**Q2 — singular/plural switch**
+1. ✅ *one **WUH**-mun → three **WIM**-in* *(vowel change, not the* -s*)* 2. ✅ *child → **CHIL**-drun* 3. ✅ *foot → feet* 4. ✅ *job**z*** and *ea-**z**y* — voiced /z/, not /s/
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

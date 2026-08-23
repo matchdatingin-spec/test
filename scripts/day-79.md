@@ -394,3 +394,21 @@ Tomorrow, Day 80 — **the 10 questions you must prepare.** 🎤
 *(Warm.)* Tomorrow: all ten, with model answers **and** the reasoning behind what the interviewer is actually testing with each one. ⭐
 
 **Themes, not timeline. Numbers, not adjectives. 📊 And frame the move forward.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — find your three numbers**
+**Criteria:** three concrete figures — volume, people, and one improvement with a size or timeframe · each attached to **your** work, not the company's · each usable in a spoken sentence.
+✅ **Model:** *"I handle billing for 200 clients. I train 4 new joiners a year. I cut month-end closing from five days to two."*
+❌ Don't accept adjectives instead of numbers *("I handled a lot of clients")*. ⛔ And never accept a figure the learner can't defend.
+
+**Q2 — the job-change sentence, framed forward**
+**Criteria:** appreciates the current employer · names what they're moving **towards** · states the gap neutrally, no blame.
+✅ **Model:** *"I've enjoyed my time there and learned a lot, but I want to move into client-facing project work, and that isn't available in my current role."*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

@@ -387,3 +387,25 @@ The third and final helper family. And these three do **double duty** — they'r
 **30 real-life examples**, and by the end you'll never say *"I am having a car"* again. 😄
 
 **Boss arrives → worker goes plain. Reuse if there's a helper, hire "do" if there isn't.** 🔧 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — translate**
+1. → ✅ *"Where do you work?"* Also *Where are you working?* *(current posting)*
+2. → ✅ *"He doesn't like tea."*
+3. → ✅ *"Didn't you call me yesterday?"*
+
+**Q2 — fix these six**
+1. → ✅ *"Where are you going?"*
+2. ⚠️ *"He don't like it"* is real spoken dialect, non-standard in writing → ✅ *"He doesn't like it."*
+3. → ✅ *"I didn't go there."*
+4. → ✅ *"Does she work here?"*
+5. → ✅ *"Are you ready?"*
+6. → ✅ *"Why didn't you tell me?"* ⚠️ *"Why you didn't tell me?"* is heard in Indian English; the inverted form is standard
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

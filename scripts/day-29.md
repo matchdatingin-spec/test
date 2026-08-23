@@ -279,3 +279,21 @@ In the comments, write **your favourite Malayalam idiom** and its funny literal 
 Tomorrow, Day 30 — **the big test!** 🎓 It's our **30-day milestone**, and I'm giving you a **20-question grammar quiz** covering everything from Day 01 to Day 29. Can you score 20/20? Get your pen and paper ready. No cheating! 😄
 
 **Don't translate the words. Translate the feeling.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — translate the feeling, not the words**
+1. …വയറ് കത്തുന്നു → ✅ *"I'm starving — I need food right now."* Also *I'm really hungry* · *I'm famished* · *I could eat a horse!* ❌ *My stomach is burning* describes acidity.
+2. …ഞാൻ ഇപ്പോൾ വരാം → ✅ *"I'll be right back — five minutes."* Also *Back in five.* ❌ *I will come now* sounds like you're **arriving**.
+
+**Q2 — what do these mean? *(Malayalam answers fine)***
+1. *a piece of cake* → ✅ very easy · വളരെ എളുപ്പം
+2. *under the weather* → ✅ slightly unwell · ചെറിയ സുഖമില്ലായ്മ ⚠️ nothing to do with rain
+3. *call it a day* → ✅ stop work for today · ഇന്നത്തേക്ക് നിർത്താം ⚠️ not "name the day"
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

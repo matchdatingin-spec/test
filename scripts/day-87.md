@@ -416,3 +416,20 @@ Tomorrow, Day 88 — **we start the exam block.** 🎓
 *(Warm.)* Plus the mistakes that cap Malayali candidates at Band 6 — including one that's purely about **paragraphing**, not English at all. ✅
 
 **Don't wait for a gap. Signal and enter. And say one thing in the first ten minutes.** 🚪 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — one interrupting, one disagreeing, one clarification phrase**
+**What a good answer looks like:** three **different** functions, not three interrupting phrases · each a complete usable sentence · the interrupting one signals before speaking · the clarification one names what was missed, not just *"pardon?"*
+Example: *"Sorry, can I jump in on that? · I see it slightly differently — may I explain why? · Sorry, could you repeat the second point?"*
+
+**Q2 — disagreeing with your manager**
+**What a good answer looks like:** acknowledges the pressure first · softens with a hedge · gives **one** concrete risk · offers an alternative with a time.
+Example: *"I understand we're behind, and I want to get it out today. I'm a bit concerned that if the figures are wrong we'll spend longer explaining it. Could I take 40 minutes to check the totals and send it by five?"*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

@@ -416,3 +416,23 @@ Tomorrow, Day 52 — **is, am, are, was, were.** 🔤
 If you've ever said *"I working"* or *"He is know"* or *"That would nice"* — tomorrow's video is the one you needed.
 
 **Present + will. Past + would. Had + would have. And "would" never follows "if."** 🪜 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — one from each level**
+1. → ✅ *"If I get time tomorrow, I'll come."* ❌ not *If I will get*
+2. → ✅ *"If I had the money, I would buy that bike."*
+3. → ✅ *"If I had left earlier, I would have caught the bus."*
+
+**Q2 — fix these four**
+1. → ✅ *"If it rains, we'll cancel the trip."*
+2. → ✅ *"If I had time, I would help you."* Also *If I have time, I'll help you* *(real, not imaginary)*
+3. → ✅ *"If I had known, I would have called you."*
+4. ⚠️ **Already grammatical — do not mark wrong.** *"If I was you"* is standard informal English; *were* is the subjunctive and safer in writing. ✅ *"If I were you, I'd take that job."*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

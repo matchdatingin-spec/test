@@ -308,3 +308,23 @@ Number 1 is **the** interview sentence. Fix it perfectly and comment your answer
 Tomorrow, Day 20 — **a, an, and the.** The biggest gap in Malayalam-to-English, because Malayalam has **no articles at all**. But there's a logic — a beautifully simple one about "new information vs known information." Once you see it, articles stop being random.
 
 **Since = starting point 📍. For = length 📏.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — ഞാൻ 2021 മുതൽ…, സഹോദരൻ രണ്ട് വർഷമായി…**
+
+✅ **Model:** *"I have been living here since 2021, and my brother has been working in Dubai for two years."*
+**Also accept:** *I've lived here since 2021* ✅ *(state-like* live *takes either form)* · *…my brother has worked in Dubai for two years.*
+
+**Q2 — fix these four**
+1. *"I am working in this company since 5 years."* → ✅ *"I have been working in this company for 5 years."* Also *I've been with this company for 5 years.*
+2. *"He is waiting since morning."* → ✅ *"He has been waiting since this morning."* ⚠️ The **tense** is the error. *Since morning* is standard **Indian English** — accept warmly; internationally *since this morning*.
+3. *"I have been knowing her for 10 years."* → ✅ *"I have known her for 10 years."*
+4. *"How much time you are learning English?"* → ✅ *"How long have you been learning English?"*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

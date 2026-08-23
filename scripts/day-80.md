@@ -412,3 +412,19 @@ Tomorrow, Day 81 — **strengths, weaknesses, and salary.** 💰
 *(Explain.)* How to answer *"what's your expected CTC?"* ✅ What to say when they offer less than you asked ✅ And how to negotiate **politely** without seeming greedy — which is exactly the balance that feels hardest for us. ⭐
 
 **Claim · Evidence · Relevance. 📊 And prepare three stories, not ten answers.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — the weakness answer**
+**Criteria:** a real, work-relevant weakness *(not "I'm a perfectionist")* · a concrete action already being taken · a result showing improvement · nothing disqualifying for this job.
+✅ **Model:** *"My weakness has been taking on too much rather than saying no. What I've been doing about it is agreeing deadlines in writing before I accept new work. As a result I've missed nothing this quarter, and my team knows exactly what I'm handling."*
+
+**Q2 — your three stories, one line each**
+**Criteria:** three distinct situations, each with an outcome · story 1 carries a number · story 2 resolves without blaming the colleague · story 3 shows speed of learning.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

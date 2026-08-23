@@ -372,3 +372,23 @@ These three let you give **strong advice**, state a **preference**, and — cruc
 *(Warm.)* And *"I'd rather not"* ⭐ is one of the politest ways in English to decline something. 🎁
 
 **Supposed to = the plan 📋. And always include the "be" verb.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — translate three**
+1. ✅ *"I was supposed to send this report today."*
+2. ✅ *"You're not supposed to park here."*
+3. ✅ *"He was supposed to come at 5."*
+⚠️ Watch the missing **be**: ❌ *I supposed to send* → always *was/is/am supposed to*.
+
+**Q2 — rewrite politely**
+1. ⚠️ *"That is not my work."* *(grammatical, but blunt)* → ✅ *"I'm not supposed to handle that one."*
+2. ⚠️ *"You cannot smoke here."* *(correct — sounds like an order)* → ✅ *"You're not supposed to smoke here."*
+3. ✅ *"The meeting should have started at 3"* is fine → today's phrasing: ✅ *"The meeting was supposed to start at 3."*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

@@ -374,3 +374,20 @@ Tomorrow, Day 83 — **professional email writing.** 📧
 *(Warm.)* Tomorrow: the **complete formula** for a modern professional email — subject line to sign-off — with real templates you can use immediately. ⭐
 
 **Same English. Better structure. And stop shrinking.** 💪 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — one work sentence, audited for shrinking words**
+**What a good answer looks like:** the "after" deletes *just / only / small / somehow* · a real verb replaces the vague one *(did → built, ran, handled)* · at least one number or scope detail · meaning unchanged, no exaggeration.
+Example: *Before: "I just did a small report for my team." After: "I built the monthly report that four people now use."*
+
+**Q2 — find five of your own numbers**
+**What a good answer looks like:** five **different** categories *(volume, people, time, money, duration)* · honest and checkable · each attached to a task.
+⚠️ *"Passed out in 2018"* = graduated — accept warmly; offer *"graduated in 2018"* for international readers.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

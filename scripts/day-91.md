@@ -336,3 +336,20 @@ Tomorrow, Day 92 — **a real email makeover.** 📧
 *(Explain.)* And you'll see the same principle as Day 82's interview makeover: **the English barely changes.** ✅ What changes is structure, tone, and knowing what to delete. ✂️
 
 **These are polish errors, not communication failures.** 💙 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — post your score and weakest error family**
+**What a good answer looks like:** an honest score out of 25, not rounded up · **exactly one** named family from the six · chosen from tallied misses, not a hunch.
+Example: *"Score: 16/25. Weakest family: small words (articles) — I missed 4 of 5."*
+
+**Q2 — submit one sentence about your day**
+**What a good answer looks like:** genuinely their own sentence, not copied from the video · one complete finite clause with a subject and verb · any topic, any length · posted **even if they suspect it's wrong**.
+**Presenter note:** correct **one** thing warmly, and name the family and day number. Accept Indian English — *"I will revert by evening"* = reply · *"he is out of station"* = away. **Praise the risk first, then correct.**
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

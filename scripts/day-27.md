@@ -322,3 +322,22 @@ Number 1 has **two** errors — one about *have/has*, one about *since/for*. Fin
 Tomorrow, Day 28 — **"I agree" or "I am agree"?** Plus **25 everyday grammar mistakes** in one rapid-fire class. This is the video you'll want to save and rewatch. Some of these mistakes you've been making for **years** without knowing.
 
 **Have been touches now ✋. Had been stops in the past ⛔.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — touches now vs stopped in the past**
+1. …2019 മുതൽ → ✅ *"I have been working in this company since 2019."* Also *I've been with this company since 2019.*
+2. …രാജി വെക്കുന്നതിന് മുൻപ് → ✅ *"I had been working there for five years before I resigned."* Also *I worked there for five years before I resigned* ✅ *(natural everyday version)*
+
+**Q2 — fix these four**
+1. *"He have been waiting since 2 hours."* → ✅ *"He has been waiting for two hours."* Two fixes: **have→has**, **since→for**.
+2. *"I had been living in Kochi since 2020."* → ✅ *"I have been living in Kochi since 2020."* ⚠️ The original is **not ungrammatical** — *had been* is correct from a past viewpoint (*"By 2022 I had been living in Kochi for two years"*). Wrong only because you're speaking from today.
+3. *"I have been knowing her…"* → ✅ *"I have known her for ten years."*
+4. *"I am studying English since last year."* → ✅ *"I have been studying English since last year."*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

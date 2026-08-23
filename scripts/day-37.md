@@ -343,3 +343,19 @@ You know the feeling. Someone asks you something in English, and your mind goes 
 Tomorrow I give you a **3-step emergency method** for exactly that moment — what to say, what to do with your hands, and how to restart your brain in four seconds. This is the most practical video in this whole block.
 
 **It's not a switch. It's a list that grows. Name → Narrate → Attach → Self-talk → Input.** 🧠 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — three objects you can't name in English**
+**What a good answer looks like:** three items genuinely in the room · given in Malayalam or described · everyday rather than exotic. Accept any honest gap — that's the point of the exercise.
+
+**Q2 — five sentences narrating the last hour**
+**What a good answer looks like:** exactly five sentences · one consistent tense *(present or past — both allowed)* · simple concrete verbs, no dictionary words.
+Mark for **flow, not perfection** — a small tense slip is not a failure here.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

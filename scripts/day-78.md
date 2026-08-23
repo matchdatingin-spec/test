@@ -419,3 +419,20 @@ Tomorrow, Day 79 — **the same question, for experienced candidates.** 💼
 *(Confident.)* Tomorrow: how to compress a whole career into 90 seconds — and how to explain a job change **without** criticising your current employer. ⭐
 
 **Present · Ability · Story · So. And find the number in your story.** 💼 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — your four P-A-S-S blocks**
+**Criteria:** one sentence per block · **S** contains a real specific story with a result or number · **So** names something about *this* role, not a generic wish · reads in about 90 seconds · no apology for lack of experience.
+✅ **Model:** *"I'm Anjali, and I completed my B.Com at Calicut University this year. I'm comfortable with Excel and Tally, and I pick up new systems quickly. In my final semester I built a spreadsheet that cut our data entry from three days to one. This role interests me because accuracy matters here, and that's the part I enjoy most."*
+
+**Q2 — find your ONE story**
+✅ **Model:** *"I organised our college tech fest for 200 students and handled sponsorship — we raised ₹40,000."*
+**Criteria:** real · ownable *("I did X")* · ends in an outcome. Small is fine; vague is not.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

@@ -406,3 +406,19 @@ Tomorrow, Day 76 — **phrasal verbs.** 🔗
 *(Warm.)* So learning phrasal verbs doesn't make you sound casual — it makes you sound **natural**. ⭐
 
 **Replace the judgement with the reason. 🎯 And ask: "good in WHAT way?"** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — rewrite with no "good" or "bad"**
+**What a good answer looks like:** every *good/bad* replaced, and the replacements **differ** — precision is the point, not one synonym reused.
+✅ **Model:** *"My manager is a kind person and a capable leader. The office food is bland. Last week's presentation was a disaster because the internet was unreliable. But overall my job is rewarding."*
+
+**Q2 — translate three *(each* നല്ല *differs)***
+1. ✅ *"He's a kind man."* 2. ✅ *"That food was delicious."* 3. ✅ *"I'm exhausted."* ⚠️ Not *"I have good tiredness"* — നല്ല here is an **intensifier**, not "good."
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

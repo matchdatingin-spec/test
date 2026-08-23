@@ -324,3 +324,25 @@ Comment your six answers. Six correct = you have officially built the article mu
 Tomorrow, Day 21 — **much, many, few, little.** How do you know which one to use? There's one simple question that decides it: **"can I count it?"** And I'll show you the difference between *"a few friends"* and *"few friends"* — one is happy, one is sad. Don't miss it.
 
 **New → a. Known → the. General → nothing.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — ഞാൻ ഒരു എൻജിനീയറാണ്…**
+
+✅ **Model:** *"I am an engineer. Yesterday I bought a new phone, but the phone stopped working."*
+**Also accept:** *…but it stopped working* ✅ *(a pronoun is fine once* the phone *is known)* · *…but the phone broke down.* ❌ *I am engineer* — jobs need *a/an*.
+
+**Q2 — a / an / the / X**
+1. **a** … **a** · ⚠️ *the government school* is also correct if both know the specific school
+2. **The** *(one of a kind)*
+3. **X** … **the** *(general, then specified)*
+4. **the** *(we both know which)*
+5. **X** … **the** — also *some advice* ✅, never ❌ *an advice*
+6. **an** — the *h* is silent. Same logic: *an hour*, *a university*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

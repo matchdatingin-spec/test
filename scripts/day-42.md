@@ -383,3 +383,20 @@ Ever watched an English movie without subtitles and thought *"they're speaking t
 Here's the secret: **they're not speaking fast.** They're **joining and shrinking** words. *"What are you doing?"* becomes *"Whatcha doin'?"* And once you learn the patterns, native speech suddenly slows down — not because they changed, but because your **ears** did.
 
 **Malayalam softens with endings. English softens with extra words.** 🎁 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — the polite no (soften + reason + alternative)**
+**What a good answer looks like:** all three parts identifiable · the refusal is **explicit** — no vague *"let's see"* · the alternative is real.
+Example: *"I'd love to come, but I have to travel on Sunday. Could I take them out for lunch the week after?"*
+
+**Q2 — the polite disagreement**
+**What a good answer looks like:** acknowledges the colleague's pressure first · uses a softener *(I'm not sure / maybe / I'd rather)* · gives a consequence-based reason, not just "no".
+⚠️ *"No, that is wrong"* is grammatical but too hard for the skill being practised.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

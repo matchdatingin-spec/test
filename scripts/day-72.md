@@ -374,3 +374,19 @@ Tomorrow, Day 73 — **British vs American pronunciation.** 🇬🇧🇺🇸
 *(Explain.)* Because Indian English already has its own established set of choices, and consistency matters far more than which side you copy. But there **are** a few differences worth knowing — especially for IELTS and for understanding films.
 
 **English spelling is a fossil 🦴. Trust your ears, not your eyes. 👂** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — find the silent letter**
+1. *knowledge* → ✅ **k** 2. *comb* → ✅ **b** 3. *whistle* → ✅ **t** 4. *foreign* → ✅ **g** 5. *muscle* → ✅ **c** 6. *autumn* → ✅ **n**
+
+**Q2 — record and check**
+**What a good answer looks like:** all five recorded — **listen · receipt · answer · would · almond** · each silent letter genuinely dropped: LIS-n · ri-SEET · AN-ser · wud · AH-mund · one word named as a "before today" error.
+**Also accept** *AL-mund* — both are standard.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

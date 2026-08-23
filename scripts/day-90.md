@@ -471,3 +471,21 @@ Tomorrow, Day 91 — **the makeover block begins.** 🔍
 *(Warm.)* If you've commented on any video in the last 90 days, your sentence might be in tomorrow's video. 😄 And if it is — thank you, because your mistake is going to teach hundreds of other people. 💙
 
 **Select for the reader's purpose. You're marked on what you leave out.** ✂️ See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — reselect the case notes for a dietitian**
+✅ **Keep:** type 2 diabetes since 2009, poorly controlled, HbA1c 9.2% · needs diabetes education, poor understanding of diet and glucose monitoring · insulin dose adjusted by the diabetes team.
+✅ **Omit:** the 1998 appendectomy · the daily wound-dressing measurements *(that's the nurse's task)*.
+**Also accept** omitting mobility/social detail instead, provided the diabetes control and education needs are kept and the reasoning names **this reader's purpose**.
+
+**Q2 — opening two sentences of a physiotherapist referral**
+Example: *"I am writing to refer Mr Menon, a 45-year-old man recently diagnosed with hypertension, who would benefit from a supervised exercise programme. He is currently sedentary with a BMI of 31 and has no other medical conditions."*
+⚠️ **Already grammatical — do not mark wrong:** *"She is not able to walk properly"* · *"Patient's condition is good"* · *"Kindly note the same"*. **Register only** — offer *"her mobility is reduced"*, *"she is clinically stable"*, *"please note"*.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

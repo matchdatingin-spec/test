@@ -381,3 +381,20 @@ Today you learned sentences that are **correct**. Tomorrow, **50 phrases that so
 Same meaning. Completely different impression. Don't miss it.
 
 **Don't build sentences. Borrow them.** ♻️ See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — five sentences you'll actually use this week**
+**What a good answer looks like:** exactly five · copied with their numbers · plausibly tied to the learner's own life, not just the first five on the list.
+
+**Q2 — convert to polite English**
+1. …അയക്ക് → ✅ *"Could you send me this file, please?"* Also *Would you mind sending…*
+2. …ലീവ് വേണം → ✅ *"Would it be possible to take tomorrow off?"* Also *Could I take a day off tomorrow?* ⚠️ *I want leave tomorrow* is clear Indian English — not wrong, just blunt.
+3. …പറയാമോ? → ✅ *"Could you say that again, please?"* Also *Could you repeat that, please?*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

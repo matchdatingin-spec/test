@@ -419,3 +419,23 @@ Someone says *"Tell me about your hometown"* or *"Talk about your favourite movi
 Tomorrow I give you a **formula** — a simple structure that fills two minutes on **literally any topic**. This is the exact skill IELTS tests, interviews test, and real conversations demand.
 
 **In English, a question is a SWAP 🔄 — except after a polite opener, where nothing moves.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — Malayalam → English questions**
+1. → ✅ *"Where do you live?"* ⚠️ *"Where are you staying?"* = temporary accommodation, different meaning
+2. → ✅ *"Did he come yesterday?"*
+3. → ✅ *"Do you know when the bus comes?"* — after the opener, word order stays normal. ❌ *Do you know when does the bus come?*
+
+**Q2 — fix these four**
+1. ✅ *"Where are you working?"* *(also "Where do you work?")*
+2. ✅ *"Do you have a pen?"* *(also "Have you got a pen?")*
+3. ✅ *"Who called me?"*
+4. ⚠️ *"…isn't it?"* is the Indian-English invariant tag — clear, not broken. ✅ *"You're coming tomorrow, aren't you?"*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

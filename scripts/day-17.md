@@ -287,3 +287,23 @@ Number 2 is my favourite test, because it looks completely fine — but the word
 Tomorrow, Day 18 — **in, on, at.** The three tiny words that cause more Malayali mistakes than any grammar rule. *"I'm in the bus"* or *"on the bus"*? *"In Monday"* or *"on Monday"*? I'll give you a **size logic** that makes all three obvious. Don't miss it.
 
 **Have = the time machine. Third form after have.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — ഞാൻ കൂടുതൽ പഠിക്കേണ്ടിയിരുന്നു, അപ്പോൾ എനിക്ക് exam pass ആകുമായിരുന്നു.**
+
+✅ **Model:** *"I should have studied more; then I would have passed the exam."*
+**Also accept:** *If I had studied more, I would have passed.* ⚠️ *…then I could have passed* is grammatical but shifts to possibility.
+
+**Q2 — fix these four**
+1. *"I should came early."* → ✅ *"I should have come early."*
+2. *"You should tell me yesterday."* → ✅ *"You should have told me yesterday."* What's missing is **have + third form**; *yesterday* is the proof.
+3. *"If I would have known, I would have come."* → ✅ *"If I had known, I would have come."* ⚠️ Be fair: *if I would have known* is very common in spoken American English — non-standard for exams, not stupid.
+4. *"He could have went with us."* → ✅ *"He could have gone with us."*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

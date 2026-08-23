@@ -403,3 +403,21 @@ Tomorrow, Day 78 — **we start the career block.** 💼
 *(Sincere.)* This is the block where all 77 days start paying you back — in salary. 💰
 
 **Encode 🏠 · Retrieve 🎣 · Use 🗣️. Three words a day.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — encode three words**
+**What a good answer looks like:** three words from Days 74–76, each in **one full sentence about the learner's own life** — a real place, person or routine · no Malayalam translation, no dictionary definition.
+✅ **Model:** *"swamped → 'I'm swamped every Monday because of the weekend emails.'"*
+❌ Don't accept *"swamped = very busy"* — that's a definition, not encoding.
+
+**Q2 — the collocation test**
+1. ✅ **make** a decision 2. ✅ **take** responsibility 3. ✅ **pay** attention 4. ✅ **meet** a deadline 5. ✅ **do** research 6. ✅ **make** an effort
+**Also accept** *take a decision* ⚠️ common in Indian and British business English.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

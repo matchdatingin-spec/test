@@ -307,3 +307,20 @@ Six blanks. Get all six and comment **"6/6"** — I heart the perfect scores I g
 Tomorrow, Day 19 — **since vs for.** Another pair that both become **-ആയി** in Malayalam. *"I've been working here since 3 years"* — that's wrong, and I'll show you the beautifully simple reason why. It's a 10-minute fix for a lifetime mistake.
 
 **Big → IN. Surface → ON. Point → AT.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — ഞാൻ ഇപ്പോൾ ബസ്സിൽ ആണ്, തിങ്കളാഴ്ച രാവിലെ 9 മണിക്ക് ഓഫീസിൽ എത്തും.**
+
+✅ **Model:** *"I'm on the bus now, and I'll reach the office at 9 in the morning on Monday."*
+**Also accept:** *I'll get to the office at 9 a.m. on Monday.* · *I'll arrive at the office at 9 on Monday morning.* The no-preposition slot is **reach** — ❌ *reach at/to the office*. ⚠️ If a learner writes *"when I reach"* with nothing after it, that's common Indian English — offer *get there / arrive*, don't mark it wrong.
+
+**Q2 — in / on / at**
+1. **on** *(dates)* 2. **in** 3. **at** *(also by/near)* 4. **in** 5. **on** *(platforms)* 6. **at** *(clock time)*
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*

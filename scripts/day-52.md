@@ -431,3 +431,20 @@ The **other** three helper words. These are the ones that build **questions** an
 *(Warm.)* Two days, six little words, and your grammar foundation will be solid. 💪
 
 **No action verb? → be. Using -ing? → be. Already an action? → no be.** 🔤 See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — which need *be*?**
+1. → ✅ *"I'm an engineer, and I work in Bangalore."* — *be* for the identity, none for the action
+2. → ✅ *"She's studying now."*
+3. → ✅ *"I agree with you."* ❌ not *I am agree* — *agree* is already the verb
+
+**Q2 — add *be* only where needed**
+1. ✅ *am* 2. ✅ **nothing** 3. ✅ *be* 4. ✅ *were* 5. ✅ **nothing** 6. ✅ *are* — ⚠️ *"There's three options"* is common speech but not exam-safe
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(symbol legend in the scripts README)*
