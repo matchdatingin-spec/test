@@ -235,7 +235,7 @@ And *"shouldn't"* sits in between — gentle warning:
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Comment your answers — I'll correct every one.
+Comment your answers — I correct as many as I can get to.
 
 **Question 1:** Translate — ഇന്നലെ എനിക്ക് ഹോസ്പിറ്റലിൽ പോകേണ്ടി വന്നു, അതുകൊണ്ട് ഞാൻ ക്ലാസ്സിൽ വന്നില്ല.
 *(Hint: past necessity. Which form must you use?)*

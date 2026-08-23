@@ -291,7 +291,7 @@ Malayalam puts **എല്ലാം** in flexible positions, so we produce:
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Comment your answers — I read and reply to every one!
+Comment your answers — I read as many as I can, and reply to the ones that need it!
 
 **Question 1:** Translate — എല്ലാ വിദ്യാർത്ഥികളും ദിവസവും ക്ലാസ്സിൽ വരണം, ഓരോരുത്തർക്കും ഒരു ബുക്ക് കിട്ടും.
 *(Hint: the first half can use **every** or **all** — but the verb must match! The second half needs **each**.)*

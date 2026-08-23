@@ -218,7 +218,7 @@ Feel how *finish, tell, leave* all stay plain. That plainness is the sound of co
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Comment your answers — I reply to every one.
+Comment your answers — I read as many as I can, and I reply to the ones that need it.
 
 **Question 1:** Translate — നീ ഇന്നലെ എന്നെ വിളിച്ചില്ലേ? ഞാൻ phone കണ്ടില്ല.
 
@@ -231,3 +231,27 @@ Bonus challenge for the sharp ones — explain in the comments **why** this sent
 Tomorrow, Day 04 — **would, should, could.** The three words everyone uses randomly, hoping it sounds polite. We will make each one crystal clear with real-life situations.
 
 Remember: ***did* carries the past — the next verb stays plain.** See you tomorrow!
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — നീ ഇന്നലെ എന്നെ വിളിച്ചില്ലേ? ഞാൻ phone കണ്ടില്ല.**
+
+✅ **Model:** *"Didn't you call me yesterday? I didn't check my phone."*
+
+**Also accept:** *I didn't look at my phone* · *I didn't see your call*. ⚠️ *I didn't see my phone* is grammatical but means you couldn't **find** it — worth pointing out.
+
+**Q2 — "Where you went yesterday?" / "She didn't came to the class."**
+
+✅ *"Where **did** you **go** yesterday?"* · ✅ *"She didn't **come** to class."*
+**Also accept:** *to the class* if a particular class is meant.
+
+**Bonus — why does "Who broke the glass?" need no *did*?**
+
+✅ Because ***who* is the subject.** Subject questions keep normal statement order, so there's nothing to invert and no *did* to add. Compare *"Who called you?"* (subject) with *"Who **did** you call?"* (object).
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(see the symbol legend in the scripts README)*

@@ -287,7 +287,7 @@ Both correct! Pick one. Never both.
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Comment your answers — I reply to every one!
+Comment your answers — I reply to as many as I can!
 
 **Question 1:** Translate — എനിക്ക് ഇപ്പോൾ ഒന്നും വേണ്ട, പക്ഷേ കുറച്ച് വെള്ളം കിട്ടുമോ?
 *(Hint: one half needs **anything**, the other needs **some**. Careful with the double negative!)*

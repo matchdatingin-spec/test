@@ -290,7 +290,7 @@ The natural questions:
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Comment your answers — I read and reply to every one!
+Comment your answers — I read as many as I can, and reply to the ones that need it!
 
 **Question 1:** Translate — ഞാൻ 2021 മുതൽ ഇവിടെ താമസിക്കുന്നു, എന്റെ സഹോദരൻ രണ്ട് വർഷമായി ദുബൈയിൽ ജോലി ചെയ്യുന്നു.
 *(Hint: one half needs **since**, the other needs **for**.)*

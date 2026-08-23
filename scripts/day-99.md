@@ -103,7 +103,7 @@ Good evening, everyone. ✅ And welcome — this is **Day 99**. 🎉
 
 **Your plan:** ⭐
 - ✅ **Days 52–54** — the helper verbs ✅
-- ✅ **Days 18–19** — small words *(30% of your errors)* ⭐
+- ✅ **Days 18–19** — small words *(the single biggest error group)* ⭐
 - ✅ **Day 91** — correction practice 🔍
 - ✅ **Day 98 Phase 2** — weeks 5–8 ✅
 

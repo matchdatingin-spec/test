@@ -196,7 +196,7 @@ English does emphasis in a completely different way. Not with an extra word at t
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Two questions. Answer in the comments — I read every single one.
+Two questions. Answer in the comments — I read as many as I can, and I reply to the ones that need it.
 
 **Question 1:** Translate — സാർ, എനിക്ക് ഈ lesson-ൽ ഒരു സംശയം ഉണ്ട്, ഇന്ന് തന്നെ പറഞ്ഞു തരാമോ?
 
@@ -204,8 +204,31 @@ Two questions. Answer in the comments — I read every single one.
 
 *(Warm, encouraging.)*
 
-Question 2 has **five** mistakes. Five! Find all of them and I will pin your comment.
+Question 2 has **five** mistakes. Five! Find all of them and comment — **I pin one great answer on every video.** 📌
 
 Tomorrow, Day 03 — the classic. *"Did you go"* or *"did you went"*? Why does the past tense disappear in questions? There is one simple rule, and once you see it, you can never make this mistake again.
 
 See you tomorrow. Keep speaking, keep making mistakes — that's how it works.
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — സാർ, എനിക്ക് ഈ lesson-ൽ ഒരു സംശയം ഉണ്ട്, ഇന്ന് തന്നെ പറഞ്ഞു തരാമോ?**
+
+✅ **Model:** *"Sir, I have a question about this lesson — could you explain it today?"*
+
+**Also accept:** *…could you explain it to me today?* · *…could you go over it today?*
+**Watch for:** *in this lesson* → **about** this lesson · *today itself* → **today**.
+
+**Q2 — "Myself Ravi, I passed out in 2021 and I am having one doubt about this job only."**
+
+✅ **Model:** *"I'm Ravi. I graduated in 2021, and I have a question about this job."*
+
+**The five fixes:** ① *Myself Ravi* → **I'm Ravi** · ② *passed out* → **graduated** · ③ *am having* → **have** · ④ *one doubt* → **a question** · ⑤ drop the final *only*.
+**Mark as ⚠️ not ❌:** *passed out* and *doubt* are established Indian English — the point is international portability, not error.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(see the symbol legend in the scripts README)*

@@ -287,7 +287,7 @@ Malayalam loves case endings, so we add prepositions everywhere:
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Comment your answers — I reply to every one!
+Comment your answers — I reply to as many as I can!
 
 **Question 1:** Translate — ഞാൻ ഇപ്പോൾ ബസ്സിൽ ആണ്, തിങ്കളാഴ്ച രാവിലെ 9 മണിക്ക് ഓഫീസിൽ എത്തും.
 *(Hint: this sentence needs **on**, **on**, **in**, **at** — and one place needs no preposition at all!)*
@@ -302,7 +302,7 @@ Comment your answers — I reply to every one!
 
 *(Warm close.)*
 
-Six blanks. Get all six and comment **"6/6"** — I'll heart every perfect score! ❤️
+Six blanks. Get all six and comment **"6/6"** — I heart the perfect scores I get to! ❤️
 
 Tomorrow, Day 19 — **since vs for.** Another pair that both become **-ആയി** in Malayalam. *"I've been working here since 3 years"* — that's wrong, and I'll show you the beautifully simple reason why. It's a 10-minute fix for a lifetime mistake.
 

@@ -252,7 +252,7 @@ But careful — this is only for **arguing or insisting**. Not for normal senten
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Put your answers in the comments — I reply to everyone.
+Put your answers in the comments — I reply to as many as I can.
 
 **Question 1:** Translate — ഞാൻ ഒരു തെറ്റ് ചെയ്തു, എനിക്ക് ഒരു call ചെയ്യണം, എന്നിട്ട് homework ചെയ്യണം.
 *(Hint: you need **make**, **make**, and **do** — in that order!)*
@@ -266,7 +266,7 @@ Put your answers in the comments — I reply to everyone.
 
 *(Encouraging close.)*
 
-Get all five right and comment "5/5" — I'll heart every correct answer.
+Get all five right and comment "5/5" — I heart the correct answers I get to, and **I pin one great answer on every video.** ❤️
 
 Tomorrow, Day 07 — **will vs would.** Not just "future vs past." I'll show you the *one* real difference: **will = real world, would = imaginary world.** Once you see it, all those confusing "if" sentences become easy.
 

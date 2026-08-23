@@ -281,7 +281,7 @@ So:
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Comment your answers — I reply to every one!
+Comment your answers — I reply to as many as I can!
 
 **Question 1:** Translate — എനിക്ക് ഇന്ന് ഒരുപാട് ജോലിയുണ്ട്, അതുകൊണ്ട് എനിക്ക് അധികം സമയമില്ല.
 *(Hint: two uncountable nouns! Careful with the -s.)*

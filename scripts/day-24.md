@@ -272,7 +272,7 @@ And the common Malayali error:
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Comment your answers — I reply to every one!
+Comment your answers — I reply to as many as I can!
 
 **Question 1:** Translate — എനിക്ക് വേറെ ഒരു ചായ വേണം, വേറെ എന്തെങ്കിലും ഉണ്ടോ?
 *(Hint: the first half needs **another**, the second half needs that word Malayalis forget — **else**!)*

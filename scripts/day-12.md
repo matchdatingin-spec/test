@@ -28,7 +28,7 @@ Or this classic one, said while leaving the house:
 
 *(Point at camera.)*
 
-Have you mixed these up? Every Malayali does, because in Malayalam the two words look almost identical: **കൊണ്ടുവരുക** and **കൊണ്ടുപോകുക**. Today we fix it with one simple arrow. Let's go.
+Have you mixed these up? It's one of the most common slips, because in Malayalam the two words look almost identical: **കൊണ്ടുവരുക** and **കൊണ്ടുപോകുക**. Today we fix it with one simple arrow. Let's go.
 
 ---
 
@@ -208,7 +208,7 @@ Practise those. They sound extremely natural.
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Comment your answers — I reply to everyone!
+Comment your answers — I reply to as many as I can!
 
 **Question 1:** Translate these two — same object, opposite words:
 1. നാളെ വരുമ്പോൾ എന്റെ ബുക്ക് കൊണ്ടുവരണേ.

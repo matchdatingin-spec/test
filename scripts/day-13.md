@@ -265,7 +265,7 @@ So if you say *"Give me ₹500,"* you are asking for a **gift**. If you say *"Co
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Comment your answers — I reply to every single one!
+Comment your answers — I reply to as many as I can!
 
 **Question 1:** Translate — ഞാൻ അവന് 1000 രൂപ കടം കൊടുത്തു, പക്ഷേ അവൻ ഇതുവരെ തിരിച്ചു തന്നിട്ടില്ല.
 *(Hint: "I gave a loan" → which verb? And "returned to me" → which verb?)*
@@ -278,7 +278,7 @@ Comment your answers — I reply to every single one!
 
 *(Warm close.)*
 
-Four sentences, four wrong directions. Fix all four and comment "4/4" — I'll heart every correct answer.
+Three wrong directions and one register fix. Sort all four and comment "4/4" — I heart the correct answers I get to. ❤️
 
 Tomorrow, Day 14 — **"Me too," "So do I," "Neither do I."** How do you agree with someone in English without sounding like a robot? This is the lesson that makes small talk easy. If someone says *"I don't like coffee"* and you agree — do you say "me too" or "me neither"? Tomorrow you'll know.
 

@@ -23,7 +23,7 @@ The correct answer is:
 
 *(Lean in, friendly.)*
 
-And here's the bigger problem. Most Malayalis know only **two** replies in English: *"Me too"* and *"Yes."* That's it. So every conversation sounds like this:
+And here's the bigger problem. Many learners rely on just **two** replies in English: *"Me too"* and *"Yes."* That's it. So every conversation sounds like this:
 
 *"I love biryani."* → "Me too."
 *"I went to Bangalore."* → "Me too."
@@ -255,7 +255,7 @@ Never just ❌ *"No, wrong."* That's a direct translation of അല്ല and it
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Comment your answers — I read and reply to all!
+Comment your answers — I read as many as I can, and reply to the ones that need it!
 
 **Question 1:** Reply to each of these, using the **So/Neither** pattern *(not "me too")*:
 1. *"I don't drink tea."* → ___
@@ -267,7 +267,7 @@ Comment your answers — I read and reply to all!
 
 *(Warm close.)*
 
-Comment all four answers from Question 1. If you get all four helpers right, you have completely mastered this pattern — and I'll pin your comment. 📌
+Comment all four answers from Question 1. Get all four helpers right and you've got this pattern — and **I pin one great answer on every video.** 📌
 
 Tomorrow, Day 15 — **already, still, and yet.** Three tiny words that Malayalis place in the wrong position constantly. *"I didn't eat still"* vs *"I still haven't eaten"* — the meaning is the same but only one sounds natural. Tomorrow we fix the positions.
 

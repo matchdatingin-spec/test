@@ -251,7 +251,7 @@ Build it:
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Comment your answers — I reply to every one!
+Comment your answers — I reply to as many as I can!
 
 **Question 1:** Translate — ഈ കാര്യം നമ്മൾക്കിടയിൽ മാത്രം ഇരിക്കണം, ക്ലാസ്സിനിടയിൽ ആരോടും പറയരുത്.
 *(Hint: the first ഇടയിൽ is **between**. But the second ഇടയിൽ is NOT between — it's a different word entirely!)*

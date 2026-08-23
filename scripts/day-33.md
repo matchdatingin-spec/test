@@ -44,7 +44,7 @@ Think about how you speak **Malayalam**. When you say **"എന്താ വി�
 
 **No.** It comes out as **one block**. You never assembled it — you absorbed it. ✅
 
-*(Point out.)* That's how **all** fluent speech works. In any language, about **60% of what people say is pre-made chunks.** Fluency is not building faster. It's **having more chunks ready.** 🧱
+*(Point out.)* That's how **all** fluent speech works. In any language, a **large share of everyday speech is pre-made chunks** — researchers who have counted put it around half. Fluency is not building faster. It's **having more chunks ready.** 🧱
 
 *(Slogan.)*
 > **Fluency = a big library of ready sentences, not a big book of rules.**

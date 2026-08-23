@@ -27,7 +27,7 @@ The natural sentences are:
 
 *(Warm.)*
 
-Have you said "may be I will come"? Almost every Malayali has. Today we fix it — and I'll show you exactly how much possibility each word carries, so you can control the meaning like a dial. Let's go.
+Have you said "may be I will come"? Most of us have. Today we fix it — and I'll show you exactly how much possibility each word carries, so you can control the meaning like a dial. Let's go.
 
 ---
 
@@ -237,7 +237,7 @@ Same old friend from Day 04 and Day 07:
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Answers in the comments. I reply to every one.
+Answers in the comments. I reply to as many as I can.
 
 **Question 1:** Translate — ഒരുപക്ഷേ അവൻ ഇന്ന് വരില്ല, അവന് പനിയായിരിക്കും.
 *(Hint: you need **might not** and a guessing structure.)*

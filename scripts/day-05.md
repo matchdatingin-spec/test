@@ -231,7 +231,7 @@ Four sentences. They cover about 80% of real situations. Say them out loud with 
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Comment your answers. I read and reply to all of them.
+Comment your answers. I read as many as I can, and I reply to the ones that need it.
 
 **Question 1:** Translate — അവൾ എന്നോട് പറഞ്ഞു അവൾക്ക് ഇംഗ്ലീഷ് നല്ലതുപോലെ സംസാരിക്കാൻ അറിയാമെന്ന്.
 
@@ -248,3 +248,25 @@ Number 4 is a trap. Think hard before answering — and tell me **why** in the c
 Tomorrow, Day 06 — **do vs make.** ചെയ്യുക becomes both of them, and there are 30 fixed expressions that decide which one. *Do* the homework, *make* a mistake — never the other way around. I'll show you the hidden logic.
 
 **Say the word. Tell the person. Speak a language. Talk to a friend.** See you tomorrow! 👋
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — അവൾ എന്നോട് പറഞ്ഞു അവൾക്ക് ഇംഗ്ലീഷ് നല്ലതുപോലെ സംസാരിക്കാൻ അറിയാമെന്ന്.**
+
+✅ **Model:** *"She told me she could speak English well."*
+
+**Also accept:** *She told me she knew how to speak English well* · *She said she could speak English well* · *She told me she **can** speak English well* *(if it's still true — backshift is optional)*.
+
+**Q2 — fix these four:**
+
+1. *"Can you say me your address?"* → ✅ *"Could you **tell** me your address?"* *(*say* can't take a person as its object)*
+2. *"He told that he is busy."* → ✅ *"He told **me** he was busy."* / *"He **said** he was busy."* *(*told* needs an object; *is* also acceptable if still true)*
+3. *"I want to talk English fluently."* → ✅ *"I want to **speak** English fluently."* *(*speak* + a language)*
+4. *"May I talk to the manager?"* — ⚠️ **This is the trap: it is NOT wrong.** It's grammatical and natural. ✅ *"May I **speak** to the manager?"* is just the more conventional phone/formal form. Anyone who says "it's correct" has got it right — reward that answer.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(see the symbol legend in the scripts README)*

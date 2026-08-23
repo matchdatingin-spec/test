@@ -95,7 +95,7 @@ Stories live in the **past**. So you need three tools:
 | **Had + V3** | something earlier | *I had already finished it.* |
 
 *(Simplify it.)*
-- **Main events** → simple past ✅ *(90% of your story)*
+- **Main events** → simple past ✅ *(most of your story)*
 - **Background** → was/were + ing ✅
 - **Earlier thing** → had + V3 ✅
 

@@ -179,7 +179,7 @@ One rule. Five sentences fixed. This is how you learn fast — learn the logic, 
 
 Now, the biggest trap of all. Number 3 on that list. **"I am having."**
 
-Almost every Malayali says this:
+This is one of the most common ones I hear:
 
 > ❌ *"I am having a car."*
 > ❌ *"I am having a headache."*
@@ -213,7 +213,7 @@ Nobody can look at you and see you owning a car. So: **I have a car.**
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Two sentences. Translate them into English and put your answer in the comments. I will personally reply and correct you — so don't be shy, a wrong answer today is a right answer forever.
+Two sentences. Translate them into English and put your answer in the comments. I correct as many as I can get to — so don't be shy: a wrong answer today is a right answer forever.
 
 **Question 1:** ഇന്നലെ രാത്രി എനിക്ക് നല്ല ഉറക്കം വന്നു, അതുകൊണ്ട് ഞാൻ സിനിമ കണ്ടില്ല.
 
@@ -221,10 +221,34 @@ Two sentences. Translate them into English and put your answer in the comments. 
 
 *(Lean in.)*
 
-Small hint for Question 2 — there are **four** mistakes in it. Find all four and you are already better than 90% of English learners.
+Small hint for Question 2 — there are **four** fixes to make. Find all four and you've understood today's lesson properly.
 
 Tomorrow, Day 02, we go deep into that word **"doubt."** Why is *"I have a doubt"* actually wrong? What does a native speaker hear when you say it? *(Smile.)* Trust me — you will be shocked.
 
 Comment your answers. Subscribe so tomorrow's class reaches you. And remember:
 
 **Don't translate. Build.** See you tomorrow.
+
+
+---
+
+## 🔑 PRESENTER ANSWER KEY — *do not read on camera*
+
+*(For the pinned comment, the video description, and replying in the comments. Several items have **more than one correct answer** — accept the alternatives listed.)*
+
+**Q1 — ഇന്നലെ രാത്രി എനിക്ക് നല്ല ഉറക്കം വന്നു, അതുകൊണ്ട് ഞാൻ സിനിമ കണ്ടില്ല.**
+
+✅ **Model:** *"Last night I felt very sleepy, so I didn't watch the movie."*
+
+**Also accept:** *I was very sleepy last night, so I didn't watch a movie* · *…so I didn't see the movie* · *a movie* **and** *the movie* are both fine *(depends whether a particular film is meant)*.
+**Mark as ⚠️ not ❌:** *"Yesterday night"* — normal Indian English; offer *last night* as the international form.
+**Genuine errors:** ❌ *Sleep came to me* · ❌ *I didn't watched*.
+
+**Q2 — "I am having one doubt, where you are going today morning?"**
+
+✅ **Model:** *"I have a question — where are you going this morning?"*
+
+**The four fixes:** ① *am having* → **have** *(stative)* · ② *one doubt* → **a question** · ③ *where you are going* → **where are you going** *(inversion)* · ④ *today morning* → **this morning**.
+**Mark as ⚠️ not ❌:** if someone keeps *"I have a doubt"* — that's standard Indian English. Praise it, then give the international version.
+
+> **⚠️ Marking rule:** `❌` only for genuinely ungrammatical English. If a learner's sentence is well-formed but **regional, dated, or means something else**, say so warmly and give the international version — never call it wrong. 🔗 *(see the symbol legend in the scripts README)*

@@ -257,7 +257,7 @@ Malayalam expresses "cannot / don't have" through negative endings, and we trans
 
 ## 📝 5. HOMEWORK TEST (10:00 – End)
 
-Comment your answers — I read every one!
+Comment your answers — I read as many as I can!
 
 **Question 1:** Don't translate the words — translate the **FEELING**. What would you say in natural English?
 1. **എനിക്ക് വയറ് കത്തുന്നു, വേഗം ഭക്ഷണം വേണം.**
