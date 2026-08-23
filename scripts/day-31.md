@@ -57,7 +57,7 @@ When you hear **എനിക്ക് ഇന്ന് ഓഫീസിൽ പോ�
 - ഓഫീസിൽ → "in office..." ❌ *wrong preposition*
 - പോകേണ്ടി വന്നു → "...had to go" ✅ *finally, the verb!*
 
-*(Point out the problem.)* The **verb arrived last**. But English needs the verb **second**! So you built the sentence and then had to rebuild it. That's the freeze. 🧊
+*(Point out the problem.)* The **verb arrived last**. But English wants the verb **early — right after the person**! So you built the sentence and then had to rebuild it. That's the freeze. 🧊
 
 ### The fix: find the VERB first
 

@@ -52,7 +52,9 @@ PAST ══════════════✋NOW
 ```
 
 - ✅ *I **have been** working here for 3 years.* → I still work here ✅
-- ✅ *She **has been** waiting since morning.* → she's still waiting ✅
+- ✅ *She **has been** waiting since this morning.* → she's still waiting ✅
+
+*(Dialect note.)* ⚠️ Bare *"since morning"* is common **Indian English**; broader international English adds the determiner: **since *this* morning**. ✅ Same for *since evening → since this evening*. ⭐
 - ✅ *It **has been** raining all day.* → it's still raining ✅
 
 **HAVE/HAS BEEN = started before, and it reaches now.**
@@ -166,7 +168,7 @@ Notice the **two different tenses** in one sentence:
 
 *(Practise the shape.)*
 - ✅ *I **had been** studying for 3 hours when the power **went** off.*
-- ✅ *She **had been** crying before I **reached** there.*
+- ✅ *She **had been** crying before I **got** there.*
 - ✅ *They **had been** playing when it **started** to rain.*
 
 *(Simple version — very useful!)* And honestly? In everyday speech, native speakers often just use the simpler form:
@@ -183,12 +185,12 @@ Notice the **two different tenses** in one sentence:
 | Current job (interview!) | **I've been working in sales for five years.** | still true ✋ |
 | Explaining a delay | **She's been feeling unwell since Monday.** | still true ✋ |
 | Telling a story | **I had been saving money for a year before I bought the bike.** | stopped in past ⛔ |
-| Weather right now | **It's been raining since morning.** | still raining ✋ |
+| Weather right now | **It's been raining since this morning.** | still raining ✋ |
 | Explaining why you're tired | **I'd been travelling all night, so I was exhausted.** | stopped in past ⛔ |
 
 *(Highlight row 1.)* **"I've been working in ___ for ___ years."** ⭐ Write this down. Memorise it. Use it in **every** interview. It's the single most valuable sentence pattern for describing your career. ✅
 
-*(Highlight row 4.)* **"It's been raining since morning."** So natural! Not ❌ *"Rain is coming from morning."* ✅
+*(Highlight row 4.)* **"It's been raining since this morning."** So natural! Not ❌ *"Rain is coming from morning."* ✅
 
 ### The three-way comparison
 
@@ -221,7 +223,7 @@ Malayalam uses **present tense** for actions that started in the past and contin
 | Malayalam | ❌ | ✅ |
 |---|---|---|
 | ഞാൻ 3 വർഷമായി പഠിക്കുന്നു | I am studying since 3 years | **I've been studying for 3 years.** |
-| അവൾ രാവിലെ മുതൽ കാത്തിരിക്കുന്നു | She is waiting from morning | **She's been waiting since morning.** |
+| അവൾ രാവിലെ മുതൽ കാത്തിരിക്കുന്നു | She is waiting from morning | **She's been waiting since this morning.** |
 | മഴ പെയ്യുന്നു കുറേ നേരമായി | Rain is coming long time | **It's been raining for a long time.** |
 
 *(The formula — write it down.)*

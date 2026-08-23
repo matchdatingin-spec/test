@@ -21,7 +21,7 @@ The correct version:
 
 *(Point at camera.)*
 
-Four little words added: **a, a, the, the.**
+Six little words added: **a, a, the, the** — plus **me** and **some**.
 
 And here's why this is so hard for us — **Malayalam has NO articles.** Zero. None.
 
@@ -139,7 +139,9 @@ So your brain produces: ❌ *"Yesterday I went to hospital and doctor gave medic
 
 **Piece 2 — "doctor":** Which doctor? The one at that hospital. Known from context. → **the doctor** ✅
 
-**Piece 3 — "medicine":** Is medicine countable? No! You can't say "one medicine, two medicines." Uncountable things take **some** or nothing. → **some medicine** ✅
+**Piece 3 — "medicine":** Here *medicine* is a **mass** noun — an unspecified amount of the stuff. Mass nouns take **some** or nothing. → **some medicine** ✅
+
+*(Precision note.)* ⚠️ *Medicine* **can** be counted when you mean particular drugs or types: ✅ *"The doctor prescribed three medicines."* ⭐ But for the amount the doctor handed you, **some medicine** is right.
 
 Now build it:
 
@@ -193,7 +195,9 @@ Now build it:
 - ❌ *I like the cricket* → ✅ **I like cricket.**
 - ❌ *The Malayalam is my mother tongue* → ✅ **Malayalam is my mother tongue.**
 
-*(Rule.)* **Languages, subjects, sports, and abstract ideas take NO article.** ✅
+*(Rule.)* **Languages, subjects and sports take NO article.** ✅ And abstract nouns take none **when you mean them in general**: ✅ *Life is difficult.* ⭐
+
+*(Careful — the flip side.)* ⚠️ When the reference is **specific**, abstract nouns do take *the*: ✅ *the future*, *the past*, ✅ *the life I want*, ✅ *the truth*. ⭐ So it's the **meaning**, not the word, that decides.
 
 ---
 
@@ -232,7 +236,9 @@ Otherwise → **a/an**.
 
 The front word can be: **a, an, the, my, your, this, that, some, one, every**...
 
-*(Rule.)* **A countable singular noun can NEVER stand alone in English.** It always needs a friend in front. Always. Say that to yourself: *"Never alone."*
+*(Rule.)* **In an ordinary sentence, a countable singular noun almost never stands alone.** It normally needs a friend in front. Say it to yourself: *"Hardly ever alone."*
+
+*(The small exceptions, so they don't confuse you later.)* ⚠️ A handful of fixed phrases drop the article: ✅ *go to school*, *go to bed*, *at home*, *at work*, *by bus*, *in hospital* *(British)*, ✅ *She was elected president.* ⭐ Learn those as **chunks** — everywhere else, put a word in front.
 
 - ❌ *I need pen.* ← pen is alone 😢
 - ✅ *I need **a** pen.* ✅
@@ -254,7 +260,7 @@ The front word can be: **a, an, the, my, your, this, that, some, one, every**...
 
 *(Rules.)*
 - **No "the" with:** names of people, cities, states, most countries, languages, subjects, meals, sports
-- **BUT "the" with:** rivers *(the Nile)*, oceans *(the Arabian Sea)*, groups of islands, and country names with "of" or plurals *(the USA, the UK, the Netherlands, the Republic of India)*
+- **BUT "the" with:** rivers *(the Nile)*, seas and oceans *(the Arabian Sea, the Pacific)*, groups of islands, and country names with "of" or plurals *(the USA, the UK, the Netherlands, the Republic of India)*
 
 *(Interesting one.)* Notice:
 - ✅ *I go to **school**.* = I'm a student *(the purpose)*

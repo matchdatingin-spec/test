@@ -80,7 +80,7 @@ In Malayalam, this is easy — **മുടി വെട്ടിച്ചു**, 
 | **have** | have + person + **plain verb** ✅ | *I had him **check** it.* |
 | **get** | get + person + **TO** + verb ⚠️ | *I got him **to check** it.* |
 
-*(Point out.)* **Three take no "to." Only "get" takes "to."** ✅
+*(Point out.)* **With a person: make / let / have take a plain verb, and only "get" takes "to."** ✅ *(Two notes for later: with a **thing** — "get it repaired" — there's no *to*; and in the **passive**, *made* does take one: ✅ "I was **made to** wait.")*
 
 *(Say the slogan.)*
 > **make · let · have → no "to." get → "to."** ✅
@@ -322,7 +322,7 @@ Build it:
 | I got the file send | **I got the file sent** ✅ |
 | I had it wrote | **I had it written** ✅ |
 
-*(Rule.)* **Always the THIRD form after the thing.** ✅
+*(Rule.)* **Use the THIRD form when the action is done TO the thing.** ✅ *(Use *-ing* when it's ongoing: ✅ "I had the engine **running**.")*
 
 *(The V3s you need for this structure.)*
 **cut · fixed · repaired · painted · cleaned · printed · washed · serviced · stitched · renewed · delivered · installed · checked · translated · verified** ✅

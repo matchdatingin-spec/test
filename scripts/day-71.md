@@ -306,7 +306,7 @@ That's it. That's the whole skill. And it's the single biggest thing that separa
 
 *(Explain.)* When you first practise linking, you may **swallow** final consonants entirely:
 - ❌ *"I wan go"* ❌ → ✅ *"I want to go"* → **"I wanna go"** ✅
-- ❌ *"nex week"* ⚠️ → ✅ *"next week"* → **"nex' week"** ✅ *(this one's actually fine!)* 🔗
+- ✅ *"nex' week"* — this one **is** fine: dropping the **t** between two consonants is a real deletion rule ✅ 🔗
 
 *(Clarify.)* Some dropping is **correct** *(Day 43's deletion rules)* ✅ But don't drop **meaning-carrying** endings:
 - ⚠️ Keep the **-s** on plurals ✅ *(files, years)*

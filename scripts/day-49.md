@@ -248,7 +248,7 @@ Because **ചെയ്യും** is one form, Malayalis default to *will*:
 
 | ❌ | ✅ |
 |---|---|
-| I'll call you when I **will** reach | **I'll call you when I reach.** |
+| I'll call you when I **will** get there | **I'll call you when I get there.** |
 | Wait until he **will** come | **Wait until he comes.** |
 | After I **will** finish, I'll leave | **After I finish, I'll leave.** |
 | As soon as she **will** arrive | **As soon as she arrives** |
@@ -327,7 +327,7 @@ Because **ചെയ്യും** is one form, Malayalis default to *will*:
 1. The phone's ringing! — *"I ___ get it."*
 2. Look at those clouds — *"It ___ rain."*
 3. I ___ meet my manager at 3. *(it's scheduled)*
-4. I'll call you when I ___ home. *(reach / will reach)*
+4. I'll call you when I ___ home. *(get / will get)*
 5. ___ I help you with that? *(Will / Shall)*
 
 *(Warm close.)*

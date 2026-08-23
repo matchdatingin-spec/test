@@ -66,7 +66,7 @@ I'll tell you which day each question comes from. Note it down. At the end, you'
 → **Wrong.** ✅ *"I have a headache."* *(Day 01 — owning is not an action)*
 
 **Warm-up 2:** *"Did you went to the office?"* — right or wrong?
-→ **Wrong.** ✅ *"Did you go?"* *(Day 03 — one past per sentence)*
+→ **Wrong.** ✅ *"Did you go?"* *(Day 03 — *did* carries the past)*
 
 **Warm-up 3:** *"I am agree with you."* — right or wrong?
 → **Wrong.** ✅ *"I agree with you."* *(Day 28 — agree is a verb)*
@@ -220,7 +220,7 @@ I'll tell you which day each question comes from. Note it down. At the end, you'
 
 ---
 
-**Q18.** Fill in: *"I'm ___ the bus, I'll reach ___ 6 o'clock ___ Monday."*
+**Q18.** Fill in: *"I'm ___ the bus, I'll arrive ___ 6 o'clock ___ Monday."*
 
 ⏱️ *5 seconds...*
 

@@ -281,7 +281,7 @@ Build it:
 
 | ❌ | ✅ |
 |---|---|
-| You're coming, are you? ⚠️ | **You're coming, aren't you?** ✅ |
+| You're coming, are you? ⚠️ *(correct, but sounds surprised)* | **You're coming, aren't you?** ✅ |
 | He doesn't know, doesn't he? | **He doesn't know, does he?** ✅ |
 
 *(Note.)* ⚠️ *"You're coming, are you?"* **does** exist — but it sounds **surprised** or even **sarcastic**! 😄

@@ -141,7 +141,7 @@ I have been waiting **very intensely**, without sleeping, watching carefully, fo
 | 11 | വാ തുറന്നില്ല | Didn't open mouth | **He didn't say a word.** |
 | 12 | കാല് പിടിക്കുന്നു | Catching feet | **He's begging / pleading.** |
 | 13 | തലയിൽ മുണ്ടിട്ടു | Put cloth on head | **He's hiding in shame.** |
-| 14 | പുലിവാല് പിടിച്ചു | Caught a tiger's tail | **I bit off more than I can chew.** 🐯 |
+| 14 | പുലിവാല് പിടിച്ചു | Caught a tiger's tail | **I bit off more than I could chew.** 🐯 |
 | 15 | ചങ്ക് പറിഞ്ഞു | Heart got torn | **It broke my heart.** 💔 |
 | 16 | മുതലക്കണ്ണീർ | Crocodile tears | **Crocodile tears.** ✅ *(same idiom!)* 🐊 |
 | 17 | അവന്റെ വാക്കിന് വിലയില്ല | His word has no price | **His word means nothing.** / **You can't trust him.** |

@@ -259,7 +259,7 @@ Today: **30 replacements**, organised by what you're actually describing. Let's 
 | നല്ല ക്ഷീണം | **exhausted** 🔗 *(intensifier!)* ✅ |
 | നല്ല മഴ | **heavy** rain ✅ |
 | നല്ല ഉറക്കം | a **deep** sleep ✅ |
-| നല്ല വില | an **expensive** price ⚠️ *(or reasonable — context!)* |
+| നല്ല വില | a **high** price ⚠️ *(or a good/reasonable price — context!)* |
 
 *(Emphasise.)* **Eight different English words.** ✅ From one Malayalam word. ✅
 

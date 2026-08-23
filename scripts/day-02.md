@@ -183,7 +183,7 @@ English does emphasis in a completely different way. Not with an extra word at t
 | Malayalam | ❌ Word-for-word | ✅ Real English |
 |---|---|---|
 | ഞാൻ കേരളത്തിൽ നിന്ന് തന്നെ | I'm from Kerala only | **I'm from Kerala.** *(stress "Kerala")* |
-| ഇന്ന് തന്നെ അയക്കും | Today itself I'll send | **I'll send it today itself → I'll send it TODAY.** |
+| ഇന്ന് തന്നെ അയക്കും | Today itself I'll send | **I'll send it TODAY.** |
 | ഞാൻ തന്നെ ചെയ്തു | I only did it | **I did it myself.** |
 | അത് ശരി തന്നെ | That is correct only | **That's absolutely correct.** |
 | ഇപ്പോൾ തന്നെ വരണം | Now itself you must come | **You need to come right now.** |

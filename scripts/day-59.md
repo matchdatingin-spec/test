@@ -221,7 +221,7 @@ Build it:
 #### 🔧 In processes and instructions ✅
 
 - ✅ *First, the rice **is washed**. Then it **is soaked** for an hour.* ✅
-- ✅ *The form **is filled** online and **submitted** with two photos.* ✅
+- ✅ *The form **is filled in** online and **submitted** with two photos.* ✅ *(*fill* needs its particle: *fill **in** a form* (BrE) / *fill **out** a form* (AmE).)*
 
 *(Note.)* **Describing a process** is a classic **IELTS Writing Task 1** task ✅ — and passive is exactly right there. ⭐ 🔗 *(Day 89)*
 
@@ -302,7 +302,7 @@ Build it:
 |---|---|
 | The file was send | **The file was sent** |
 | It was wrote by him | **It was written by him** |
-| The work is complete *(as passive)* ⚠️ | **The work is completed** ✅ / **The work is complete** ✅ *(adjective — also fine!)* |
+| The work is complete — *used as a passive* ⚠️ | **The work is completed** ✅ *(passive)* / **The work is complete** ✅ *(adjective — also correct, different structure)* |
 | The meeting was cancel | **The meeting was cancelled** |
 | He was gave a warning | **He was given a warning** |
 

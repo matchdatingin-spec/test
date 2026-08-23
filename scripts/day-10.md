@@ -225,11 +225,11 @@ And *"shouldn't"* sits in between — gentle warning:
 ### Trap 3: Forgetting "to"
 
 - ❌ *I must to go* → ✅ **I must go.** *(must takes NO to)*
-- ❌ *I have go* → ✅ **I have to go.** *(have ALWAYS takes to)*
+- ❌ *I have go* → ✅ **I have to go.** *(obligation *have to* always keeps its *to*)*
 - ❌ *I should to study* → ✅ **I should study.** *(should takes NO to)*
 - ❌ *I need go* → ✅ **I need to go.** *(need takes to)*
 
-*(Simple memory trick.)* **Short words hate "to": must, should, can, will, might.** **Long words love "to": have to, need to, ought to, want to.**
+*(The real rule — it's about word type, not word length.)* **Modals take a plain verb: must, should, can, will, might, could.** ✅ **Semi-modals keep "to": have to, need to, want to — and *ought to*, which is a modal that keeps its *to*.** ✅
 
 ---
 
@@ -248,7 +248,7 @@ Comment your answers — I'll correct every one.
 
 *(Warm close.)*
 
-That first one is the real test. Get it wrong in real life and you might accidentally forbid your friend from being kind to you. 😄
+That first one is the real test. Get it wrong in real life and you might accidentally forbid your friend to be kind to you. 😄
 
 Tomorrow, Day 11 — **been vs gone.** *"He has been to Dubai"* and *"He has gone to Dubai"* mean two completely different things. One means he's back. One means he's still there. I'll show you the picture that makes it obvious forever.
 

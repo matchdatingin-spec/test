@@ -102,7 +102,7 @@ Reading is not learning. Your **mouth** must make the shape. Reading with your e
 | 10 | **Let's eat out today.** | ഇന്ന് പുറത്ത് കഴിക്കാം |
 | 11 | **Did you lock the door?** | വാതിൽ പൂട്ടിയോ? |
 | 12 | **I'll do the dishes.** | ഞാൻ പാത്രം കഴുകാം |
-| 13 | **Where did you keep my phone?** | എന്റെ ഫോൺ എവിടെ വച്ചു? |
+| 13 | **Where did you put my phone?** | എന്റെ ഫോൺ എവിടെ വച്ചു? |
 | 14 | **I'm going to bed.** | ഞാൻ കിടക്കാൻ പോകുന്നു |
 | 15 | **Sleep well!** | സുഖമായി ഉറങ്ങ് |
 

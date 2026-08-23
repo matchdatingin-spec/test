@@ -230,4 +230,4 @@ Bonus challenge for the sharp ones — explain in the comments **why** this sent
 
 Tomorrow, Day 04 — **would, should, could.** The three words everyone uses randomly, hoping it sounds polite. We will make each one crystal clear with real-life situations.
 
-Remember: **one sentence, one past.** See you tomorrow!
+Remember: ***did* carries the past — the next verb stays plain.** See you tomorrow!

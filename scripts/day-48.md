@@ -184,14 +184,14 @@ Watch how native speakers **switch** tenses in a real exchange:
 |---|---|---|
 | Explaining you can't find your keys | **I've lost my keys.** | result matters now 🔗 |
 | Telling when you lost them | **I lost them yesterday.** | date given ⬅️ |
-| Interview: your experience | **I've worked with three companies.** | experience, no dates 🔗 |
+| Interview: your experience | **I've worked for three companies.** | experience, no dates 🔗 |
 | Interview: a specific job | **I worked at TCS from 2019 to 2021.** | dates given ⬅️ |
 | Someone offers you food | **No thanks, I've already eaten.** | result matters now 🔗 |
 
 *(Highlight rows 3 and 4 — interview gold!)* ⭐
 
 *(Explain.)* This distinction genuinely matters in interviews:
-- ✅ *"I'**ve worked** with three companies."* → my overall experience 🔗
+- ✅ *"I'**ve worked** for three companies."* → my overall experience 🔗 *(*work **for/at*** an employer; *work **with*** = collaborate.)*
 - ✅ *"I **worked** at TCS **from 2019 to 2021**."* → the specific record ⬅️
 
 *(Say firmly.)* And **never** say ❌ *"I have worked at TCS from 2019 to 2021"* — the dates force simple past. ✅
@@ -284,7 +284,7 @@ Watch how native speakers **switch** tenses in a real exchange:
 
 | ❌ | ✅ |
 |---|---|
-| I am here since morning | **I've been here since morning** |
+| I am here since morning | **I've been here since this morning** |
 | I work here since 2020 | **I've been working here since 2020** |
 | I know him since 10 years | **I've known him for 10 years** |
 

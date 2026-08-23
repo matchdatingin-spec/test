@@ -20,7 +20,7 @@ You need Friday off. You write:
 
 *(Pause.)*
 
-*(Explain.)* Eighty words. ✅ Three apologies. ✅ And notice what's **missing**: ⚠️
+*(Explain.)* Sixty-two words. ✅ One apology, buried in padding. ✅ And notice what's **missing**: ⚠️
 
 - ❓ What **date** exactly? ✅
 - ❓ How many **days**? ✅
@@ -166,7 +166,7 @@ Today: ten templates. Let's go. 🚀
 >
 > *Hi Rajesh,*
 >
-> *I'm unwell today — fever since last night — so I won't be able to come in.*
+> *I'm unwell today — I've had a fever since last night — so I won't be able to come in.*
 >
 > *I've asked Anu to handle anything urgent. I'll be on my phone if something needs my input.*
 >

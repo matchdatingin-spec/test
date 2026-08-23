@@ -234,7 +234,7 @@ Same old Malayalam habit — no separate "be" verb:
 
 - ❌ *I used to this weather* → ✅ **I'm used to this weather.**
 - ❌ *He not used to spicy food* → ✅ **He isn't used to spicy food.**
-- ❌ *Are you used to it?* ✅ *(this one's correct!)*
+- ✅ *Are you used to it?* ✅ *(this one's already correct!)*
 
 *(Reminder.)* If your meaning is "comfortable," you **must** have am/is/are/was/were. No "be" = no comfort meaning.
 
@@ -272,7 +272,7 @@ Comment your answers — I reply to every one!
 
 *(Warm close.)*
 
-Number 3 is one letter away from being correct. Find the missing three letters and comment your answer! 🔍
+Number 3 is three letters away from being correct. Find the missing three letters and comment your answer! 🔍
 
 Tomorrow, Day 17 — **should have, could have, would have.** The "regret" trio. **ഞാൻ അത് ചെയ്യേണ്ടിയിരുന്നു** — how do you say that in English? These three patterns let you talk about the past you wish had been different. Very powerful, and very easy once you see the shape.
 

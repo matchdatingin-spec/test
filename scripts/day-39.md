@@ -210,9 +210,9 @@ Find the main action: **ജോലി ചെയ്യുന്നു → works** 
 #### 4️⃣ **while / when / after / before** — adds time
 
 - ✅ ***While** I was waiting, I read the news.*
-- ✅ *I'll call you **after** I reach home.*
+- ✅ *I'll call you **after** I get home.*
 
-*(Remember Day 26!)* After time words → **present tense** for future. ✅ *"after I **reach**"*, not "will reach." 🔗
+*(Remember Day 26!)* After time words → **present tense** for future. ✅ *"after I **get** home"*, not "will get home." 🔗
 
 #### 5️⃣ **-ing phrases** — the elegant one ⭐
 

@@ -208,7 +208,7 @@ You're in a meeting. Someone proposes something you know **won't work** — you'
 | *"I don't know."* | **"I'm not sure — let me check and get back to you."** ⭐ |
 | *"Sorry sir, no idea."* | **"That's outside my area, but I can find out."** ✅ |
 | *(silence)* ⚠️ | **"I'd need to look at the data before I answer that."** ⭐ |
-| *(guessing)* ⚠️ | **"I don't want to guess on that — can I confirm and revert by evening?"** ⭐ |
+| *(guessing)* ⚠️ | **"I don't want to guess on that — can I confirm and get back to you by this evening?"** ⭐ |
 
 *(Emphasise.)*
 

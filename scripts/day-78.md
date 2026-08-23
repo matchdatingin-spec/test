@@ -129,7 +129,7 @@ Today I'll give you a structure — **P-A-S-S** — for a **90-second** answer t
 > ✅ Your **name** + your **qualification** + **one** positioning line ✅
 
 **Model:**
-> ✅ *"Good morning. I'm Arun. I completed my B.Com from Calicut University last year, and I've been focusing on accounting and data analysis since then."* ⭐
+> ✅ *"Good morning. I'm Arun. I completed my B.Com at Calicut University last year, and I've been focusing on accounting and data analysis since then."* ⭐
 
 *(Break it down.)*
 | Piece | ✅ |
@@ -242,7 +242,7 @@ Today I'll give you a structure — **P-A-S-S** — for a **90-second** answer t
 
 *(Read it at natural speed. This is the deliverable.)*
 
-> ✅ *"Good morning. I'm Arun. I completed my B.Com from Calicut University last year, and since then I've been building my skills in accounting and data work.*
+> ✅ *"Good morning. I'm Arun. I completed my B.Com at Calicut University last year, and since then I've been building my skills in accounting and data work.*
 >
 > *On the technical side, I'm comfortable with Excel — pivot tables, VLOOKUP — and I've worked with Tally for basic accounting. I'm also confident in written and spoken English, which I know matters for client communication. I'd say my main strength is that I'm organised; I keep everything documented.*
 >
@@ -258,7 +258,7 @@ Today I'll give you a structure — **P-A-S-S** — for a **90-second** answer t
 
 *(A second template so it transfers.)*
 
-> ✅ *"Good afternoon. I'm Meera. I finished my B.Tech in Computer Science from MG University this year, and I've been focusing on front-end development.*
+> ✅ *"Good afternoon. I'm Meera. I finished my B.Tech in Computer Science at MG University this year, and I've been focusing on front-end development.*
 >
 > *I work mainly with HTML, CSS, JavaScript and React. I've built three projects on my own — the main one is a small booking app that I put on GitHub. I'm also comfortable with Git and basic SQL.*
 >

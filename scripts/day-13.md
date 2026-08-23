@@ -174,12 +174,12 @@ Build it:
 |---|---|---|
 | You need a charger at work | **Can I borrow your charger for ten minutes?** | I take ⬅️ |
 | A friend needs money | **I lent him ₹2000 last week.** | I give ➡️ |
-| Explaining a bank loan | **I took a loan from the bank.** | *(loans use "take"!)* |
+| Explaining a bank loan | **I took out a loan from the bank.** | *(loans use "take out"!)* |
 | Returning something | **Thanks for lending me your notes.** | they gave ➡️ |
 | Library rule | **You can borrow up to three books.** | you take ⬅️ |
 
 *(Highlight row 3 — important exception.)* For **loans** from banks, English says **take a loan** or **get a loan**, not "borrow a loan":
-- ✅ *I took a home loan.*
+- ✅ *I took out a home loan.*
 - ✅ *I got a loan from SBI.*
 - ✅ *The bank lent me ₹10 lakhs.* *(bank gives = lend ✅)*
 

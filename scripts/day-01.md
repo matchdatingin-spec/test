@@ -189,7 +189,7 @@ Why do we all make the same mistake? Because of one Malayalam word: **ഉണ്�
 
 **എന്റെ കയ്യിൽ ഒരു car ഉണ്ട്.** — ഉണ്ട് means "exists / is there." It feels like a *present, right now* thing. And in your English class, they taught you that "right now" means **-ing**. So your brain says: right now + have = *am having*. Perfectly logical. Completely wrong.
 
-Here is the real English logic. **"Have" for owning is not an action.** You are not *doing* anything. The car just belongs to you, while you sleep, while you eat, while you do nothing. Nothing is happening. And **-ing is only for things that are happening**.
+Here is the real English logic. **"Have" for owning is not an action.** You are not *doing* anything. The car just belongs to you, while you sleep, while you eat, while you do nothing. Nothing is happening. And the **-ing** tense is for things **in progress** — not for states like owning. *(The **-ing** form does other jobs too, which we'll meet later.)*
 
 So:
 - Owning → **I have a car.** ✅

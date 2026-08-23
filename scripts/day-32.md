@@ -219,7 +219,7 @@ Step 5 is where most people get stuck, because they only know **"and"** and **"b
 
 | Malayalam | ✅ English connector | Example |
 |---|---|---|
-| -പ്പോൾ / -അപ്പോൾ | **when** | *When I reached, he had left.* |
+| -പ്പോൾ / -അപ്പോൾ | **when** | *When I arrived, he had left.* |
 | അതുകൊണ്ട് | **so** | *It was raining, so I stayed home.* |
 | കാരണം / എന്തുകൊണ്ടെന്നാൽ | **because** | *I'm late because of the traffic.* |
 | പക്ഷേ / എങ്കിലും | **but** / **although** | *Although it rained, we went.* |

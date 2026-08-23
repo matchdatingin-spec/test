@@ -79,7 +79,7 @@ Three English phrases, one Malayalam ending. Today we split them. Let's go. 🚀
 
 *(Test it.)*
 - ✅ *You're **supposed to** submit it by Friday.* ← a rule ✅
-- ✅ *This form is **meant to** be filled in blue ink.* ← its design ✅
+- ✅ *This form is **meant to** be completed in blue ink.* ← its design ✅
 
 **Malayalam:** **ഉദ്ദേശിച്ചത് / ആകേണ്ടതായിരുന്നു** ✅
 
@@ -251,8 +251,8 @@ Build it:
 | Malayalam | ⚠️ Limited | ✅ Better |
 |---|---|---|
 | ഞാൻ ഇന്ന് തീർക്കണം | I should finish today | **I'm supposed to finish it today** ⭐ |
-| Meeting 3-ന് തുടങ്ങേണ്ടതായിരുന്നു | Meeting should start at 3 ⚠️ | **The meeting was supposed to start at 3** ⭐ |
-| നിങ്ങൾ helmet ഇടണം | You should wear helmet | **You're supposed to wear a helmet** ✅ |
+| Meeting 3-ന് തുടങ്ങേണ്ടതായിരുന്നു | The meeting should start at 3 ⚠️ | **The meeting was supposed to start at 3** ⭐ |
+| നിങ്ങൾ helmet ഇടണം | You should wear **a** helmet ⚠️ | **You're supposed to wear a helmet** ✅ |
 | അവൻ വിളിക്കേണ്ടതായിരുന്നു | He should call me | **He was supposed to call me** ⭐ |
 
 *(Point out the difference.)* ⚠️ *"Meeting should start at 3"* sounds like **your opinion** ✅ *"The meeting **was supposed to** start at 3"* reports the **actual plan** — and implies it didn't. ⭐

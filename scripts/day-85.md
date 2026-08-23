@@ -157,7 +157,7 @@ The professional version is **one** message:
 |---|---|
 | *"Sir I am coming"* 🔗 | *"On my way — about 20 minutes."* ⭐ |
 | *"Sir traffic is there"* | *"Stuck in traffic on Bypass — I'll be about 15 minutes late for the 10 am."* ⭐ |
-| *"Sir today I will not come, fever"* | *"Hi Rajesh — I'm unwell today, fever since last night. Won't be able to come in. Anu has my urgent items."* ⭐ |
+| *"Sir today I will not come, fever"* | *"Hi Rajesh — I'm unwell today; I've had a fever since last night. Won't be able to come in. Anu has my urgent items."* ⭐ |
 
 *(Emphasise.)* ⭐ Note the pattern: **the problem + the impact + what you've done about it.** ✅
 
@@ -415,7 +415,7 @@ And the **one habit** to change today:
 
 Tomorrow, Day 86 — **resume and cover letter.** 📄
 
-*(Energetic.)* And this is where all of Days 78–82 pays off. ✅ Because your resume has to do the **same** job as your interview answers — but in **writing**, and in about **six seconds** of a recruiter's attention. ⚡
+*(Energetic.)* And this is where all of Days 78–82 pay off. ✅ Because your resume has to do the **same** job as your interview answers — but in **writing**, and in about **six seconds** of a recruiter's attention. ⚡
 
 *(Explain.)* Tomorrow: how to turn *"handled billing"* into a line that gets you shortlisted, the bullet formula that works, and what to actually write in a cover letter when you feel you have nothing to say. ⭐
 

@@ -254,7 +254,7 @@ Malayalam loves case endings, so we add prepositions everywhere:
 - ❌ *contact to him* → ✅ **contact him**
 - ❌ *going to home* → ✅ **going home**
 
-*(Rule.)* **Discuss, reach, enter, marry, contact, answer, request** — these six verbs need **NO preposition**. They grab the object directly.
+*(Rule.)* **Discuss, reach, enter, marry, contact, answer, request** — these seven verbs take their object **directly**, with no preposition, in this basic meaning. ✅ *(Other senses can take one: ✅ *reach **for** the salt*, *enter **into** an agreement*.)*
 
 *(And the opposite — missing prepositions.)*
 - ❌ *listen the song* → ✅ **listen to the song**
@@ -281,7 +281,7 @@ Malayalam loves case endings, so we add prepositions everywhere:
 
 *(Explain #10 — very useful.)*
 - ✅ *The bus came **on time**.* = exactly at the scheduled time ⏰
-- ✅ *I reached **in time** to catch the bus.* = early enough, with margin ✅
+- ✅ *I arrived **in time** to catch the bus.* = early enough, with margin ✅
 
 ---
 

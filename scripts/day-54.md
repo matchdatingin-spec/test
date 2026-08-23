@@ -67,7 +67,7 @@ Today we separate the two lives — and I'll give you **30 real-life examples** 
 - ❌ *I am having a car* ❌
 - ✅ **I have a car** ✅
 
-*(Explain the logic again.)* Because owning is not an **action** — it's a **state**. It's true while you sleep, while you eat, while you do nothing. And **-ing is only for things happening**. ✅
+*(Explain the logic again.)* Because owning is not an **action** — it's a **state**. It's true while you sleep, while you eat, while you do nothing. And the **-ing** tense is for things **in progress** — not for states like owning. ✅ *(The **-ing** form has other jobs too: ✅ "I'm flying to Delhi on Monday" is a fixed arrangement.)*
 
 ### 🔧 LIFE 2: "Have" as a HELPER = builds perfect tenses
 
@@ -203,7 +203,7 @@ Build it:
 | 3 | **I have a headache.** | I am having a headache |
 | 4 | **Do you have change for ₹500?** | Are you having change? |
 | 5 | **He has a good job.** | He is having a good job |
-| 6 | **We have a meeting at 3.** | We are having... ✅ *(actually fine!)* |
+| 6 | **We have a meeting at 3.** | *(no error — "We're having a meeting" is also correct: see note below)* ✅ |
 | 7 | **I don't have time.** | I am not having time |
 | 8 | **She has long hair.** | She is having long hair |
 | 9 | **They have three children.** | They are having three children |
@@ -329,7 +329,7 @@ Build it:
 
 | ❌ | ✅ | Why |
 |---|---|---|
-| Have you a pen? | **Do you have a pen?** | real verb → needs *do* |
+| Have you a pen? ⚠️ | **Do you have a pen?** | correct but dated — modern English uses *do* |
 | Do you have finished? | **Have you finished?** | helper → works alone |
 | Don't you have seen it? | **Haven't you seen it?** | helper → *haven't* |
 | Are you having a car? | **Do you have a car?** | possession → plain + *do* |

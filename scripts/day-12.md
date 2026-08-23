@@ -161,12 +161,12 @@ Because **"here" can be the place you're talking about**, not just your body. Th
 *(Honest observation.)* In Kerala English, *take* has become the all-purpose verb:
 
 - ❌ *Take rest* → ✅ **get some rest**
-- ❌ *Take a photo of me... okay this one is fine!* ✅
+- ✅ *Take a photo of me* — this one is fine! ✅
 - ❌ *I will take leave tomorrow* → ✅ **I'll take the day off** / **I'm on leave tomorrow** *(take leave is understood but sounds Indian)*
 - ❌ *Take your food* → ✅ **Have your food** / **Go ahead and eat**
-- ❌ *Take medicine... also fine!* ✅
+- ✅ *Take medicine* — also fine! ✅
 - ❌ *I took my degree in 2020* → ✅ **I did my degree in 2020** / **I graduated in 2020**
-- ❌ *Take a bath... fine in most English!* ✅
+- ✅ *Take a bath* — fine in most English! ✅
 
 *(Smile.)* So *take* is genuinely useful — just not for **rest**, **food**, or **degrees**.
 

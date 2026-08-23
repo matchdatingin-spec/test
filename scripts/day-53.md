@@ -82,7 +82,9 @@ But English **hires a helper** — a separate word that arrives and takes over t
 
 *(This prevents a big error.)*
 
-*(Explain.)* If your sentence already has **am/is/are/was/were**, or **can/will/should/have** — **do not** add *do*! Those words are **already** helpers, and they do the job themselves. ✅
+*(Explain.)* If your sentence already has **am/is/are/was/were**, or **can/will/should**, or **have/has as the perfect helper** — **do not** add *do*! Those words are **already** helpers, and they do the job themselves. ✅
+
+*(One trap.)* ⚠️ When *have* is the **main verb** meaning "own," it **does** need *do* in modern English: ✅ *"**Do** you **have** a car?"* ⭐ *("Have you a car?" is correct but old-fashioned.)*
 
 | ❌ | ✅ |
 |---|---|
@@ -294,7 +296,7 @@ Build it:
 | Does she works here? | **Does she work here?** |
 | Doesn't he knows? | **Doesn't he know?** |
 
-*(Rule.)* **One -s per sentence.** It goes on *does*, not on the verb. ✅
+*(Rule.)* **One -s per verb phrase.** It goes on *does*, not on the main verb. ✅ *(A sentence can have more than one: ✅ "He **works** here and **knows** everyone.")*
 
 ### Trap 4: Mixing "do" with "be"
 

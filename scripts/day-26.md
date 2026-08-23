@@ -123,7 +123,7 @@ Look at the verb: **finish**, not "will finish."
 
 *(Explain the rule.)* **After time words — until, when, before, after, as soon as — English uses the PRESENT tense for future meaning.** No *will*!
 
-- ✅ *I'll call you when I **reach**.* ← not "will reach"
+- ✅ *I'll call you when I **get there**.* ← not "will get there"
 - ✅ *Wait until he **comes**.* ← not "will come"
 - ✅ *Let's start as soon as she **arrives**.* ← not "will arrive"
 - ✅ *I'll message you after I **finish**.* ← not "will finish"
@@ -136,7 +136,7 @@ Look at the verb: **finish**, not "will finish."
 3. Call me as soon as you **land**. ✅
 
 *(Malayali warning.)* This is a **very** common error:
-- ❌ *I will call you when I will reach home* → ✅ **I'll call you when I reach home.** ✅
+- ❌ *I will call you when I will get home* → ✅ **I'll call you when I get home.** ✅
 
 ### Sentence 2 — built piece by piece
 

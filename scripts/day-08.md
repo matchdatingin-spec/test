@@ -206,7 +206,7 @@ This is the big structural one. Malayalam politeness deletes the subject:
 
 ### Trap 3: "Can" for the future
 
-Malayalis say ❌ *"I can come tomorrow"* when they mean *"I will come tomorrow."*
+Malayalis say ⚠️ *"I can come tomorrow"* when they mean *"I will come tomorrow."* *(The sentence is correct — it just states availability, not a promise.)*
 
 - **Can** = ability/possibility exists.
 - **Will** = it's actually going to happen.

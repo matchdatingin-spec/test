@@ -237,7 +237,7 @@ Now the same job, written properly:
 
 > ✅ *Dear Sir/Madam,*
 >
-> *I'm writing to apply for the Junior Accounts Assistant role at Anand & Associates. I completed my B.Com from Calicut University this year and I'm looking to start my career in accounting.*
+> *I'm writing to apply for the Junior Accounts Assistant role at Anand & Associates. I completed my B.Com at Calicut University this year and I'm looking to start my career in accounting.*
 >
 > *I know I'm applying without work experience, so I'd point to two things instead. I'm already comfortable with the tools — advanced Excel including pivot tables and VLOOKUP, plus basic Tally, which I learned independently in three weeks for my final-year project. And I've done real work with them: during my project I built a fee-tracking system for around 400 student records, which reduced the college office's monthly checking from two days to about an hour. They still use it.*
 >

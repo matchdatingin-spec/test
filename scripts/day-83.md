@@ -39,7 +39,7 @@ Now the modern version:
 > *Best regards,*
 > *Vinod"* ⭐
 
-*(Emphasise.)* **Forty words instead of eighty.** ✅ Warmer. Clearer. And it makes Vinod look **senior**, not junior. ⭐
+*(Emphasise.)* **Thirty words instead of fifty-seven.** ✅ Warmer. Clearer. And it makes Vinod look **senior**, not junior. ⭐
 
 *(Lean in.)*
 
@@ -119,7 +119,7 @@ Today: the complete formula. Let's go. 🚀
 |---|---|
 | *"As you know, the quarter is ending and there have been several client queries, and considering the workload, I would like to request..."* ⚠️ | *"Could I take Friday off? I've cleared my pending work and Anu will cover urgent queries."* ⭐ |
 
-*(Firmly.)* ⭐ **Reader's first question is "what do you want from me?"** ✅ Answer it immediately. ✅
+*(Firmly.)* ⭐ **The reader's first question is "what do you want from me?"** ✅ Answer it immediately. ✅
 
 ---
 

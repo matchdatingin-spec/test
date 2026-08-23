@@ -106,7 +106,7 @@ Today: the full rebuild, criterion by criterion. Let's go. 🚀
 
 ---
 
-### ❌ THE FULL "BEFORE" ESSAY — around Band 5.5 *(241 words)*
+### ❌ THE FULL "BEFORE" ESSAY — around Band 5.5 *(219 words)*
 
 *(Show it complete, then dissect.)*
 
@@ -140,7 +140,7 @@ Today: the full rebuild, criterion by criterion. Let's go. 🚀
 | Problem | Why |
 |---|---|
 | No topic sentences ⚠️ | *"online learning has many advantages"* is a heading, not an idea ✅ |
-| **"Also"** used **seven** times ⚠️ | limited cohesion range ✅ |
+| **"Also"** used **nine** times ⚠️ | limited cohesion range ✅ |
 | Ideas listed, not developed ⚠️ | each sentence is a new point ⚠️ |
 | No examples ⚠️ | Band 7 needs support ✅ |
 
@@ -152,7 +152,7 @@ Today: the full rebuild, criterion by criterion. Let's go. 🚀
 | *"since time immemorial"* ⚠️ | wrong and absurd for this topic 😄 |
 | *"each coin has two sides"* ⚠️ | coaching-centre cliché ⚠️ |
 | *"very useful," "very important," "very debatable"* ⚠️ | *very* + weak word 🔗 *(Day 74)* |
-| Repeats *"students"* **nine** times ⚠️ | no variation ✅ |
+| Repeats *"students"* **seven** times ⚠️ | no variation ✅ |
 
 #### ✍️ **GRA** — Grammar: Band 6
 
@@ -188,7 +188,7 @@ Today: the full rebuild, criterion by criterion. Let's go. 🚀
 | Paraphrased the question properly ✅ | **LR** 📚 |
 | **Stated the position in sentence 2** ⭐ | **TR** 🎯 |
 | *"While I accept... I do not believe..."* — a complex sentence ✅ | **GRA** ✍️ |
-| Word count: 68 → **44** ✂️ | efficiency ✅ |
+| Word count: 57 → **45** ✂️ | efficiency ✅ |
 
 *(Emphasise.)* ⭐ **Shorter and higher-scoring.** ✅ Because every word now does work. ⭐
 
@@ -265,7 +265,7 @@ Today: the full rebuild, criterion by criterion. Let's go. 🚀
 
 ---
 
-### 📄 THE FULL "AFTER" ESSAY — Band 7 *(281 words)*
+### 📄 THE FULL "AFTER" ESSAY — Band 7 *(295 words)*
 
 *(Show complete on screen.)*
 
@@ -383,7 +383,7 @@ Today: the full rebuild, criterion by criterion. Let's go. 🚀
 
 > ❌ *"Nowadays, in this modern world, many people are thinking that children should learn a second language in primary school. Some are agreeing and some are disagreeing. In this essay I will discuss both sides and give my opinion."*
 
-**Question 2 — the 19-point audit.** 📊 Run the checklist from this video on your **last** practice essay.
+**Question 2 — the 17-point audit.** 📊 Run the checklist from this video on your **last** practice essay.
 
 Comment: **which criterion had the most unticked boxes?** ⭐ *(TR / CC / LR / GRA)*
 

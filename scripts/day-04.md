@@ -145,7 +145,7 @@ Now feel the strength levels. This is where students get lost — so let's make 
 | You want tea offered to a guest | **Would you like some tea?** | imagining them accepting — most polite offer |
 | Your phone bill is high | **You should switch to a cheaper plan.** | advice |
 | Talking about your childhood | **I could run very fast when I was young.** | past ability |
-| Dreaming about money | **If I won a lottery, I would buy a house in Munnar.** | imaginary world |
+| Dreaming about money | **If I won the lottery, I would buy a house in Munnar.** | imaginary world |
 | Guessing where your friend is | **He could be stuck in traffic.** | possibility / guess |
 
 *(Highlight row 1.)* **"Would you like...?"** — memorise this exact phrase. It is the most polite way to offer anything in English. Not *"Do you want tea?"* — that's blunt. Not *"You want tea?"* — that's very Malayali. Say **"Would you like some tea?"**

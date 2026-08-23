@@ -266,7 +266,7 @@ So:
 
 And the common Malayali error:
 - ❌ *We are helping to each other* → ✅ **We help each other.** *(no "to"!)*
-- ❌ *They talked with each other... ✅ actually fine!* ✅
+- ✅ *They talked with each other.* ✅ *(also: talked **to** each other — both correct)*
 
 ---
 

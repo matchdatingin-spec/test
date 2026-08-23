@@ -2,7 +2,7 @@
 
 **Target length:** 14–16 minutes
 **Level:** All levels
-**One-line promise:** Malayalam has **one** letter where English has **two** sounds. Learn the two mouth positions, and this fixes forever.
+**One-line promise:** Malayalam has **one** letter where English has **two** sounds. Learn the two mouth positions, and it's fixed forever.
 
 **📌 Format note:** A **physical-technique** video. The Malayalam sound-system analysis moves to Section 2 (it *is* the core logic here), and Section 4 becomes the drill and self-testing method.
 

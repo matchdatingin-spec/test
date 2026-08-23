@@ -211,7 +211,7 @@ Practise those short forms out loud. If you say the full *"I have been"* every t
 
 **"Been"** also works with time periods, for things still continuing:
 
-- ✅ *I have been in this company for three years.* ← still working here
+- ✅ *I have been with this company for three years.* ← still working here
 - ✅ *She has been sick since Monday.* ← still sick
 - ✅ *We have been friends for ten years.* ← still friends
 

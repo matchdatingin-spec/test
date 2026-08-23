@@ -163,7 +163,7 @@ Malayalam has roughly **three** main time buckets:
 #### 4️⃣ Present Perfect Continuous — *"He has been drinking tea for 20 years."*
 
 **Shape:** have/has been **+ -ing** 🔗🔄
-**Meaning:** started in the past, and it **reaches now** *(still going, or just stopped)*
+**Meaning:** started in the past, and it **reaches up to now** *(still going, or just stopped)*
 **Malayalam:** 20 വർഷമായി കുടിക്കുന്നു
 
 > ✅ *"He **has been drinking** tea for twenty years."* ← still does ✅
@@ -218,7 +218,7 @@ Malayalam has roughly **three** main time buckets:
 
 ---
 
-#### 7️⃣ Past Perfect — *"He had already left when I reached."*
+#### 7️⃣ Past Perfect — *"He had already left when I arrived."*
 
 **Shape:** had **+ V3** 🔗
 **Meaning:** the **earlier** of two past events ⛔
