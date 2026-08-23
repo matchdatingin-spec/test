@@ -14,7 +14,7 @@ Let me describe your brain when you speak English.
 
 You want to sound polite. So you reach for a soft word. And your hand grabs whichever one comes first:
 
-> ❌ *"Should you help me?"*
+> ⚠️ *"Should you help me?"*
 > ❌ *"I would like to know, would you free tomorrow?"*
 > ❌ *"If I would study more, I could be a doctor."*
 
@@ -102,7 +102,7 @@ Now compare the family:
 | ✅ **Can** you send me the file? | Normal, friendly. Fine with friends. |
 | ✅ **Could** you send me the file? | Polite, safe with anyone. **Use this.** |
 | ✅ **Would** you send me the file? | Polite, slightly formal, a bit distant. |
-| ❌ **Should** you send me the file? | *"Is it your duty to send it?"* 😳 Wrong. |
+| ⚠️ **Should** you send me the file? | *"Is it your duty to send it?"* 😳 Wrong. |
 
 **Golden rule for requests:** *Could* is your default. Learn one and use it everywhere: **"Could you...?"**
 
@@ -148,7 +148,7 @@ Now feel the strength levels. This is where students get lost — so let's make 
 | Dreaming about money | **If I won the lottery, I would buy a house in Munnar.** | imaginary world |
 | Guessing where your friend is | **He could be stuck in traffic.** | possibility / guess |
 
-*(Highlight row 1.)* **"Would you like...?"** — memorise this exact phrase. It is the most polite way to offer anything in English. Not *"Do you want tea?"* — that's blunt. Not *"You want tea?"* — that's very Malayali. Say **"Would you like some tea?"**
+*(Highlight row 1.)* **"Would you like...?"** — memorise this exact phrase. It is the most polite way to offer anything in English. Not *"Do you want tea?"* — that's blunt. And *"You want tea?"* is normal spoken English too — just very direct. ✅ For offering, say **"Would you like some tea?"**
 
 *(Highlight row 5.)* And note: for an **open guess**, English uses *could*, *might*, or *may*. ✅ *"He could be stuck in traffic"* = one possibility among several.
 
@@ -192,7 +192,7 @@ So after would/could/should, you must supply the verb — and very often, the mi
 
 ### Trap 2: "I would like" vs "I like"
 
-Malayalis often say ❌ *"I am liking to join your class"* or ❌ *"I like to know the fees."*
+Malayalis often say ⚠️ *"I am liking to join your class"* or ⚠️ *"I like to know the fees."*
 
 The difference is small but important:
 

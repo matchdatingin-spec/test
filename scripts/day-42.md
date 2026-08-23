@@ -153,7 +153,7 @@ Let's build it with all three parts.
 
 **Malayalam:** അത് ശരിയാകില്ല എന്ന് എനിക്ക് തോന്നുന്നു.
 
-Your brain builds: ❌ *"That is wrong. It will not work."*
+Your brain builds: ⚠️ *"That is wrong. It will not work."*
 
 *(Wince.)* In a meeting, that lands like a **slap**. 😬 Even though your Malayalam was gentle!
 
@@ -273,9 +273,9 @@ Let's build it properly. English disagreement has **three moves**:
 *(Observation.)* In Malayalam culture, a direct **"ഇല്ല"** to a senior can feel disrespectful. So we soften it into vagueness: **"നോക്കാം," "ശ്രമിക്കാം," "പറ്റുമെങ്കിൽ."** ✅ And everyone understands that this **means no**. 🙏
 
 *(The problem.)* Translate that into English and you get:
-- ❌ *"I will try."*
-- ❌ *"Let me see."*
-- ❌ *"I will manage somehow."*
+- ⚠️ *"I will try."*
+- ⚠️ *"Let me see."*
+- ⚠️ *"I will manage somehow."*
 
 *(Point out the danger.)* An English speaker hears these as **YES**! 😱 They will plan around you. And when you don't come, **you** look unreliable — even though you said no in your own language.
 
@@ -292,7 +292,7 @@ Let's build it properly. English disagreement has **three moves**:
 
 *(The opposite problem.)*
 
-| ❌ Too much | ✅ Right amount |
+| ⚠️ Too much | ✅ Right amount |
 |---|---|
 | *Sorry sorry, very sorry, I am extremely sorry for the inconvenience caused...* | **"Sorry about that — I'll fix it right away."** ⭐ |
 | *I humbly apologise for my mistake and request your kind forgiveness* | **"That was my mistake. I'll sort it out."** ⭐ |
@@ -315,7 +315,7 @@ Let's build it properly. English disagreement has **three moves**:
 
 English expects **you** to solve it:
 
-| ❌ Incomplete | ✅ Complete |
+| ⚠️ Incomplete | ✅ Complete |
 |---|---|
 | *I can't come Friday.* | *I can't come Friday, **but I'm free Saturday**.* ⭐ |
 | *I don't have time today.* | *I can't do it today, **but I'll finish it first thing tomorrow**.* ⭐ |
@@ -340,9 +340,9 @@ English expects **you** to solve it:
 
 *(One honest note.)* ⭐ *"Please send the file"* isn't rude — in a friendly team it's completely normal. ✅ But a question gives the other person room to say no, which is why it's safer with clients and seniors. ⭐
 
-- ❌ *Come here, please.* → ✅ **Could you come here for a second?** ✅
-- ❌ *Wait, please.* → ✅ **Could you wait a moment?** ✅
-- ❌ *Explain, please.* → ✅ **Could you explain that again?** ✅
+- ⚠️ *Come here, please.* → ✅ **Could you come here for a second?** ✅
+- ⚠️ *Wait, please.* → ✅ **Could you wait a moment?** ✅
+- ⚠️ *Explain, please.* → ✅ **Could you explain that again?** ✅
 
 *(Note.)* **"Please" is still good** — add it to the question for extra warmth! ✅ *"Could you send the file, please?"* ⭐ Best of both. ✅
 

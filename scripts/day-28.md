@@ -274,7 +274,7 @@ Let's build a clean two-column list you can memorise. This single table fixes do
 
 *(Fun but important — these appear in the 25.)*
 
-| ❌ Indian English | ✅ International English |
+| ⚠️ Indian English | ✅ International English |
 |---|---|
 | do the needful | **please take care of it** |
 | revert back to me | **get back to me** |

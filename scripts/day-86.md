@@ -86,7 +86,7 @@ Now the same job, written properly:
 
 *(Practical and immediately usable.)*
 
-| ❌ Weak opening | ✅ Strong verb |
+| ⚠️ Weak opening | ✅ Strong verb |
 |---|---|
 | *Responsible for handling* | **Managed** · **Handled** ✅ |
 | *Was involved in* | **Led** · **Coordinated** ⭐ |
@@ -305,7 +305,7 @@ Now the same job, written properly:
 
 *(A very persistent Indian convention.)*
 
-| ❌ Old objective | ✅ Modern summary |
+| ⚠️ Old objective | ✅ Modern summary |
 |---|---|
 | *"To secure a challenging position in a reputed organisation where I can utilise my knowledge and skills for the mutual growth of the organisation and myself."* ⚠️ | *"Accounts professional with 8 years in receivables. Strongest in process improvement — cut month-end closing from 5 days to 2."* ⭐ |
 
@@ -333,7 +333,7 @@ Now the same job, written properly:
 
 *(Firmly.)* ⭐ **Never write "basic knowledge."** ✅ List the **specific functions** you can use. ✅
 
-### Trap 5: Grammar and format errors that get resumes rejected ⚠️
+### Trap 5: Grammar slips and format habits that get resumes rejected ⚠️
 
 *(A practical checklist.)*
 

@@ -212,7 +212,7 @@ Malayalis also stretch *say* over jobs that belong to **ask**:
 
 - ❌ *He said me a question* → ✅ **He asked me a question.**
 - ❌ *Say me the time* → ✅ **Could you tell me the time?**
-- ❌ *He said to come tomorrow* → ✅ **He asked me to come tomorrow.** / **He told me to come tomorrow.**
+- ⚠️ *He said to come tomorrow* → ✅ **He asked me to come tomorrow.** / **He told me to come tomorrow.**
 
 **Remember:** requests and questions = **ask**. Information = **tell**. Words = **say**.
 

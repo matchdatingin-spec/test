@@ -82,7 +82,7 @@ The professional version is **one** message:
 *(Explain.)* Every message should be **answerable** on its own. ✅ If your reader has to ask *"what do you need?"* — you failed. ⚠️
 
 *(Show it.)*
-| ❌ Split across messages | ✅ One complete message |
+| ⚠️ Split across messages | ✅ One complete message |
 |---|---|
 | *"Hi sir"* → *"Are you free"* → *"One doubt"* ⚠️ | *"Hi Rajesh — quick question about the March invoice: accounts or client directly?"* ⭐ |
 
@@ -355,7 +355,7 @@ The professional version is **one** message:
 
 *(Applying email English to WhatsApp.)*
 
-| ❌ Email English on WhatsApp | ✅ WhatsApp English |
+| ⚠️ Email English on WhatsApp | ✅ WhatsApp English |
 |---|---|
 | *Respected Sir, With reference to...* 📜 | *Hi Rajesh —* ⭐ |
 | *Kindly do the needful* 📜 | *Could you check this?* ✅ |

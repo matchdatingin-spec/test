@@ -324,7 +324,7 @@ Today: what Band 7 actually needs, criterion by criterion, and a full essay buil
 
 *(Explain.)* Candidates are often taught to insert "high-level" vocabulary — and it backfires: ✅
 
-| ❌ Overloaded | ✅ Natural academic |
+| ⚠️ Overloaded | ✅ Natural academic |
 |---|---|
 | *In this contemporary era of globalisation* ⚠️ | **Today** ✅ / **In recent decades** ✅ |
 | *It is a highly debatable topic since time immemorial* ⚠️ | **This is a contested issue** ✅ |

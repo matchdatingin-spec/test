@@ -228,7 +228,7 @@ Today: **30 replacements**, organised by what you're actually describing. Let's 
 
 *(Explain.)* In an interview, *"good"* makes you sound vague. Watch: ✅
 
-| ❌ Vague | ✅ Precise |
+| ⚠️ Vague | ✅ Precise |
 |---|---|
 | *I'm good at communication* | *I'm **comfortable** presenting to clients* ⭐ |
 | *I was good at my job* | *I consistently met my targets* ⭐ |

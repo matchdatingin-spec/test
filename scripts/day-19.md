@@ -234,7 +234,7 @@ Malayalam uses the **present** form for things that started in the past and cont
 - അവൻ രാവിലെ മുതൽ **ഉറങ്ങുന്നു** ← present verb
 
 So we produce:
-- ❌ *I am working here for 3 years.*
+- ⚠️ *I am working here for 3 years.*
 - ❌ *He is sleeping since morning.*
 
 *(Explain the English logic.)* In English, **"am working" means RIGHT NOW ONLY** — this minute, this moment. It cannot stretch back three years.

@@ -85,7 +85,7 @@ Every *unless* sentence can be rewritten with **if + not**, and the meaning stay
 
 Because *unless* **already means "if not,"** you must **never** add another *not* after it:
 
-- ❌ *Unless you don't study, you'll fail.* ← double negative! ❌
+- ⚠️ *Unless you don't study, you'll fail.* ← double negative! ⚠️
 - ✅ **Unless you study, you'll fail.** ✅
 
 *(Explain.)* Think about it: *"unless you don't study"* = *"if you don't don't study"* = *"if you study"*. Backwards! 🔄
@@ -159,7 +159,7 @@ Build it:
 > ✅ **"I won't come if you don't call me."** ✅ Identical meaning!
 
 *(Show the error clearly.)*
-- ❌ *I won't come unless you don't call me.* ← double negative ❌
+- ⚠️ *I won't come unless you don't call me.* ← the grammar is legal, but the meaning **flips** ⚠️
   *(This actually means: "I won't come if you DO call me"! 😄 The opposite!)*
 
 *(Note the Malayalam trap in detail.)* Look at the Malayalam: **വിളിച്ചില്ലെങ്കിൽ** — the "not" is **inside the word**. So when your brain translates, it wants to put a "not" in the English too. That's exactly where the error comes from.
@@ -168,7 +168,7 @@ Build it:
 - ✅ *unless you **call*** ✅
 - ✅ *unless it **rains*** ✅
 - ✅ *unless he **agrees*** ✅
-- ❌ *unless you don't call* ❌
+- ⚠️ *unless you don't call* — reverses your meaning ⚠️
 
 *(Say to yourself.)* **"After unless, be positive!"** 😊
 

@@ -260,7 +260,7 @@ You don't need new vocabulary. You need to **use** the vocabulary you already ha
 
 *(The translation problem.)*
 
-| Malayalam | ❌ Direct | ✅ English |
+| Malayalam | ⚠️ Direct | ✅ English |
 |---|---|---|
 | നല്ല ക്ഷീണം | good tired | **exhausted** ⭐ |
 | ഭയങ്കര ചൂട് | terrible hot | **boiling** ⭐ |
@@ -362,7 +362,7 @@ You don't need new vocabulary. You need to **use** the vocabulary you already ha
 
 **Question 1 — upgrade this paragraph.** Rewrite it without using *"very"* even once:
 
-> ❌ *"Yesterday was very hot. I was very tired after work and very hungry. The food at the restaurant was very tasty, but the service was very bad. My friend was very angry about the delay."*
+> ⚠️ *"Yesterday was very hot. I was very tired after work and very hungry. The food at the restaurant was very tasty, but the service was very bad. My friend was very angry about the delay."*
 
 **Question 2 — translate these three:**
 1. **എനിക്ക് നല്ല ക്ഷീണമുണ്ട്.**

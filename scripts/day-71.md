@@ -71,7 +71,7 @@ That's it. That's the whole skill. And it's the single biggest thing that separa
 
 *(Show it.)*
 
-| ❌ Word-by-word | ✅ Chunked |
+| ⚠️ Word-by-word | ✅ Chunked |
 |---|---|
 | *I · am · going · to · the · office* | *I'm going to / the office* ✅ |
 | *Could · you · send · me · the · file* | *Could you send me / the file* ✅ |

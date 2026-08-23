@@ -216,14 +216,14 @@ Now the negative version:
 
 *(A subtle one.)* Look:
 
-- ❌ *I have much work.* ← sounds strange!
+- ⚠️ *I have much work.* ← sounds strange!
 - ✅ *I have **a lot of** work.* ✅
 
 *(Explain.)* In modern English, **"much" mostly lives in negatives and questions**:
 - ✅ *I don't have **much** time.* ← negative ✅
 - ✅ *Do you have **much** experience?* ← question ✅
 - ✅ *How **much** does it cost?* ← question ✅
-- ❌ *I have much time.* ← positive... unnatural
+- ⚠️ *I have much time.* ← positive... unnatural
 - ✅ *I have **a lot of** time.* ✅
 
 *(Same for "many," but less strict.)* *Many* is fine in positives: ✅ *Many people came.* ✅ But **"a lot of"** always sounds more natural in speech.
@@ -251,7 +251,7 @@ Malayalam **വളരെ / ഒരുപാട്** gets translated as "very much
 
 - ❌ *The food was too much tasty* → ✅ **The food was really tasty.**
 - ❌ *He is too much good* → ✅ **He is very good.**
-- ❌ *I liked it too much* → ✅ **I liked it a lot.**
+- ⚠️ *I liked it too much* → ✅ **I liked it a lot.**
 
 *(Explain the difference.)*
 - **a lot** = a large amount ✅ neutral/positive

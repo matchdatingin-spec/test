@@ -14,7 +14,7 @@ Your manager asks: *"Who sent the wrong file to the client?"*
 
 And you say:
 
-> ❌ *"Sir, the wrong file was sent."*
+> ⚠️ *"Sir, the wrong file was sent."*
 
 *(Pause. Raised eyebrow.)*
 
@@ -168,8 +168,8 @@ Build it:
 
 | Sentence | How it lands |
 |---|---|
-| ❌ *The file was sent wrongly.* | evasive 😬 — who did it? |
-| ❌ *A mistake has been made.* | classic blame-dodging 😅 |
+| ⚠️ *The file was sent wrongly.* | evasive 😬 — who did it? |
+| ⚠️ *A mistake has been made.* | classic blame-dodging 😅 |
 | ✅ **I sent the wrong file. I'll correct it now.** | ⭐ honest, confident, professional |
 
 *(Emphasise strongly.)* In modern professional English — especially in international companies — **owning a mistake in active voice is a strength**. ✅ Managers respect it. Passive-voice dodging is noticed immediately. ⚠️
@@ -270,7 +270,7 @@ Build it:
 
 *(The upgrade table.)*
 
-| ❌ Heavy passive | ✅ Modern active |
+| ⚠️ Heavy passive | ✅ Modern active |
 |---|---|
 | You are requested to submit the form | **Please submit the form** ⭐ |
 | It is informed that the office will be closed | **The office will be closed** ✅ |
@@ -285,7 +285,7 @@ Build it:
 
 *(The professional risk.)*
 
-| ❌ Evasive | ✅ Professional |
+| ⚠️ Evasive | ✅ Professional |
 |---|---|
 | A mistake has been made | **I made a mistake** ⭐ |
 | The deadline was missed | **I missed the deadline — here's my plan** ⭐ |

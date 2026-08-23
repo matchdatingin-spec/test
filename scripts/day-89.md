@@ -78,7 +78,7 @@ Good news to start with.
 > ### 👉 **Never** write what you think, why it happened, or what should be done. ✅
 
 *(Show the errors.)*
-| ❌ Avoid in Task 1 | ✅ Do this instead |
+| ⚠️ Avoid in Task 1 | ✅ Do this instead |
 |---|---|
 | *This is because of urbanisation* ⚠️ *(a reason the chart never showed)* | *The figure rose sharply* ✅ |
 | *I think this trend is worrying* ⚠️ *(opinion)* | *The trend continued upward* ✅ |
@@ -378,7 +378,7 @@ Good news to start with.
 
 *(Emphasise.)* ⚠️ Most graphs show the **past** ✅ → use **past simple** throughout. ✅ Mixing tenses is a very visible error. ⚠️
 
-### Trap 5: Language errors that recur in Indian Task 1 answers ⚠️
+### Trap 5: Language to fix in Indian Task 1 answers ⚠️ *(some are errors, some are just wordy)*
 
 | ❌ | ✅ |
 |---|---|

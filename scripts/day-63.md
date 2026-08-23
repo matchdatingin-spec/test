@@ -195,7 +195,7 @@ Build it:
 
 #### "That's not my job" — the polite versions ⭐
 
-| ❌ Blunt | ✅ Professional |
+| ⚠️ Blunt | ✅ Professional |
 |---|---|
 | That is not my work | **I don't think I was supposed to handle that one** ⭐ |
 | I don't have to do it | **That wasn't part of my task list — should I take it on?** ⭐ |

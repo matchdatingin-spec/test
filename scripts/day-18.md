@@ -105,7 +105,7 @@ Just a **dot on a map**. A specific spot, or a specific moment.
 
 **Malayalam:** ഞാൻ ഇപ്പോൾ ബസ്സിൽ ആണ്.
 
-Your brain sees **ബസ്സിൽ** → the **-ൽ** feels like "in" → ❌ *"I am in the bus."*
+Your brain sees **ബസ്സിൽ** → the **-ൽ** feels like "in" → ⚠️ *"I am in the bus."*
 
 *(Surprise!)* But native English says: **"I'm on the bus."**
 
@@ -145,7 +145,7 @@ Build the sentence:
 - ✅ *get **on** the bus* / *get **off** the bus*
 - ✅ *get **in** the car* / *get **out of** the car*
 
-*(Emphasise.)* Never ❌ *"get down from the bus"* — that's a very Indian phrase. Say **"get off the bus."** ✅
+*(Emphasise.)* Never ⚠️ *"get down from the bus"* — that's a very Indian phrase. Say **"get off the bus."** ✅
 
 ### Sentence 2 — built piece by piece
 
@@ -172,7 +172,7 @@ Or more naturally:
 
 *(Word order note — very useful.)* English usually goes **small time → big time**:
 - ✅ *at 6 o'clock on Sunday in December* ✅
-- ❌ *in December on Sunday at 6 o'clock* ← backwards
+- ⚠️ *in December on Sunday at 6 o'clock* ← backwards
 
 *(Compare with Malayalam.)* Malayalam does the opposite — **big to small**: ഡിസംബറിൽ ഞായറാഴ്ച ആറു മണിക്ക്. So you have to **reverse your instinct**. Practise: **clock → day → month.**
 
@@ -207,7 +207,7 @@ Or more naturally:
 
 *(The root of everything.)* Look at how one Malayalam ending spreads across English:
 
-| Malayalam | ❌ Direct | ✅ Correct | Why |
+| Malayalam | ⚠️ Direct | ✅ Correct | Why |
 |---|---|---|---|
 | ബസ്സിൽ | in the bus | **on the bus** | public transport |
 | തിങ്കളാഴ്ചയിൽ | in Monday | **on Monday** | a day |
@@ -240,7 +240,7 @@ Malayalam marks direction with endings; English uses **from** and **to**:
 - **Moving** → **to** *(I'm going **to** the bank)*
 - **Already there** → **in / at** *(I'm **at** the bank)*
 
-*(The classic error.)* ❌ *"I'm going in the bank"* → ✅ **"I'm going to the bank."**
+*(The classic error.)* ⚠️ *"I'm going in the bank"* → ✅ **"I'm going to the bank."**
 
 ### Trap 3: Extra prepositions where English wants none
 

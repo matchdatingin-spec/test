@@ -81,7 +81,7 @@ Two phrases. Always safe. **Just never mix them up** — that was our hook mista
 *(Quick logic.)* Because in English, when *so* or *neither* comes first, the sentence **flips** — helper before person, like a question.
 
 - ✅ *So **do I**.* — flipped ✅
-- ❌ *So I do.* — this means something different ("yes, that's true")
+- ⚠️ *So I do.* — this means something different ("yes, that's true")
 
 Feel it: **So do I. Neither do I.** The helper jumps in front. Practise that jump.
 
@@ -212,7 +212,7 @@ Malayalis love the word **also**, because **-ഉം = also**. But we put it in M
 
 But watch — sometimes "me too" is not even the right shape:
 
-| They say | ❌ Me too | ✅ Correct |
+| They say | ⚠️ Me too | ✅ Better reply |
 |---|---|---|
 | *"I'm going to Kochi."* | Me too | **Me too.** ✅ *(fine!)* |
 | *"My name is Arun."* | Me too | **Oh, mine's Arun too!** |

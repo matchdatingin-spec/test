@@ -187,7 +187,7 @@ Build it:
 - ✅ *every two hours* ← "every" + number = repeated interval ✅
 - ✅ *every other day* = alternate days ✅
 
-*(Careful!)* ❌ *"all days"* → ✅ **"every day."** ❌ *"all mornings"* → ✅ **"every morning."** ✅
+*(Careful!)* ⚠️ *"all days"* → ✅ **"every day."** ⚠️ *"all mornings"* → ✅ **"every morning."** ✅
 
 *(Highlight row 5.)* **"All" with uncountable nouns** takes singular:
 - ✅ *All the rice **is** finished.* ← rice is uncountable ✅

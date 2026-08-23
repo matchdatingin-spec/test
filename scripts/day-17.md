@@ -16,7 +16,7 @@ You reach the station. The train has left. You feel that familiar pain and you w
 
 And you say:
 
-> ❌ *"I should come early."*
+> ⚠️ *"I should come early."*
 
 *(Shake head.)* That means "I should come early **tomorrow**." It's about the future! Your regret disappeared.
 

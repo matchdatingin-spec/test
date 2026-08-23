@@ -16,7 +16,7 @@ And you say:
 
 > ⚠️ *"I didn't eat yet."*
 > ❌ *"I not yet eaten."*
-> ❌ *"Still I didn't eat."*
+> ⚠️ *"Still I didn't eat."*
 
 *(Shake head, smiling.)* All three understood. All three wrong.
 
@@ -196,7 +196,7 @@ But with a **plain verb** (no helper), *still* goes **before the verb**:
 
 We say:
 > ❌ *"He didn't come still."*
-> ❌ *"Still he didn't call me."*
+> ⚠️ *"Still he didn't call me."*
 > ❌ *"Food is not ready still."*
 
 Why? Because **ഇപ്പോഴും** and **ഇതുവരെ** feel like the same idea in Malayalam, and both often land at the end of the clause.
@@ -208,7 +208,7 @@ The English versions:
 
 *(Rule to remember.)* **In negatives, English prefers YET at the end.** *Still* is possible, but it must move to the **front of the negative**:
 
-| ❌ Malayali English | ✅ Version A (yet) | ✅ Version B (still) |
+| ⚠️ Kerala English | ✅ Version A (yet) | ✅ Version B (still) |
 |---|---|---|
 | He didn't come still | He hasn't come **yet**. | He **still** hasn't come. |
 | I didn't get salary still | I haven't got my salary **yet**. | I **still** haven't got my salary. |

@@ -28,7 +28,7 @@ Read these three sentences. They look almost the same:
 
 Now here's the Malayali problem. You want to say **ഞാൻ പഴയകാലത്ത് സിഗരറ്റ് വലിച്ചിരുന്നു** — I smoked in the past, not now.
 
-And you say: ❌ *"I am used to smoke."*
+And you say: ⚠️ *"I am used to smoke."*
 
 *(Wince.)* That sentence is broken. Three things wrong with it.
 
@@ -113,7 +113,7 @@ Build it:
 
 *(The three common errors — show each.)*
 
-| ❌ Wrong | Why it's wrong |
+| ⚠️ Wrong for this meaning | Why |
 |---|---|
 | *I am used to smoke.* | "am" changed the meaning + needs -ing |
 | *I used to smoking.* | after *used to*, verb must be PLAIN |
@@ -251,7 +251,7 @@ Same old Malayalam habit — no separate "be" verb:
 
 So:
 - ✅ *I used to live in Kochi.* ✅
-- ❌ *I would live in Kochi.* ← wrong! *live* is a state, not an action
+- ⚠️ *I would live in Kochi.* ← wrong! *live* is a state, not an action
 
 *(Simple advice.)* Stick with **used to**. Use **would** only when telling a story about the past — it sounds beautiful and literary there.
 

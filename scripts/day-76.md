@@ -257,7 +257,7 @@ Today: **25 phrasal verbs** you'll genuinely use. Let's go. 🚀
 *(Emphasise.)* And in **spoken** English, that instinct makes you sound **stiff** — like you're reading from a letter. 📜 ✅
 
 *(The upgrades.)*
-| ❌ Stiff | ✅ Natural |
+| ⚠️ Stiff | ✅ Natural |
 |---|---|
 | I shall revert to you | **I'll get back to you** ⭐ 🔗 |
 | Kindly investigate the matter | **Could you look into it?** ⭐ |
@@ -283,7 +283,7 @@ Today: **25 phrasal verbs** you'll genuinely use. Let's go. 🚀
 | *look **over*** ✅ | review quickly ✅ |
 | *look **down on*** 😞 | consider inferior ✅ |
 
-*(Emphasise.)* ⚠️ ❌ *"I'll look after the problem"* ✅ means you'll **care** for the problem 😄 ✅ Say **"look into."** ✅
+*(Emphasise.)* ⚠️ ⚠️ *"I'll look after the problem"* ✅ means you'll **care** for the problem 😄 ✅ Say **"look into."** ✅
 
 *(Another important set.)*
 | Phrase | Meaning |

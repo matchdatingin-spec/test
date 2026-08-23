@@ -217,7 +217,7 @@ So your brain already tracks direction — it just tracks it **inside the verb**
 
 Because **തരുക/കൊടുക്കുക** are so flexible, we over-use **give**:
 
-- ❌ *Give me your pen for two days* → ✅ **Could you lend me your pen for two days?**
+- ⚠️ *Give me your pen for two days* → ✅ **Could you lend me your pen for two days?**
 - ❌ *He gave me money, I will return* → ✅ **He lent me some money.**
 
 *(Explain the difference clearly.)*
@@ -270,11 +270,11 @@ Comment your answers — I reply to every single one!
 **Question 1:** Translate — ഞാൻ അവന് 1000 രൂപ കടം കൊടുത്തു, പക്ഷേ അവൻ ഇതുവരെ തിരിച്ചു തന്നിട്ടില്ല.
 *(Hint: "I gave a loan" → which verb? And "returned to me" → which verb?)*
 
-**Question 2:** Fix these four:
+**Question 2:** Three are wrong. The fourth is grammatical — rewrite it so the **promise to return** is explicit:
 1. *"Can you borrow me ₹100?"*
 2. *"I borrowed him my umbrella."*
 3. *"He lent money from the bank."*
-4. *"Give me your notes for one day."*
+4. *"Give me your notes for one day."* ⚠️
 
 *(Warm close.)*
 

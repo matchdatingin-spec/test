@@ -21,7 +21,7 @@ They **heard**: "Take rest. That's an order."
 
 *(Laugh a little.)* And then this one, in a job interview:
 
-> ❌ *"I must get this job."*
+> ⚠️ *"I must get this job."*
 
 That sounds desperate! Not confident. Desperate.
 
@@ -191,7 +191,7 @@ Here *must* isn't an order — it's enthusiasm. Tone changes everything.
 
 Now imagine the mistake. Your friend asks *"Should I bring food?"* and you want to say **ഭക്ഷണം കൊണ്ടുവരേണ്ട ആവശ്യമില്ല** — "no need."
 
-- ❌ *You mustn't bring food.* → "Food is banned!" 😳
+- ⚠️ *You mustn't bring food.* → "Food is banned!" 😳
 - ✅ **You don't have to bring food.** → "No need, but you can." ✅
 
 *(Point at camera.)* Learn this phrase perfectly: **"You don't have to."** It is how English says ആവശ്യമില്ല.

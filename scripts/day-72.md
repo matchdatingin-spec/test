@@ -309,7 +309,7 @@ Today: 30 words, organised by pattern. Let's go. 🚀
 
 *(Explain.)* Once you know silent letters exist, you might drop sounds that **should** be there: ✅
 
-| ❌ Over-corrected | ✅ Correct |
+| ⚠️ Over-corrected | ✅ Correct |
 |---|---|
 | *"vee-icle"* for *vehicular* ⚠️ | **vee-HIK-yuh-lur** ✅ *(the h IS said here!)* 🔗 |
 | *"sine"* for *sign* ✅ | **SINE** ✅ *(correct!)* — but *signature* = **SIG-na-cher** ✅ *(g IS said!)* |

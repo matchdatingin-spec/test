@@ -156,7 +156,7 @@ I + had to go + to the office + today ✅
 
 *Two traps:* **വേണം** here is a **desire**, not necessity → *would like*, not *must* *(Day 10)*. And **ഒരു = a**, not *one* *(Day 20)*.
 
-❌ Not *"I want one tea."* *(too blunt)* ❌ Not *"I am wanting a tea."*
+⚠️ Not *"I want one tea."* *(too blunt)* ⚠️ Not *"I am wanting a tea."*
 
 ---
 
@@ -184,7 +184,7 @@ I + had to go + to the office + today ✅
 
 *(This one is beautiful.)* Malayalam says "the bus was not got." English has a **single verb** for this: **miss**. 🚌
 
-❌ Not *"I didn't get the bus."* *(understood, but not natural)*
+⚠️ Not *"I didn't get the bus."* *(understood, but not natural)*
 ✅ Also fine: *"I couldn't catch the bus."*
 
 ---
@@ -240,7 +240,7 @@ I + had to go + to the office + today ✅
 
 ✅ **"I'll be right back."**
 
-*(The Day 29 classic!)* ❌ *"I will come now"* sounds like you're **arriving**. This phrase means you're **leaving briefly**. Completely different! 🔄
+*(The Day 29 classic!)* ⚠️ *"I will come now"* sounds like you're **arriving**. This phrase means you're **leaving briefly**. Completely different! 🔄
 
 ---
 

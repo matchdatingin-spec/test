@@ -208,7 +208,7 @@ Notice the **two different tenses** in one sentence:
 - *I **work** at TCS.* → I'm there now ✅
 - *I **worked** at TCS.* → I left ❌
 
-*(Interview warning!)* If you say ❌ *"I worked at Infosys"* about your **current** job, the interviewer thinks you **quit**! Say **"I work at Infosys"** or **"I've been working at Infosys."** ✅
+*(Interview warning!)* If you say ⚠️ *"I worked at Infosys"* about your **current** job, the interviewer thinks you **quit**! Say **"I work at Infosys"** or **"I've been working at Infosys."** ✅
 
 ---
 

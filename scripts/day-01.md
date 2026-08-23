@@ -116,7 +116,7 @@ Also notice: *to the bank*. Not "in bank." When you are moving, you use **to**. 
 
 **Malayalam:** എനിക്ക് ഉറക്കം വരുന്നു.
 
-Direct translation: ❌ *"Sleep is coming to me."*
+Direct translation: ⚠️ *"Sleep is coming to me."*
 
 I know. It sounds so logical. In Malayalam, sleep is a guest — it *comes*. Hunger comes. Anger comes. Sleep comes.
 
@@ -132,9 +132,9 @@ That is the whole logic. Malayalam says *"To me, sleep is coming."* English says
 
 Now apply the same logic:
 
-- എനിക്ക് വിശക്കുന്നു → ❌ *Hunger is coming* → ✅ **I am hungry.**
-- എനിക്ക് ദേഷ്യം വരുന്നു → ❌ *Anger is coming to me* → ✅ **I am getting angry.**
-- എനിക്ക് പേടിയാകുന്നു → ❌ *Fear is coming* → ✅ **I am scared.**
+- എനിക്ക് വിശക്കുന്നു → ⚠️ *Hunger is coming* → ✅ **I am hungry.**
+- എനിക്ക് ദേഷ്യം വരുന്നു → ⚠️ *Anger is coming to me* → ✅ **I am getting angry.**
+- എനിക്ക് പേടിയാകുന്നു → ⚠️ *Fear is coming* → ✅ **I am scared.**
 - എനിക്ക് ബോറടിക്കുന്നു → ❌ *Bore is coming* → ✅ **I am bored.**
 
 One rule. Five sentences fixed. This is how you learn fast — learn the logic, not the list.
@@ -143,7 +143,7 @@ One rule. Five sentences fixed. This is how you learn fast — learn the logic, 
 
 *(On screen: ❌ red / ✅ green. Keep the pace fast and fun.)*
 
-| # | ❌ What we say | ✅ What English says |
+| # | ⚠️ What we say in Kerala | ✅ What travels internationally |
 |---|---|---|
 | 1 | Yesterday night | **Last night** |
 | 2 | Today morning | **This morning** |

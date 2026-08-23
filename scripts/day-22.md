@@ -12,7 +12,7 @@
 
 You walk into a shop. You want to know if they have batteries. And you say:
 
-> ❌ *"Do you have some batteries?"*
+> ⚠️ *"Do you have some batteries?"*
 
 Understandable. But native speakers say:
 
@@ -20,7 +20,7 @@ Understandable. But native speakers say:
 
 *(Then this one.)* Your friend asks if you want tea. You say:
 
-> ❌ *"Give me any tea."*
+> ⚠️ *"Give me any tea."*
 
 *(Laugh.)* "Any tea"? Now you sound like you don't care what you drink — hot, cold, sweet, salty, whatever! 😄
 
@@ -266,7 +266,7 @@ Both correct! Pick one. Never both.
 ### Trap 4: "Any" for "every"
 
 - ❌ *Any person has a mobile these days* → ✅ **Everyone has a mobile these days.**
-- ❌ *Any student must submit the form* → ✅ **Every student must submit the form.**
+- ⚠️ *Any student must submit the form* → ✅ **Every student must submit the form.**
 
 *(Difference.)*
 - **any** = one, your choice 🎲
