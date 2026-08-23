@@ -35,7 +35,9 @@ Ready? Here's how it works. I say a sentence. You repeat it — **immediately**,
 
 *(Lean in.)*
 
-This technique is called **shadowing**, and it's what professional interpreters use to learn languages. It works because it trains your **mouth** and your **ear** at the same time.
+This technique is called **shadowing**, and it's what professional interpreters train with. It works because it trains your **mouth** and your **ear** at the same time.
+
+*(One precision note.)* ⚠️ What we're doing today is **pause-and-repeat shadowing** — I speak, you copy in the gap. ✅ That's the version to start with. **True** shadowing, the interpreter's drill, means speaking **at the same time** as the audio, about a second behind, never waiting for a gap. ⭐ That's your Block 5 upgrade once today's rhythm feels easy. ✅
 
 Fifteen minutes. Let's go. 🚀
 

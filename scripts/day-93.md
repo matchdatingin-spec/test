@@ -2,7 +2,7 @@
 
 **Target length:** 18–20 minutes
 **Level:** B2 *(exam preparation)*
-**One-line promise:** A real Band 5 essay rebuilt into Band 7 — with the criteria on screen, so you see exactly which fix earns which mark.
+**One-line promise:** A typical Band 5 essay rebuilt into Band 7 — with the criteria on screen, so you see exactly which fix earns which mark.
 
 **📌 Format note:** Third **makeover** video, and the most technical. Section 3 rebuilds the essay paragraph by paragraph, naming the criterion each fix serves. Section 4 becomes the band-by-band diagnosis table.
 
@@ -21,7 +21,9 @@
 
 *(Direct, exam-focused.)*
 
-Here's a real IELTS essay opening, written by a candidate who got **Band 5.5**:
+Here's a **typical** IELTS essay opening — the kind that lands around **Band 5**:
+
+> **🎥 SCRIPT NOTE — read before filming.** ⚠️ Say *"typical"*, as written. Do **not** say *"a real essay by a candidate who got Band 5.5."* This essay is **constructed** from common Band 5–6 patterns *(see the production dependency at the top)*, and no examiner has scored it. ⛔ Once you have a **real viewer submission with permission and a genuine reported band**, you may switch to *"a real essay that scored Band X."* ✅
 
 > ❌ *"Nowadays in this modern era of globalisation, online learning is a very debatable topic which has been discussed since time immemorial. Some people are saying it will replace classrooms and some people are saying it will not. In this essay I will discuss both the views and also I will give my own opinion in the conclusion."* 😐
 
@@ -29,7 +31,9 @@ Here's a real IELTS essay opening, written by a candidate who got **Band 5.5**:
 
 *(Explain.)* Now — the grammar here is **fine**. ✅ There's no serious error. The vocabulary includes *"globalisation"* and *"time immemorial."* ✅
 
-*(Firmly.)* And it scores **Band 5** on Task Response. ⚠️
+*(Firmly.)* And on Task Response, an opening like this sits around **Band 5**. ⚠️
+
+*(One honesty note — say it.)* ⭐ These band labels are **my assessment against the public descriptors**, not an official examiner's mark. ✅ Only a certified examiner scores a real test. The point is the **direction of travel**, and that direction is reliable. ⭐
 
 *(Point at camera.)*
 
@@ -102,7 +106,7 @@ Today: the full rebuild, criterion by criterion. Let's go. 🚀
 
 ---
 
-### ❌ THE FULL "BEFORE" ESSAY — Band 5.5 *(241 words)*
+### ❌ THE FULL "BEFORE" ESSAY — around Band 5.5 *(241 words)*
 
 *(Show it complete, then dissect.)*
 

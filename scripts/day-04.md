@@ -16,7 +16,7 @@ You want to sound polite. So you reach for a soft word. And your hand grabs whic
 
 > ❌ *"Should you help me?"*
 > ❌ *"I would like to know, would you free tomorrow?"*
-> ❌ *"Could I be a doctor if I studied more."*
+> ❌ *"If I would study more, I could be a doctor."*
 
 We all do this. We know these three words are the "polite words," so we sprinkle them like salt and hope for the best.
 
@@ -127,10 +127,14 @@ Now feel the strength levels. This is where students get lost — so let's make 
 
 | Sentence | Strength | Situation |
 |---|---|---|
-| You **could** see a doctor. | 20% — just an option | Casual suggestion |
-| You **should** see a doctor. | 60% — good advice | Normal advice |
-| You **must** see a doctor. | 90% — strong | Serious concern |
-| You **have to** see a doctor. | 100% — no choice | Rule / necessity |
+| You **could** see a doctor. | just an option | Casual suggestion |
+| You **should** see a doctor. | recommendation | Normal advice |
+| You **must** see a doctor. | strong necessity | Serious concern |
+| You **have to** see a doctor. | necessity from outside | Rule / circumstances |
+
+*(Say this out loud.)* ⚠️ These are **directions on a dial, not fixed amounts.** ✅ There's no real percentage attached to a modal — tone, relationship and situation change the force completely. A gentle *"You must try this!"* is warm, and a cold *"You should leave"* can be an order. So feel the **order**, don't memorise numbers. ⭐
+
+*(Also honest.)* **must** and **have to** are close, and they often swap freely. The usual nuance: *must* frequently carries **the speaker's own** urgency, while *have to* often points to a **rule or circumstance** outside the speaker. In everyday conversation, *have to* is the more common of the two. ✅
 
 *(Point at camera.)* Notice: **could** is the softest, not the strongest. Many learners think *could* is the polite version of *should*. It is not. *Could* removes the pressure completely — it's just "here's an option."
 
@@ -146,7 +150,15 @@ Now feel the strength levels. This is where students get lost — so let's make 
 
 *(Highlight row 1.)* **"Would you like...?"** — memorise this exact phrase. It is the most polite way to offer anything in English. Not *"Do you want tea?"* — that's blunt. Not *"You want tea?"* — that's very Malayali. Say **"Would you like some tea?"**
 
-*(Highlight row 5.)* And note: for **guessing**, English uses *could*, *might*, or *may* — never *should*. ❌ *"He should be in traffic"* means "it is his duty to be in traffic." 😄
+*(Highlight row 5.)* And note: for an **open guess**, English uses *could*, *might*, or *may*. ✅ *"He could be stuck in traffic"* = one possibility among several.
+
+*(Careful — useful nuance.)* ⚠️ *should* **can** also be used for guessing, but it's a **confident expectation**, not an open possibility: ✅ *"He should be home by now"* = based on what I know, I expect he is. ⭐ So the contrast is:
+
+- ✅ *He **might** be home.* → possible, I don't know
+- ✅ *He **should** be home.* → I expect it, based on the time he left
+- ✅ *He **must** be home.* → I'm almost certain
+
+*(Emphasise.)* So don't say *should* never guesses. Say: **could/might/may = open possibility; should = expectation; must = strong conclusion.** ✅
 
 ---
 

@@ -12,21 +12,23 @@
 
 Imagine this. You are in a class. Or a meeting. The teacher finishes talking. You raise your hand and you say:
 
-> ❌ *"Sir, I have a doubt."*
+> ⚠️ *"Sir, I have a doubt."*
 
 Every single one of us has said this. In school, in college, in tuition. It's the most famous English sentence in Kerala.
 
-And it is wrong.
+And here's the thing — **it isn't broken grammar.** In Indian English this is completely normal, and every teacher in Kerala understands it perfectly. ✅
 
-Not "slightly informal." Not "old-fashioned." **The meaning is different.** When you say "I have a doubt" to a native English speaker, they don't hear *"I want to understand."*
+*(Pause.)*
 
-They hear: *"I don't believe you."*
+But step outside that room — an international meeting, a foreign manager, an IELTS examiner — and the word **doubt** does something different. Outside India, *doubt* usually carries **uncertainty or suspicion**, not *"please explain."*
 
-*(Pause. Let it land.)*
+So instead of hearing *"I want to understand,"* they may hear *"I'm not convinced about this."* ⚠️
 
-Yes. You just told your boss you don't trust him. And you were smiling while doing it.
+*(Point at camera.)*
 
-Have you said this? Of course you have. Today we fix it forever — plus 19 more sentences we all get wrong. Let's go.
+Not an insult. Not a disaster. Just **not the meaning you intended.** And in an interview, meaning is everything.
+
+*(Warm.)* So today isn't about calling your English wrong. It's about giving you the **version that travels** — plus 19 more sentences where Kerala English and international English quietly part ways. Let's go.
 
 ---
 

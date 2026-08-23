@@ -1,8 +1,12 @@
-# Day 89 — IELTS Writing Task 1 Malayalam: Describe Any Graph or Chart
+# Day 89 — IELTS Academic Writing Task 1 Malayalam: Describe Any Graph or Chart
 
 **Target length:** 17–19 minutes
 **Level:** B2 *(exam preparation)*
-**One-line promise:** One four-paragraph formula for every chart type — and the rule that Task 1 forbids your opinion entirely.
+**One-line promise:** A reliable four-paragraph structure for every chart type — and the rule that Task 1 forbids your opinion entirely.
+
+**⚠️ SCOPE — state this on camera in the first 30 seconds:** This lesson covers **IELTS Academic** Task 1 only. ✅ **General Training** Task 1 is a completely different task — you write a **letter**, not a chart description. ⛔ Do not let a General Training candidate follow this formula. ⭐
+
+**📌 Accuracy note:** The four-paragraph structure below is a **teaching scaffold**, not an official requirement. ✅ IELTS assesses Task Achievement, Coherence and Cohesion, Lexical Resource and Grammatical Range and Accuracy — it does **not** mandate a paragraph count. Present it as a dependable default, not a rule. ⭐
 
 **📌 Format note:** Second **exam block** video. Structured as a writing class: Section 3 becomes the formula plus a full model answer. Section 4 covers the errors that cost a whole band.
 

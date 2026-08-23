@@ -16,9 +16,13 @@
 
 Malayalis do one of two things with *had*. Either you **never** use it:
 
-> ❌ *"When I reached the station, the train left."* 🚂
+> ⚠️ *"When I reached the station, the train left."* 🚂
 
-*(Confused face.)* Wait — did the train leave **as** you arrived? Or **before**? The listener genuinely can't tell! 🤔
+*(Be fair — this is important.)* ✅ That sentence is **not** broken grammar. It's correct English. But read what it actually says: the train left **at the moment you arrived** — you watched it pull away. 👀
+
+*(Confused face.)* And that's probably **not** what you meant! You meant it had **already gone** before you got there. 🤔
+
+*(Point at camera.)* So this isn't an error to be ashamed of — it's a **meaning** problem. The sentence is fine; it's just telling a different story than the one in your head. ⭐
 
 Or you use it **everywhere**, because it sounds advanced:
 

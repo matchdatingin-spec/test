@@ -220,7 +220,9 @@ Today: the real differences, and my honest recommendation. Let's go. 🚀
 | Applying to a US company 💼 | **American** 🇺🇸 |
 | Writing for a UK/Gulf employer | **British** 🇬🇧 |
 
-*(Emphasise.)* ⭐ In **IELTS**, both spellings are accepted — but **mixing** them in one essay costs you marks. ✅ Pick one at the start. ✅
+*(Emphasise.)* ⭐ In **IELTS**, both British and American spellings are accepted. ✅ There's no rule that penalises mixing them — but **consistency** is a mark of careful writing, and careless spelling *is* assessed. ✅ So pick one at the start and stay with it. ✅
+
+*(One accuracy note.)* ⚠️ The *-ise / -ize* row is a **tendency, not a border.** ✅ *organize, realize* are also perfectly correct **British** spellings — Oxford has always preferred *-ize*. ✅ So nobody can mark *organize* wrong in a British context. ⭐
 
 ---
 

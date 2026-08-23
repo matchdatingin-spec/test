@@ -107,8 +107,12 @@ Malayalam is a **syllable-timed** language. Every syllable gets roughly **equal 
 
 **Piece 1 — "Whaddaya"**
 - *What* → the final **t** becomes a soft **d** *(a very American thing)* → "wha**d**"
-- *do you* → squeezed into **"daya"** or **"dya"**
-- → **What do you** = *"Whaddaya"* ✅
+- *are you* → squeezed into **"aya"** or **"ya"**
+- → **What are you** = *"Whaddaya"* ✅
+
+*(Important — this is why decoding is hard!)* ⚠️ *"Whaddaya"* is **ambiguous**. It can come from **either** *what are you* **or** *what do you* — both reduce to the same sound. ✅ You tell them apart from **what follows**:
+- *"Whaddaya **gonna** do?"* → *gonna* = *going to*, so it's **what ARE you** ✅
+- *"Whaddaya **wanna** do?"* → *wanna* = *want to*, so it's **what DO you** ✅
 
 **Piece 2 — "gonna"**
 - *going to* → **gonna** ✅ *(the most common reduction in English!)*

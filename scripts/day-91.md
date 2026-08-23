@@ -23,11 +23,13 @@
 
 Over the last ninety days, you've written **thousands** of sentences in the comments. ✅
 
-*(Warmly.)* And I've read them. All of them, honestly — the correct ones, the nearly-correct ones, and the beautifully wrong ones. 💙
+*(Warmly.)* And I've read a huge number of them — the correct ones, the nearly-correct ones, and the beautifully wrong ones. 💙
 
 *(Point at camera.)*
 
-*(Explain.)* Today I've picked **25**. ✅ Real sentences, written by real people watching this series. ✅
+*(Explain.)* Today I've picked **25 sentences**. ✅ These are the mistakes that came up **again and again** across the series — the patterns almost every Malayali learner hits. ✅
+
+> **🎥 SCRIPT NOTE — read before filming.** Say the line above **exactly as written** if the 25 sentences are still the *representative* set built from common error patterns. ⚠️ Only switch to *"real sentences written by real viewers"* once you have **genuine comment submissions with permission** *(see the production dependency at the top)*. Do **not** call constructed examples real viewer comments. ⛔
 
 *(Emphasise.)* And here's how it works: I'll show you a sentence. You get **three seconds** to spot the mistake. Then I'll correct it — and tell you **which day** taught that rule. ⭐
 
@@ -215,18 +217,20 @@ Get a pen. Score yourself out of 25. Let's go. 🚀
 
 *(Show as a chart on screen.)*
 
-*(Explain.)* Across the comments I read, the frequency was roughly: ✅
+*(Explain.)* Ranked by how often they show up in **these 25 sentences**, most frequent first: ✅
 
-| Rank | Family | Share |
+| Rank | Family | How common |
 |---|---|---|
-| 1️⃣ | **Small words** *(in/on/at, since/for)* 🔍 | ~30% ⚠️ |
-| 2️⃣ | **The invisible "be"** 🔤 | ~22% |
-| 3️⃣ | **Helper verbs** 🔧 | ~18% |
-| 4️⃣ | **Direct translation** 🪷 | ~14% |
-| 5️⃣ | **Word order** 🔄 | ~10% |
-| 6️⃣ | **Countability** 📦 | ~6% |
+| 1️⃣ | **Small words** *(in/on/at, since/for)* 🔍 | most common ⚠️ |
+| 2️⃣ | **The invisible "be"** 🔤 | very common |
+| 3️⃣ | **Helper verbs** 🔧 | very common |
+| 4️⃣ | **Direct translation** 🪷 | common |
+| 5️⃣ | **Word order** 🔄 | less common |
+| 6️⃣ | **Countability** 📦 | least common |
 
-*(Emphasise.)* ⭐ **Small words are nearly a third of all errors.** ✅
+*(Emphasise.)* ⭐ **Small words are the single biggest source of errors.** ✅
+
+> **🎥 SCRIPT NOTE.** ⚠️ Percentages were removed deliberately. Do **not** put figures like *"~30% of all errors"* on screen — that claims a measurement nobody has made. Use the ranking, which is honest and just as persuasive. ✅ If you ever run a real tally across comments, you can add the true numbers and say where they came from. ⭐
 
 *(Explain why.)* Because Malayalam handles them with **case endings** — one **-ൽ** covering *in, on, at, to* 🔗 *(Day 18)* ✅ So there's no equivalent to transfer. ✅
 
@@ -292,7 +296,7 @@ After writing anything important, check **only** these four: ✅
 3. ⬜ Does *he/she/it* have its **-s**? ✅
 4. ⬜ Any **-s** on uncountables? 📦
 
-*(Emphasise.)* ⭐ **Four checks. Thirty seconds.** ✅ And they catch about 70% of your errors. ⭐
+*(Emphasise.)* ⭐ **Four checks. Thirty seconds.** ✅ And they catch the majority of the errors we've just been through. ⭐
 
 ---
 

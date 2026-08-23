@@ -111,17 +111,19 @@ Your brain sees **ബസ്സിൽ** → the **-ൽ** feels like "in" → ❌ 
 
 *(Ask the audience.)* Why *on*?! You're clearly **inside** the bus, not on the roof! 😄
 
-*(Explain the beautiful logic.)* Here's the reason. English thinks about **public transport** as a **platform you stand on** — because historically, you could **walk around** on it. You board it, you move around, you get off.
+*(Be honest here — this one is convention, not logic.)* ⚠️ There's no clever reason you can reason your way to. **Public transport simply takes *on* in English.** It's a fixed habit of the language, and the fastest thing you can do is **learn the two lists**, not hunt for a rule. ✅
 
-So the rule is:
+So the pattern is:
 
-| Vehicle | Word | Why |
+| Vehicle | Word | Group |
 |---|---|---|
-| bus, train, plane, ship, boat | **ON** | big enough to walk around |
-| car, taxi, auto, small boat | **IN** | you sit inside, can't walk |
-| bike, motorcycle, horse | **ON** | you sit on top! |
+| bus, train, plane, ship, boat | **ON** | public / shared transport 🚌 |
+| car, taxi, auto | **IN** | private vehicles you sit inside 🚗 |
+| bike, motorcycle, horse | **ON** | you sit on top 🏍️ |
 
-*(Memory trick.)* **Can you stand up and walk inside it?** → **ON**. **Do you have to sit down?** → **IN**.
+*(Rough memory aid — not a law.)* **Shared transport you travel *on*. A private car you travel *in*. Anything you sit astride, you're *on*.** ⭐
+
+*(Honest caveat.)* ⚠️ It isn't airtight, and it doesn't need to be. Small aircraft and small boats can take **in** *(✅ "in a small boat")*, and speakers vary. ✅ **Learn *on the bus / on the train / on the plane* and *in the car / in the taxi* as fixed chunks** — that covers almost everything you'll ever say. ⭐
 
 Build the sentence:
 

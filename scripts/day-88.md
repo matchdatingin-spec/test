@@ -85,6 +85,8 @@ Today: what Band 7 actually needs, criterion by criterion, and a full essay buil
 
 *(Emphasise.)* ⭐ **One idea — accessibility.** ✅ Stated first, explained, exemplified, concluded. ⭐
 
+*(Important note about that example.)* ⚠️ In IELTS Task 2, examiners assess your **argument and language** — they do **not** fact-check your examples, and a plausible illustration like the Kerala one is completely acceptable. ✅ But notice the hedging: *"rose noticeably,"* not *"rose by 34%."* ⭐ **Never invent a precise statistic.** ✅ A specific fake number reads as false and adds nothing — and outside the exam, in a report or an email at work, an invented figure is a serious problem. ⛔
+
 *(That's the whole difference.)* ✅
 
 ### ⏰ The 40-minute plan

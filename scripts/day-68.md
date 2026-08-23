@@ -157,8 +157,10 @@ English /v/  ←—— Malayalam വ ——→  English /w/
 
 *(Say each for 3 seconds, five times.)*
 
-> 🦷 **vvvvv** *(teeth on lip, buzz)* — ×5
-> 👄 **wwwww** *(round lips, glide)* — ×5
+> 🦷 **vvvvv** *(teeth on lip, buzz — this one you CAN hold)* — ×5
+> 👄 **oo–wa, oo–wa** *(round lips, then glide open)* — ×5
+
+*(Why the difference?)* ⚠️ **/v/ can be held; /w/ cannot.** ✅ /w/ is a **glide** — it only exists while your lips are *moving*. If you try to hold *"wwwww"* you're really just holding the vowel **"oo."** ⭐ So practise /w/ as a **movement**: *oo → wa*. ✅
 
 *(Then alternate!)*
 > **vvv — www — vvv — www** ✅ ×10

@@ -195,18 +195,28 @@ This is the most important video in this block. Let's go. 🚀
 
 *(Emphasise.)* ⭐ **Very reliable rule!** ✅ The syllable **immediately before** *-tion* takes the stress. ✅
 
-#### Pattern 5: Words ending in **-ic, -ical, -ity, -ify** → stress **just before** ✅
+#### Pattern 5: Words ending in **-ic** and **-ity** → stress **just before** the ending ✅
 
 | Word | Stress |
 |---|---|
 | e-co-**NOM**-ic | ✅ |
-| **CLAS**-si-cal *(wait —)* → **CLAS**-si-cal ✅ |
+| dra-**MAT**-ic | ✅ |
 | pos-si-**BIL**-i-ty | ✅ |
 | u-ni-**VER**-si-ty | ✅ |
+
+*(Careful — these two are different!)* ⚠️ **-ical, -ify** and **-graphy** do **not** follow "just before the ending." They put the stress **three syllables from the end**:
+
+| Word | Stress |
+|---|---|
+| **CLAS**-si-cal | ✅ |
+| e-co-**NOM**-i-cal | ✅ |
 | i-**DEN**-ti-fy | ✅ |
 | pho-**TOG**-ra-phy | ✅ ⭐ |
+| phi-**LOS**-o-phy | ✅ |
 
-*(Point out.)* And there's our hook word! ✅ Words ending in **-graphy** put the stress **three syllables from the end** → pho-**TOG**-ra-phy ✅
+*(Point out.)* And there's our hook word! ✅ **pho-TOG-ra-phy** — count back three syllables from the end and you land on the stress. ✅ Same for **phi-LOS-o-phy** and **ge-OG-ra-phy**. ⭐
+
+*(Notice the pair.)* 🔗 *e-co-**NOM**-ic* → but *e-co-**NOM**-i-cal*. Adding *-al* adds a syllable, and the stress **stays on the same syllable** — which is exactly why the two endings behave differently. ⭐
 
 *(Show the family — this is lovely!)* ⭐
 

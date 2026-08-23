@@ -46,11 +46,13 @@ So today is not a grammar lesson. Today is an **emergency method** for that exac
 
 When you feel **watched** or **judged**, your body switches into alarm mode. Heart faster, breathing shallow. That's normal — it's the same system that keeps you safe in danger. 🚨
 
-But here's the problem: in alarm mode, your body **shuts down** the slow, careful thinking parts of the brain — because in real danger, you don't need language, you need to **run**. 🏃
+And when you're anxious, a big share of your **working memory** — the mental desk space you use to hold a sentence together — gets taken up by the worry itself: *"How do I look? Was that wrong?"* 🧠
 
-*(The key insight.)* And **your second language lives in that slow, careful part.** Malayalam is automatic — deep, old, stored in your bones. English is newer and needs **more processing power**.
+*(The key insight.)* Malayalam barely needs that desk space. It's your first language — **automatic, effortless, over-practised.** English still needs some **active** effort: choosing the tense, the article, the word. ✅
 
-*(Emphasise.)* So when fear takes the processing power away, **Malayalam survives and English disappears.** ✅
+*(Emphasise.)* So when anxiety eats the desk space, **the automatic language keeps running and the effortful one stalls.** That's why Malayalam survives and English goes blank. ✅
+
+*(Honest framing — say it.)* ⭐ This is the well-documented effect of anxiety on language performance: the English **hasn't gone anywhere.** ✅ Your access to it is temporarily narrowed — which is exactly why it comes flooding back the moment you relax. ⭐
 
 *(Reassuring conclusion.)*
 

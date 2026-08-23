@@ -49,7 +49,7 @@ Grab a pen. Write your answers. No pausing to Google. Let's find out where you r
 | **B2** | Upper-intermediate | discuss abstract topics, argue a point, sound natural ⭐ |
 | **C1** | Advanced | nuance, idiom, near-native flexibility ✅ |
 
-*(Point out something useful.)* Most Malayali learners who've studied English at school sit at **A2 grammar with B1 vocabulary** ✅ — you **know** more words than your grammar can carry. ✅
+*(Point out something useful.)* A pattern I see constantly in Malayali learners who studied English at school: **the vocabulary runs ahead of the grammar** ✅ — you **know** more words than your sentence structure can currently carry. ✅ If that sounds like you, you're in very normal company. ⭐
 
 *(Emphasise.)* That's why you can **read** English well but **speak** it hesitantly. Your vocabulary is ahead of your structure. ✅
 
