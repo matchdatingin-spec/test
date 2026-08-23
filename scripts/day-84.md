@@ -6,6 +6,8 @@
 
 **📌 Format note:** A **template** video within the workplace-writing block. Section 3 becomes the ten templates; Section 4 covers the over-explaining and over-apologising habits that weaken leave requests.
 
+**📅 DATE CONSISTENCY — check before filming:** All weekday/date pairs are anchored to **March 2025**, where **14 March is a Friday**. ✅ *(11 Tue · 12 Wed · 13 Thu · 14 Fri · 17 Mon · 20 Thu · 21 Fri.)* ⚠️ If you change any date, re-check the weekday — a subject line reading *"Thursday 14 March"* next to *"Friday 14 March"* is the kind of slip viewers screenshot. ⭐
+
 ---
 
 ## 🎬 1. THE HOOK (0:00 – 1:00)
@@ -18,7 +20,7 @@ You need Friday off. You write:
 
 *(Pause.)*
 
-*(Explain.)* Eighty words. ✅ Three apologies. ✅ And notice what's **missing**: ⚠️
+*(Explain.)* Sixty-two words. ✅ One apology, buried in padding. ✅ And notice what's **missing**: ⚠️
 
 - ❓ What **date** exactly? ✅
 - ❓ How many **days**? ✅
@@ -83,7 +85,7 @@ Today: ten templates. Let's go. 🚀
 *(Explain.)* Most leave emails ask for **permission**. ✅ A strong one presents a **plan**. ✅
 
 *(Show the difference.)*
-| ❌ Asking permission | ✅ Presenting a plan |
+| ⚠️ Asking permission | ✅ Presenting a plan |
 |---|---|
 | *"Kindly grant me leave"* ⚠️ | *"My pending work is up to date and Anu can cover urgent queries"* ⭐ |
 
@@ -134,11 +136,11 @@ Today: ten templates. Let's go. 🚀
 
 ### 2️⃣ Planned leave — multiple days ✈️
 
-> ✅ **Subject:** Leave request: 18–22 March (5 days)
+> ✅ **Subject:** Leave request: 17–21 March (5 days)
 >
 > *Hi Rajesh,*
 >
-> *I'd like to apply for leave from Monday 18 to Friday 22 March — five working days. I'm travelling for a family wedding.*
+> *I'd like to apply for leave from Monday 17 to Friday 21 March — five working days. I'm travelling for a family wedding.*
 >
 > *To cover it:*
 > *• The month-end reconciliation will be completed before I leave*
@@ -164,7 +166,7 @@ Today: ten templates. Let's go. 🚀
 >
 > *Hi Rajesh,*
 >
-> *I'm unwell today — fever since last night — so I won't be able to come in.*
+> *I'm unwell today — I've had a fever since last night — so I won't be able to come in.*
 >
 > *I've asked Anu to handle anything urgent. I'll be on my phone if something needs my input.*
 >
@@ -220,7 +222,7 @@ Today: ten templates. Let's go. 🚀
 >
 > *Hi Rajesh,*
 >
-> *Could I take a half-day on Tuesday 12 March? I have a medical appointment at 3 pm.*
+> *Could I take a half-day on Tuesday 11 March? I have a medical appointment at 3 pm.*
 >
 > *I'll finish the morning's work before I leave and will be reachable if anything urgent comes up.*
 >
@@ -231,7 +233,7 @@ Today: ten templates. Let's go. 🚀
 
 ### 7️⃣ Work-from-home request 🏠
 
-> ✅ **Subject:** WFH request: Thursday 14 March
+> ✅ **Subject:** WFH request: Thursday 20 March
 >
 > *Hi Rajesh,*
 >
@@ -296,11 +298,11 @@ Today: ten templates. Let's go. 🚀
 
 *(Sensitive — you may not want to say it's an interview.)*
 
-> ✅ **Subject:** Leave request: Wednesday 13 March
+> ✅ **Subject:** Leave request: Wednesday 12 March
 >
 > *Hi Rajesh,*
 >
-> *Could I take Wednesday 13 March off? I have a personal commitment I need to attend to.*
+> *Could I take Wednesday 12 March off? I have a personal commitment I need to attend to.*
 >
 > *My pending items will be cleared by Tuesday evening, and Anu can cover anything urgent.*
 >
@@ -366,7 +368,7 @@ Today: ten templates. Let's go. 🚀
 
 ### Trap 3: "Kindly grant me leave" 📜 🔗 *(Day 83)*
 
-| ❌ Old | ✅ Modern |
+| ⚠️ Old | ✅ Modern |
 |---|---|
 | Kindly grant me leave | **I'd like to take Friday off** ⭐ |
 | I request you to sanction my leave | **Could I take Friday off?** ✅ |
@@ -382,7 +384,9 @@ Today: ten templates. Let's go. 🚀
 
 *(Both are fine.)* Use the first for planned leave, the second when you know it's inconvenient. ✅
 
-### Trap 4: Grammar errors specific to leave emails ⚠️
+### Trap 4: Grammar slips and dated wording in leave emails ⚠️
+
+*(Two different things — read the labels.)* ⚠️ **❌ = genuinely ungrammatical.** ⚠️ **⚠️ = correct English, but dated or too direct for a modern workplace.** ✅
 
 *(Practical checklist.)*
 

@@ -256,7 +256,7 @@ The second time: after we fix it. ✅
 | **Numbers used** | 0 📊 | many ⭐ |
 | **Apologies** | several 😔 | 0 ✅ |
 | **Shrinking words** *(just, only, small, somehow)* | 6 ⚠️ | 0 ✅ |
-| **"Sir" count** | 11 🙏 | 1 ✅ |
+| **"Sir" count** | 10 🙏 | 0 ✅ |
 | **Complaints about employer** | 4 ⚠️ | 0 ✅ |
 | **Vocabulary level** | B1 | **B1** ✅ *(unchanged!)* |
 | **Grammar level** | B1 | **B1** ✅ *(unchanged!)* |
@@ -300,7 +300,7 @@ The second time: after we fix it. ✅
 
 #### 4️⃣ Frame every negative forward ➡️ 🔗 *(Day 79)*
 
-| ❌ Backward | ✅ Forward |
+| ⚠️ Backward | ✅ Forward |
 |---|---|
 | no increment ⚠️ | *looking for a clearer growth path* ⭐ |
 | manager not supporting ⚠️ | *looking for a more collaborative setup* ✅ |
@@ -311,7 +311,7 @@ The second time: after we fix it. ✅
 
 *(Explain.)* At most once at the start and once at the end. ✅ In between, speak as a professional to a professional. ⭐
 
-*(Emphasise.)* Eleven *"sirs"* signals **anxiety**. ✅ One signals **respect**. ✅
+*(Emphasise.)* Ten *"sirs"* signals **anxiety**. ✅ Using his name once signals **respect**. ✅
 
 ### 💙 And the thing that isn't about English at all
 

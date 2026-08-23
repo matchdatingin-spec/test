@@ -105,23 +105,25 @@ Just a **dot on a map**. A specific spot, or a specific moment.
 
 **Malayalam:** ഞാൻ ഇപ്പോൾ ബസ്സിൽ ആണ്.
 
-Your brain sees **ബസ്സിൽ** → the **-ൽ** feels like "in" → ❌ *"I am in the bus."*
+Your brain sees **ബസ്സിൽ** → the **-ൽ** feels like "in" → ⚠️ *"I am in the bus."*
 
 *(Surprise!)* But native English says: **"I'm on the bus."**
 
 *(Ask the audience.)* Why *on*?! You're clearly **inside** the bus, not on the roof! 😄
 
-*(Explain the beautiful logic.)* Here's the reason. English thinks about **public transport** as a **platform you stand on** — because historically, you could **walk around** on it. You board it, you move around, you get off.
+*(Be honest here — this one is convention, not logic.)* ⚠️ There's no clever reason you can reason your way to. **Public transport simply takes *on* in English.** It's a fixed habit of the language, and the fastest thing you can do is **learn the two lists**, not hunt for a rule. ✅
 
-So the rule is:
+So the pattern is:
 
-| Vehicle | Word | Why |
+| Vehicle | Word | Group |
 |---|---|---|
-| bus, train, plane, ship, boat | **ON** | big enough to walk around |
-| car, taxi, auto, small boat | **IN** | you sit inside, can't walk |
-| bike, motorcycle, horse | **ON** | you sit on top! |
+| bus, train, plane, ship, boat | **ON** | public / shared transport 🚌 |
+| car, taxi, auto | **IN** | private vehicles you sit inside 🚗 |
+| bike, motorcycle, horse | **ON** | you sit on top 🏍️ |
 
-*(Memory trick.)* **Can you stand up and walk inside it?** → **ON**. **Do you have to sit down?** → **IN**.
+*(Rough memory aid — not a law.)* **Shared transport you travel *on*. A private car you travel *in*. Anything you sit astride, you're *on*.** ⭐
+
+*(Honest caveat.)* ⚠️ It isn't airtight, and it doesn't need to be. Small aircraft and small boats can take **in** *(✅ "in a small boat")*, and speakers vary. ✅ **Learn *on the bus / on the train / on the plane* and *in the car / in the taxi* as fixed chunks** — that covers almost everything you'll ever say. ⭐
 
 Build the sentence:
 
@@ -143,7 +145,7 @@ Build the sentence:
 - ✅ *get **on** the bus* / *get **off** the bus*
 - ✅ *get **in** the car* / *get **out of** the car*
 
-*(Emphasise.)* Never ❌ *"get down from the bus"* — that's a very Indian phrase. Say **"get off the bus."** ✅
+*(Emphasise.)* Never ⚠️ *"get down from the bus"* — that's a very Indian phrase. Say **"get off the bus."** ✅
 
 ### Sentence 2 — built piece by piece
 
@@ -170,7 +172,7 @@ Or more naturally:
 
 *(Word order note — very useful.)* English usually goes **small time → big time**:
 - ✅ *at 6 o'clock on Sunday in December* ✅
-- ❌ *in December on Sunday at 6 o'clock* ← backwards
+- ⚠️ *in December on Sunday at 6 o'clock* ← backwards
 
 *(Compare with Malayalam.)* Malayalam does the opposite — **big to small**: ഡിസംബറിൽ ഞായറാഴ്ച ആറു മണിക്ക്. So you have to **reverse your instinct**. Practise: **clock → day → month.**
 
@@ -205,7 +207,7 @@ Or more naturally:
 
 *(The root of everything.)* Look at how one Malayalam ending spreads across English:
 
-| Malayalam | ❌ Direct | ✅ Correct | Why |
+| Malayalam | ⚠️ Direct | ✅ Correct | Why |
 |---|---|---|---|
 | ബസ്സിൽ | in the bus | **on the bus** | public transport |
 | തിങ്കളാഴ്ചയിൽ | in Monday | **on Monday** | a day |
@@ -238,7 +240,7 @@ Malayalam marks direction with endings; English uses **from** and **to**:
 - **Moving** → **to** *(I'm going **to** the bank)*
 - **Already there** → **in / at** *(I'm **at** the bank)*
 
-*(The classic error.)* ❌ *"I'm going in the bank"* → ✅ **"I'm going to the bank."**
+*(The classic error.)* ⚠️ *"I'm going in the bank"* → ✅ **"I'm going to the bank."**
 
 ### Trap 3: Extra prepositions where English wants none
 
@@ -252,7 +254,7 @@ Malayalam loves case endings, so we add prepositions everywhere:
 - ❌ *contact to him* → ✅ **contact him**
 - ❌ *going to home* → ✅ **going home**
 
-*(Rule.)* **Discuss, reach, enter, marry, contact, answer, request** — these six verbs need **NO preposition**. They grab the object directly.
+*(Rule.)* **Discuss, reach, enter, marry, contact, answer, request** — these seven verbs take their object **directly**, with no preposition, in this basic meaning. ✅ *(Other senses can take one: ✅ *reach **for** the salt*, *enter **into** an agreement*.)*
 
 *(And the opposite — missing prepositions.)*
 - ❌ *listen the song* → ✅ **listen to the song**
@@ -279,7 +281,7 @@ Malayalam loves case endings, so we add prepositions everywhere:
 
 *(Explain #10 — very useful.)*
 - ✅ *The bus came **on time**.* = exactly at the scheduled time ⏰
-- ✅ *I reached **in time** to catch the bus.* = early enough, with margin ✅
+- ✅ *I arrived **in time** to catch the bus.* = early enough, with margin ✅
 
 ---
 

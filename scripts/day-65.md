@@ -49,7 +49,7 @@ Grab a pen. Write your answers. No pausing to Google. Let's find out where you r
 | **B2** | Upper-intermediate | discuss abstract topics, argue a point, sound natural ⭐ |
 | **C1** | Advanced | nuance, idiom, near-native flexibility ✅ |
 
-*(Point out something useful.)* Most Malayali learners who've studied English at school sit at **A2 grammar with B1 vocabulary** ✅ — you **know** more words than your grammar can carry. ✅
+*(Point out something useful.)* A pattern I see constantly in Malayali learners who studied English at school: **the vocabulary runs ahead of the grammar** ✅ — you **know** more words than your sentence structure can currently carry. ✅ If that sounds like you, you're in very normal company. ⭐
 
 *(Emphasise.)* That's why you can **read** English well but **speak** it hesitantly. Your vocabulary is ahead of your structure. ✅
 
@@ -116,7 +116,7 @@ Grab a pen. Write your answers. No pausing to Google. Let's find out where you r
 → ✅ **were** — *they* takes *were* *(Day 52)*
 
 **Q7.** *I ___ (didn't went / didn't go) to the office.*
-→ ✅ **didn't go** — one past per sentence *(Day 03)*
+→ ✅ **didn't go** — *did* carries the past, so the main verb stays plain *(Day 03)*
 
 **Q8.** *I am a teacher ___ a government school. (in / at)*
 → ✅ **at** *(a specific place)* — also *"in a government school"* is acceptable ✅ *(Day 18)*
@@ -125,7 +125,7 @@ Grab a pen. Write your answers. No pausing to Google. Let's find out where you r
 → ✅ **are** — plural noun follows *(Days 52, 55)*
 
 **Q10.** *I ___ (going / am going) home now.*
-→ ✅ **am going** — *-ing* always needs *be* *(Day 52)*
+→ ✅ **am going** — in the continuous tenses, *-ing* needs a form of *be* *(Day 52)*
 
 ---
 
@@ -148,7 +148,7 @@ Grab a pen. Write your answers. No pausing to Google. Let's find out where you r
 **Q15.** *He said he ___ come tomorrow. (will / would)*
 → ✅ **would** — reported in the past *(Days 07, 60)*
 
-**Q16.** *When I reached, the train ___ already left. (has / had)*
+**Q16.** *When I reached the station, the train ___ already left. (has / had)*
 → ✅ **had** — the earlier of two past events *(Day 50)*
 
 **Q17.** *I'm supposed ___ finish it today. (to / —)*

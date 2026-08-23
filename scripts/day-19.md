@@ -48,9 +48,11 @@ Imagine a **line** from a point in the past to **NOW**.
 
 - ✅ *since 2020*
 - ✅ *since Monday*
-- ✅ *since morning*
+- ✅ *since this morning*
 - ✅ *since I was a child*
 - ✅ *since last week*
+
+*(Dialect note — important.)* ⚠️ Bare *"since morning"* / *"since evening"* is common **Indian English**. ✅ Broader international English adds the determiner: **since *this* morning**, **since *yesterday* evening**. ⭐ Both are understood; the determiner version travels further.
 
 **SINCE = the dot where the line starts.** Malayalam: **മുതൽ**
 
@@ -91,7 +93,7 @@ Imagine a **line** from a point in the past to **NOW**.
 > ### 👉 have/has been + verb-ing
 
 - ✅ *I **have been working** here for three years.*
-- ✅ *She **has been waiting** since morning.*
+- ✅ *She **has been waiting** since this morning.*
 - ✅ *They **have been living** in Dubai since 2019.*
 
 *(Explain the logic.)* Why this long tense? Because you need to show **two things at once**:
@@ -163,9 +165,9 @@ Build it:
 3. **have been** → have been
 4. **Verb + ing** → waiting
 5. **Whom** → for you
-6. **Since when** → since morning
+6. **Since when** → since this morning
 
-> ✅ **"I have been waiting for you since morning."**
+> ✅ **"I have been waiting for you since this morning."**
 
 *(Careful — two "for"s!)* Notice this sentence has *for you* — but that's a **different "for."** That one belongs to the verb *wait* (wait **for** someone). Don't confuse it with duration-*for*.
 
@@ -232,7 +234,7 @@ Malayalam uses the **present** form for things that started in the past and cont
 - അവൻ രാവിലെ മുതൽ **ഉറങ്ങുന്നു** ← present verb
 
 So we produce:
-- ❌ *I am working here for 3 years.*
+- ⚠️ *I am working here for 3 years.*
 - ❌ *He is sleeping since morning.*
 
 *(Explain the English logic.)* In English, **"am working" means RIGHT NOW ONLY** — this minute, this moment. It cannot stretch back three years.
@@ -242,7 +244,7 @@ To stretch back into the past, English **must** add **have been**:
 | ❌ | ✅ |
 |---|---|
 | I am working here for 3 years | **I have been working here for 3 years.** |
-| He is sleeping since morning | **He has been sleeping since morning.** |
+| He is sleeping since morning | **He has been sleeping since this morning.** |
 | I am waiting since 2 hours | **I have been waiting for 2 hours.** |
 | She is studying English since last year | **She has been studying English since last year.** |
 

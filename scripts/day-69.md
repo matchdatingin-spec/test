@@ -44,7 +44,7 @@ And sometimes it changes the word completely:
 
 But here's the good news — and this is real: **Malayalam gets you closer to this sound than almost any other language.** ✅
 
-*(Explain.)* Because your **ത** is already made at the **teeth**. ✅ Hindi speakers, Tamil speakers, Malayalam speakers — you all have a **dental** t. English speakers of many other languages don't!
+*(Explain.)* Because your **ത** is already made at the **teeth**. ✅ Hindi speakers, Tamil speakers, Malayalam speakers — you all have a **dental** t. Speakers of many other languages don't!
 
 *(Emphasise.)* You're not starting from zero. You're **one small step** away. ✅
 
@@ -350,7 +350,7 @@ Today, that step. Let's go. 🚀
 *(Explain.)* Why? Because:
 
 1. ✅ **Millions of native speakers don't use it either.** In London, *"think"* is often *"fink."* In Ireland, *"this"* is often *"dis."* In New York, the same. ✅
-2. ✅ **Context almost always saves you.** If you say *"I tink so,"* nobody thinks you said *"I tink so"* — they hear *think*. ✅
+2. ✅ **Context almost always saves you.** If you say *"I tink so,"* nobody thinks you said *"I sink so"* — they hear *think*. ✅
 3. ✅ **It rarely blocks understanding** the way **word stress** does. 🔗 *(Tomorrow's topic!)* ⚠️ *(It can matter in pairs like* three/tree *and* thin/tin *— so it's worth some practice.)*
 
 *(Emphasise, warmly.)* So — practise it. It's a nice polish. But **do not** lose sleep over it. ✅

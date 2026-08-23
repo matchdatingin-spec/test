@@ -281,7 +281,7 @@ Build it:
 
 | ❌ | ✅ |
 |---|---|
-| You're coming, are you? ⚠️ | **You're coming, aren't you?** ✅ |
+| You're coming, are you? ⚠️ *(correct, but sounds surprised)* | **You're coming, aren't you?** ✅ |
 | He doesn't know, doesn't he? | **He doesn't know, does he?** ✅ |
 
 *(Note.)* ⚠️ *"You're coming, are you?"* **does** exist — but it sounds **surprised** or even **sarcastic**! 😄
@@ -303,7 +303,7 @@ Build it:
 | **Check politely** ✅ | *You did send it, **didn't you**?* |
 
 *(Highlight #1.)* ⭐ 🔗 *(Day 42)* A tag is a **softener**! ✅
-- ❌ *"You forgot to send it."* → blunt 😬
+- ⚠️ *"You forgot to send it."* → blunt 😬
 - ✅ *"You forgot to send it, didn't you?"* → gentler ✅
 
 *(Emphasise.)* Tags are one of the easiest ways to sound **less blunt** in English. ✅

@@ -14,7 +14,7 @@ Someone asks: *"What do you do?"*
 
 You say:
 
-> ❌ *"I am working in a bank."*
+> ⚠️ *"I am working in a bank."*
 
 *(Pause.)* Understandable. But a native speaker hears something odd — like you're **temporarily** at a bank. A short-term arrangement. Maybe an internship. 🤔
 
@@ -26,7 +26,7 @@ The correct answer is:
 
 And the reverse mistake:
 
-> ❌ *"I work on a project right now."*
+> ⚠️ *"I work on a project right now."*
 > ✅ **"I'm working on a project right now."** ✅
 
 *(Lean in.)*
@@ -284,7 +284,7 @@ Build it:
 | **"What do you do?"** 🔁 | What's your **job**? | *I'm a teacher.* |
 | **"What are you doing?"** ⏺️ | What are you doing **right now**? | *I'm watching a video.* |
 
-*(The embarrassing mix-up.)* At a party, someone asks *"What do you do?"* and the Malayali answers ❌ *"I am standing here and drinking juice."* 😄
+*(The embarrassing mix-up.)* At a party, someone asks *"What do you do?"* and the Malayali answers ⚠️ *"I am standing here and drinking juice."* 😄
 
 *(Emphasise.)* **"What do you do?"** = your profession. ✅ Always. That's a fixed expression. ⭐
 

@@ -12,7 +12,7 @@
 
 Your friend invites you somewhere you don't want to go. And you say:
 
-> ❌ *"No, I don't want to come."*
+> ⚠️ *"No, I don't want to come."*
 
 *(Wince.)* Honest. And a little cold. 😬
 
@@ -144,7 +144,7 @@ Build it:
 4. *You'd better not be late.* ⚠️ ✅
 5. *You'd better see a doctor.* ✅
 
-*(Highlight #3!)* ⭐ **"I'd better get going."** — the natural way to announce you're leaving ✅ Not ❌ *"I will go now."* ✅
+*(Highlight #3!)* ⭐ **"I'd better get going."** — the natural way to announce you're leaving ✅ Not ⚠️ *"I will go now."* ✅
 
 *(Note the negative!)* ⚠️ **"had better NOT"** ✅
 - ✅ *You'd better **not** tell anyone.* ✅
@@ -280,7 +280,7 @@ Build it:
 
 *(The politeness gap — the real lesson of today.)* 🔗 *(Day 42)*
 
-| ❌ Blunt | ✅ Natural |
+| ⚠️ Blunt | ✅ Natural |
 |---|---|
 | I don't want to come | **I'd rather not come, if that's okay** ⭐ |
 | I don't like this | **I'd prefer something else** ✅ |
@@ -297,7 +297,7 @@ Build it:
 
 *(Explain.)* ⚠️ **"Had better"** always carries a **warning**. So it's too strong for friendly suggestions:
 
-| Situation | ❌ Too strong | ✅ Right |
+| Situation | ⚠️ Too strong | ✅ Right |
 |---|---|---|
 | Recommending a movie | *You'd better watch it* ⚠️ | **You should watch it** ✅ |
 | Suggesting a restaurant | *You'd better try it* ⚠️ | **You must try it!** ⭐ 🔗 |
@@ -327,7 +327,7 @@ Build it:
 
 *(Note the trap!)* ⚠️ *"I don't mind"* = I'm okay with it ✅ NOT *"I don't care"* ❌
 - ✅ *I don't **mind**.* → flexible, friendly ✅
-- ❌ *I don't **care**.* → rude! sounds dismissive 😬
+- ⚠️ *I don't **care**.* → rude! sounds dismissive 😬
 
 *(Emphasise.)* **Never say "I don't care"** when you mean "either is fine." ⚠️ Say **"I don't mind."** ⭐
 

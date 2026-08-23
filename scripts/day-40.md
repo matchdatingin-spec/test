@@ -179,7 +179,7 @@ Stories live in the **past**. So you need three tools:
 | Block | ✅ What to say |
 |---|---|
 | **S** | *"So this was in 2019. I was twenty, and I had never travelled alone before."* |
-| **P** | *"I had to go to Bangalore for an interview. My train reached at 5 a.m., and I realised I had no idea where the office was. My phone had died on the train."* ⚡ |
+| **P** | *"I had to go to Bangalore for an interview. My train got in at 5 a.m., and I realised I had no idea where the office was. My phone had died on the train."* ⚡ |
 | **A** | *"So I found a tea shop, charged my phone for ten minutes, and asked the shop owner for directions. He didn't speak Malayalam and my Kannada was zero — so we managed in broken English and a lot of pointing."* 😄 |
 | **R** | *"I reached the office an hour early. And I got the job."* ⭐ |
 | **K** | *"That day I realised something — you don't need perfect language to solve a problem. You just need to keep trying."* ❤️ |
@@ -248,7 +248,7 @@ English storytelling usually puts the **interesting bit early** to hook the list
 
 *(Compare.)*
 
-❌ **Malayalam-order English:** *"Yesterday I woke up at six. I had tea. Then I went to the office by bus. The bus was crowded. I reached at nine. I sat at my desk. Then at eleven, my manager called and said the presentation was moved."* 😴
+❌ **Malayalam-order English:** *"Yesterday I woke up at six. I had tea. Then I went to the office by bus. The bus was crowded. I got there at nine. I sat at my desk. Then at eleven, my manager called and said the presentation was moved."* 😴
 
 *(Point out.)* The interesting part arrived at sentence **seven**! Your listener left at sentence three. 🚪
 
@@ -299,7 +299,7 @@ English storytelling usually puts the **interesting bit early** to hook the list
 
 *(This is what makes stories dull.)*
 
-❌ *"The bus was late. I reached at ten. My manager was there."* ← facts only 📋
+❌ *"The bus was late. I got there at ten. My manager was there."* ← facts only 📋
 
 ✅ *"The bus was **stuck in traffic** for forty minutes. I was **panicking**. And of course, my manager was **already** at the desk waiting."* ⭐
 

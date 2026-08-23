@@ -18,7 +18,7 @@ Or this comes out:
 
 > ❌ *"Where you are working?"*
 > ⚠️ *"You are coming tomorrow?"* *(only works as a "confirm this for me" question)*
-> ❌ *"What is your name?"* *(fine!)* ... *"What you are doing?"* ❌
+> ⚠️ *"What is your name?"* *(grammatical — just very direct)* ... ❌ *"What you are doing?"*
 
 *(Point at camera.)*
 
@@ -134,7 +134,7 @@ Now build it properly. **Pattern 2: Question word + helper + person + verb.**
 | **How much** | does it cost? |
 | **How long** | have you been here? |
 
-*(Highlight "What do you do?")* ⭐ That's the standard English way to ask someone's profession. Not ❌ *"What is your job?"* *(a bit blunt)* and definitely not ❌ *"What you are doing?"* *(that asks what they're doing right now!)* ✅
+*(Highlight "What do you do?")* ⭐ That's the standard English way to ask someone's profession. Not ⚠️ *"What is your job?"* *(a bit blunt)* and definitely not ⚠️ *"What you are doing?"* *(that asks what they're doing right now!)* ✅
 
 ### Sentence 2 — built piece by piece *(Pattern 4 — the polite one)*
 
@@ -142,7 +142,7 @@ Now build it properly. **Pattern 2: Question word + helper + person + verb.**
 
 *(Notice.)* **പറയാമോ** — polite verb tail again. And remember Day 33's lesson: Malayalam politeness is in the **tail**, English politeness is at the **front**. 🎁
 
-*(The problem with the direct question.)* ❌ *"What is your name?"* is grammatically perfect — but to a stranger, an officer, or an interviewer, it can sound like an **interrogation**. 👮
+*(The problem with the direct question.)* ⚠️ *"What is your name?"* is grammatically perfect — but to a stranger, an officer, or an interviewer, it can sound like an **interrogation**. 👮
 
 **Pattern 4: Polite opener + normal word order.**
 

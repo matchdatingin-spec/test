@@ -86,7 +86,7 @@ Now the same job, written properly:
 
 *(Practical and immediately usable.)*
 
-| ❌ Weak opening | ✅ Strong verb |
+| ⚠️ Weak opening | ✅ Strong verb |
 |---|---|
 | *Responsible for handling* | **Managed** · **Handled** ✅ |
 | *Was involved in* | **Led** · **Coordinated** ⭐ |
@@ -237,7 +237,7 @@ Now the same job, written properly:
 
 > ✅ *Dear Sir/Madam,*
 >
-> *I'm writing to apply for the Junior Accounts Assistant role at Anand & Associates. I completed my B.Com from Calicut University this year and I'm looking to start my career in accounting.*
+> *I'm writing to apply for the Junior Accounts Assistant role at Anand & Associates. I completed my B.Com at Calicut University this year and I'm looking to start my career in accounting.*
 >
 > *I know I'm applying without work experience, so I'd point to two things instead. I'm already comfortable with the tools — advanced Excel including pivot tables and VLOOKUP, plus basic Tally, which I learned independently in three weeks for my final-year project. And I've done real work with them: during my project I built a fee-tracking system for around 400 student records, which reduced the college office's monthly checking from two days to about an hour. They still use it.*
 >
@@ -305,7 +305,7 @@ Now the same job, written properly:
 
 *(A very persistent Indian convention.)*
 
-| ❌ Old objective | ✅ Modern summary |
+| ⚠️ Old objective | ✅ Modern summary |
 |---|---|
 | *"To secure a challenging position in a reputed organisation where I can utilise my knowledge and skills for the mutual growth of the organisation and myself."* ⚠️ | *"Accounts professional with 8 years in receivables. Strongest in process improvement — cut month-end closing from 5 days to 2."* ⭐ |
 
@@ -333,7 +333,7 @@ Now the same job, written properly:
 
 *(Firmly.)* ⭐ **Never write "basic knowledge."** ✅ List the **specific functions** you can use. ✅
 
-### Trap 5: Grammar and format errors that get resumes rejected ⚠️
+### Trap 5: Grammar slips and format habits that get resumes rejected ⚠️
 
 *(A practical checklist.)*
 

@@ -18,7 +18,7 @@ And you want to say **ഞാൻ വരും എന്ന് തോന്നു�
 
 *(Stop. Look at camera.)*
 
-The problem is in the first two words. *"May be"* written as **two** words is a helper + verb — a completely different thing from the one-word comment **maybe**. And once you've written *may be*, you now have **two helpers** fighting: *may* and *will*. English never allows two helpers like that side by side.
+The problem is in the first two words. *"May be"* written as **two** words is a helper + verb — a completely different thing from the one-word comment **maybe**. And once you've written *may*, you can't add *will* after it: English does not allow **two modal helpers** *(may, might, will, can, could, should, must)* side by side in the same verb group.
 
 The natural sentences are:
 > ✅ **"I might come."**
@@ -48,10 +48,10 @@ Think of a **percentage dial** for "maybe."
 
 So don't stress about 50% vs 30%. Instead, learn these **two solid, practical differences** — these actually matter:
 
-### Difference 1: *May* also means PERMISSION. *Might* never does.
+### Difference 1: For PERMISSION, *may* is the normal choice.
 
 - ✅ *May I come in?* = asking permission ← formal, polite
-- ⚠️ *Might I come in?* ← this is real English, but very formal and old-fashioned 😄
+- ⚠️ *Might I come in?* ← also real English, but **markedly** formal and old-fashioned 😄
 
 **So: for permission, use MAY.** *May I...?* is the formal, respectful way to ask.
 
@@ -82,10 +82,11 @@ If you remember nothing else: when you're unsure about something, say **might**.
 
 Your brain: ❌ *"May be today rain will come."*
 
-Let's take that apart. Three problems:
-1. *may be* (two words) → should be **maybe** (one word) or restructured
+Let's take that apart. Two problems:
+1. *may be* (two words) → here you need **maybe** (one word), or a restructured sentence
 2. *rain will come* → English says **it will rain** *(rain is a verb!)*
-3. *maybe* + *will* → double uncertainty marker
+
+*(Important — don't over-correct!)* ✅ **maybe + will is perfectly fine.** *"Maybe it will rain"* is natural, correct English — *maybe* comments on the whole sentence, and *will* makes the prediction. The problem in the original is the **two-word *may be* plus *will***, not the word *maybe* itself. ⭐
 
 Now, two correct ways to build it.
 
@@ -121,7 +122,7 @@ Now, two correct ways to build it.
 - ✅ *He **may be** at home.* = perhaps he is at home ← two words, helper + be
 - ✅ **Maybe** he is at home. = same meaning ← one word, comment
 
-Both correct! But ❌ *"May be I will come"* is wrong because you used the two-word helper version **and then** added *will*. You can't have two helpers fighting.
+Both correct! But ❌ *"May be I will come"* is wrong because you used the two-word helper version **and then** added *will* — two modals in a row.
 
 ### Sentence 2 — built piece by piece
 
@@ -191,7 +192,9 @@ English can't copy that shape **directly**, because *may* and *will* are both he
 | ഒരുപക്ഷേ അവൻ വരില്ല | May be he will not come | **He might not come.** |
 | ഒരുപക്ഷേ ശരിയാകും | May be it will be correct | **It might work.** |
 
-**Rule: one helper per verb group.** ❌ *may will* is impossible. ✅ Use **might/may** alone, or the one-word comment **maybe** with *will*.
+**Rule: only one modal per verb group.** ❌ *may will* is impossible. ✅ Use **might/may** alone, or the one-word comment **maybe** with *will*.
+
+*(Precision — so you're not misled later.)* ⚠️ This limit applies to **modals only**. Other helpers stack quite happily: ✅ *He **may have been** waiting.* ✅ *It **will have been** finished.* ⭐ One modal, then as many of *have/be* as the meaning needs. ✅
 
 *(Very important — don't get this backwards!)* ⭐ **"Maybe I'll come" is 100% correct.** ✅ The word *maybe* is not a helper, so it sits happily with *will*. ✅ What breaks is only ❌ *may* + *will* — two helpers. ⭐
 
@@ -203,7 +206,7 @@ Malayalam **ഇല്ല / പറ്റില്ല** covers a lot of ground, so
 - ✅ *You **may not** enter.* = you are **not allowed** *(permission refused!)*
 - ✅ *He **can't** come.* = it's impossible for him *(no ability)*
 
-*(Warning.)* This is a real danger. **"You may not"** is a **prohibition**, not a maybe! If you say ❌ *"He may not come"* meaning "perhaps he won't," a formal listener might hear *"he is forbidden to come."*
+*(Warning.)* This is a real danger. **"You may not"** is a **prohibition**, not a maybe! If you say ⚠️ *"He may not come"* meaning "perhaps he won't," a formal listener might hear *"he is forbidden to come."*
 
 **Safe practice: for uncertainty, always use MIGHT NOT.** Leave *may not* for rules and prohibitions.
 
@@ -242,7 +245,7 @@ Answers in the comments. I reply to every one.
 **Question 2:** Fix these three:
 1. *"May be I will join tomorrow."*
 2. *"He might busy now."*
-3. *"Might I come in, sir?"*
+3. *"Might I come in, sir?"* ⚠️ *(careful — this one is already correct. What would you say instead, and why?)*
 
 *(Encouraging close.)*
 

@@ -271,7 +271,7 @@ Build it:
 
 *(Explain.)* Malayalam has **-കൾ / -ങ്ങൾ** and applies it generously:
 
-| Malayalam | ❌ Direct | ✅ English |
+| Malayalam | ⚠️ Direct | ✅ English |
 |---|---|---|
 | വിവരങ്ങൾ | informations | **information** |
 | ഉപദേശങ്ങൾ | advices | **advice** |
@@ -351,7 +351,7 @@ Build it:
 
 *(Fun and practical.)*
 
-| ❌ Common in India | ✅ International |
+| ⚠️ Common in India | ✅ International |
 |---|---|
 | softwares | **software** |
 | staffs | **staff / staff members** ⭐ |

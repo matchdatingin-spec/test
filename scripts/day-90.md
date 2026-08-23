@@ -342,7 +342,7 @@ Today: the structure, the register, and how to decide what to cut. Let's go. �
 
 *(Explain.)* Case notes are written in **abbreviated** style. Letters must be in **full sentences**. ✅
 
-| ❌ Copied note style | ✅ Letter style |
+| ⚠️ Copied note style | ✅ Letter style |
 |---|---|
 | *Pt c/o pain* ⚠️ | **The patient complained of pain** ✅ |
 | *Wound 4×3 cm, R shin, daily dressing* ⚠️ | **The wound, measuring 4 cm × 3 cm on the right shin, requires daily dressing** ⭐ |
@@ -361,7 +361,7 @@ Today: the structure, the register, and how to decide what to cut. Let's go. �
 
 *(Explain.)* The reader is a **fellow professional** ✅ — so the tone is **collegial**, not deferential and not casual. ✅
 
-| ❌ Too formal/old 📜 | ❌ Too casual | ✅ Right |
+| ⚠️ Too formal/old 📜 | ⚠️ Too casual | ✅ Right |
 |---|---|---|
 | *I humbly request your kind assistance* ⚠️ | *Can you check her wound?* ⚠️ | **I would be grateful if you could review her wound** ⭐ |
 | *Kindly do the needful* 📜 🔗 | *Please sort it out* ⚠️ | **I would appreciate it if you could arrange daily dressing** ⭐ |
@@ -374,7 +374,7 @@ Today: the structure, the register, and how to decide what to cut. Let's go. �
 
 *(A Purpose error.)*
 
-| ❌ Vague | ✅ Specific |
+| ⚠️ Vague | ✅ Specific |
 |---|---|
 | *Please take care of the patient* ⚠️ | **Please arrange daily wound dressing for ten days** ⭐ |
 | *Kindly follow up* ⚠️ | **Please review her mobility and assess her ability to manage stairs** ⭐ |
@@ -382,7 +382,7 @@ Today: the structure, the register, and how to decide what to cut. Let's go. �
 
 *(Firmly.)* ⭐ **Name the task. Give the duration. Be specific.** ✅
 
-### Trap 5: Language errors that recur ⚠️
+### Trap 5: Language to fix ⚠️ *(some are errors, some are register)*
 
 *(Practical checklist.)*
 

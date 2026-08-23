@@ -64,7 +64,7 @@ School taught you that **big words sound educated**. In real English, the opposi
 
 *(The Malayalam-influence one.)*
 
-| ❌ Extra word | ✅ Natural |
+| ⚠️ Extra word | ✅ Natural |
 |---|---|
 | discuss **about** | discuss |
 | return **back** | return |
@@ -79,7 +79,7 @@ School taught you that **big words sound educated**. In real English, the opposi
 
 *(The opposite problem!)*
 
-| ❌ Missing | ✅ Natural |
+| ⚠️ Missing or not needed | ✅ Natural |
 |---|---|
 | I'm going home *(fine!)* ✅ | ✅ |
 | Explain me | explain **to** me |
@@ -278,7 +278,7 @@ Your brain builds: ❌ *"Kindly send me the same file. I require it today itself
 
 Malayalam questions often carry an explicit alternative: **വരുന്നുണ്ടോ ഇല്ലയോ?**
 
-| ❌ | ✅ |
+| ⚠️ Sounds impatient | ✅ Neutral |
 |---|---|
 | Are you coming or not? | **Are you coming?** |
 | Is it correct or not? | **Is it correct?** |
@@ -315,7 +315,7 @@ But in English, **too much formality creates distance**. It can accidentally sig
 
 *(Show the difference.)*
 
-| Situation | ❌ Over-formal | ✅ Warm-professional |
+| Situation | ⚠️ Over-formal | ✅ Warm-professional |
 |---|---|---|
 | Email to a colleague | *Respected Sir, I humbly request...* | **Hi Ravi, could you...** ⭐ |
 | Thanking your boss | *I am extremely grateful for your kindness* | **Thanks a lot — I really appreciate it** ⭐ |

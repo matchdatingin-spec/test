@@ -28,7 +28,7 @@ Read these three sentences. They look almost the same:
 
 Now here's the Malayali problem. You want to say **ഞാൻ പഴയകാലത്ത് സിഗരറ്റ് വലിച്ചിരുന്നു** — I smoked in the past, not now.
 
-And you say: ❌ *"I am used to smoke."*
+And you say: ⚠️ *"I am used to smoke."*
 
 *(Wince.)* That sentence is broken. Three things wrong with it.
 
@@ -113,7 +113,7 @@ Build it:
 
 *(The three common errors — show each.)*
 
-| ❌ Wrong | Why it's wrong |
+| ⚠️ Wrong for this meaning | Why |
 |---|---|
 | *I am used to smoke.* | "am" changed the meaning + needs -ing |
 | *I used to smoking.* | after *used to*, verb must be PLAIN |
@@ -234,7 +234,7 @@ Same old Malayalam habit — no separate "be" verb:
 
 - ❌ *I used to this weather* → ✅ **I'm used to this weather.**
 - ❌ *He not used to spicy food* → ✅ **He isn't used to spicy food.**
-- ❌ *Are you used to it?* ✅ *(this one's correct!)*
+- ✅ *Are you used to it?* ✅ *(this one's already correct!)*
 
 *(Reminder.)* If your meaning is "comfortable," you **must** have am/is/are/was/were. No "be" = no comfort meaning.
 
@@ -251,7 +251,7 @@ Same old Malayalam habit — no separate "be" verb:
 
 So:
 - ✅ *I used to live in Kochi.* ✅
-- ❌ *I would live in Kochi.* ← wrong! *live* is a state, not an action
+- ⚠️ *I would live in Kochi.* ← wrong! *live* is a state, not an action
 
 *(Simple advice.)* Stick with **used to**. Use **would** only when telling a story about the past — it sounds beautiful and literary there.
 
@@ -272,7 +272,7 @@ Comment your answers — I reply to every one!
 
 *(Warm close.)*
 
-Number 3 is one letter away from being correct. Find the missing three letters and comment your answer! 🔍
+Number 3 is three letters away from being correct. Find the missing three letters and comment your answer! 🔍
 
 Tomorrow, Day 17 — **should have, could have, would have.** The "regret" trio. **ഞാൻ അത് ചെയ്യേണ്ടിയിരുന്നു** — how do you say that in English? These three patterns let you talk about the past you wish had been different. Very powerful, and very easy once you see the shape.
 

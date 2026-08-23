@@ -87,7 +87,7 @@ As a **describing** word, *other* is followed by a **noun** (or the word *one*).
 
 *(Big red X on screen.)*
 
-| ❌ Never say | ✅ Say instead |
+| ⚠️ Avoid | ✅ Say instead |
 |---|---|
 | the another | **the other** |
 | another ones | **other ones** / **another one** |
@@ -266,7 +266,7 @@ So:
 
 And the common Malayali error:
 - ❌ *We are helping to each other* → ✅ **We help each other.** *(no "to"!)*
-- ❌ *They talked with each other... ✅ actually fine!* ✅
+- ✅ *They talked with each other.* ✅ *(also: talked **to** each other — both correct)*
 
 ---
 

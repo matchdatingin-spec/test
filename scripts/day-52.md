@@ -2,7 +2,7 @@
 
 **Target length:** 13–15 minutes
 **Level:** A2 / B1
-**One-line promise:** Malayalam has no separate "be" verb. That single gap causes dozens of errors — and today we close it at the root.
+**One-line promise:** Malayalam has no *standalone* "be" word — it's built into the ending. That single difference causes dozens of errors, and today we close it at the root.
 
 ---
 
@@ -24,12 +24,14 @@ Five sentences. **Five different errors.** But they all come from **one** source
 
 *(Pause.)*
 
-**Malayalam has no separate word for "am / is / are."** ✅
+**Malayalam has no *separate, standalone* word for "am / is / are."** ✅
+
+*(Be precise — this matters.)* ⚠️ Malayalam absolutely **has** a linking element: **ആണ്**. ✅ The difference is that it **attaches to the end of the word** instead of standing alone as its own word the way English *is* does. ⭐
 
 *(Explain quickly.)* Look:
 - **ഞാൻ ക്ഷീണിതനാണ്** → the **ആണ്** is **glued onto** the word
 - **അവൻ നല്ലവനാണ്** → glued again
-- **ഞാൻ ജോലി ചെയ്യുന്നു** → **no "be" word at all!**
+- **ഞാൻ ജോലി ചെയ്യുന്നു** → here there's **no "be" element at all!**
 
 *(Emphasise.)* So your brain has **no slot** for a standalone *be* verb. Sometimes you **drop** it. Sometimes you **add** it where it doesn't belong. ✅
 

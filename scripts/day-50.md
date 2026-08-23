@@ -16,9 +16,13 @@
 
 Malayalis do one of two things with *had*. Either you **never** use it:
 
-> ❌ *"When I reached the station, the train left."* 🚂
+> ⚠️ *"When I reached the station, the train left."* 🚂
 
-*(Confused face.)* Wait — did the train leave **as** you arrived? Or **before**? The listener genuinely can't tell! 🤔
+*(Be fair — this is important.)* ✅ That sentence is **not** broken grammar. It's correct English. But read what it actually says: the train left **at the moment you arrived** — you watched it pull away. 👀
+
+*(Confused face.)* And that's probably **not** what you meant! You meant it had **already gone** before you got there. 🤔
+
+*(Point at camera.)* So this isn't an error to be ashamed of — it's a **meaning** problem. The sentence is fine; it's just telling a different story than the one in your head. ⭐
 
 Or you use it **everywhere**, because it sounds advanced:
 
@@ -62,7 +66,7 @@ PAST ────── ① ────── ② ────── NOW
 
 > **Does "before that" fit — are you looking back from a PAST moment?** → **had** fits ✅
 
-- ✅ *When I reached, the train had **already** left.* ✅
+- ✅ *When I arrived, the train had **already** left.* ✅
 - ✅ *I had **already** eaten, so I wasn't hungry.* ✅
 - ✅ *She had finished the work **before** I arrived.* ✅
 
@@ -133,7 +137,7 @@ Build it:
 
 *(Highlight "By the time...")* ⭐ **"By the time"** is a beautiful signal phrase for past perfect:
 - ✅ *By the time I arrived, everyone had left.* ✅
-- ✅ *By the time we reached, the movie had started.* ✅
+- ✅ *By the time we got there, the movie had started.* ✅
 
 *(Rule.)* **"By the time" + simple past ... + had + V3** ✅
 
@@ -214,9 +218,9 @@ Build it:
 
 *(The first failure mode.)*
 
-| ❌ Unclear | ✅ Clear |
+| ⚠️ Unclear | ✅ Clear |
 |---|---|
-| When I reached, the train left | **When I reached, the train had left.** |
+| When I reached the station, the train left | **When I reached the station, the train had left.** |
 | I came home, my brother went out | **When I came home, my brother had gone out.** |
 | I called him, he slept | **When I called him, he had already gone to sleep.** |
 
@@ -228,7 +232,7 @@ Build it:
 
 *(The second failure mode — more common than you'd think.)*
 
-| ❌ Over-used | ✅ Correct |
+| ⚠️ Over-used | ✅ Correct |
 |---|---|
 | Yesterday I had gone to the market | **Yesterday I went to the market.** |
 | Last year I had visited Delhi | **Last year I visited Delhi.** |
@@ -254,7 +258,7 @@ Build it:
 
 *(A subtle version of Trap 2.)*
 
-- ❌ *I had joined the company in 2020.* ❌ *(one event, date given)*
+- ⚠️ *I had joined the company in 2020.* *(needs a later past moment nearby — on its own, use the simple past)*
 - ✅ **I joined the company in 2020.** ✅
 - ✅ *I **had** joined the company in 2020, so by 2022 I **was** already a team lead.* ✅ *(now there's a second event!)* ⭐
 
@@ -282,7 +286,7 @@ Build it:
 - *I'**d** gone.* → *had* ✅ *(followed by V3)*
 - *I'**d** go.* → *would* ✅ *(followed by plain verb)*
 
-*(Test.)* **'d + V3 = had.** **'d + plain verb = would.** ✅
+*(Test.)* **'d + V3 = had.** **'d + plain verb = would.** ✅ *(One exception: ✅ "I**'d** better go" — that 'd is *had*.)*
 
 ### The realistic rule for speaking
 

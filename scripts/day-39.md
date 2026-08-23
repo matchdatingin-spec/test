@@ -132,7 +132,7 @@ Find the main action: **ജോലി ചെയ്യുന്നു → works** 
 **🌿 Layer 1 — Add description**
 > ✅ *"My **younger** brother works."*
 
-*(Note.)* ❌ Not *"my small brother"* — say **younger brother** ✅ *(or just "my brother")*
+*(Note.)* ⚠️ Not *"my small brother"* — say **younger brother** ✅ *(or just "my brother")*
 
 **🌿 Layer 2 — Add what he is / where**
 > ✅ *"My younger brother works **as a software engineer**."*
@@ -210,9 +210,9 @@ Find the main action: **ജോലി ചെയ്യുന്നു → works** 
 #### 4️⃣ **while / when / after / before** — adds time
 
 - ✅ ***While** I was waiting, I read the news.*
-- ✅ *I'll call you **after** I reach home.*
+- ✅ *I'll call you **after** I get home.*
 
-*(Remember Day 26!)* After time words → **present tense** for future. ✅ *"after I **reach**"*, not "will reach." 🔗
+*(Remember Day 26!)* After time words → **present tense** for future. ✅ *"after I **get** home"*, not "will get home." 🔗
 
 #### 5️⃣ **-ing phrases** — the elegant one ⭐
 
@@ -258,7 +258,7 @@ Instead of two sentences, start one with **-ing**:
 
 So one Malayalam sentence with **four different** connectors becomes English with **four "and"s**:
 
-❌ *"I went to the shop and I bought vegetables and I came home and I cooked."*
+⚠️ *"I went to the shop and I bought vegetables and I came home and I cooked."*
 
 *(The fix — use the RIGHT connector for each joint.)*
 
@@ -312,7 +312,7 @@ Short sentences? Your word order is fine now. But in **long** sentences, when me
 *(The truth.)* Professional English writing — business, journalism, even academic — has been getting **shorter** for fifty years. Clear beats complicated. ✅
 
 *(The real skill.)* Look at these two:
-- *"I have been working in this field for a considerable duration of time."* ❌ *(long and empty)*
+- *"I have been working in this field for a considerable duration of time."* ⚠️ *(long and empty)*
 - *"I've worked in this field for six years."* ⭐ *(short and specific)*
 
 *(Point out.)* The **second** one sounds more professional. Because **specific** beats **long**. ✅

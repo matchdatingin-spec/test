@@ -102,7 +102,7 @@ Reading is not learning. Your **mouth** must make the shape. Reading with your e
 | 10 | **Let's eat out today.** | ഇന്ന് പുറത്ത് കഴിക്കാം |
 | 11 | **Did you lock the door?** | വാതിൽ പൂട്ടിയോ? |
 | 12 | **I'll do the dishes.** | ഞാൻ പാത്രം കഴുകാം |
-| 13 | **Where did you keep my phone?** | എന്റെ ഫോൺ എവിടെ വച്ചു? |
+| 13 | **Where did you put my phone?** | എന്റെ ഫോൺ എവിടെ വച്ചു? |
 | 14 | **I'm going to bed.** | ഞാൻ കിടക്കാൻ പോകുന്നു |
 | 15 | **Sleep well!** | സുഖമായി ഉറങ്ങ് |
 
@@ -162,7 +162,7 @@ Reading is not learning. Your **mouth** must make the shape. Reading with your e
 | 52 | **Thanks for the update.** | |
 
 *(Highlight #33 and #50.)* Two big upgrades:
-- ❌ *"I will revert back"* → ✅ **"I'll get back to you."** ⭐
+- ⚠️ *"I will revert back"* → ✅ **"I'll get back to you."** ⭐
 - ❌ *"I am in leave"* → ✅ **"I'm off today."** / **"I'm on leave today."** ✅
 
 ---
@@ -185,7 +185,7 @@ Reading is not learning. Your **mouth** must make the shape. Reading with your e
 | 64 | **I'll message you the details.** | |
 | 65 | **Talk to you later!** | |
 
-*(Highlight #61.)* ❌ Not *"I saw your missed call"* → ✅ **"Sorry, I missed your call."** ✅
+*(Highlight #61.)* ⚠️ Not *"I saw your missed call"* → ✅ **"Sorry, I missed your call."** ✅
 
 ---
 
@@ -207,7 +207,7 @@ Reading is not learning. Your **mouth** must make the shape. Reading with your e
 | 77 | **Sorry I'm late — the traffic was terrible.** | |
 | 78 | **Let's get off here.** | not "get down" *(Day 18)* |
 
-*(Highlight #74.)* **"I'm on my way"** — the single most useful travel phrase in English. Not ❌ *"I am coming now."* ✅
+*(Highlight #74.)* **"I'm on my way"** — the single most useful travel phrase in English. Not ⚠️ *"I am coming now."* ✅
 
 ---
 
@@ -291,7 +291,7 @@ Many learners memorise *"How do you do?"* from an old textbook and use it at a t
 
 In Malayalam, politeness lives in the **verb ending** — തരാമോ, ചെയ്യാമോ, വരൂ. So when you translate, the politeness **disappears**, and you sound blunt without meaning to:
 
-| Malayalam | ❌ Direct | ✅ Polite English |
+| Malayalam | ⚠️ Direct | ✅ Polite English |
 |---|---|---|
 | ഇത് ചെയ്യൂ | Do this | **Could you do this, please?** |
 | വെള്ളം താ | Give water | **Could I get some water?** |
@@ -314,7 +314,7 @@ In Malayalam, politeness lives in the **verb ending** — തരാമോ, ച�
 
 *(The opposite problem!)* Some learners go too far the other way:
 
-| ❌ Too formal / old-fashioned | ✅ Natural |
+| ⚠️ Too formal / old-fashioned | ✅ Natural |
 |---|---|
 | Kindly do the needful | **Please take care of it** |
 | I am in receipt of your mail | **Thanks for your email** |

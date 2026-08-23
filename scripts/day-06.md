@@ -212,7 +212,7 @@ This is a brilliant Malayalam shortcut — take any English word, glue ചെയ
 
 - ❌ *I will do study* → ✅ **I will study.**
 - ⚠️ *I did try* → ✅ **I tried.** *(the original is correct only as emphasis — see below)*
-- ❌ *He did complete it* → ✅ **He completed it.**
+- ⚠️ *He did complete it* → neutral: **He completed it.** *(Both are correct — *did* adds emphasis or contrast.)*
 - ❌ *We did enjoy* → ✅ **We enjoyed it.**
 - ❌ *Don't do fight* → ✅ **Don't fight.**
 
@@ -226,7 +226,7 @@ This is a brilliant Malayalam shortcut — take any English word, glue ചെയ
 | Call ചെയ്തോ? | Did you do call? | **Did you call?** |
 | Rest ചെയ്യണം | I want to do rest | **I want to rest.** |
 | Book ചെയ്തു | I did book | **I booked it.** |
-| Wait ചെയ്യൂ | Do wait | **Please wait.** |
+| Wait ചെയ്യൂ | Do wait ⚠️ | **Please wait.** *("Do wait" is correct — it's warm insistence)* |
 
 ### One exception — the *emphasis* do
 

@@ -16,7 +16,7 @@ And you say:
 
 > ⚠️ *"I didn't eat yet."*
 > ❌ *"I not yet eaten."*
-> ❌ *"Still I didn't eat."*
+> ⚠️ *"Still I didn't eat."*
 
 *(Shake head, smiling.)* All three understood. All three wrong.
 
@@ -83,7 +83,9 @@ Used mostly in **negatives and questions**.
 *(Say the slogan.)*
 > **Already → middle. Still → middle. Yet → END.**
 
-**Yet** always goes to the back of the bus. Always. 🚌
+**In negatives and questions, *yet* goes to the back of the bus.** 🚌
+
+*(Two extras, so you're not confused later.)* ⚠️ More formally, *yet* can also sit right after the helper: ✅ *"He hasn't **yet** replied."* ✅ And *yet* has a second life as a linking word meaning *but*: ✅ *"It's small, **yet** powerful."* ⭐ For speaking, keep it at the end.
 
 ---
 
@@ -104,7 +106,7 @@ Your brain produces: ❌ *"I yet food not eaten."* Or the cleaner-but-not-ideal:
 Now build it the English way:
 
 1. **Who** → I
-2. **Helper + not** *(this is a "up to now" situation → present perfect)* → have not / haven't
+2. **Helper + not** *(this is an "up to now" situation → present perfect)* → have not / haven't
 3. **Third form of the verb** → eaten
 4. **Yet goes to the END** → yet
 
@@ -164,7 +166,7 @@ Build it:
 |---|---|---|
 | It's 11 AM, brother is in bed | **He's still sleeping!** | continuing, surprise |
 | You arrive at the cinema late | **The movie has already started.** | earlier than expected |
-| Waiting for a friend | **Has he reached yet?** | expecting, question |
+| Waiting for a friend | **Has he arrived yet?** | expecting, question |
 | Someone offers you tea | **No thanks, I've already had one.** | done earlier |
 | Job application, no reply | **They haven't called me yet.** | not up to now |
 
@@ -194,7 +196,7 @@ But with a **plain verb** (no helper), *still* goes **before the verb**:
 
 We say:
 > ❌ *"He didn't come still."*
-> ❌ *"Still he didn't call me."*
+> ⚠️ *"Still he didn't call me."*
 > ❌ *"Food is not ready still."*
 
 Why? Because **ഇപ്പോഴും** and **ഇതുവരെ** feel like the same idea in Malayalam, and both often land at the end of the clause.
@@ -206,7 +208,7 @@ The English versions:
 
 *(Rule to remember.)* **In negatives, English prefers YET at the end.** *Still* is possible, but it must move to the **front of the negative**:
 
-| ❌ Malayali English | ✅ Version A (yet) | ✅ Version B (still) |
+| ⚠️ Kerala English | ✅ Version A (yet) | ✅ Version B (still) |
 |---|---|---|
 | He didn't come still | He hasn't come **yet**. | He **still** hasn't come. |
 | I didn't get salary still | I haven't got my salary **yet**. | I **still** haven't got my salary. |
@@ -233,7 +235,7 @@ Malayalam puts time words early. So we say:
 **ഇന്ന് തന്നെ / ഇപ്പോൾ തന്നെ / അപ്പോൾ തന്നെ** → we translate തന്നെ as *itself*:
 
 - ❌ *I sent it yesterday itself* → ✅ **I sent it yesterday.** / **I already sent it yesterday.**
-- ❌ *He came morning itself* → ✅ **He came in the morning itself → He came as early as this morning.** / **He already came this morning.**
+- ❌ *He came morning itself* → ✅ **He came as early as this morning.** / **He already came this morning.**
 - ❌ *Now itself I'll do it* → ✅ **I'll do it right now.**
 
 *(Rule.)* When Malayalam uses **തന്നെ** for "as early as that," English uses **already** or restructures completely. **"Itself" is never a time word in English.**

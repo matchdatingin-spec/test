@@ -46,7 +46,7 @@ Each of these four words has a rule about the word that follows it. Learn the *s
 
 *Say* wants to know **what** was spoken. It does **not** want a person right after it.
 
-- ✅ *He said the truth.*
+- ✅ *He said something true.* *(For* truth *itself, English says* **tell**: ✅ *He **told** the truth.)*
 - ✅ *She said "hello".*
 - ✅ *He said that he is busy.*
 - ❌ *He said me...* ← **never** a person directly after *say*
@@ -58,7 +58,9 @@ If you must mention the person, you need the word **to**:
 
 ### 2️⃣ TELL → focuses on the PERSON
 
-*Tell* is the opposite. *Tell* is hungry for a person. It needs one immediately.
+*Tell* is the opposite. *Tell* is hungry for a person, and normally wants one right after it.
+
+*(One important exception, so you're not caught out.)* ⚠️ A few fixed objects follow *tell* with **no** person at all: ✅ *tell **the truth***, *tell **a lie***, *tell **a story***, *tell **the time***, *tell **the difference***. ⭐ Learn those as chunks.
 
 - ✅ *He told **me** the truth.*
 - ✅ *Tell **him** to wait.*
@@ -123,7 +125,9 @@ Build in English order — **Who → Verb → Person → Message:**
 
 And if you really want to use *say*, you must add **to** and push the person to the back:
 
-> ✅ **"He said the truth to me."** *(grammatically fine, but nobody talks like this — use tell)*
+> ⚠️ **"He said the truth to me."** *(the shape is legal, but *say the truth* is not idiomatic — English says **tell the truth**)*
+>
+> ✅ **"He told me the truth."** ⭐
 
 *(Key insight.)* Notice the Malayalam marker **-ഓട്** (എന്നോട്, അവനോട്, അവളോട്). Whenever you see **-ഓട്** in your Malayalam sentence, a **person** is involved. And person = **TELL**.
 
@@ -208,7 +212,7 @@ Malayalis also stretch *say* over jobs that belong to **ask**:
 
 - ❌ *He said me a question* → ✅ **He asked me a question.**
 - ❌ *Say me the time* → ✅ **Could you tell me the time?**
-- ❌ *He said to come tomorrow* → ✅ **He asked me to come tomorrow.** / **He told me to come tomorrow.**
+- ⚠️ *He said to come tomorrow* → ✅ **He asked me to come tomorrow.** / **He told me to come tomorrow.**
 
 **Remember:** requests and questions = **ask**. Information = **tell**. Words = **say**.
 

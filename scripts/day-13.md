@@ -44,7 +44,7 @@ Same as yesterday's *bring/take* — it's all about **direction**. But this time
 - ✅ *I borrowed ₹500 from my brother.* → money came to me
 - ✅ *She borrowed a book from the library.* → book came to her
 
-**BORROW = take. The source takes FROM.**
+**BORROW = the subject RECEIVES. The person who supplies it is marked with FROM.**
 
 *(Note.)* ✅ You can also drop the source completely when it's obvious: ✅ *Can I borrow a pen?* ⭐
 
@@ -56,16 +56,25 @@ Same as yesterday's *bring/take* — it's all about **direction**. But this time
 - ✅ *I lent him ₹500.* → money left me
 - ✅ *The bank lends money.* → money leaves the bank
 
-**LEND = give. The receiver takes TO (or sits right after the verb).**
+**LEND = the subject SUPPLIES. The receiver goes right after the verb, or after TO.**
 
 *(Note.)* ✅ The receiver can be left out too: ✅ *Banks lend money.* ⭐
 
 ### The 2-second test
 
-> **"At the end of this sentence, WHO has the object?"**
+*(This is the whole lesson. Get this one question right and you can never mix them up.)*
 
-- **I** have it → **borrow**
-- **They** have it → **lend**
+> **"Look at the SUBJECT of the sentence. Is that person GIVING or RECEIVING?"**
+
+- The subject **receives** → **borrow**
+- The subject **supplies** → **lend**
+
+*(Point at camera — this is the trap.)* ⚠️ Do **not** ask "who ends up with the object?" That question gives you the wrong answer! Look:
+
+- ✅ *Could you **lend** me your pen?* → I end up with the pen... but the **subject is *you***, and *you* are the one **giving**. So: **lend**. ✅
+- ✅ *Could I **borrow** your pen?* → I still end up with the pen — but now the **subject is *I***, and *I* am **receiving**. So: **borrow**. ✅
+
+*(Emphasise.)* ⭐ **Same pen, same direction — different subject, different verb.** ✅ It's never about who holds it at the end. It's about **the job the subject is doing.** ⭐
 
 ### The magic word pair
 
@@ -77,7 +86,11 @@ Same as yesterday's *bring/take* — it's all about **direction**. But this time
 - ✅ *I borrowed it **from** him.*
 - ✅ *I lent it **to** him.*
 
-If you can just remember **borrow-from** and **lend-to**, you will never say *"borrow me"* again. Because *"borrow me"* has no **from** — it's broken.
+If you can just remember **borrow-from** and **lend-to**, you will never say *"borrow me"* again.
+
+*(Why is "borrow me" broken? Be precise.)* ⚠️ Not because *from* is missing — ✅ *"Can I borrow a pen?"* has no *from* and is perfectly fine. It's broken because of **what follows the verb**: ✅ *borrow* takes **the thing** *(borrow a pen)*, so a person there makes no sense. ✅ *lend* is the verb that takes **a person + the thing** *(lend me a pen)*. ⭐
+
+*(Dialect note.)* Some English dialects do say *"borrow me a pen."* It exists — but it's regional, so keep *lend* for interviews, exams and writing. ✅
 
 *(Extra help.)* Notice: **borrow** and **from** both have the "o... o" sound of taking. **Lend** and **to**... okay, that one you just memorise. 😄 But *"lend me"* is a fixed phrase — practise it: **"Lend me your pen."**
 
@@ -161,12 +174,12 @@ Build it:
 |---|---|---|
 | You need a charger at work | **Can I borrow your charger for ten minutes?** | I take ⬅️ |
 | A friend needs money | **I lent him ₹2000 last week.** | I give ➡️ |
-| Explaining a bank loan | **I took a loan from the bank.** | *(loans use "take"!)* |
+| Explaining a bank loan | **I took out a loan from the bank.** | *(loans use "take out"!)* |
 | Returning something | **Thanks for lending me your notes.** | they gave ➡️ |
 | Library rule | **You can borrow up to three books.** | you take ⬅️ |
 
 *(Highlight row 3 — important exception.)* For **loans** from banks, English says **take a loan** or **get a loan**, not "borrow a loan":
-- ✅ *I took a home loan.*
+- ✅ *I took out a home loan.*
 - ✅ *I got a loan from SBI.*
 - ✅ *The bank lent me ₹10 lakhs.* *(bank gives = lend ✅)*
 
@@ -204,7 +217,7 @@ So your brain already tracks direction — it just tracks it **inside the verb**
 
 Because **തരുക/കൊടുക്കുക** are so flexible, we over-use **give**:
 
-- ❌ *Give me your pen for two days* → ✅ **Could you lend me your pen for two days?**
+- ⚠️ *Give me your pen for two days* → ✅ **Could you lend me your pen for two days?**
 - ❌ *He gave me money, I will return* → ✅ **He lent me some money.**
 
 *(Explain the difference clearly.)*
@@ -257,11 +270,11 @@ Comment your answers — I reply to every single one!
 **Question 1:** Translate — ഞാൻ അവന് 1000 രൂപ കടം കൊടുത്തു, പക്ഷേ അവൻ ഇതുവരെ തിരിച്ചു തന്നിട്ടില്ല.
 *(Hint: "I gave a loan" → which verb? And "returned to me" → which verb?)*
 
-**Question 2:** Fix these four:
+**Question 2:** Three are wrong. The fourth is grammatical — rewrite it so the **promise to return** is explicit:
 1. *"Can you borrow me ₹100?"*
 2. *"I borrowed him my umbrella."*
 3. *"He lent money from the bank."*
-4. *"Give me your notes for one day."*
+4. *"Give me your notes for one day."* ⚠️
 
 *(Warm close.)*
 

@@ -302,7 +302,7 @@ Do you know your **market value** and can you have a **professional** conversati
 
 *(A very Malayali pattern.)*
 
-| ❌ Apologetic | ✅ Professional |
+| ⚠️ Apologetic | ✅ Professional |
 |---|---|
 | *Sorry sir, actually if possible, maybe slightly more...* | **Is there any flexibility on the figure?** ⭐ |
 | *I know I'm asking too much but...* | **Based on my experience, I was expecting closer to ₹X.** ⭐ |

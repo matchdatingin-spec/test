@@ -275,13 +275,13 @@ Your brain: *"I don't agree with your opinion."*
 | ❌ | ✅ |
 |---|---|
 | Very much thanks | **Thanks a lot** / **Thank you very much** |
-| I very much like it | **I really like it** / **I like it a lot** |
+| I very much like it *(correct, but formal)* | **I really like it** / **I like it a lot** |
 | He is very much good | **He's very good** |
 | Very much people came | **A lot of people came** |
 | I am very much interested | **I'm really interested** ⭐ |
 
 *(Rule — say clearly.)*
-- **"very much"** goes at the **END**, and only with **verbs**: *I miss you very much.* ✅
+- **"very much"** usually goes **after the verb or at the end**: *I miss you very much.* ✅ *(In formal style it can also come before the verb: ✅ "I **very much** doubt it.")* ⭐ What it does **not** do is modify an ordinary adjective — use plain *very* there.
 - **"very"** goes **before adjectives**: *very good* ✅
 - **"really"** works in **both** places — so when in doubt, use **really**! ⭐
 
@@ -311,7 +311,7 @@ Your brain: *"I don't agree with your opinion."*
 
 Malayalam is **direct** — and that's not rudeness, it's **efficiency**. But translated straight into English, directness becomes coldness:
 
-| Malayalam | ❌ Blunt English | ✅ Natural English |
+| Malayalam | ⚠️ Blunt English | ✅ Natural English |
 |---|---|---|
 | ഇത് ശരിയല്ല | This is wrong | **I think there might be an issue here.** |
 | എനിക്ക് ഇഷ്ടമല്ല | I don't like it | **It's not really my thing.** |
@@ -359,7 +359,7 @@ Malayalam is **direct** — and that's not rudeness, it's **efficiency**. But tr
 
 **Question 2 — the softening test.** Your friend invites you to a wedding but you can't go. Write **two** ways to refuse politely in English.
 
-*(Say why this matters.)* Because ❌ *"I will not come"* — grammatically perfect — can genuinely hurt someone's feelings. Softening is not decoration. It's **kindness**. 💙
+*(Say why this matters.)* Because ⚠️ *"I will not come"* — grammatically perfect — can genuinely hurt someone's feelings. Softening is not decoration. It's **kindness**. 💙
 
 *(Warm close.)*
 

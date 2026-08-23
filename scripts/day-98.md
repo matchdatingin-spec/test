@@ -218,7 +218,7 @@ Yesterday I told you the **why**. ✅
 |---|---|
 | 9 | **Day 89** — Task 1: three charts, timed 📊 |
 | 10 | **Day 88** — Task 2: three essays, timed ✍️ |
-| 11 | **Day 93** — self-audit with the 19-point checklist 🔍 |
+| 11 | **Day 93** — self-audit with the 17-point checklist 🔍 |
 | 12 | full mock test, both tasks, 60 minutes ⏰ |
 
 **Real use:** book the test. ⭐ A booked date changes your practice quality. ✅

@@ -101,7 +101,7 @@ If you left a job after eight months, chronological order **spotlights** it. ✅
 
 *(Emphasise.)*
 
-> ### 👉 Every claim needs a **number**. ✅
+> ### 👉 Make your claims **measurable** wherever you truly can. ✅
 
 *(Show the transformation.)*
 | ⚠️ Vague | ⭐ With numbers |
@@ -112,9 +112,13 @@ If you left a job after eight months, chronological order **spotlights** it. ✅
 | I trained new staff | **I trained 12 new joiners over two years** ⭐ |
 | I handled customers | **I handled around 40 support calls a day** ⭐ |
 
-*(Firmly.)* ⭐ Before your interview, **sit down and find your numbers.** ✅ How many clients, how many people, how much time saved, what percentage. ✅
+*(Firmly.)* ⭐ Before your interview, **sit down and find your real numbers.** ✅ How many clients, how many people, how much time saved, what percentage. ✅ Dig through your old emails, reports and appraisals — the figures are usually there.
 
-*(Emphasise.)* Even **approximate** numbers work — *"about,"* *"roughly,"* *"around"* ✅ Nobody will audit you. ✅
+*(Emphasise — and this matters.)* ⚠️ **Only ever say a number you could defend.** ✅ Approximate language is completely fine when you're genuinely estimating — *"about,"* *"roughly,"* *"around"* ✅ — but the estimate must be **honest**.
+
+*(Serious for a moment.)* ⛔ Never invent a figure to sound impressive. A good interviewer will ask *"How did you measure that?"* or *"Walk me through it"* — and an invented number **collapses on the second question.** ✅ Reference checks and probation reviews find these things. ⭐
+
+*(Reassuring.)* And if you honestly don't have a number? **Say the scope instead.** ✅ *"I was the only person handling billing for the branch"* is strong, specific and completely safe. ✅
 
 *(Slogan.)*
 > **Themes, not timeline. Numbers, not adjectives.** 📊 ✅
@@ -271,7 +275,7 @@ If it emphasises **client handling** → tell a difficult-client story ✅
 
 *(Explain.)* They **will** ask why you're leaving. ✅ And Malayali candidates often answer with **honest** reasons that damage them: ✅
 
-| ❌ Honest but damaging | ✅ Professional |
+| ⚠️ Honest but damaging | ✅ Professional |
 |---|---|
 | *There's no increment* | **I'm looking for a role with a clearer growth path** ⭐ |
 | *My manager is difficult* | **I'm looking for a different working style — more collaborative** ✅ |

@@ -110,7 +110,7 @@ Because English looks at the **noun right after them**, and that noun is **singu
 
 So your brain says: many → ❌ *"Every students are wearing uniform."*
 
-*(Two errors.)* Wrong plural, wrong verb.
+*(Three errors.)* Wrong plural, wrong verb, missing article.
 
 Build it *(using EVERY — a rule)*:
 
@@ -132,8 +132,8 @@ Now the same idea with **ALL**:
 | **Every student must wear a uniform.** | singular noun, singular verb |
 | **All students must wear a uniform.** | plural noun, plural verb |
 | **All the students must wear uniforms.** | with "the" = a specific group |
-| ❌ Every students... | never! *every* + plural is impossible |
-| ❌ All student... | never! *all* + singular countable is impossible |
+| ❌ Every students... | *every* + plural noun doesn't work *(one exception: intervals — *every two hours*)* |
+| ❌ All student... | *all* + an ordinary singular countable doesn't work *(time nouns are fine: *all day*)* |
 
 *(Rule.)* **Every takes ONE countable thing. All takes a plural — or an uncountable amount** *(all the rice, all day)*. ✅ That's why they don't swap.
 
@@ -187,7 +187,7 @@ Build it:
 - ✅ *every two hours* ← "every" + number = repeated interval ✅
 - ✅ *every other day* = alternate days ✅
 
-*(Careful!)* ❌ *"all days"* → ✅ **"every day."** ❌ *"all mornings"* → ✅ **"every morning."** ✅
+*(Careful!)* ⚠️ *"all days"* → ✅ **"every day."** ⚠️ *"all mornings"* → ✅ **"every morning."** ✅
 
 *(Highlight row 5.)* **"All" with uncountable nouns** takes singular:
 - ✅ *All the rice **is** finished.* ← rice is uncountable ✅

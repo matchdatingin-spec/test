@@ -147,7 +147,7 @@ Build it:
 
 *(Highlight the last one.)* ⚠️ **നമുക്ക് ...ആം** = **"Let's..."** ✅ Not "we will"!
 - ✅ *നമുക്ക് പോകാം* → **"Let's go."** ✅
-- ❌ *"We will go."* ❌ *(that's a plan, not a suggestion)*
+- ⚠️ *"We will go."* ⚠️ *(that's a plan, not a suggestion)*
 
 ### Sentence 2 — built piece by piece
 
@@ -240,7 +240,7 @@ Because **ചെയ്യും** is one form, Malayalis default to *will*:
 
 *(Explain the impression.)* Using *will* for a **booked** plan sounds oddly **uncertain** — like you haven't really committed. 🤔
 
-*(Emphasise.)* Say ✅ *"I'm meeting the client at 4"* ✅ and you sound **organised**. Say ❌ *"I will meet the client at 4"* ❌ and it sounds like you **just** thought of it. ✅
+*(Emphasise.)* Say ✅ *"I'm meeting the client at 4"* ✅ and you sound **organised**. Say ⚠️ *"I will meet the client at 4"* ⚠️ and it sounds like you **just** thought of it. ✅
 
 ### Trap 2: "Will" after time words
 
@@ -248,7 +248,7 @@ Because **ചെയ്യും** is one form, Malayalis default to *will*:
 
 | ❌ | ✅ |
 |---|---|
-| I'll call you when I **will** reach | **I'll call you when I reach.** |
+| I'll call you when I **will** get there | **I'll call you when I get there.** |
 | Wait until he **will** come | **Wait until he comes.** |
 | After I **will** finish, I'll leave | **After I finish, I'll leave.** |
 | As soon as she **will** arrive | **As soon as she arrives** |
@@ -271,7 +271,7 @@ Because **ചെയ്യും** is one form, Malayalis default to *will*:
 
 *(The Day 29 classic — worth repeating.)*
 
-- ❌ *"I will come now."* → sounds like you're **arriving** 🤔
+- ⚠️ *"I will come now."* → sounds like you're **arriving** 🤔
 - ✅ **"I'll be right back."** ⭐ = ഞാൻ ഇപ്പോൾ വരാം *(leaving briefly)*
 - ✅ **"I'm coming!"** ⭐ = ഞാൻ വരുന്നു *(on my way to you)*
 
@@ -327,7 +327,7 @@ Because **ചെയ്യും** is one form, Malayalis default to *will*:
 1. The phone's ringing! — *"I ___ get it."*
 2. Look at those clouds — *"It ___ rain."*
 3. I ___ meet my manager at 3. *(it's scheduled)*
-4. I'll call you when I ___ home. *(reach / will reach)*
+4. I'll call you when I ___ home. *(get / will get)*
 5. ___ I help you with that? *(Will / Shall)*
 
 *(Warm close.)*

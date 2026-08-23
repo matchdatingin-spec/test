@@ -12,7 +12,7 @@
 
 You walk into a shop. You want to know if they have batteries. And you say:
 
-> ❌ *"Do you have some batteries?"*
+> ⚠️ *"Do you have some batteries?"*
 
 Understandable. But native speakers say:
 
@@ -20,7 +20,7 @@ Understandable. But native speakers say:
 
 *(Then this one.)* Your friend asks if you want tea. You say:
 
-> ❌ *"Give me any tea."*
+> ⚠️ *"Give me any tea."*
 
 *(Laugh.)* "Any tea"? Now you sound like you don't care what you drink — hot, cold, sweet, salty, whatever! 😄
 
@@ -189,7 +189,7 @@ Build it:
 | **someone / somebody** | **anyone / anybody** |
 | **something** | **anything** |
 | **somewhere** | **anywhere** |
-| **sometimes** | **anytime** |
+| **sometime** | **anytime** |
 
 Same logic!
 - ✅ *There's **someone** at the door.* → I know someone is there ✅
@@ -261,12 +261,12 @@ Both correct! Pick one. Never both.
 
 *(Advanced note — for your ear, not your homework.)* ⭐ Native speakers **do** say *some* + singular when they mean **"a certain one I can't identify"**: ✅ *Some guy called you.* · *There's some problem with the server.* ✅ It's real, but it adds a vague/dismissive tone — so stick with **a/an** until it feels natural. ⭐
 
-*(Connect to Day 20.)* Remember: **a countable singular noun is never alone** — it needs *a, an, the, my...* not *some*. 🔗
+*(Connect to Day 20.)* Remember: in an ordinary sentence **a countable singular noun is hardly ever alone** — it needs *a, an, the, my...* not *some*. ✅ *(Fixed phrases like *go to school*, *by bus*, *in bed* are the exceptions.)* 🔗
 
 ### Trap 4: "Any" for "every"
 
 - ❌ *Any person has a mobile these days* → ✅ **Everyone has a mobile these days.**
-- ❌ *Any student must submit the form* → ✅ **Every student must submit the form.**
+- ⚠️ *Any student must submit the form* → ✅ **Every student must submit the form.**
 
 *(Difference.)*
 - **any** = one, your choice 🎲
